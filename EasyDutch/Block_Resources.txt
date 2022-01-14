@@ -187,7 +187,6 @@
 ||h2owaternetwerk.nl/images/*/*Banner*300x250px$image
 ||handbalstartpunt.nl/content/schoonkapje$image,1p
 ||handbalstartpunt.nl/images/banner_$image,1p
-||handbalstartpunt.nl/images/mizuno-small.jpg
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*.$image
 ||hoekschnieuws.nl/banner/
 ||hotdatingvlaanderen.be/banner$image
