@@ -114,7 +114,6 @@
 ||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
 ||dating.*.auroraobjects.eu/files/bans/*$image
 ||debestevpn.nl/wp-content/*-banner.
-||dekrantnieuws.nl/wp-content/uploads/*/deurbord-staand*.$image
 ||delichtzijde.nl/images/banners/*.$image,1p
 ||denachtvlinders.nl/wp-content/uploads/*/bol-*.gif$image
 ||denieuwepraktijk.nl/zoic/kaart-coronatestlocaties.svg$domain=groningerkrant.nl
