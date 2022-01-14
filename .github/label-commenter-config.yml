@@ -4,6 +4,9 @@ labels:
       issue:
         body: Thank you @{{ issue.user.login }} for suggesting this. Please follow the issue templates.
         action: close
+      pr:
+        body: Thank you @{{ pull_request.user.login }} for suggesting this. Please follow the pull request templates.
+        action: close
   - name: wontfix
     labeled:
       issue:
@@ -18,6 +21,9 @@ labels:
       issue:
         body: This issue already exists.
         action: close
+      pr:
+        body: This issue already exists.
+        action: close
   - name: unable to reproduce 
     labeled:
       issue:
@@ -26,3 +32,33 @@ labels:
     labeled:
       issue:
         body: It takes longer than expected to solve this issue. I'm working on it. Please be patience
+      pr: 
+        body: It takes longer than expected to solve this issue. I'm working on it. Please be patience
+  - name: spam
+    labeled:
+      issue:
+        body: |
+          This issue has been **LOCKED** because of spam!
+
+          Please do not spam messages and/or issues on the issue tracker. You may get blocked from this repository for doing so.
+        action: close
+        locking: lock
+        lock_reason: spam
+      pr:
+        body: |
+          This pull-request has been **LOCKED** because of spam!
+
+          Please do not spam messages and/or pull-requests on this project. You may get blocked from this repository for doing so.
+        action: close
+        locking: lock
+        lock_reason: spam
+  - name: off-topic
+    labeled:
+      issue:
+        body: |
+          This issue has been **LOCKED** because of off-topic conversations!
+
+          Please use our other means of communication for casual chats.
+        action: close
+        locking: lock
+        lock_reason: off-topic
