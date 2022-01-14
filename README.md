@@ -21,7 +21,7 @@ Adblock filters for Dutch websites made for [uBlock Origin](https://github.com/u
 | [View and Subscribe](#view-and-subscribe-to-easydutch) |
 | [Support](#support) |
 -----
-## [EasyDutch](https://github.com/BPower0036/AdBlockFilters/tree/main/EasyDutch)
+## [EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch)
 The updated version of EasyList Dutch special for uBlock Origin. 
 
 This filterlist has been made because the EasyList Dutch filter isn't maintained often. <br>
