@@ -5,6 +5,7 @@ biernet.nl##div[id^="banTop"]:has([class*="ad-wrapper"])
 dutchleader.nl##td[align="CENTER"]:has(td[background*="pics"]:has-text(/sponsor/i))
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
+forum.spaarinformatie.nl##table:has-text(/advert/i)
 ! 2022-01-13
 morningstar.*###ad_top_page
 asex.nl###adblk1
