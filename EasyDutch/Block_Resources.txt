@@ -7,6 +7,7 @@
 ||digitaalburg.com/rn02/wp-content/uploads/*/Vacature-
 ||digitaalburg.com/rn02/wp-content/uploads/*/verti*
 ||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
+||nexclic.com/pics/image*.gif$domain=dutchleader.nl
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*/RO*?zoom=*&w=665
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
