@@ -2,6 +2,7 @@
 biernet.nl###BJA2
 biernet.nl###BJA3
 biernet.nl##div[id^="banTop"]:has([class*="ad-wrapper"])
+dutchleader.nl##td[align="CENTER"]:has(td[background*="pics"]:has-text(/sponsor/i))
 ! 2022-01-13
 morningstar.*###ad_top_page
 asex.nl###adblk1
