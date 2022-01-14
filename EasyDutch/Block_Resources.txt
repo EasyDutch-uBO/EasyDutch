@@ -7,6 +7,9 @@
 ||digitaalburg.com/rn02/wp-content/uploads/*/Vacature-
 ||digitaalburg.com/rn02/wp-content/uploads/*/verti*
 ||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
+||wp.com/romagazine.nl/*/wp-content/uploads/*/*/RO*?zoom=*&w=665
+||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
+||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
 ! 2022-01-13
 .nl/adurl/$xhr,domain=start-player.npo.nl
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
@@ -461,9 +464,6 @@
 ||willem-ii.nl/banner/
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
 ||wp.com/gostreaming.nl/wp-content/uploads/*/*-sidebar-banner$image
-||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
-||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg*w=665$image
-||wp.com/romagazine.nl/*/wp-content/uploads/*/enschede.*w=665$image
 ||wp.com/www.appletips.nl/wp-content/uploads/amacdeals$image,domain=appletips.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/cnmx$image,domain=appletips.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/upgreatest1$image,domain=appletips.nl
