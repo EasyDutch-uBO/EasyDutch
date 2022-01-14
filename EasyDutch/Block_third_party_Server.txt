@@ -1,0 +1,115 @@
+! 2021-11-30
+! goodbye.be
+||travelads.be^$3p
+! 2021-11-20
+! tzum.info
+||t.bazarow.com^$3p
+! 2021-11-10
+! streamwijzer.be
+||affiliatable1.b-cdn.net^$3p
+! 2021-11-09
+! autotrack.nl
+||advertising-module.api.dpgmedia.cloud^$3p
+! 2021-11-06
+||adrequest.net^$3p
+! 2021-11-04 Taken out of Peter Lowe List
+||adhese.be^$badfilter
+||adpepper.nl^$badfilter
+||adpepper.nl^$3p
+||adscience.nl^$badfilter
+||adscience.nl^$3p
+||adworx.nl^$badfilter
+||adworx.nl^$3p
+||bannermarkt.nl^$badfilter
+||bannermarkt.nl^$3p
+||m4n.nl^$badfilter
+||m4n.nl^$3p
+||netdirect.nl^$badfilter
+||netdirect.nl^$3p
+||webads.nl^$badfilter
+||webcash.nl^$badfilter
+||webcash.nl^$3p
+! 2021-11-04
+! kanaalz.knack.be
+||adshim.com^$3p
+! 2021-10-23
+! nos.nl (https://nos.nl/op3/video/2399828-wie-bepaalt-welke-emoji-s-jij-kunt-gebruiken)
+||dntblckmpls.nl^$3p
+! 2021-10-16
+! backofficebureau.nl
+||adcalls.nl^$3p
+! 2021-09-18
+! dagelijksestandaard.nl
+||viadata.store^$3p
+! 2021-09-16
+! tpo.nl
+||affiliateprogramma.eu^$3p
+! 2021-09-13
+! rtvalbrandswaard.com
+||sponsorkliks.com^$3p
+! 2021-09-03
+! parool.nl
+||advertising-cdn.dpgmedia.cloud^$3p
+! https://github.com/easylist/easylistdutch/commit/b04939fcc2b0a2564a46143939a15f95b3b30985
+||widgets.skyscanner.net^$domain=puuropreis.nl
+! https://github.com/easylist/easylistdutch/commit/1dcc8ccbf4b1d5afeebdccbe224b332c99546b63
+! routenet.nl
+||botndm.nl^$3p
+||nextday.media^$3p
+! 2021-08-09
+||chainadvertising.eu^$3p
+! 2021-07-28
+||gratis-neuken.com^$3p
+! 2021-06-29
+||2k19.nl^$3p
+||2k21.nl^$3p
+||2k23.nl^$3p
+||2k24.nl^$3p
+||adconfigproxy.azurewebsites.net^$3p
+||adfactor.nl^$3p
+||adquick.nl^$3p
+||adulttradecenter.nl^$3p
+||affilaxy.com^$3p
+||affiliatepartners.com^$3p
+||asp.unitedconsumers.com^$3p
+||awin.com^$3p
+||bva-auctions.com^$domain=telegraaf.nl
+||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~extremesexmatch.nl|~instasex.nl
+||cd.tnet.nl^$script,3p
+||cleafs.nl^$3p
+||conversive.nl^$3p
+||csmcampagne.consumind.nl^$3p
+||daisycon.com^$3p
+||datingcash.eu^$3p
+||ds1.nl^$3p
+||dt51.net^$3p
+||dt61.net^$3p
+||dt71.net^$3p
+||elitedating.nl^$3p
+||euroclix.nl^$3p,domain=~panelclix.com|~panelclix.nl
+||extremecash.nl^$3p
+||hotlinkie.com^$3p
+||kimhollandpartners.nl^$3p
+||klikbonus.com^$3p
+||lauwebut.nl^$3p
+||lustcash.nl^$3p
+||maakmedia.nl^$3p
+||midhold.nl^$3p
+||mt67.net^$3p
+||nonstoppartner.net^$3p
+||online-banners.nl^$3p
+||partner.bol.com^$3p
+||partnerclicks.nl^$3p
+||partnerprogramma.bol.com^$3p
+||pexi.nl^$3p
+||pics.obedo.nl^$3p
+||radiocoupon.nl^$3p
+||schoorsteen.geenstijl.nl^$3p
+||sdcash.nl^$3p
+||static-dscn.net^$3p
+||teasemedia.nl^$3p
+||tradetracker.com^$3p
+||verkoopmenu.nl^$3p
+||views.affiliate4you.nl^$3p
+||vpscash.nl^$3p
+||xpartners.nl^$3p

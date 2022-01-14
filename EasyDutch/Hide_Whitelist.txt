@@ -1,0 +1,24 @@
+! Uitzonderingen voor EasyList
+! 2022-01-14
+japan-webike.*#@#.img_ad
+wereldklokken.nl#@#.adsbygoogle
+! 2022-01-07
+ajaxrss.nl#@#.top-ads-block
+bokt.nl#@#.ad-body
+bokt.nl#@#.node-ad 
+! 2021-11-17
+veeteelt.nl#@#.advertorial
+! 2021-11-06
+ajaxreport.nl,blockchainvandaag.com,casinoreport.nl,cryptobelegging.com,feyenoordreport.nl,formula1report.com,gamblingreport.nl,livestreamvandaag.be,onlinecasinorss.nl,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,vergelijkbookmakers.nl,voetbalsnafu.nl,voetbalvisie.com,voetbalweddenrss.nl#@#.top-ads-block
+! 2021-08-04
+focus-wtv.be#@#.sponsored-article
+! 2021-07-07
+directwonen.nl#@#.top-advert
+! 2021-06-04
+marktplaats.nl#@#.adSummary
+vakantieplaats.nl#@#.featuredAds
+vakantieplaats.nl#@#.feed-ad
+!#if env_mobile
+klusidee.nl#@#.header-ad
+!#endif
+vakantieplaats.nl#@#.topAds

@@ -1,0 +1,60 @@
+! Voor als u geen uBlock Filters gebruikt, maar AdGuard Base. In case you don't use the uBlock Filters, but AdGuard Base.
+! uBlock Filters
+*$image,redirect-rule=2x2.png,domain=tweakers.net
+||tweakers.net^*.jpeg$removeparam
+@@||tweakers.net^$ghide
+||7mb.nl^$3p
+||mmcdn.nl^$3p
+||pornokartel.nl^$3p
+||flowcdn.nl/js/devtools-detector.js^
+||googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=spel.nl
+cadsite.be,hetverschiltussen.nl,itunestore.nl,jan-smitfan.nl,sxpix.nl##+js(nobab)
+fok.nl##+js(aeld, , DAB)
+fok.nl###wa_web_headertofloor
+gratisaftehalen.nl##+js(acis, fuckAdBlock, undefined)
+gsurl.be##+js(nowoif)
+icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
+nl.hardware.info##+js(nostif, .call(null), 10)
+nl.hardware.info##^script:has-text(Inject=!)
+girlscene.nl##.ad-container
+@@||ah.nl^$ghide
+@@||awemwh.com/$image,domain=camsexbabe.nl
+@@||cdn.vuplay.co.uk/*/comscore.$script,domain=vrt.be|sporza.be
+@@||goplay.be^$ghide
+@@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
+@@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
+@@||prtawe.com/embed/tbplyr/?$script,domain=camsexbabe.nl
+@@||quantcast.mgr.consensu.org/*/cmp2.js$script,domain=vi.nl
+@@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
+@@||whiskyprijzen.*^$ghide
+@@||whiskyprix.*^$ghide
+whiskyprijzen.be,whiskyprijzen.nl,whiskyprix.be##.blocker
+camsexbabe.nl##.happy-player-beside
+camsexbabe.nl##.happy-section
+@@||videoplayer.persgroep.be/*/ad_smartads_.js$xhr,domain=vtm.be
+||medialaancdn.be/vtm_od/prerolls/$media,domain=vtm.be,redirect=noopmp3-0.1s
+vtm.be##+js(rc, pui__root--no-seekbar, .pui__root--no-seekbar, stay)
+vtm.be##.pe__container__ads
+vtm.be##.pui__adinfo
+vtm.be##div.pui__seekbar__cuepoints
+||freewheel-jitt.dpgmedia.be^
+||spott.ai^
+||fwmrm.net^$important,domain=vtm.be
+||gemius.pl^$important,domain=vtm.be
+! uBlock Filters - Unbreak
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dagelijksekost.een.be
+@@||shared.mediahuis.be/ka-ching/prebid.js$script,domain=dagelijksekost.een.be
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=dagelijksekost.een.be
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=dagelijksekost.een.be
+@@||assets.adobedtm.com/*-source.min.js$script,domain=dagelijksekost.een.be
+@@||2mdn.net/instream/html5/ima3.js$script,domain=geenstijl.nl
+@@||cdn.vuplay.co.uk/stats/*/AppMeasurement.js$script,domain=vrt.be
+@@||cdn.vuplay.co.uk/stats/*/VisitorAPI.js$script,domain=vrt.be
+@@||coolblue.nl^*/ard.png$script,1p
+@@||flightapi.travix.com/flight$xhr,domain=cheaptickets.nl
+!#if env_firefox
+@@||markup.nieuwsblad.be/extra/assets/advertising/prebid.js$script,1p
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=nieuwsblad.be
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=nieuwsblad.be
+!#endif
+@@||laredoute.com^$image,domain=laredoute.nl|laredoute.lu

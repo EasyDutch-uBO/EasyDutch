@@ -1,0 +1,36 @@
+! 2021-11-17
+!#if !env_mobile
+@@||kijk.nl^$ghide,badfilter
+!#endif
+!#if env_mobile
+@@||kijk.nl^$ghide
+!#endif
+! 2021-11-16
+kijk.nl##.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links:style( display: block !important; )
+! 2021-11-09
+@@||looopings.nl/wp-banners.js
+looopings.nl##+js(acis, document.getElementById, .style.display=)
+! 2021-10-29
+dumpert.nl##+js(setTimeout-defuser, AdBlockerCheck)
+dumpert.nl#@#.ads_box
+! 2021-08-09
+doorbraak.be,gowiththevlo.nl##+js(aopw, advanced_ads_check_adblocker)
+! 2021-08-07
+@@||hb.improvedigital.com/pbw/headerlift.min.js$script,3p,domain=funnygames.be|funnygames.nl|spele.be|spele.nl
+! 2021-08-06
+funnygames.nl,funnygames.be,spele.be,spele.nl##.is-billboard
+funnygames.nl,funnygames.be,spele.be,spele.nl##.is-skyscraper
+marokko.nl##+js(set, ads_toegestaan, true)
+@@*$ghide,domain=modekoninginmaxima.nl|quickclaims.nl
+! 2021-06-01
+notebookcheck.nl##+js(acis, document.getElementById, send)
+! 2021-05-04
+112midden-zeeland.nl##+js(aopr, anOptions)
+! 2021-04-28
+webwereld.nl##+js(set, adBlockStatus, false)
+nu.nl##+js(set, isAdBlockEnabled, false)
+! 2021-04-27
+||goplay.be/js/sourcepoint/msg?v=
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=vtm.be
+directwonen.nl#@#.adsbox
+girlscene.nl##+js(set, adblock, 0)

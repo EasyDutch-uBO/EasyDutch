@@ -1,0 +1,44 @@
+! https://github.com/easylist/easylistdutch/commit/95d1b75372ec4f93b15cc420717bac47dfc87486
+/tekst_advertentie_
+! 2021-06-29
+/mediahuis-ads/*$~css
+! 2021-05-31
+/gaslicht/header300x20.png$image
+/gaslicht/gaslicht*$subdocument
+! https://github.com/easylist/easylistdutch/commit/4b28b8e2fb72c7008bc77fbcfd252c7835c1fcb
+-Ad-360.
+! https://github.com/BPower0036/AdBlockFilters/issues/13
+/css/branding.css$3p
+! 2021-04-27
+-reclameplaatjes/
+/adbron.
+/adtwee/*
+/adv_tekstlinks.
+/adverteerders/*
+/advertentie-banner-
+/advertentie.*
+/advertentie/*
+/advertentie1.
+/advertentie2/*
+/advertentie_head.
+/advertenties.
+/advertenties/*
+/bannerlookup.
+/big_reclames/*
+/bolcom-partnerprogramma-wordpress-plugin/*
+/img/recl/*
+/nmc/adv/*
+/pebble-adhese.
+/prikbordAdvertentie_
+/reclame-extra.
+/reclame-nieuws.
+/reclame.*=banner&
+/reclame2.
+/reclamebanners/*
+/scripts/edoris/edoris.dll?tem=ln_banner_view&
+/scripts/edoris/shared/*$object
+/small_reclames/*
+/topadvertentie.
+://promotie.$third-party
+_advertentie300x250_
+_advertentieleaderboardhome.
