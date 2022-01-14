@@ -13,12 +13,12 @@ To avoid being banned, don't constantly re-open or create new (related) issue re
 - [ ] Filters were [updated](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#purge-all-caches) before reproducing an issue / Filterlijsten zijn [geüpdated](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#update-now) voordat dit probleem werd gereproduceerd
 - [ ] I have updated my browser to the most recent version / Ik heb mijn browser geüpdated naar de meest recente verie
 - [ ] I tried to reproduce the issue when...
-      - [ ] uBlock Origin with default lists / uBlock Origin met standaard filterlijsten
-      - [ ] uBlock Origin is the only extension / uBlock Origin is de enige extensie
+    - [ ] uBlock Origin with default lists / uBlock Origin met standaard filterlijsten
+    - [ ] uBlock Origin is the only extension / uBlock Origin is de enige extensie
 
 ### URL(s) where the issue occurs
-[At least one URL for a web page where the clearly described issue occurs is **mandatory**. The backticks (`) surrounding the URLs is important, it prevents the URL from being clickable. Warn with "NSFW" where applicable.
-Geef de link van de website waar het probleem zich voordoet.]
+At least one URL for a web page where the clearly described issue occurs is **mandatory**. The backticks (`) surrounding the URLs is important, it prevents the URL from being clickable. Warn with "NSFW" where applicable.
+Geef de link van de website waar het probleem zich voordoet.
 
 ### Describe the issue
 <!-- [Be as clear as possible: nobody can read mind, and nobody is looking at your issue over your shoulder. ] -->
@@ -48,7 +48,7 @@ If you have multiple screenshots just copy-paste the 3 line below. Please remove
 </details>
 
 ### Notes
-[Please investigate the issues you report -- this prevents burdening other volunteers. This is especially true for issues arising from settings which are very different from default ones.]
+Please investigate the issues you report -- this prevents burdening other volunteers. This is especially true for issues arising from settings which are very different from default ones.
 <!-- [Write here the result of whatever investigation work you have done Schrijf hier het resultaat van het onderzoekswerk dat je hebt gedaan] -->
 
 #### Privacy
