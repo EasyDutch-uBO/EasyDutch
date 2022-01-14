@@ -9,6 +9,8 @@
 ||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
 ||nexclic.com/pics/image*.gif$domain=dutchleader.nl
+||mygaydate.nl/banner$image
+||mygaydate.nl/images/shemales.gif
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*/RO*?zoom=*&w=665
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
@@ -249,7 +251,6 @@
 ||motocrossplanet.nl/wwwuploads/banners/
 ||motokicx.com/wp-content/uploads/*/BANNER-
 ||motokicx.com/wp-content/uploads/*/Website-ad-
-||mygaydate.nl/banner$image
 ||naaktkrant.nl/media/*/*.gif$image,1p
 ||nederlandsextube.nl/images/amateurwebcams$image
 ||nederlandsextube.nl/images/sextubewebcams$image
