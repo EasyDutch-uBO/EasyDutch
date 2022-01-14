@@ -8,6 +8,7 @@ duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 handbalstartpunt.nl##aside > div[class]:has(> .adsbygoogle)
 handbalstartpunt.nl##p:has(img[src*="Logo"])
+kilroynews.net##table:has(a[href="http://www.waffen-jansen.de"])
 ! 2022-01-13
 morningstar.*###ad_top_page
 asex.nl###adblk1
