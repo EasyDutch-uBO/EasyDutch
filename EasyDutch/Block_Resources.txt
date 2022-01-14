@@ -2,6 +2,11 @@
 ||biernet.nl/bja/$subdocument
 ||biernet.nl/images/extra-bja_camp-bnr/$image
 ||biernet.nl/site/widgets/huidig_aanbieding.php
+||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
+||digitaalburg.com/rn02/wp-content/uploads/*/uitwaard21.jpg
+||digitaalburg.com/rn02/wp-content/uploads/*/Vacature-
+||digitaalburg.com/rn02/wp-content/uploads/*/verti*
+||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
 ! 2022-01-13
 .nl/adurl/$xhr,domain=start-player.npo.nl
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
@@ -121,13 +126,6 @@
 ||despirituelewereld.be/wp-content/uploads/*/hook-bottom-info-coronavirus*$image
 ||detelefoongids.nl/img/youvia-banner/banner
 ||dewereldmorgen.be/wp-content/banners/$image
-||digitaalburg.com/rn02/wp-content/uploads/*/CornetAnimationA-
-||digitaalburg.com/rn02/wp-content/uploads/*/MERKX11.png
-||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
-||digitaalburg.com/rn02/wp-content/uploads/*/uitwaard21.jpg
-||digitaalburg.com/rn02/wp-content/uploads/*/Vacature-
-||digitaalburg.com/rn02/wp-content/uploads/*/vertiadvies_
-||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
 ||digitalaudience.io/bakery/pix/$image,3p
 ||disqus.com/recommendations/$subdocument,domain=webmastersunited.com
 ||ditjesendatjes.nl/app/uploads/*/*-footer-DenD.png$image
