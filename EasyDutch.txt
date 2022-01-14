@@ -1,0 +1,20 @@
+! Title: EasyDutch
+! Expires: 3 days (update frequency)
+! Description: Dutch supplement for the Easylist filters to use with uBlock Origin
+! Homepage: https://github.com/BPower0036/AdBlockFilters
+!
+! Alleen voor advertenties of anti-adblock op Nederlandstalige sites!
+! Rapporteer gevonden advertenties of fouten hier:
+! https://github.com/EasyDutch-uBO/EasyDutch/issues
+! mailto: easydutch.adblock@gmail.com
+!
+!#include EasyDutch/Block_General.txt
+!#include EasyDutch/Block_first_party_Server.txt
+!#include EasyDutch/Block_third_party_Server.txt
+!#include EasyDutch/Block_Resources.txt
+!#include EasyDutch/Block_Whitelist.txt
+!#include EasyDutch/Hide_General.txt
+!#include EasyDutch/Hide_Specific.txt
+!#include EasyDutch/Hide_Whitelist.txt
+!#include EasyDutch/Anti-Adblock.txt
+!#include EasyDutch/No_uBlock_Filters.txt
