@@ -1,3 +1,7 @@
+! 2022-01-14
+biernet.nl###BJA2
+biernet.nl###BJA3
+biernet.nl##div[id^="banTop"]:has([class*="ad-wrapper"])
 ! 2022-01-13
 morningstar.*###ad_top_page
 asex.nl###adblk1
@@ -19,7 +23,6 @@ gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-desti
 sexdating-vrouwen.be###aside > :has(iframe[data-src*="affilaxy.com"])
 autozine.nl###asidetop
 ciaotutti.nl###b_searchboxInc
-biernet.nl###ban_blok
 belgiancycling.be###banner
 afkortingen.nu###banner_rectangle
 afkortingen.nu###banner_right
@@ -32,7 +35,6 @@ a1mediagroep.nl,brandweerspotters.nl,coc.nl,fanclubbarcelona.nl,noordkopcentraal
 almere-nieuws.nl###banner-text2
 marktplaats.nl,2dehands.be###banner-top-dt
 historiek.net###before-header
-biernet.nl###BJA3
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
 zakenreisnieuws.nl###block-views-banner_carousel-block
 willem-ii.nl###block-views-block-view-business-partners
