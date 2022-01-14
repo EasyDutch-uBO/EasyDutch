@@ -1,3 +1,7 @@
+! 2022-01-14
+||biernet.nl/bja/$subdocument
+||biernet.nl/images/extra-bja_camp-bnr/$image
+||biernet.nl/site/widgets/huidig_aanbieding.php
 ! 2022-01-13
 .nl/adurl/$xhr,domain=start-player.npo.nl
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
@@ -54,9 +58,6 @@
 ||belgiancycling.be^*/Banners/
 ||belgiancycling.be^*/Logo%27s%20partners/
 ||belgie-sexcontact.be/images/banners/$image
-||biernet.nl/bja/$subdocument
-||biernet.nl/images/extra-bja_camp-bnr/$image
-||biernet.nl/site/widgets/rand-shop-items$subdocument
 ||bitvavo.com/assets/static/widget/$subdocument,domain=cryptosjop.nl
 ||blablacar.nl/widget-driver/$3p
 ||blob.core.windows.net/*/content/regiovoetbal/*_banner.*$image,domain=regio-voetbal.nl
