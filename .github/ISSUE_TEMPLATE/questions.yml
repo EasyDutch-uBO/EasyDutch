@@ -1,0 +1,22 @@
+name: Questions
+description: Template for asking questions about my repro and lists
+labels: question
+body:
+  - type: checkboxes
+    attributes:
+      label: Prerequisites / Vereisten
+      options:
+        - label: I performed a cursory search of the issue tracker to avoid opening a duplicate issue / Geen **duplicaten**!!
+          required: true
+
+  - type: textarea
+    attributes:
+      label: Your Question(s) / Uw vraag
+      description: |
+        Be as clear as possible. Nobody can read your mind.
+        Wees zo duidelijk mogelijk. Niemand kan je gedachten lezen. 
+      placeholder: |
+        Put here your question(s)
+        Stel hier uw vragen
+    validations:
+      required: true
