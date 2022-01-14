@@ -1,5 +1,5 @@
 name: Questions
-description: Template for asking questions about my repro and lists
+description: Template for asking questions about this repro and list
 labels: question
 body:
   - type: checkboxes
