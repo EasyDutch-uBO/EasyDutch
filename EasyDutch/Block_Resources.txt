@@ -480,6 +480,5 @@
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||xxxlivesex.nl/banner$image
 ||zilverengoudkopen.nl/banners/
-||zwaremetalen.com/wp-content/uploads/*/*-AD-$image
 ||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-$image
 ||zwartewaterfm.nl/images/SponsorenZwarteWaterFM.$image
