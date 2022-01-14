@@ -10,7 +10,7 @@ body:
       options:
         - label: This is a **Dutch** website / Het is een **Nederlandse** website
           required: true
-        - label: I performed a [cursory search of the issue tracker](https://github.com/BPower0036/AdBlockFilters/issues) to avoid opening a duplicate issue / Geen **duplicaten**!!
+        - label: I performed a [cursory search of the issue tracker](https://github.com/EasyDutch-uBO/EasyDutch/issues) to avoid opening a duplicate issue / Geen **duplicaten**!!
           required: true
         - label: Only ads or anti-adblock / Alleen advertenties of anti-adblock
           required: true
