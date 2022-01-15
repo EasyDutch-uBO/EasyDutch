@@ -64,7 +64,7 @@ If you see ads on dutch websites please [report](https://github.com/EasyDutch-uB
 > *******
 > #### What you might do or not do as a contributor
 > 
-> As a contributor is is **forbidden** to change the following files:
+> As a contributor it is **forbidden** to change the following files:
 > - `.github` folder 
 > - `README.md`
 > - `CONTRIBUTING.md`
