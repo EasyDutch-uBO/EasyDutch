@@ -1,3 +1,6 @@
+! 2022-01-15 netonline.be
+@@||img.sedoparking.com/templates/bg/arrows-curved.png$image,third-party,domain=meetplaza.be
+@@||google.com/adsense/domains/caf.js$script,third-party,domain=ww5.meetplaza.be
 ! 2022-01-05
 @@||massariuscdn.com/pubs/$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dailybuzz.nl
