@@ -33,7 +33,7 @@ You may only make General Hiding rules, if it applies to tree or more websites
 *******
 #### What you might do or not do as a contributor
 
-As a contributor is is **forbidden** to change the following files:
+As a contributor it is **forbidden** to change the following files:
 - `.github` folder 
 - `README.md`
 - `CONTRIBUTING.md`
