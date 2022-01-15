@@ -261,7 +261,6 @@
 ||newsexcontact.nl/images/milfjesneuken.$image
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||nieuwsonline.nu/header/*advertentie.$image
-||nieuwsonline.nu/header/samsungwatchfaces.webp$image
 ||nieuwsopbeeld.nl/wp-content/uploads/*/Advertentie-
 ||nieuwsuitnijmegen.nl/gfx/banners/
 ||ninefornews.nl/wp-content/a-d-s/*
