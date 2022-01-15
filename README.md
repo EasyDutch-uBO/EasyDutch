@@ -61,6 +61,19 @@ If you see ads on dutch websites please [report](https://github.com/EasyDutch-uB
 > ##### Hide General
 > 
 > You may only make General Hiding rules, if it applies to tree or more websites
+> *******
+> #### What you might do or not do as a contributor
+> 
+> As a contributor is is **forbidden** to change the following files:
+> - `.github` folder 
+> - `README.md`
+> - `CONTRIBUTING.md`
+> - `CODE_OF_CONDUCT.md`
+> - `LICENSE`
+> 
+> The rest you may change.
+> 
+> Breaching this rule will result in a warning and if not listening, being banned as contributor!
 
 ***
 ## View and Subscribe to EasyDutch
