@@ -49,7 +49,7 @@ If you see ads on dutch websites please [report](https://github.com/EasyDutch-uB
 >     ! 2021-04-27
 >     ||androidplanet.nl,iphoned.nl##.dynamic-content-native
 > 
-> This way this documents why a filter was added, and how to verify whether an old filter is still needed. The comment line preceding the filter(s) to solve a specific issue should be only a URL to the issue. The issue itself can contains all the details about how the issue was solved, and why it was solved this way, etc.
+> This way we know why a filter was added, and how to verify whether an old filter is still needed. The comment line preceding the filter(s) to solve a specific issue should be only a URL to the issue. The issue itself can contains all the details about how the issue was solved, and why it was solved this way, etc.
 > 
 > ##### Commit message
 > 
