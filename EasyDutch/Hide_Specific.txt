@@ -1,4 +1,5 @@
 ! 2022-01-15
+nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(/ad/i)):has(> * .news-thumb:has(a[href]:has(img)))
 nieuwsonline.nu##.widget-title:has-text(/Ad/i)
 ! 2022-01-14
 biernet.nl###BJA2
