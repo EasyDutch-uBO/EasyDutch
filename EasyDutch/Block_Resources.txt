@@ -1,3 +1,5 @@
+! https://github.com/EasyDutch-uBO/EasyDutch/pull/7
+||nieuwsonline.nu/wp-content/uploads/*/*advertentie$image
 ! 2022-01-14
 ||biernet.nl/bja/$subdocument
 ||biernet.nl/images/extra-bja_camp-bnr/$image
