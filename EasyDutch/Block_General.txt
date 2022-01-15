@@ -39,6 +39,6 @@
 /scripts/edoris/shared/*$object
 /small_reclames/*
 /topadvertentie.
-://promotie.$third-party
+://promotie.$3p
 _advertentie300x250_
 _advertentieleaderboardhome.
