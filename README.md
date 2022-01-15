@@ -75,4 +75,4 @@ If you see ads on dutch websites please [report](https://github.com/EasyDutch-uB
 ## *Support*
 If you want to buy me a cup of coffee or want to support me, you can donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=M4D2NPZX5NS4C)
 
-##### Contributor *and member* : [JohnyP36](https://github.com/JohnyP36)
+##### If you want to support Member *and Contributor* [JohnyP36](https://github.com/JohnyP36), you can donate [via PayPal](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW) 
