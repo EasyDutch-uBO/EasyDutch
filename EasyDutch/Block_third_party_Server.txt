@@ -12,23 +12,6 @@
 ||advertising-module.api.dpgmedia.cloud^$3p
 ! 2021-11-06
 ||adrequest.net^$3p
-! 2021-11-04 Taken out of Peter Lowe List
-||adhese.be^$badfilter
-||adpepper.nl^$badfilter
-||adpepper.nl^$3p
-||adscience.nl^$badfilter
-||adscience.nl^$3p
-||adworx.nl^$badfilter
-||adworx.nl^$3p
-||bannermarkt.nl^$badfilter
-||bannermarkt.nl^$3p
-||m4n.nl^$badfilter
-||m4n.nl^$3p
-||netdirect.nl^$badfilter
-||netdirect.nl^$3p
-||webads.nl^$badfilter
-||webcash.nl^$badfilter
-||webcash.nl^$3p
 ! 2021-11-04
 ! kanaalz.knack.be
 ||adshim.com^$3p
