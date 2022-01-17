@@ -1,4 +1,6 @@
 ! 2022-01-17
+cip.nl##a[href*="/ad/"]:upward(1):not(.podcast-inline):not(.nav)
+cip.nl##.vacation-big-widget
 wereldklokken.nl##.adsbygoogle:style(visibility: collapse !important;)
 wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
 ! https://github.com/EasyDutch-uBO/EasyDutch/pull/7
@@ -806,7 +808,6 @@ deoudrotterdammer.nl##[width="300"][height="600"]
 be.hardware.info##^script:has-text(Inject=!)
 be.hardware.info##+js(nostif, .call(null), 10)
 geenstijl.nl##a[data-ga-event^="link-tip"]
-cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href*="/ad/click/"])
 nu.nl##a[href*="/advertorial-"]
 geilverlangen.nl##a[href] > img.size-full.aligncenter
 gaynews.nl##a[href^="/_global/_cp.php?"]
