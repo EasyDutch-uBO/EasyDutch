@@ -21,6 +21,7 @@ girlscene.nl##.ad-container
 @@||awemwh.com/$image,domain=camsexbabe.nl
 @@||cdn.vuplay.co.uk/*/comscore.$script,domain=vrt.be|sporza.be
 @@||goplay.be^$ghide
+@@||kijk.nl^$ghide
 @@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
 @@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
 @@||prtawe.com/embed/tbplyr/?$script,domain=camsexbabe.nl
