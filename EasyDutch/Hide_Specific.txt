@@ -1,3 +1,6 @@
+! 2022-01-17
+wereldklokken.nl##.adsbygoogle:style(visibility: collapse !important;)
+wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
 ! https://github.com/EasyDutch-uBO/EasyDutch/pull/7
 nieuwsonline.nu##.widget-title:has-text(/Advert|AD/):upward(1)
 nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(Advert))
