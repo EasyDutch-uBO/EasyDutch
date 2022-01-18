@@ -73,7 +73,7 @@ If you see ads on dutch websites please [report](https://github.com/EasyDutch-uB
 > 
 > The rest you may change.
 > 
-> Breaching this rule will result in a warning and if not listening, being banned as contributor!
+> Breaching this rule will result in a warning and, if not listening, being banned as contributor!
 
 ***
 ## View and Subscribe to EasyDutch
