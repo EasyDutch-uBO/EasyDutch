@@ -42,4 +42,4 @@ As a contributor it is **forbidden** to change the following files:
 
 The rest you may change.
 
-Breaching this rule will result in a warning and if not listening, being banned as contributor!
+Breaching this rule will result in a warning and, if not listening, being banned as contributor!
