@@ -1,3 +1,6 @@
+! 2022-01-19
+||klapjes.nl/hoomezaz/*/*970x90$image
+||klapjes.nl/hoomezaz/*/*.gif
 ! 2022-01-18
 ||wettelijke-feestdagen.nl/Images/advertentie$image
 ||wettelijke-feestdagen.nl/Images/banner$image
