@@ -1,4 +1,7 @@
 ! 2022-01-19
+klapjes.nl##a[href*="/adverteren"]:upward(2)
+klapjes.nl##div[class*="Sidebar"] > [class]:has-text(webcamsex)
+klapjes.nl##div[class*="Sidebar"] img[src*="/hoomezaz"][src*=".gif"]:upward(3)
 wettelijke-feestdagen.nl##.advertentieBanner
 wettelijke-feestdagen.nl###reclame
 kalender-365.nl###dish-top-desktop
