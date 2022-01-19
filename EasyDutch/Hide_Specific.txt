@@ -1,4 +1,5 @@
 ! 2022-01-19
+1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 kinkymedia.nl##.carousel-frame:has([id*="adguru_slider"])
 klapjes.nl##a[href*="/adverteren"]:upward(2)
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(webcamsex)
