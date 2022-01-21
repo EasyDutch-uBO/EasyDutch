@@ -1,3 +1,6 @@
+! 2022-01-21
+hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
+hartvannederland.nl,shownieuws.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
 ! 2022-01-19
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 kinkymedia.nl##.carousel-frame:has([id*="adguru_slider"])
@@ -732,8 +735,6 @@ negerinnensexdating.eu##[class="rand nomobile"]:has(a[href*="net69.nl/genre"])
 kinkysexcontactonline.nl,negerinnensexdating.eu,neukplaza.nl,privesexgids.nl,sexdatingholland.com,stellensexdating.nl,studentesexcontact.nl,tienersexpret.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"])
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 hardware.info##[data-testid^="banner"]
-hartvannederland.nl##[data-testid^="homepageAfter"]
-hartvannederland.nl##[data-testid="topBanner"] > [class]
 pornokartel.nl##[href*="pornokartel.nl/adverteren"]
 sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
 seksmet.nl##[href^="https://dt51.net/"]
@@ -877,9 +878,7 @@ omroepbrabant.nl##div[class^="ad-"]
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
 rtvdrenthe.nl##div[class^="col"]:has([class*="adcontainer"])
 assercourant.nl,emmercourant.nl##div[class^="col-sm-"]:has(.ad-item)
-veronicainside.nl##div[class^="Component-bannerTopWrapper"]
 zoom.nl##div[class^="display-ad_container"]
-veronicainside.nl##div[class^="k-bannerWrapper"]
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:has(.adsbygoogle):not([id])
 weeronline.nl##div[class^="styled__AdWrapper-"]
 weeronline.nl##div[class^="styled__FooterAdWrapper-"]
