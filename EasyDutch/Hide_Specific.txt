@@ -1,6 +1,6 @@
 ! 2022-01-21
-hartvannederland.nl##[data-testid^="banner"]
-hartvannederland.nl##div[class*="-bannerWrapper-"]
+hartvannederland.nl,shownieuws.nl##[data-testid^="banner"]
+hartvannederland.nl,shownieuws.nl##div[class*="-bannerWrapper-"]
 ! 2022-01-19
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 kinkymedia.nl##.carousel-frame:has([id*="adguru_slider"])
