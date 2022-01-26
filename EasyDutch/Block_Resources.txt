@@ -421,7 +421,6 @@
 ||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
 ||totaalwijzer.nl/widget/$3p
 ||touretappe.nl/images/xtra/
-||tpo.nl/broodplank/$image,1p
 ||tradeidee.nl/banners/
 ||transport-online.nl/site/includes/uploads/banner-$image
 ||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
