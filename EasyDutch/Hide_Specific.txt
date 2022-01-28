@@ -1,4 +1,5 @@
 ! 2022-01-26
+nu.nl##[class="zone clearfix"][data-zone$="bottom"]:has([id^="ad"])
 nu.nl##aside#h1
 tpo.nl##[id$="top-ad"]
 tpo.nl##[id$="halfpage"]
