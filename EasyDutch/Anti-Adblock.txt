@@ -1,3 +1,5 @@
+! 2022-01-29
+@@/build/static/js/prebid.js$script,1p,domain=autoweek.nl
 ! 2021-11-09
 @@||looopings.nl/wp-banners.js
 looopings.nl##+js(acis, document.getElementById, .style.display=)
