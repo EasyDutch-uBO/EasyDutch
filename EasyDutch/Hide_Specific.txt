@@ -1,3 +1,5 @@
+! 2022-01-31
+autoweek.nl##.advertisement
 ! 2022-01-26
 nu.nl##[class="zone clearfix"][data-zone$="bottom"]:has([id^="ad"])
 nu.nl##aside#h1
