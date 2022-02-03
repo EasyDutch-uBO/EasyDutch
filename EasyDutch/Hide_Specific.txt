@@ -1,3 +1,5 @@
+! 2022-02-03
+minecrafttoplist.nl##.fancy-wrap
 ! 2022-02-02
 wildfm.nl##[class*="avia-image-container"]:has(a[href])
 wildfm.nl##[id*="after_section"] > .container:has([class*="av-content"])
