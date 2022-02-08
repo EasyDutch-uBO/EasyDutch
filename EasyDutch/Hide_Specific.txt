@@ -1,4 +1,5 @@
 ! 2022-02-08
+startlinken.nl##td[class]:has(a[href*="robohost.nl/clients/aff.php"]):upward(2)
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
 ! 2022-02-03
