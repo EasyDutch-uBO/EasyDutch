@@ -1,4 +1,6 @@
 ! 2022-02-08
+||startlinken.nl/images/banner-$image,1p
+||startlinken.nl/javascript/BannerRotation*$script,1p
 ||waarzo.nl/imagestore/site-banners/
 ! 2022-02-02
 ||webcamsexplaza.com/images/shemaledating.gif
