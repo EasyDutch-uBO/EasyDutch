@@ -1,3 +1,5 @@
+! 2022-02-11 https://github.com/uBlockOrigin/uAssets/issues/11674
+||sdk.privacy-center.org^$script,domain=goplay.be
 ! 2022-02-08
 ||startlinken.nl/images/banner-$image,1p
 ||startlinken.nl/javascript/BannerRotation*$script,1p
