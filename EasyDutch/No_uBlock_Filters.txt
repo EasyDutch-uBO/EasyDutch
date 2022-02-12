@@ -13,10 +13,10 @@ fok.nl##+js(aeld, , DAB)
 fok.nl###wa_web_headertofloor
 gratisaftehalen.nl##+js(acis, fuckAdBlock, undefined)
 gsurl.be##+js(nowoif)
-icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
 nl.hardware.info##+js(nostif, .call(null), 10)
 nl.hardware.info##^script:has-text(Inject=!)
-girlscene.nl##.ad-container
+icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
+radiowereld.nl##+js(nosiif, adb)
 @@||ah.nl^$ghide
 @@||awemwh.com/$image,domain=camsexbabe.nl
 @@||cdn.vuplay.co.uk/*/comscore.$script,domain=vrt.be|sporza.be
@@ -32,6 +32,7 @@ girlscene.nl##.ad-container
 whiskyprijzen.be,whiskyprijzen.nl,whiskyprix.be##.blocker
 camsexbabe.nl##.happy-player-beside
 camsexbabe.nl##.happy-section
+girlscene.nl##.ad-container
 @@||videoplayer.persgroep.be/*/ad_smartads_.js$xhr,domain=vtm.be
 ||medialaancdn.be/vtm_od/prerolls/$media,domain=vtm.be,redirect=noopmp3-0.1s
 vtm.be##+js(rc, pui__root--no-seekbar, .pui__root--no-seekbar, stay)
