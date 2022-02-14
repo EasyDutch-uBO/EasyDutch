@@ -1,5 +1,6 @@
 ! 2022-02-14
-nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\))
+nu.nl##.block-wrapper:has-text(adverteerders)
+nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .list
 studylibnl.com##.above-content
 studylibnl.com##.below-content
 studylibnl.com##.sidebar-top-content
