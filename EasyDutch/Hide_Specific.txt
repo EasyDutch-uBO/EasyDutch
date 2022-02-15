@@ -1,3 +1,5 @@
+! 2022-02-15
+cryptobenelux.com##.elementor-element iframe[data-ezsrc*="Bitcoin_Kopen"]
 ! 2022-02-14
 nu.nl##.block-wrapper:has-text(adverteerders)
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .list
@@ -454,7 +456,6 @@ startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
 reformatorischeomroep.nl##.item-banner
 almere-nieuws.nl##.jeg_container > .jeg_container:has(.jeg_ad)
 guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
-cryptobenelux.com##.jet-parallax-section.elementor-section:has(img[src*="banner"])
 iex.nl##.js-banner
 eurocampings.nl##.js-mock-banner
 waldnet.nl##.kolom_haad > div[style="height: 300px;"]
