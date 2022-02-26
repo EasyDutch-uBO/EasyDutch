@@ -9,7 +9,6 @@ nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .list
 studylibnl.com##.above-content
 studylibnl.com##.below-content
 studylibnl.com##.sidebar-top-content
-123inkt.nl##.featured-product:has-text(OMT)
 ! 2022-02-08
 startlinken.nl##td[class]:has(a[href*="robohost.nl/clients/aff.php"]):upward(2)
 spidersolitairespelen.nl##.spel_b1
