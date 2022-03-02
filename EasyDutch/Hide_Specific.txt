@@ -1,4 +1,5 @@
 ! 2022-03-02
+funda.nl##.home-billboard
 jaap.nl##div[id^="property_ad_"]
 tvgids.nl##.square-item:has( > .banner)
 ! 2022-02-25
