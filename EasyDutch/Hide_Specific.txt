@@ -1,3 +1,5 @@
+! 2022-03-02
+tvgids.nl##.square-item:has( > .banner)
 ! 2022-02-25
 racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
