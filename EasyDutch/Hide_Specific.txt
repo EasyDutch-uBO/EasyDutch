@@ -1,4 +1,6 @@
 ! 2022-03-08
+ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
+ninefornews.nl##.mag-box:has(img[width="728"][height="90"])
 ninefornews.nl##.gofollow
 ! 2022-03-04
 nu.nl##.block-wrapper:has-text(adverteerders)
@@ -712,7 +714,6 @@ culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img
 123geldzaken.nl##.widget_sponsor
 radioreflex.be##.widget_sponsors_widget
 spelersvrouw.nl##.widget_text.gridlove-box
-ninefornews.nl##.widget_text.widget:has(img[width="300"][height="600"])
 wielerflits.be,wielerflits.nl##.widget_text:has([class^="wielerflits_ros_bravo"])
 radionl.fm##.widget_text:has(a[href] > img[src])
 emerce.nl##.widget_text:has(img[src*="/hosted-by-true-"])
@@ -724,7 +725,6 @@ onderwijsland.com##.widgetbar > div.row > :has-text(Advert)
 voetbal4u.be##.widget-container:has([id^="text-"]:has(script[src*="/ad"]))
 voetbal4u.com##.widget-container:has([id^="text-"]> h4)
 indebuurt.nl##.widget-tabs--partner
-ninefornews.nl##.widget-top:has-text(/sponsor/i) 
 telegraaf.nl##.withBanners
 eindtijdklok.org##.wpa
 dagelijksestandaard.nl##.wpb_content_element.vc_separator:nth-of-type(4)
