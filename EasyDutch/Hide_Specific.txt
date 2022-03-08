@@ -1,3 +1,5 @@
+! 2022-03-08
+ninefornews.nl##.gofollow
 ! 2022-03-04
 nu.nl##.block-wrapper:has-text(adverteerders)
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .list
@@ -429,7 +431,6 @@ eredivisie.nl##.header__top__partners
 arenalokaal.nl,sexverhalen.com##.header_banner
 koopplein.nl,televizier.nl,tvblik.nl##.header-banner
 autoline-nl.be,autoline.nl##.header-bn-wrapper
-ninefornews.nl##.header-content > :has(.gofollow)
 eromarkt.nl##.headerlinks:has(iframe[src="linkframe.php"])
 wos.nl##.header-right
 vivocyclo.com##.herald-sticky > [id^="media_image-"]
