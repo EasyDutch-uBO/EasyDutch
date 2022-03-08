@@ -289,10 +289,8 @@
 ||nieuwsuitnijmegen.nl/gfx/banners/
 ||ninefornews.nl/wp-content/a-d-s/*
 ||ninefornews.nl/wp-content/plugins/advanced-ads*/public/assets/js/*.js$script,1p
-||ninefornews.nl/wp-content/uploads/*/*/hs-*.png$image,1p
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||ninefornews.nl/wp-content/uploads/*/banner-set-*.png$image
-||ninefornews.nl/wp-content/uploads/*/tetralogie$image
 ||nltube.com/b?z=A*$subdocument
 ||noordernieuws.nl/wp-content/uploads/201*/*/*.gif$image
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,1p
