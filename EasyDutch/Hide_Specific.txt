@@ -2,6 +2,7 @@
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##.mag-box:has(img[width="728"][height="90"])
 ninefornews.nl##.gofollow
+ninefornews.nl##div[class^="mag-box"] + #adskeeper
 ! 2022-03-04
 nu.nl##.block-wrapper:has-text(adverteerders)
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .list
