@@ -1,3 +1,5 @@
+! 2022-03-09
+gezondheidsnet.nl##.banner
 ! 2022-03-08
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##.mag-box:has(img[width="728"][height="90"])
