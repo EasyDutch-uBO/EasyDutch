@@ -1,8 +1,7 @@
 ! 2022-03-11
 maarkelsnieuws.nl##.banner-widget
-maarkelsnieuws.nl##.banner-secondary-sidebar
-maarkelsnieuws.nl##[class$="ad"]
-maarkelsnieuws.nl##.in-slider-ad
+maarkelsnieuws.nl##.banner-secondary-sidebar:not(:has(img[src*="weerbanner"]))
+maarkelsnieuws.nl##.banners-weekad
 wegdamnieuws.nl##.ads
 nieuwsuitdelden.nl##.gesponsord_blokje
 ! 2022-03-09
