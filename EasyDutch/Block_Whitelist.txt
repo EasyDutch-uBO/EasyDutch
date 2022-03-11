@@ -1,3 +1,5 @@
+! 2022-03-11
+@@||weerstation-markelo.nl/weer/banners/weerbanner$domain=maarkelsnieuws.nl
 ! https://github.com/AdguardTeam/AdguardFilters/issues/108243
 @@||cdn.ebayclassifieds.net/bff/static/*/MyAds.$domain=2dehands.be|marktplaats.nl
 ! 2022-01-05
