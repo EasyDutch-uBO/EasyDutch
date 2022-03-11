@@ -1,5 +1,6 @@
 ! 2022-03-11
 ||maarkelsnieuws.nl/banners/$image
+||wegdamnieuws.nl/wp-content/uploads/*/*Banner
 ! 2022-02-25
 ||racesport.nl/wp-content/uploads/*/TK_Kickoff.jpg$image
 ! 2022-02-14
