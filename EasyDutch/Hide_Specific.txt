@@ -1,3 +1,5 @@
+! 2022-03-12
+sexpret.com##.nomobile:has(img[src^="/images/"])
 ! 2022-03-11
 maarkelsnieuws.nl##.banner-widget
 maarkelsnieuws.nl##.banner-secondary-sidebar:not(:has(img[src*="weerbanner"]))
