@@ -1,5 +1,5 @@
 ! 2022-03-12
-sexpret.com##.nomobile:has(img[src^="/images/"])
+sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
 ! 2022-03-11
 maarkelsnieuws.nl##.banner-widget
 maarkelsnieuws.nl##.banner-secondary-sidebar:not(:has(img[src*="weerbanner"]))
@@ -533,7 +533,6 @@ ninefornews.nl##.nfn-target[data-advadsredirect]
 nieuws.nl##.nieuws-banner
 showbizzsite.be##.nieuws-detail-page-bottom-part > :has(.konvento)
 kidsweek.nl##.node-advertorial
-zinineensexdate.com##.nomobile.boxleft:has(img[src^="/images/"])
 30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
 dekattensite.nl##.nxs-default-p > p:has-text(advert)
 inmemoriam.be##.o-news__add
