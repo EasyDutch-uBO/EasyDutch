@@ -4,6 +4,8 @@ duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
 duurzaamnieuws.nl##aside section[class$="widget_text"]:has-text(wordt mede mogelijk gemaakt door)
 duurzaamnieuws.nl##section[class^="avia_codeblock"]:has-text(wordt mede mogelijk gemaakt door)
 podcastluisteren.nl##.bnr
+spreekbuis.nl##.widget_media_image:not(:has(img[src*="vierkant-spreekbuis"]))
+spreekbuis.nl##.widget_spreekbuis_partners
 vi.nl##.betting-provider-row
 vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
 ! 2022-03-12
@@ -724,7 +726,6 @@ pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
 mannenstyle.nl##.widget_execphp
 riskcompliance.nl##.widget_itarget_banners
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
-spreekbuis.nl##.widget_media_image
 ero-meiden.nl,geilverlangen.nl##.widget_media_image > a[href]:has(.size-full.attachment-full)
 sexmeid.nl##.widget_media_image:has(img[src*="sexmeid.nl/wp-content/uploads/"][src$=".gif"])
 tankpro.nl##.widget_nlpartners
