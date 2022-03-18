@@ -1,3 +1,6 @@
+! 2022-03-18
+@@||files.skoften.net/website/lib/vjs/plugins/ads/videojs.ads.min.js$script,~third-party
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=skoften.net
 ! 2022-03-17
 @@||sliedrecht24.nl/wp-content/uploads/*/Banner-300x250*.jpg$image,1p
 ! 2022-03-12
