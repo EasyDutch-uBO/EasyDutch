@@ -22,7 +22,7 @@
 ||dntblckmpls.nl^$3p
 ! 2021-10-16
 ! backofficebureau.nl
-||adcalls.nl^$3p
+!||adcalls.nl^$3p
 ! 2021-09-18
 ! dagelijksestandaard.nl
 ||viadata.store^$3p
