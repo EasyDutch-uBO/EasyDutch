@@ -7,6 +7,10 @@ marktplaats.nl##.right-banner-root-container
 podcastluisteren.nl##.bnr
 spreekbuis.nl##.widget_media_image:not(:has(img[src*="vierkant-spreekbuis"]))
 spreekbuis.nl##.widget_spreekbuis_partners
+tpo.nl##[id*="r89"][id$="home"]
+tpo.nl##[id$="top-ad"]
+tpo.nl##[id$="halfpage"]
+tpo.nl##div.ads-contain
 vi.nl##.betting-provider-row
 vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
 ! 2022-03-12
@@ -59,9 +63,6 @@ autoweek.nl##.advertisement
 ! 2022-01-26
 nu.nl##[class="zone clearfix"][data-zone$="bottom"]:has([id^="ad"])
 nu.nl##aside#h1
-tpo.nl##[id$="top-ad"]
-tpo.nl##[id$="halfpage"]
-tpo.nl##div.ads-contain
 ! 2022-01-21
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
