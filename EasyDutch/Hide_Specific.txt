@@ -1,3 +1,5 @@
+! 2022-03-19
+biflatie.nl##.elementor-image:has(img[src*="banner"])
 ! 2022-03-17
 binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlandsbestuur.nl"]))
 duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
