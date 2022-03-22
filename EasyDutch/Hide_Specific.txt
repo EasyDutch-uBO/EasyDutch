@@ -5,7 +5,7 @@ binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlands
 duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
 duurzaamnieuws.nl##aside section[class$="widget_text"]:has-text(wordt mede mogelijk gemaakt door)
 duurzaamnieuws.nl##section[class^="avia_codeblock"]:has-text(wordt mede mogelijk gemaakt door)
-marktplaats.nl##.right-banner-root-container
+2dehands.be,marktplaats.nl##.right-banner-root-container
 podcastluisteren.nl##.bnr
 spreekbuis.nl##.widget_media_image:not(:has(img[src*="vierkant-spreekbuis"]))
 spreekbuis.nl##.widget_spreekbuis_partners
