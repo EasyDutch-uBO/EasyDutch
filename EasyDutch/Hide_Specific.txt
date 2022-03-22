@@ -1,6 +1,6 @@
 ! 2022-03-22
-barneveldsekrant.nl,destadamersfoort.nl,edestad.nl##[class] > [id="div-gpt-ad-banner"]
-barneveldsekrant.nl,destadamersfoort.nl,edestad.nl##div.text-center:has-text(/advert|Regiotreffers/)
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(/advert|Regiotreffers/)
 deondernemer.nl##.tile-advert
 hbvl.be##.widget:has(.article-teaser)
 hvzeeland.nl##.affiliates
