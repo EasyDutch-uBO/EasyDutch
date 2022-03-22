@@ -1,5 +1,6 @@
 ! 2022-03-22
-barneveldsekrant.nl,edestad.nl##div.text-center:has-text(/advert|Regiotreffers/)
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl##[class] > [id="div-gpt-ad-banner"]
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl##div.text-center:has-text(/advert|Regiotreffers/)
 deondernemer.nl##.tile-advert
 hbvl.be##.widget:has(.article-teaser)
 hvzeeland.nl##.affiliates
@@ -779,7 +780,6 @@ domstadradio.nl##[class*="elementor-element-"]:has-text(/onze sponsors/i)
 meerdangewenst.nl##[class*="footer-section"]:has(.sponsoren)
 hardnieuws.nl##[class*="mb-"]:has([id$="ros-970x250"])
 telefoonboek.nl##[class*="organic-"]:has-text(Advertentie)
-barneveldsekrant.nl,edestad.nl##[class] > [id="div-gpt-ad-banner"]
 infonu.nl##[class^="a"][id^="a"]:has(.adsbygoogle)
 treinreiziger.nl##[class^="ads-adsense-"]
 poki.be##[class^="Advertisement__AdvertisementContainer"]
