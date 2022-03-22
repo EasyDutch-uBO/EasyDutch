@@ -1,4 +1,6 @@
 ! 2022-03-22
+mariabode.nl##[id^="media_image"]:has-text(/advert/i)
+mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 pen.nl##.rclm_row:has-text(advert)
 pen.nl##.widget_sp_image-image-link:not(a[href*="www.pen.nl"]):upward(1)
 ! 2022-03-19
