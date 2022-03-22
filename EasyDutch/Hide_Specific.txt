@@ -1,4 +1,5 @@
 ! 2022-03-22
+deondernemer.nl##.tile-advert
 hbvl.be##.widget:has(.article-teaser)
 hvzeeland.nl##.affiliates
 mariabode.nl##[id^="media_image"]:has-text(/advert/i)
