@@ -1,4 +1,5 @@
 ! 2022-03-22
+hvzeeland.nl##.affiliates
 mariabode.nl##[id^="media_image"]:has-text(/advert/i)
 mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 pen.nl##.rclm_row:has-text(advert)
