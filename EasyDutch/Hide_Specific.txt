@@ -2,9 +2,10 @@
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(/advert|Regiotreffers/)
 hbvl.be##.widget:has(.article-teaser)
+historiek.net,mariabode.nl,omroepeemsdelta.nl##[id^="custom_html"]:has-text(/advert/i)
+historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
 hvzeeland.nl##.affiliates
 mariabode.nl##[id^="media_image"]:has-text(/advert/i)
-mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 pen.nl##.rclm_row:has-text(advert)
 pen.nl##.widget_sp_image-image-link:not(a[href*="www.pen.nl"]):upward(1)
 ! 2022-03-19
@@ -147,7 +148,6 @@ autowereld.nl###banner-lister-top
 a1mediagroep.nl,brandweerspotters.nl,coc.nl,fanclubbarcelona.nl,noordkopcentraal.nl###banners
 almere-nieuws.nl###banner-text2
 marktplaats.nl,2dehands.be###banner-top-dt
-historiek.net###before-header
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
 zakenreisnieuws.nl###block-views-banner_carousel-block
 willem-ii.nl###block-views-block-view-business-partners
@@ -392,7 +392,6 @@ nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 tweakers.net##.client-promo
 financialinvestigator.nl##.c-newsList__story--partnernews
 rd.nl##.codalt-container
-historiek.net##.code-block:has-text(advertentie)
 pornopower.nl##.code-block-1
 proximus.be##.col.pix-sidebar
 tvgids.tv##.col-left
@@ -840,7 +839,6 @@ sexervaringdelen.com##[id^="custom_html-"]:has(iframe)
 naaktlog.nl##[id^="custom_html"]:has(iframe[src^="https://tools.vpscash.nl/"])
 okemedia.nl##[id^="custom_html"]:has(img[src*="banner"])
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
-historiek.net,omroepeemsdelta.nl##[id^="custom_html"]:has-text(/Advertentie/i)
 pornomilf.nl##[id^="custom_html"]:has-text(Hier aanmelden)
 dutchporntube.nl##[id^="custom_html"]:has-text(Kennismaken en Afspreken)
 nljug.org##[id^="custom_html-"]:has-text(Kennispartners):has(a[href] > img)
@@ -921,7 +919,6 @@ dekrantvantoen.nl##body:style(margin-top:-20px!important)
 onlineluisteren.nl##center > div:has(.adsbygoogle)
 briefjevanjan.nl##center:has([src^="https://partner.bol.com/"])
 oops.nl##center:has-text(Klik hier voor meer webcams)
-historiek.net##div.ai-viewport-1
 nu.nl##div.articlelist[data-section^="advertorial"][data-section$="-adverteerder"]
 pcmweb.nl##div.block:has([id^="div-gpt-ad"])
 pcmweb.nl##div.block:has-text(Vacatures)
