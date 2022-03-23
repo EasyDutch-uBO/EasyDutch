@@ -1,3 +1,5 @@
+! 2022-03-23
+||alphens.nl/resize/upload/*/*banner
 ! 2022-03-22
 ||pen.nl/wp-content/uploads/*/banner*$image
 ||pen.nl/wp-content/uploads/*/*adv$image
