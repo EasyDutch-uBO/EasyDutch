@@ -1,4 +1,5 @@
 ! 2022-03-26
+headliner.nl###flex_left:has([id="div-gpt-ad"])
 hardnieuws.nl##[id*="ros-300x600"]:upward(1)
 ! 2022-03-22
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
