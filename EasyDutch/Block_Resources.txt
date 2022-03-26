@@ -1,3 +1,5 @@
+! 2022-03-26
+||images.headliner.nl/img/campaigns$image
 ! 2022-03-23
 ||alphens.nl/resize/upload/*/*banner
 ! 2022-03-22
