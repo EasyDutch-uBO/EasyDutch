@@ -1,3 +1,5 @@
+! 2022-03-26
+hardnieuws.nl##[id*="ros-300x600"]:upward(1)
 ! 2022-03-22
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(/advert|Regiotreffers/)
