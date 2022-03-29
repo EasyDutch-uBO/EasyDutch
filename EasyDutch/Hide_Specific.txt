@@ -1,3 +1,5 @@
+! 2022-03-29
+skoften.net##.promoted
 ! 2022-03-26
 headliner.nl###flex_left:has([id="div-gpt-ad"])
 hardnieuws.nl##[id*="ros-300x600"]:upward(1)
