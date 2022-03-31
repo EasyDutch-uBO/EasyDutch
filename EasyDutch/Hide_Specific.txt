@@ -1,4 +1,5 @@
 ! 2022-03-31
+schuttevaer.nl##.widget_minisites
 vandaaginside.nl##div[class^="a-bannerWrapper-"]
 vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 ! 2022-03-29
