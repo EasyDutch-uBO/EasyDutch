@@ -1,4 +1,5 @@
 ! 2022-03-31
+verkeersnet.nl##.widget_nlpartners
 schuttevaer.nl##.widget_minisites
 vandaaginside.nl##div[class^="a-bannerWrapper-"]
 vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
