@@ -1,5 +1,6 @@
 ! 2022-03-31
 ||schuttevaer.nl/partnersites/
+||static.promedia.nl/logos/$image,domain=automobielmanagement.nl|carwashpro.nl|infrasite.nl|ovpro.nl|rijschoolpro.nl|spoorpro.nl|tankpro.nl|taxipro.nl|verkeersnet.nl
 ! 2022-03-26
 ||images.headliner.nl/img/campaigns$image
 ! 2022-03-23
