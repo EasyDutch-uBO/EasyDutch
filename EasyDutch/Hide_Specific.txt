@@ -1,3 +1,6 @@
+! 2022-03-31
+vandaaginside.nl##div[class^="a-bannerWrapper-"]
+vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 ! 2022-03-29
 nu.nl##.banner
 skoften.net##.promoted
