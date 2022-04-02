@@ -4,6 +4,8 @@ mr-online.nl##.strack_bnr
 binnenvaartkrant.nl##.g
 scheepvaartkrant.nl###block-leaderboard
 scheepvaartkrant.nl###block-topbannersidebar
+vlootschouw.nl##[id*="miw_widget"]:has(div[class]:has(a[href*="leverancier"]))
+vlootschouw.nl##[id*="miw_widget"] a[target$="blank"][href]:not(a[href*="mailto"])
 ! 2022-03-31
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 schuttevaer.nl##.widget_minisites
