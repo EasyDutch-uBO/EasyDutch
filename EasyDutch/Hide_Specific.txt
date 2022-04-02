@@ -1,4 +1,6 @@
 ! 2022-04-02
+1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
+1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
 mr-online.nl##.elementor-widget-container:has-text(Advertentie):upward(2)
 mr-online.nl##.strack_bnr
 binnenvaartkrant.nl##.g
@@ -101,7 +103,6 @@ hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
 helpmij.nl##[id^="navbar_notice"]:has(.adsbygoogle)
 ! 2022-01-19
-1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 kinkymedia.nl##.carousel-frame:has([id*="adguru_slider"])
 klapjes.nl##a[href*="/adverteren"]:upward(2)
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(webcamsex)
