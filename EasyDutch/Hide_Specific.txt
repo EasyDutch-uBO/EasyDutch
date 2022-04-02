@@ -1,4 +1,5 @@
 ! 2022-04-02
+mr-online.nl##.elementor-widget-container:has-text(Advertentie):upward(2)
 mr-online.nl##.strack_bnr
 binnenvaartkrant.nl##.g
 scheepvaartkrant.nl###block-leaderboard
