@@ -1,3 +1,6 @@
+! 2022-04-02
+scheepvaartkrant.nl###block-leaderboard
+scheepvaartkrant.nl###block-topbannersidebar
 ! 2022-03-31
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 schuttevaer.nl##.widget_minisites
