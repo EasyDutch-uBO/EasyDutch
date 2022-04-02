@@ -2,6 +2,7 @@
 ||binnenvaartkrant.nl/wp-content/uploads/*/BVK.jpg$image
 ||binnenvaartkrant.nl/wp-content/uploads/*/viking_river_cruises_728x90px.jpg$image
 ||binnenvaartkrant.nl/wp-content/uploads/*/*_lb_abato_*.jpg$image
+||vlootschouw.nl/wp-content/uploads/*/bottom-banner*
 ! 2022-03-31
 ||schuttevaer.nl/partnersites/
 ||static.promedia.nl/logos/$image,domain=automobielmanagement.nl|carwashpro.nl|infrasite.nl|ovpro.nl|rijschoolpro.nl|spoorpro.nl|tankpro.nl|taxipro.nl|verkeersnet.nl
