@@ -2,8 +2,8 @@
 ! https://www.reddit.com/r/uBlockOrigin/comments/tblfcf/dutch_site_cant_watch_video/
 ! https://www.reddit.com/r/uBlockOrigin/comments/ty756s/kindly_advise_if_adblock_detection_could_be/
 @@*&ad$xhr,domain=kijk.nl
-@@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
-*$image,domain=kijk.nl,redirect-rule=1x1.gif
+ !@@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
+ !*$image,domain=kijk.nl,redirect-rule=1x1.gif
 ! 2022-01-29
 autoweek.nl##+js(set, isAdBlockActive, false)
 ! 2021-11-09
