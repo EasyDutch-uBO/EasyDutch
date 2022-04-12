@@ -1,3 +1,5 @@
+! 2022-04-12
+||farmaline.be/assets/banners/
 ! 2022-04-02
 ||binnenvaartkrant.nl/wp-content/uploads/*/BVK.jpg$image
 ||binnenvaartkrant.nl/wp-content/uploads/*/viking_river_cruises_728x90px.jpg$image
