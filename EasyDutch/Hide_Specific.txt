@@ -1,3 +1,5 @@
+! 2022-04-13
+veronicasuperguide.nl##div[id][class^="css"]
 ! 2022-04-12
 farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
 ! 2022-04-02
