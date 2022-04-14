@@ -6,10 +6,10 @@ on:
 
 jobs:
     replicate-file:
-    runs-on: ubuntu-latest
-        name: Replicate Files
-
-        steps:
+        runs-on: ubuntu-latest
+        name: Replicate File
+        
+        steps:  
         - name: Checkout EasyDutch
           uses: actions/checkout@v2
           with:
