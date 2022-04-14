@@ -1,4 +1,8 @@
 ! Uitzonderingen voor EasyList
+! 2022-04-14
+mechanisatiemarkt.nl#@#.advert-container
+mechanisatiemarkt.nl#@#.advert-title
+mechanisatiemarkt.nl#@#.advertiser
 ! 2022-01-14
 japan-webike.*#@#.img_ad
 wereldklokken.nl#@#.adsbygoogle
