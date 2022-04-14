@@ -1,6 +1,8 @@
-! Last updated: %timestamp%
+! Last updated: Thu, 14 Apr 2022 09:15:07 +0000
 !
 ! 2022-04-14
+||camjam.nl/customs/*/assets/images/*.gif$image
+||camjam.nl/customs/*/assets/images/flirtmee.jpg$image
 ||advocatie.nl/content/uploads/*Rectangle-Advocatie
 ||advocatie.nl/content/uploads/*whitepaper_336x280
 ||fonkmagazine.nl/adds/
