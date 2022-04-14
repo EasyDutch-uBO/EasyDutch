@@ -1,3 +1,5 @@
+! Last updated: %timestamp%
+!
 ! 2022-04-14
 finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
 fonkmagazine.nl###partners
