@@ -44,5 +44,5 @@ jobs:
             git config user.email "<>"
             git add -u EasyDutch/
             git commit -m "Update modified filter lists"
-            git push origin gh-pages
+            git push origin main
           fi
