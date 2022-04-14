@@ -1,3 +1,5 @@
+! Last updated: %timestamp%
+!
 ! 2022-04-14
 ||advocatie.nl/content/uploads/*Rectangle-Advocatie
 ||advocatie.nl/content/uploads/*whitepaper_336x280
