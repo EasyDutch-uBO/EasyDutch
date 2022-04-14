@@ -1,6 +1,7 @@
 ! 2022-04-13
 fonkmagazine.nl###partners
 fonkmagazine.nl##.advertisement
+nieuweoogst.nl##.logolinks-wrapper
 veronicasuperguide.nl##div[id][class^="css"]
 ! 2022-04-12
 farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
