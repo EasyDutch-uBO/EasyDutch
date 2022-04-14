@@ -1,4 +1,6 @@
 ! 2022-04-14
+||advocatie.nl/content/uploads/*Rectangle-Advocatie
+||advocatie.nl/content/uploads/*whitepaper_336x280
 ||fonkmagazine.nl/adds/
 ! 2022-04-12
 ||farmaline.be/assets/banners/
