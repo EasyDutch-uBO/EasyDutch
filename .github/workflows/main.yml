@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Clone EasyDutch
         uses: actions/checkout@v3
+        with:
+            ref: gh-pages
       - name: Copy filter lists to gh-pages
         run: |
           TMPDIR=$(mktemp -d)
