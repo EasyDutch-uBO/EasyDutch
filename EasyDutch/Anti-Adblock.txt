@@ -1,3 +1,5 @@
+! Last updated: %timestamp%
+!
 ! 2022-04-08 https://github.com/uBlockOrigin/uAssets/issues/12644
 ! https://www.reddit.com/r/uBlockOrigin/comments/tblfcf/dutch_site_cant_watch_video/
 ! https://www.reddit.com/r/uBlockOrigin/comments/ty756s/kindly_advise_if_adblock_detection_could_be/
