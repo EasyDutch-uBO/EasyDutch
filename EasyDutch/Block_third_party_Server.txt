@@ -1,3 +1,5 @@
+! Last updated: %timestamp%
+!
 ! 2022-04-08 frontpage.fok.nl
 ||nojazz.eu^$3p
 ! 2022-04-05 npostart.nl
