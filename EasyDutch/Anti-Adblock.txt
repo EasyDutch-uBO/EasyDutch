@@ -1,10 +1,11 @@
-! Last updated: %timestamp%
+! Last updated: Thu, 14 Apr 2022 15:05:21 +0000
 !
 ! 2022-04-08 https://github.com/uBlockOrigin/uAssets/issues/12644
 ! https://www.reddit.com/r/uBlockOrigin/comments/tblfcf/dutch_site_cant_watch_video/
 ! https://www.reddit.com/r/uBlockOrigin/comments/ty756s/kindly_advise_if_adblock_detection_could_be/
+! https://github.com/AdguardTeam/AdguardFilters/issues/115542
 @@||kijk.nl^$ghide
-@@*&ad$xhr,domain=kijk.nl
+@@&ad$xhr,domain=kijk.nl
 @@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
 *$image,domain=kijk.nl,redirect-rule=1x1.gif
 ! 2022-01-29
