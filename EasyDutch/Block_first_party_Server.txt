@@ -1,3 +1,5 @@
+! Last updated: %timestamp%
+!
 ! 2021-12-04
 ||a.scholieren.com^
 ! 2021-11-04
