@@ -1,3 +1,5 @@
+! Last updated: %timestamp%
+!
 ! Uitzonderingen voor EasyList
 ! 2022-04-14
 mechanisatiemarkt.nl#@#.advert-container
