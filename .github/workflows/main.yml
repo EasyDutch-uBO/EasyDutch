@@ -23,7 +23,7 @@ jobs:
         run: |
           TMPDIR=$(mktemp -d)
           git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPDIR
-          cp $TMPDIR/EasyDutch/*.txt EasyDutch/
+          cp $TMPDIR/EasyDutch/*.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
