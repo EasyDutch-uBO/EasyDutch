@@ -1,6 +1,9 @@
 name: Label Commenter
 
 on:
+  push:
+    branches:
+      - main
   issues:
     types:
       - labeled
