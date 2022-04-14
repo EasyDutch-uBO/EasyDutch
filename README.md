@@ -1,4 +1,3 @@
-***
 # EasyDutch
 Adblock filters for Dutch websites made for [uBlock Origin](https://github.com/uBlockOrigin/uAssets) <br>
 This branch is to be used as reference content for Content Delivery Networks hosting EasyDutch's own filter list:
