@@ -1,6 +1,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-04-14
+kinkymedia.nl###advertentie
 finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
 fonkmagazine.nl###partners
 fonkmagazine.nl##.advertisement
