@@ -1,3 +1,5 @@
+! Last updated: %timestamp%
+!
 ! 2022-04-06 Cannot reproduce (https://github.com/easylist/easylistdutch/commit/ee8ab6f8b2a96bd87e6c2e70326c3e8ebae77b7e)
 !@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
 ! 2022-03-18
