@@ -1,4 +1,6 @@
-! Last updated: %timestamp%
+! Title: Block Third-Party Server
+! Description: Filters for blocking only general third-party servers on Dutch websites
+! Last updated: Fri, 15 Apr 2022 09:11:57 +0000
 !
 ! 2022-04-08 frontpage.fok.nl
 ||nojazz.eu^$3p
