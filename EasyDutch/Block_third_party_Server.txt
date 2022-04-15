@@ -1,3 +1,5 @@
+! Title: Block Third-Party Server
+! Description: Filters for blocking only general third-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
 ! 2022-04-08 frontpage.fok.nl
