@@ -24,3 +24,10 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 7
           keep_minimum_runs: 0
+
+      - name: Delete workflow runs
+        uses: dmvict/clean-workflow-runs@v1.0.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          save_period: 7
+          save_min_runs_number: 0
