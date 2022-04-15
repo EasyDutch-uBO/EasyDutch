@@ -1,4 +1,6 @@
-! Last updated: Thu, 14 Apr 2022 15:05:21 +0000
+! Title: Anti-Adblock
+! Description: Filters for anti-adblock on Dutch websites
+! Last updated: Fri, 15 Apr 2022 09:05:38 +0000
 !
 ! 2022-04-08 https://github.com/uBlockOrigin/uAssets/issues/12644
 ! https://www.reddit.com/r/uBlockOrigin/comments/tblfcf/dutch_site_cant_watch_video/
