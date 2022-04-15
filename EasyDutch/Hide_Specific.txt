@@ -3,6 +3,9 @@
 ! Last updated: %timestamp%
 !
 ! 2022-04-15
+sexguide.nl##.topBanners
+sexguide.nl##.blogBanners
+sexguide.nl##div.vipEscortModel:has-text(Sponsors)
 kieskeurig.nl##div[id*="gpt-ad"]
 ! 2022-04-14
 camjam.nl##.banner
