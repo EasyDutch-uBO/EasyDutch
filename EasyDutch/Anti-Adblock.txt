@@ -1,3 +1,5 @@
+! Title: Anti-Adblock
+! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
 ! 2022-04-08 https://github.com/uBlockOrigin/uAssets/issues/12644
