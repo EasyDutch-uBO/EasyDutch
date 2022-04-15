@@ -1,4 +1,6 @@
-! Last updated: %timestamp%
+! Title: Block Whitelist
+! Description: Whitelist for specific URLs on Dutch websites
+! Last updated: Fri, 15 Apr 2022 09:09:50 +0000
 !
 ! 2022-04-06 Cannot reproduce (https://github.com/easylist/easylistdutch/commit/ee8ab6f8b2a96bd87e6c2e70326c3e8ebae77b7e)
 !@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
@@ -59,4 +61,4 @@
 ! 2021-04-27
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
-@@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=flirtmee.nl
+! @@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=flirtmee.nl
