@@ -1,7 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 15 Apr 2022 09:13:33 +0000
-! Last updated: %timestamp%
+! Last updated: Fri, 15 Apr 2022 09:13:57 +0000
 !
 ! 2022-04-15
 kieskeurig.nl##div[id*="gpt-ad"]
