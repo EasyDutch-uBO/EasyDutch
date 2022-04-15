@@ -1,8 +1,9 @@
 ! Last updated: %timestamp%
 !
+! 2022-04-15
+kieskeurig.nl##div[id*="gpt-ad"]
 ! 2022-04-14
 camjam.nl##.banner
-kieskeurig.nl##div[id*="gpt-ad"]
 kinkymedia.nl###advertentie
 finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
 fonkmagazine.nl###partners
