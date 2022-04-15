@@ -1,15 +1,6 @@
 name: Delete old workflow runs
 on:
   workflow_dispatch:
-    inputs:
-      days:
-        description: 'Number of days.'
-        required: true
-        default: '0'
-      minimum_runs:
-        description: 'The minimum runs to keep for each workflow.'
-        required: true
-        default: '0'
   schedule:
     - cron: '0 0 * * 3'
 
@@ -25,7 +16,7 @@ jobs:
           retain_days: 7
           keep_minimum_runs: 0
 
-      - name: Delete workflow runs
+      - name: Delete workflow runs 2
         uses: dmvict/clean-workflow-runs@v1.0.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
