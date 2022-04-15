@@ -238,7 +238,7 @@ pokeren.nl###onetime-popup
 autoreview.nl###parentgpt
 eredivisie.nl###partner-bar
 vagina.nl###partner-links
-coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkonline.nl###partners
+coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl###partners
 forum.scholieren.com###posts .thead:has-text(Advert)
 sexpower.nl###pre-footer-banners
 immo.vlan.be###ProvidersBox
@@ -318,7 +318,7 @@ autosport.nl##.advertentie_links
 startlijstjes.nl##.advertentieblock
 dorpsklanken.online##.advertenties
 autoweek.nl##.advertise
-7sur7.be,ad.nl,bd.nl,bnnvara.nl,destentor.nl,ed.nl,elektormagazine.nl,fonkonline.nl,gelderlander.nl,hln.be,hpdetijd.nl,kieskeurig.nl,modekoninginmaxima.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
+7sur7.be,ad.nl,bd.nl,bnnvara.nl,destentor.nl,ed.nl,elektormagazine.nl,gelderlander.nl,hln.be,hpdetijd.nl,kieskeurig.nl,modekoninginmaxima.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
 broadcastmagazine.nl##.Advertisement
 goodbye.be,sporza.be##.advertising
 dagblad010.nl,voorburgsdagblad.nl##.advrow
