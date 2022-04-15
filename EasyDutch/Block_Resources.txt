@@ -1,4 +1,6 @@
-! Last updated: Thu, 14 Apr 2022 09:15:07 +0000
+! Title: Block Resources
+! Description: Filters to block specific URLs on Dutch websites
+! Last updated: Fri, 15 Apr 2022 09:08:25 +0000
 !
 ! 2022-04-14
 ||camjam.nl/customs/*/assets/images/*.gif$image
