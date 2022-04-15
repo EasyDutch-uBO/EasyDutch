@@ -1,4 +1,6 @@
-! Last updated: %timestamp%
+! Title: Hide Whitelist
+! Description: Whitelist for hidden elements on Dutch websites
+! Last updated: Fri, 15 Apr 2022 09:15:09 +0000
 !
 ! Uitzonderingen voor EasyList
 ! 2022-04-14
