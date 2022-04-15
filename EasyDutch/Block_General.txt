@@ -1,3 +1,5 @@
+! Title: Block General
+! Description: Filters to block general URLs on Dutch websites
 ! Last updated: %timestamp%
 !
 ! https://github.com/easylist/easylistdutch/commit/95d1b75372ec4f93b15cc420717bac47dfc87486
