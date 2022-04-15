@@ -13,10 +13,5 @@ jobs:
       - name: Delete workflow runs
         uses: dmvict/clean-workflow-runs@v1.0.0
         with:
-          run_conclusions: |
-            skipped
-            failure
-            timed_out
-          save_period: 1
+          save_period: 0
           save_min_runs_number: 0
-          dry: true
