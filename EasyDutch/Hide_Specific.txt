@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 15 Apr 2022 17:38:30 +0000
+! Last updated: Sat, 16 Apr 2022 15:29:55 +0000
 !
 ! 2022-04-15
 sexguide.nl##.topBanners
@@ -814,7 +814,6 @@ camping-frankrijk.nl##[class$="container"]:has([id*="HyperLinkBanner"])
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
 kekmama.nl##[class*="cts-advertorial"]
 domstadradio.nl##[class*="elementor-element-"]:has-text(/onze sponsors/i)
-meerdangewenst.nl##[class*="footer-section"]:has(.sponsoren)
 hardnieuws.nl##[class*="mb-"]:has([id$="ros-970x250"])
 telefoonboek.nl##[class*="organic-"]:has-text(Advertentie)
 infonu.nl##[class^="a"][id^="a"]:has(.adsbygoogle)
