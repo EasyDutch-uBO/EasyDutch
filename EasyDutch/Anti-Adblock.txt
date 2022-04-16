@@ -6,7 +6,6 @@
 ||meerdangewenst.nl/mdgwp/wp-content/*/zakra-mdg/$script,redirect=noopjs
 !#if !env_firefox
 meerdangewenst.nl#@#[class*="footer-section"]:has(.sponsoren)
-meerdangewenst.nl##[class*="footer-section"]:has(.sponsoren):style(visibility: collapse !important;)
 meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;)
 !#endif
 ! 2022-04-08 https://github.com/uBlockOrigin/uAssets/issues/12644
