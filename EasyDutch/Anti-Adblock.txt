@@ -1,13 +1,9 @@
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Sat, 16 Apr 2022 15:06:15 +0000
+! Last updated: Sat, 16 Apr 2022 15:29:03 +0000
 !
 ! 2022-04-16 https://github.com/easylist/easylistdutch/issues/47
-||meerdangewenst.nl/mdgwp/wp-content/*/zakra-mdg/$script,redirect=noopjs
-!#if !env_firefox
-meerdangewenst.nl#@#[class*="footer-section"]:has(.sponsoren)
 meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;)
-!#endif
 ! 2022-04-08 https://github.com/uBlockOrigin/uAssets/issues/12644
 ! https://www.reddit.com/r/uBlockOrigin/comments/tblfcf/dutch_site_cant_watch_video/
 ! https://www.reddit.com/r/uBlockOrigin/comments/ty756s/kindly_advise_if_adblock_detection_could_be/
