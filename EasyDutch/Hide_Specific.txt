@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-04-19
+skoften.net##.promoted-entry-in-content
 ! 2022-04-15
 sexguide.nl##.topBanners
 sexguide.nl##.blogBanners
