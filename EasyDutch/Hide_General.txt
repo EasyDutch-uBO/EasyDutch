@@ -1,29 +1,29 @@
 ! Title: Hide General
 ! Description: Filters for hiding general elements on Dutch websites
-! Last updated: Fri, 15 Apr 2022 09:12:46 +0000
+! Last updated: Tue, 19 Apr 2022 17:05:02 +0000
 !
 ! 2021-12-06
 ! amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv
-*##.adv-tekst
+##.adv-tekst
 ! amateursextube.eu,anaaltube.be,incesttube.eu,opasextube.nl,plassextube.com,schaamlip.net,seksfilmstube.be,smsextube.com,tienersextube.com
-*##.adHomePage
+##.adHomePage
 ! fucking-tube.com,pornokartel.nl,seks-tube.be
-*##.video-block-happy
+##.video-block-happy
 ! 2021-10-19
 ! 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be
-*##.advertising-container-top
-*##.ankeiler--advertisement
-*##.sixpack__advertisement-tile
+##.advertising-container-top
+##.ankeiler--advertisement
+##.sixpack__advertisement-tile
 ! 2021-09-06
 ! gld.nl,rtvnoord.nl,omroepwest.nl
-*##.groei-ad
+##.groei-ad
 ! 2021-06-02
 ! kinkysexcontactonline.nl,negerinnensexdating.eu,neukplaza.nl,privesexgids.nl,stellensexdating.nl,tienersexpret.nl,zinomteneuken.nl
-*###homebanners
+###homebanners
 ! pornoplekje.nl,sextube-18.com,teen-sex.nl
-*##.happy-footer
+##.happy-footer
 ! dutchporntube.nl,gratispornofilm.nl,lekkerewebcams.nl,outdoor-sex.nl,pornomilf.nl,porno-filmpjes.nl,teen-sex.nl
-*##.happy-header
-*##.happy-sidebar
+##.happy-header
+##.happy-sidebar
 ! dutchporntube.nl,geilesexfilms.nl,gratispornofilm.nl,kechtube.com,lekkerewebcams.nl,outdoor-sex.nl,pornomilf.nl,pornoplekje.nl,sextube-18.com,teen-sex.nl
-*##.happy-under-player
+##.happy-under-player
