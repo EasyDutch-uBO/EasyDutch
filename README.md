@@ -91,6 +91,6 @@ If you see ads on dutch websites please [report](https://github.com/EasyDutch-uB
 | 1. [EasyDutch](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/gh-pages/EasyDutch.txt&title=EasyDutch) | [Mirror 1](https://subscribe.adblockplus.org/?location=https://gitlab.com/BPower0036/EasyDutch/-/raw/gh-pages/EasyDutch.txt&title=EasyDutch) | [Mirror 2](https://subscribe.adblockplus.org/?location=https://combinatronics.io/EasyDutch-uBO/EasyDutch/gh-pages/EasyDutch.txt&title=EasyDutch) | [Mirror 3](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/EasyDutch-uBO/EasyDutch/gh-pages/EasyDutch.txt&title=EasyDutch) / [Mirror 3.1](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gl/BPower0036/EasyDutch/raw/gh-pages/EasyDutch.txt&title=EasyDutch) | [Mirror 4](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/EasyDutch-uBO/EasyDutch@gh-pages/EasyDutch.txt&title=EasyDutch) |
 
 ## *Support*
-If you want to buy me a cup of coffee or want to support me, you can donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=M4D2NPZX5NS4C)
+If you want to buy me a cup of coffee or want to support me, you can donate via [PayPal](https://www.paypal.com/donate/?hosted_button_id=NRARDMBBMV3LC)
 
 ###### If you want to support Member *and Contributor* [JohnyP36](https://github.com/JohnyP36), you can donate [via PayPal](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW) 
