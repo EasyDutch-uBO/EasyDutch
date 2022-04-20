@@ -32,6 +32,9 @@ This list also handles anti-adblock, which isn't done by EasyList Dutch. See the
 If you see ads on dutch websites please [report](https://github.com/EasyDutch-uBO/EasyDutch/issues/new/choose) it to me or sent me an email to easydutch.adblock@gmail.com <br>
 
 ## [Contributing](https://github.com/EasyDutch-uBO/EasyDutch/blob/main/CONTRIBUTING.md)
+<details>
+<summary>Contributing</summary>
+
 > ##### Ordering of filters
 > 
 > New filters must be added on the top of each list.
@@ -74,6 +77,8 @@ If you see ads on dutch websites please [report](https://github.com/EasyDutch-uB
 > The rest you may change.
 > 
 > Breaching this rule will result in a warning and, if not listening, being banned as contributor!
+
+</details>
 
 ***
 ## View and Subscribe to EasyDutch
