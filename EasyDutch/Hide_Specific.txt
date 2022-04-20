@@ -3,7 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-04-20
-ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]):has(.gofollow))
+ninefornews.nl##.mag-box:has(.gofollow)
 ! 2022-04-19
 skoften.net##.promoted-entry-in-content
 ! 2022-04-15
