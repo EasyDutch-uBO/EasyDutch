@@ -30,8 +30,8 @@ Geef de link van de website waar het probleem zich voordoet. -->
 </details> 
 
 ### Configuration / Configuratie *
-<!-- List all the changes you've made to uBO's default settings here, by copying the information given by uBO's Dashboard under `Support`, `Troubleshooting Information` -->
-<!-- Geef hier een lijst van alle wijzigingen die u heeft aangebracht in de standaardinstellingen van uBO, door de informatie te kopiëren die door uBO's Dashboard is gegeven onder `Ondersteuning`, `Probleemoplossingsinformatie` -->
+<!-- List all the changes you've made to uBO's default settings here, by copying the information given by uBO's Dashboard under `Support`, `Troubleshooting Information`. -->
+<!-- Geef hier een lijst van alle wijzigingen die u heeft aangebracht in de standaardinstellingen van uBO, door de informatie te kopiëren die door uBO's Dashboard is gegeven onder `Ondersteuning`, `Probleemoplossingsinformatie`. -->
 <details><summary>Troubleshooting Information / Probleemoplossingsinformatie</summary>
       
 ```yaml
@@ -44,6 +44,6 @@ Geef de link van de website waar het probleem zich voordoet. -->
 <!-- [Write here the result of whatever investigation work you have done Schrijf hier het resultaat van het onderzoekswerk dat je hebt gedaan] -->
 
 ### Privacy *
-By submitting this issue, you agree that report does not contain private info, also not in the screenshots
-Dit issue bevat geen persoonlijke informatie, ook niet in de screenshots
+By submitting this issue, you agree that this report does not contain private info, also not in the screenshots.
+Dit issue bevat geen persoonlijke informatie, ook niet in de screenshots.
 - [ ] I agree to follow this condition / Ik ga akkoord met deze voorwaarde
