@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-04-21
+||dagelijksestandaard.nl/wp-content/uploads/*/DDS-banner.$image
 ! 2022-04-15
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ! 2022-04-14
@@ -183,7 +185,6 @@
 ||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
 ||dagbladdewest.com/wp-content/uploads/*/*_300x250px.*$image
 ||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
-||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
 ||dating.*.auroraobjects.eu/files/bans/*$image
 ||debestevpn.nl/wp-content/*-banner.
 ||delichtzijde.nl/images/banners/*.$image,1p
