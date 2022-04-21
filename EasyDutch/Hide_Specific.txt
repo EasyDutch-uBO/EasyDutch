@@ -1,9 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 21 Apr 2022 14:19:30 +0000
+! Last updated: Thu, 21 Apr 2022 15:39:46 +0000
 !
 ! 2022-04-21
 dagelijksestandaard.nl###TOP_ARTICLE
+dagelijksestandaard.nl##nav + div[style^="height:52px"]
 ! 2022-04-20
 ninefornews.nl##.mag-box:has(.gofollow)
 ! 2022-04-19
