@@ -4,6 +4,7 @@
 !
 ! 2022-04-21
 dagelijksestandaard.nl###TOP_ARTICLE
+dagelijksestandaard.nl##nav + div[style^="height:52px"]
 ! 2022-04-20
 ninefornews.nl##.mag-box:has(.gofollow)
 ! 2022-04-19
