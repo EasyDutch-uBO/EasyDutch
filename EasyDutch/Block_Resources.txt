@@ -4,6 +4,7 @@
 !
 ! 2022-04-21
 ||dagelijksestandaard.nl/wp-content/uploads/*/DDS-banner.$image
+||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
 ! 2022-04-15
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ! 2022-04-14
