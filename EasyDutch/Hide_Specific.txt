@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 20 Apr 2022 17:09:27 +0000
+! Last updated: Thu, 21 Apr 2022 14:19:30 +0000
 !
+! 2022-04-21
+dagelijksestandaard.nl###TOP_ARTICLE
 ! 2022-04-20
 ninefornews.nl##.mag-box:has(.gofollow)
 ! 2022-04-19
@@ -804,7 +806,6 @@ voetbal4u.com##.widget-container:has([id^="text-"]> h4)
 indebuurt.nl##.widget-tabs--partner
 telegraaf.nl##.withBanners
 eindtijdklok.org##.wpa
-dagelijksestandaard.nl##.wpb_content_element.vc_separator:nth-of-type(4)
 voetbalrotterdam.nl##.wpb_content_element:has(.wpb_wrapper [class^="lshowcase-"])
 voetbalrotterdam.nl##.wpb_content_element:has(.wpb_wrapper [style^="max-width:"][style*="100%; height:"])
 nieuwsfiets.nu##.wpb_raw_html[class*="us_custom_"]:has(.wpb_wrapper)
@@ -971,7 +972,6 @@ mariogames.be##div.gameinfo:has-text(/sponsored links/i)
 watchfaces.be##div.google
 loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(/Advertentie|Banner/))
 knhs.nl##div.row:has(:scope > section > .cycler:has(img[src*="banner"]))
-dagelijksestandaard.nl##div.wpb_raw_code > .wpb_wrapper:has(div[style="padding:20px;"])
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
 ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
@@ -1018,8 +1018,6 @@ gids.tv##h2:has-text(Advert)
 gids.tv##h2:has-text(Advert) + .advertisement + a[href]
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
-dagelijksestandaard.nl,netxxx.nl##hr:nth-of-type(1)
-dagelijksestandaard.nl##hr:nth-of-type(3)
 oisterwijknieuws.nl##img[alt="banner"]
 rotterdambasketbal.nl##img[title^="roba_sponosor_"]
 prewarcar.nl##img[width="160"][height="92"]
