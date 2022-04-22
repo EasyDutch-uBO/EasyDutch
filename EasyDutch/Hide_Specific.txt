@@ -2,6 +2,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-04-22
+anoniem-surfen.nl##.footer-widget-1
+anoniem-surfen.nl##.header-widget-region
 ! 2022-04-21
 dagelijksestandaard.nl###TOP_ARTICLE
 dagelijksestandaard.nl##nav + div[style^="height:52px"]
