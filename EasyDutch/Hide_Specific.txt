@@ -13,6 +13,8 @@ jammfm.nl##.vc_row:has([class^="qt-slickslider"] .qt-sponsor)
 ontdek-amerika.nl##[href^="https://www.reisburobartlimburg.nl/"]
 nieuwsuitnijmegen.nl##.js-banner-slider
 nieuwsuitnijmegen.nl##.text-left:has-text(Advert)
+voetbalkrant.com##.leaderboard
+voetbalkrant.com###imu:has(div[class*="ad--rectangle"])
 ! 2022-04-22
 anoniem-surfen.nl##.footer-widget-1
 anoniem-surfen.nl##.header-widget-region
