@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 26 Apr 2022 12:51:31 +0000
+! Last updated: Tue, 26 Apr 2022 12:52:43 +0000
 !
 ! 2022-04-26
+reformatorischeomroep.nl##section:has(.item-banner)
 jammfm.nl##.vc_row:has([class^="qt-slickslider"] .qt-sponsor)
 ontdek-amerika.nl##[href^="https://www.reisburobartlimburg.nl/"]
 nieuwsuitnijmegen.nl##.js-banner-slider
@@ -555,7 +556,6 @@ dolcevia.com##.ira-container.ira-format-block > .bookingaff
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-billboard
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-skyscraper
 startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
-reformatorischeomroep.nl##.item-banner
 almere-nieuws.nl##.jeg_container > .jeg_container:has(.jeg_ad)
 guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
 iex.nl##.js-banner
