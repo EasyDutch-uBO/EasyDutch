@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 26 Apr 2022 13:39:00 +0000
+! Last updated: Tue, 26 Apr 2022 13:45:38 +0000
 !
 ! 2022-04-26
 teen-sex.nl###tracking-url
@@ -15,6 +15,8 @@ nieuwsuitnijmegen.nl##.js-banner-slider
 nieuwsuitnijmegen.nl##.text-left:has-text(Advert)
 voetbalkrant.com##.leaderboard
 voetbalkrant.com###imu:has(div[class*="ad--rectangle"])
+voetbalnieuws.be##[id$="takeover"]
+voetbalnieuws.be##.banner
 ! 2022-04-22
 anoniem-surfen.nl##.footer-widget-1
 anoniem-surfen.nl##.header-widget-region
