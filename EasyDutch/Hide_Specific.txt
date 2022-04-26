@@ -1,9 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 26 Apr 2022 12:25:07 +0000
+! Last updated: Tue, 26 Apr 2022 12:37:39 +0000
 !
 ! 2022-04-26
 ontdek-amerika.nl##[href^="https://www.reisburobartlimburg.nl/"]
+jammfm.nl##div[class*="wrapper"]:has([class^="qt-slickslider"]:has(.qt-sponsor))
 nieuwsuitnijmegen.nl##.js-banner-slider
 nieuwsuitnijmegen.nl##.text-left:has-text(Advert)
 ! 2022-04-22
@@ -750,7 +751,6 @@ dekrantnieuws.nl,destreekkrant.nu##.vc_carousel-inner > .vc_carousel-slideline >
 intikkertje.nl##.vc_cta3-container
 dekrantnieuws.nl,destreekkrant.nu##.vc_inner:has([src$="324x484.jpg"])
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
-jammfm.nl##.vc_row-flex.vc_row[style*="width: 1578px;"]:has(.qt-sponsor)
 telegraaf.nl##.VideoArticlePage__banner
 tweakers.net##.video-container > iframe[src^="https://ads.pexi.nl/"]
 12milf.com##.video-description > .under-video-block
