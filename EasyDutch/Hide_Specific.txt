@@ -5,7 +5,7 @@
 ! 2022-04-26
 ontdek-amerika.nl##[href^="https://www.reisburobartlimburg.nl/"]
 nieuwsuitnijmegen.nl##.js-banner-slider
-nieuwsuitnijmegen.nl##.text-left:has-text(/advert/i)
+nieuwsuitnijmegen.nl##.text-left:has-text(Advert)
 ! 2022-04-22
 anoniem-surfen.nl##.footer-widget-1
 anoniem-surfen.nl##.header-widget-region
