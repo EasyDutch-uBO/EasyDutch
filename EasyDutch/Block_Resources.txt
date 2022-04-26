@@ -5,6 +5,7 @@
 ! 2022-04-26
 ||kechtube.com^$popunder
 ||nieuwsuitnijmegen.nl/uploads/banners/
+||onderwegonline.nl/app/uploads/*/Banner$image
 ! 2022-04-22
 ||anoniem-surfen.nl/wp-content/uploads/*/aff3-*.png$image
 ||anoniem-surfen.nl/wp-content/uploads/*/Flavour-balls.gif$image
@@ -351,8 +352,6 @@
 ||omejoop.be/pop.js
 ||omroeppenm.nl^*/banner/
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300x*.gif$image
-||onderwegonline.nl/app/uploads/*/*-banner-*.$image
-||onderwegonline.nl/wp-content/uploads/*/Onderweg-336x280.png$image
 ||onderwijsland.com/files/banners/
 ||onderwijsland.com/files/partners/
 ||oneworld.nl/app/uploads/*/*-Banner$image
