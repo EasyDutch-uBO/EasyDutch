@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 26 Apr 2022 13:09:03 +0000
+! Last updated: Tue, 26 Apr 2022 13:10:23 +0000
 !
 ! 2022-04-26
 ||dronkenmokkels.nl/$domain=poepsexfilmstube.nl
@@ -383,7 +383,6 @@
 ||poldertube.nl/banners/*/small_banner
 ||popinstituut.nl/wp-content/uploads/2014/02/Huren.nl
 ||pornoexpert.nl/img/950x250_*.gif$image
-||pornopower.nl/wp-content/uploads/*/bdsm_seksspeeltjesland$image
 ||powerconnect.be^*/poweractie.jpg$3p
 ||privesexgids.nl/images/webcamsex
 ||prm03.wlresources.com/$script,3p
