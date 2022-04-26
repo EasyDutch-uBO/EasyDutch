@@ -4,6 +4,7 @@
 !
 ! 2022-04-26
 ||kechtube.com^$popunder
+||nieuwsuitnijmegen.nl/uploads/banners/
 ! 2022-04-22
 ||anoniem-surfen.nl/wp-content/uploads/*/aff3-*.png$image
 ||anoniem-surfen.nl/wp-content/uploads/*/Flavour-balls.gif$image
@@ -328,7 +329,6 @@
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||nieuwsonline.nu/header/*advertentie.$image
 ||nieuwsopbeeld.nl/wp-content/uploads/*/Advertentie-
-||nieuwsuitnijmegen.nl/gfx/banners/
 ||ninefornews.nl/wp-content/a-d-s/*
 ||ninefornews.nl/wp-content/plugins/advanced-ads*/public/assets/js/*.js$script,1p
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
