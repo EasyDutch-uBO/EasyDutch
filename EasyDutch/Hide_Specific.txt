@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-04-26
+ontdek-amerika.nl##[href^="https://www.reisburobartlimburg.nl/"]
 nieuwsuitnijmegen.nl##.js-banner-slider
 nieuwsuitnijmegen.nl##.text-left:has-text(/advert/i)
 ! 2022-04-22
