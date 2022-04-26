@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 26 Apr 2022 13:10:56 +0000
+! Last updated: Tue, 26 Apr 2022 13:11:30 +0000
 !
 ! 2022-04-26
+sexcam-mokkels.nl##[id^="custom_html-"]:has(iframe[data-src*="jygotubvpyguak.com"])
 poldertube.nl##.happy-footer
 sexcontact-xxx.be##.moduletable:has([src*="2k19.nl"])
 sexcontact-xxx.be##.moduletable:has([src*="affilaxy.com/promos/"])
