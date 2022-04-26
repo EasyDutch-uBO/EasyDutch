@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 26 Apr 2022 13:25:51 +0000
+! Last updated: Tue, 26 Apr 2022 13:29:24 +0000
 !
 ! 2022-04-26
 ||dronkenmokkels.nl/$domain=poepsexfilmstube.nl
@@ -464,8 +464,6 @@
 ||tennisvlaanderen.be/documents/*/*Sponsorblok-$image,1p
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||thisislive.com/promo/
-||tienersexpret.nl/images/eroshop$image
-||tienersexpret.nl/images/kinkysex$image
 ||tijd.be/ad/
 ||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
 ||totaalwijzer.nl/widget/$3p
