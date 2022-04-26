@@ -448,10 +448,6 @@
 ||sproeiendekutjes.nl/wp-content/uploads/*/spannende-afspraakjes.webm$media,1p
 ||srherald.com/wp-content/banners/
 ||static.qmusic.*/acties/qnl-nu-ad/index.html$subdocument,domain=nu.nl
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/*.gif$image
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/sex-bnrs$image
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/sexlijnen-saldo-opwaarderen$image
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/startpaginabnr$image
 ||stepstone.be/*?event=widgettool.$3p
 ||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
 ||storage.googleapis.com/stateless-www-nuus-be/*/*-banner-*$image,domain=nuus.be
