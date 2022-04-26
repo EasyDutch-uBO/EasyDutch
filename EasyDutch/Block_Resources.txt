@@ -504,7 +504,6 @@
 ||voetbaluitslagen.com/wp-content/uploads/*/bet*$image
 ||volleybal.nl/uploads/images/Banners/$image
 ||volleybal.nl/uploads/images/Logos/$image
-||volleyvlaanderen.be/wp-content/uploads/VVB_Banners_*.jpg$image
 ||vrouwpedia.nl/wp-content/uploads/*/Maxaro-badkamers-tegels.png
 ||waarzo.nl/imagestore/banners/
 ||wanttoknow.nl^*Banner
