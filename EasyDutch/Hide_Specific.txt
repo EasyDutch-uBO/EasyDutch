@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 26 Apr 2022 13:29:51 +0000
+! Last updated: Tue, 26 Apr 2022 13:39:00 +0000
 !
 ! 2022-04-26
 teen-sex.nl###tracking-url
@@ -13,6 +13,8 @@ jammfm.nl##.vc_row:has([class^="qt-slickslider"] .qt-sponsor)
 ontdek-amerika.nl##[href^="https://www.reisburobartlimburg.nl/"]
 nieuwsuitnijmegen.nl##.js-banner-slider
 nieuwsuitnijmegen.nl##.text-left:has-text(Advert)
+voetbalkrant.com##.leaderboard
+voetbalkrant.com###imu:has(div[class*="ad--rectangle"])
 ! 2022-04-22
 anoniem-surfen.nl##.footer-widget-1
 anoniem-surfen.nl##.header-widget-region
