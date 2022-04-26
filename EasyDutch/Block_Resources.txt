@@ -351,8 +351,6 @@
 ||omejoop.be/pop.js
 ||omroeppenm.nl^*/banner/
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300x*.gif$image
-||omroepwest.nl/*/ad.png
-||omroepzeeland.nl/*/ad.png
 ||onderwegonline.nl/app/uploads/*/*-banner-*.$image
 ||onderwegonline.nl/wp-content/uploads/*/Onderweg-336x280.png$image
 ||onderwijsland.com/files/banners/
