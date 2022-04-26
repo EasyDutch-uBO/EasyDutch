@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 26 Apr 2022 13:20:34 +0000
+! Last updated: Tue, 26 Apr 2022 13:29:51 +0000
 !
 ! 2022-04-26
+teen-sex.nl###tracking-url
 pornopower.nl##[id^="block"]:has([src$="/jads.js"])
 sexcam-mokkels.nl##[id^="custom_html-"]:has(iframe[data-src*="jygotubvpyguak.com"])
 sexcontact-xxx.be##.moduletable:has([src*="2k19.nl"])
