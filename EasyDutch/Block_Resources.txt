@@ -499,7 +499,6 @@
 ||vnexplorer.net/assets/img/cover_single.png$image
 ||voetbalkrant.com/images/pub/
 ||voetbalnederland.nl/img/bravo.gif
-||voetbalnederland.nl/img/bravo.gif
 ||voetbalnieuws.be/*/images/website-takeover/*$image,1p
 ||voetbalrotterdam.nl/wp-content/uploads/*/soccerdealbanner*.jpg$image
 ||voetbaluitslagen.com/wp-content/uploads/*/bet*$image
