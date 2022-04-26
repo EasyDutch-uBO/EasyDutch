@@ -1,7 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 22 Apr 2022 04:18:58 +0000
+! Last updated: Tue, 26 Apr 2022 11:53:40 +0000
 !
+! 2022-04-26
+nieuwsuitnijmegen.nl##.js-banner-slider
+nieuwsuitnijmegen.nl##.text-left:has-text(/advert/i)
 ! 2022-04-22
 anoniem-surfen.nl##.footer-widget-1
 anoniem-surfen.nl##.header-widget-region
@@ -365,7 +368,6 @@ dutchitchannel.nl##.banner:has([href*="/bannerclick.html&banner"])
 vlietnieuws.nl##.banner_wrapper
 402online.com##.bannerblock
 marktplaats.nl,2dehands.be##.BannerBottom-root
-nieuwsuitnijmegen.nl##.banner-box-1
 speeleiland.nl##.banner-btf-side-rectangle
 feyenoord.nl##.banner-carousel
 puuropreis.nl##.banner-column
