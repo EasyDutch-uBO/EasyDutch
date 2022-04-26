@@ -383,7 +383,6 @@
 ||poldertube.nl/banners/*/small_banner
 ||popinstituut.nl/wp-content/uploads/2014/02/Huren.nl
 ||pornoexpert.nl/img/950x250_*.gif$image
-||pornopower.nl/wp-content/uploads/*/bdsm_seksspeeltjesland$image
 ||powerconnect.be^*/poweractie.jpg$3p
 ||privesexgids.nl/images/webcamsex
 ||prm03.wlresources.com/$script,3p
