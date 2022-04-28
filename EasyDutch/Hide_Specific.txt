@@ -1,7 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 26 Apr 2022 13:45:38 +0000
+! Last updated: Thu, 28 Apr 2022 15:33:11 +0000
 !
+! 2022-04-28
+yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
+yourlittleblackbook.me##[id*="banner"]
 ! 2022-04-26
 teen-sex.nl###tracking-url
 pornopower.nl##[id^="block"]:has([src$="/jads.js"])
