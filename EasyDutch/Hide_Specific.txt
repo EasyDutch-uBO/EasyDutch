@@ -1,9 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 29 Apr 2022 17:21:36 +0000
+! Last updated: Fri, 29 Apr 2022 17:43:22 +0000
 !
 ! 2022-04-29
-besteproduct.nl##.ad
+besteproduct.nl,voetbalnieuws.nl##.ad
 xgn.nl##.bs
 ! 2022-04-28
 thatsgaming.nl##[id^="menu-item"]:has-text(/gokken|casino/i)
