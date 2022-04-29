@@ -5,10 +5,12 @@
 ! 2022-04-29
 ||content1.pu.nl^
 ||content1.wasmachines.nl^
+||content1.zoom.nl^
 ||content2.besteproduct.nl^
 ||content2.kieskeurig.nl^
 ||content2.pu.nl^
 ||content2.wasmachines.nl^
+||content2.zoom.nl^
 ! 2021-12-04
 ||a.scholieren.com^
 ! 2021-11-04
