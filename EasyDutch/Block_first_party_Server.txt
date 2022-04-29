@@ -1,7 +1,10 @@
 ! Title: Block First-Party Server
 ! Description: Filters for blocking first-party servers on Dutch websites
-! Last updated: Fri, 15 Apr 2022 09:10:57 +0000
+! Last updated: Fri, 29 Apr 2022 17:22:31 +0000
 !
+! 2022-04-29
+||content1.pu.nl^
+||content2.pu.nl^
 ! 2021-12-04
 ||a.scholieren.com^
 ! 2021-11-04
