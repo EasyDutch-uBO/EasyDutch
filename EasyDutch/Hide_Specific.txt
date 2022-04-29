@@ -4,6 +4,7 @@
 !
 ! 2022-04-29
 besteproduct.nl##.ad
+xgn.nl##.bs
 ! 2022-04-28
 thatsgaming.nl##[id^="menu-item"]:has-text(/gokken|casino/i)
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
