@@ -4,6 +4,7 @@
 !
 ! 2022-05-04
 amsterdamtigers.com##.sponsorbanner
+fotografie.nl##.section-partners
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
 nummerzoeker.com##a[href^="/out/"]
 sc-heerenveen.nl##.partner-grid:upward(2)
