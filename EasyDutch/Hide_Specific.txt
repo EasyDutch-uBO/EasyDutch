@@ -2,6 +2,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-05-04
+sc-heerenveen.nl##.partner-grid:upward(2)
+sc-heerenveen.nl##.partnerlink
 ! 2022-04-29
 besteproduct.nl,voetbalnieuws.nl##.ad
 xgn.nl##.bs
@@ -704,12 +707,10 @@ waarzo.nl##.smallbox:has-text(Advertentie)
 solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
 az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,niburu.co##.sponsers
-sc-heerenveen.nl##.sponsor
 computable.be##.sponsorartikelen
 knvb.nl##.SponsorBar-list
 omroephouten.nl##.sponsor-carousel
 businessinsider.nl,computable.nl##.sponsored
-sc-heerenveen.nl##.sponsor-grid
 radio0511.com##.sponsorImg
 volleybelgium.be##.sponsors
 telegraaf.nl##.SportScoreboardPage__banner
