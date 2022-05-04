@@ -4,6 +4,7 @@
 !
 ! 2022-05-04
 amsterdamtigers.com##.sponsorbanner
+businessinsider.nl##.ll_partnerexpert
 fotografie.nl##.section-partners
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
 nummerzoeker.com##a[href^="/out/"]
