@@ -5,6 +5,7 @@
 ! 2022-05-04 on internetbode.nl
 ||pubble.nl/Content.svc/getAdCollection?
 ! 2022-05-04
+||onsoranje.nl/sites/*/images/sponsorlogos/
 ||proshop.nl/Images/*Top-Banner$image
 ||zoekhulp.nl/img/bnr-
 ! 2022-04-26
