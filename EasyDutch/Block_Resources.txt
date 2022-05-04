@@ -1,7 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 26 Apr 2022 14:02:23 +0000
+! Last updated: Wed, 04 May 2022 14:51:45 +0000
 !
+! 2022-05-04
+||proshop.nl/Images/*Top-Banner$image
 ! 2022-04-26
 ||wp.com/www.appletips.nl/wp-content/uploads/112-tmobviaplay.png$image,domain=appletips.nl
 ||dronkenmokkels.nl^$domain=poepsexfilmstube.nl
