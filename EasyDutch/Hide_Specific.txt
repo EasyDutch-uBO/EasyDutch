@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-05-04
+hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
 nummerzoeker.com##a[href^="/out/"]
 sc-heerenveen.nl##.partner-grid:upward(2)
 sc-heerenveen.nl##.partnerlink
