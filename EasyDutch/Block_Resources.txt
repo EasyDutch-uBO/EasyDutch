@@ -1,7 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 04 May 2022 14:51:45 +0000
+! Last updated: Wed, 04 May 2022 14:53:25 +0000
 !
+! 2022-05-04 on internetbode.nl
+||pubble.nl/Content.svc/getAdCollection?
 ! 2022-05-04
 ||proshop.nl/Images/*Top-Banner$image
 ! 2022-04-26
