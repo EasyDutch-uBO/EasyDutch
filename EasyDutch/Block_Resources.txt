@@ -1,11 +1,12 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 04 May 2022 16:15:40 +0000
+! Last updated: Wed, 04 May 2022 16:29:03 +0000
 !
 ! 2022-05-04 on internetbode.nl
 ||pubble.nl/Content.svc/getAdCollection?
 ! 2022-05-04
 ||proshop.nl/Images/*Top-Banner$image
+||zoekhulp.nl/img/bnr-
 ! 2022-04-26
 ||wp.com/www.appletips.nl/wp-content/uploads/112-tmobviaplay.png$image,domain=appletips.nl
 ||dronkenmokkels.nl^$domain=poepsexfilmstube.nl
