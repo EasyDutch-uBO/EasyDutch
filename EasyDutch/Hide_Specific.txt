@@ -8,6 +8,7 @@ businessinsider.nl##.ll_partnerexpert
 fotografie.nl##.section-partners
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
 nummerzoeker.com##a[href^="/out/"]
+onsoranje.nl##.SponsorBar
 proshop.nl​##.site-background-banner
 proshop.nl​##.site-home-banner
 proshop.nl​##.site-top-banner
