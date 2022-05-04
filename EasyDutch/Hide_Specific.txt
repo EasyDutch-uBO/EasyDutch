@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 04 May 2022 16:14:11 +0000
+! Last updated: Wed, 04 May 2022 16:15:07 +0000
 !
 ! 2022-05-04
 amsterdamtigers.com##.sponsorbanner
@@ -8,6 +8,7 @@ businessinsider.nl##.ll_partnerexpert
 fotografie.nl##.section-partners
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
 nummerzoeker.com##a[href^="/out/"]
+onsoranje.nl##.SponsorBar
 proshop.nl​##.site-background-banner
 proshop.nl​##.site-home-banner
 proshop.nl​##.site-top-banner
