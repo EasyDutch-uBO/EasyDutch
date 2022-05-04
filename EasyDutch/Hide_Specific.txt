@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 04 May 2022 16:15:07 +0000
+! Last updated: Wed, 04 May 2022 16:27:10 +0000
 !
 ! 2022-05-04
 amsterdamtigers.com##.sponsorbanner
@@ -17,6 +17,7 @@ sc-heerenveen.nl##.partner-grid:upward(2)
 sc-heerenveen.nl##.partnerlink
 totoknvbbeker.nl##.SponsorBlock
 trappers.nl##.sponsors
+weerstationleeuwarden.nl##.cookieconsent-optin-marketing
 ! 2022-04-29
 besteproduct.nl,voetbalnieuws.nl##.ad
 xgn.nl##.bs
