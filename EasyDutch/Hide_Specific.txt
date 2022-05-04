@@ -1,11 +1,12 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 04 May 2022 14:48:31 +0000
+! Last updated: Wed, 04 May 2022 14:49:11 +0000
 !
 ! 2022-05-04
 nummerzoeker.com##a[href^="/out/"]
 sc-heerenveen.nl##.partner-grid:upward(2)
 sc-heerenveen.nl##.partnerlink
+trappers.nl##.sponsors
 ! 2022-04-29
 besteproduct.nl,voetbalnieuws.nl##.ad
 xgn.nl##.bs
