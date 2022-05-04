@@ -10,6 +10,7 @@ nummerzoeker.com##a[href^="/out/"]
 proshop.nl​##.site-background-banner
 proshop.nl​##.site-home-banner
 proshop.nl​##.site-top-banner
+regioinbedrijf.nl##.g
 sc-heerenveen.nl##.partner-grid:upward(2)
 sc-heerenveen.nl##.partnerlink
 trappers.nl##.sponsors
