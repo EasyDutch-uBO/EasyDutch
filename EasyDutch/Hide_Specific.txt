@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 05 May 2022 17:01:35 +0000
+! Last updated: Thu, 05 May 2022 17:02:47 +0000
 !
 ! 2022-05-05
+ijshockeynederland.nl##.adswiper
 ijshockeynederland.nl##div[class^="column col"]:has(img[src*="/uploads/ads"])
 ! 2022-05-04
 amsterdamtigers.com##.sponsorbanner
