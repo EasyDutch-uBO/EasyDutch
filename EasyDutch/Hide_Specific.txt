@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-05-05
+ijshockeynederland.nl##.adswiper
 ijshockeynederland.nl##div[class^="column col"]:has(img[src*="/uploads/ads"])
 ! 2022-05-04
 amsterdamtigers.com##.sponsorbanner
