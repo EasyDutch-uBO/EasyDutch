@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-05-09
+welklidwoord.nl###ad-takeover
 ! 2022-05-05
 ijshockeynederland.nl##footer > .container > div:nth-of-type(1)
 ijshockeynederland.nl##.adswiper:upward(1)
