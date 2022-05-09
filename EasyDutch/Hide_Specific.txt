@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 09 May 2022 14:07:14 +0000
+! Last updated: Mon, 09 May 2022 14:59:26 +0000
 !
 ! 2022-05-09
+zita.be##[id^="custom_html-"]:has-text(Ad)
 welklidwoord.nl###ad-takeover
 ! 2022-05-05
 ijshockeynederland.nl##footer > .container > div:nth-of-type(1)
