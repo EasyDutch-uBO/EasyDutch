@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-05-11
+crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
 ! 2022-05-09
 zita.be##[id^="custom_html-"]:has-text(Ad)
 welklidwoord.nl###ad-takeover
