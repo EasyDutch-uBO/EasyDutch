@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 11 May 2022 13:20:55 +0000
+! Last updated: Thu, 12 May 2022 13:03:20 +0000
 !
+! 2022-05-12 https://github.com/easylist/easylistdutch/issues/51
+tijd.be##[class$="sponsored"]
 ! 2022-05-11
 crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
 ! 2022-05-09
@@ -882,7 +884,6 @@ gezondheid.be##[class^="gz-ads"]
 gooieneembode.nl,laardercourant.nl,weespernieuws.nl##[class^="mb"]:has([advobject^="webadv_"])
 gooieneembode.nl,laardercourant.nl##[class^="mtb-"]:has-text(Partner)
 schie.nu##[class^="my-"]:has(img[src*="/images/banner/"])
-tijd.be##[class^="o-hpgrid__row"]:has-text(/Gesponsorde inhoud/i)
 appletips.nl##[class^="ph_block"]
 nedporno.com##[class^="r1ght-pl4yer"]:has([src*="ads"])
 visserijnieuws.nl##[class^="row advertentie-"]:not([class*="advertentie-1"])
