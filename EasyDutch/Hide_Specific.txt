@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-05-12 https://github.com/easylist/easylistdutch/issues/51
+tijd.be##[class*="rowcontainer"]:has(div[class*="ad"]):has-text(/Gesponsorde inhoud/i)
 tijd.be##[class$="sponsored"]
 ! 2022-05-11
 crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
@@ -21,9 +22,9 @@ fotografie.nl##.section-partners
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
 nummerzoeker.com##a[href^="/out/"]
 onsoranje.nl##.SponsorBar
-proshop.nl​##.site-background-banner
-proshop.nl​##.site-home-banner
-proshop.nl​##.site-top-banner
+proshop.nl##.site-background-banner
+proshop.nl##.site-home-banner
+proshop.nl##.site-top-banner
 regioinbedrijf.nl##.g
 sc-heerenveen.nl##.partner-grid:upward(2)
 sc-heerenveen.nl##.partnerlink
