@@ -3,7 +3,9 @@
 ! Last updated: %timestamp%
 !
 ! 2022-05-16
+techradar.com###taboola-below-article-thumbnails
 techradar.com##.dfp-leaderboard-container
+techradar.com##[class$="ad-unit"]
 ! 2022-05-12 https://github.com/easylist/easylistdutch/issues/51
 tijd.be##[class*="rowcontainer"]:has(div[class*="ad"]):has-text(/Gesponsorde inhoud/i)
 tijd.be##[class$="sponsored"]
