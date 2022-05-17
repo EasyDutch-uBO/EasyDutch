@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-05-17 https://github.com/AdguardTeam/AdguardFilters/commit/a36ebed2232a093a07686e27783d695286b368e6
+goplay.be##+js(set, Didomi, emptyObj)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=noopjs,domain=goplay.be
 @@||sdk.privacy-center.org^$script,domain=goplay.be
 @@||pubads.g.doubleclick.net/gampad/ads?*&output=vast&$domain=goplay.be
