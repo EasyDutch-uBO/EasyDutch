@@ -1,9 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 17 May 2022 04:18:43 +0000
+! Last updated: Tue, 17 May 2022 04:33:31 +0000
 !
 ! 2022-05-17
-vandaaginside.nl##div[class*="bannerWrapper"]
+vandaaginside.nl##div[class*="-bannerWrapper-"]
 ! 2022-05-16
 techradar.com###taboola-below-article-thumbnails
 techradar.com##.dfp-leaderboard-container
@@ -99,7 +99,6 @@ vlootschouw.nl##[id*="miw_widget"] a[target$="blank"][href]:not(a[href*="mailto"
 ! 2022-03-31
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 schuttevaer.nl##.widget_minisites
-vandaaginside.nl##div[class^="a-bannerWrapper-"]
 vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 ! 2022-03-29
 nu.nl##.banner
