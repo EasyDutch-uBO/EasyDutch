@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 05 May 2022 17:08:38 +0000
+! Last updated: Tue, 17 May 2022 06:59:33 +0000
 !
 ! 2022-05-05 
 ||imagekit.io/ijnl*/uploads/other/*?tr=w-20$image,domain=ijshockeynederland.nl
@@ -61,8 +61,6 @@
 ||racesport.nl/wp-content/uploads/*/TK_Kickoff.jpg$image
 ! 2022-02-14
 ||123inkt.nl/images/oren/*$image
-! 2022-02-11 https://github.com/uBlockOrigin/uAssets/issues/11674
-||sdk.privacy-center.org^$script,domain=goplay.be
 ! 2022-02-08
 ||startlinken.nl/images/banner-$image,1p
 ||startlinken.nl/javascript/BannerRotation*$script,1p
