@@ -1,7 +1,11 @@
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Tue, 17 May 2022 05:43:09 +0000
+! Last updated: Tue, 17 May 2022 06:16:26 +0000
 !
+! 2022-05-17 https://github.com/AdguardTeam/AdguardFilters/commit/a36ebed2232a093a07686e27783d695286b368e6
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=noopjs,domain=goplay.be
+@@||sdk.privacy-center.org^$script,domain=goplay.be
+@@||pubads.g.doubleclick.net/gampad/ads?*&output=vast&$domain=goplay.be
 ! 2022-05-17 https://github.com/uBlockOrigin/uAssets/issues/13260
 @@||static.kijk.nl/prebid/ad.gif$xhr,1p
 ! 2022-04-16 https://github.com/easylist/easylistdutch/issues/47
