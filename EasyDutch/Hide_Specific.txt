@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 23 May 2022 14:31:06 +0000
+! Last updated: Mon, 23 May 2022 14:34:59 +0000
 !
 ! 2022-05-23
+ewmagazine.nl##.section-partners
 autoblog.nl##.widget:has-text(Links)
 infinance.nl##.slickcarousel
 infinance.nl##.widget:has-text(links)
