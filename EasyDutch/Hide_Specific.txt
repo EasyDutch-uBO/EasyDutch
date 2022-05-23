@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-05-23
+infinance.nl##.slickcarousel
+infinance.nl##.widget:has-text(links)
 omrekenen.org##.widget:has-text(/Gesponsoord/i)
 omrekenen.org##a[href^="https://www.onlinebingokaart.nl/"]
 ! 2022-05-17
