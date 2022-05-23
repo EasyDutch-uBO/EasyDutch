@@ -2,6 +2,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-05-23
+omrekenen.org##.widget:has-text(/Gesponsoord/i)
+omrekenen.org##a[href^="https://www.onlinebingokaart.nl/"]
 ! 2022-05-17
 ninefornews.nl##.mag-box.half-box
 vandaaginside.nl##div[class*="-bannerWrapper-"]
