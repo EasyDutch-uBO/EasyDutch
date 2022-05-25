@@ -1,11 +1,12 @@
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Tue, 17 May 2022 14:31:40 +0000
+! Last updated: Wed, 25 May 2022 14:44:03 +0000
 !
 ! 2022-05-17 https://github.com/AdguardTeam/AdguardFilters/commit/a36ebed2232a093a07686e27783d695286b368e6
 goplay.be##+js(no-fetch-if, pubads.g.doubleclick.net/gampad/ads)
 ||goplay.be/js/sourcepoint/msg?v=
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=noopjs,domain=goplay.be
+@@||goplay.be^$ghide
 @@||sdk.privacy-center.org^$script,domain=goplay.be
 ! !#if adguard_app_ios
 ! @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=goplay.be
