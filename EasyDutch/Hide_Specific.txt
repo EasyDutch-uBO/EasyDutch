@@ -3,8 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-05-25
-feijenoordnieuws.nl##li > div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i)
 fcupdate.nl##.bet365
+feijenoordnieuws.nl##li > div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i)
 gpfans.com##.leaderboardbg
 gpfans.com##a[href^="https://casinoscout.nl/"]
 musicmeter.nl##.external
