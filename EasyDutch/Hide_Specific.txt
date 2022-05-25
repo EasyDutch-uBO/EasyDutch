@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-05-25
+fcupdate.nl##.bet365
 ! 2022-05-23
 ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 ewmagazine.nl##.section-partners
