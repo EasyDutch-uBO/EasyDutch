@@ -1,6 +1,6 @@
 ! Title: No uBO Filters
 ! Description: Filters for Dutch websites in case you don't use the uBlock Filters, but AdGuard Base
-! Last updated: Fri, 15 Apr 2022 09:16:42 +0000
+! Last updated: Wed, 25 May 2022 14:43:19 +0000
 !
 ! uBlock Filters
 *$image,redirect-rule=2x2.png,domain=tweakers.net
@@ -25,7 +25,6 @@ radiowereld.nl##+js(nosiif, adb)
 @@||ah.nl^$ghide
 @@||awemwh.com/$image,domain=camsexbabe.nl
 @@||cdn.vuplay.co.uk/*/comscore.$script,domain=vrt.be|sporza.be
-@@||goplay.be^$ghide
 @@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
 @@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
 @@||prtawe.com/embed/tbplyr/?$script,domain=camsexbabe.nl
