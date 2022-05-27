@@ -2,6 +2,8 @@
 ! Description: Filters for blocking only general third-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-05-27 trosfm.be
+||believe-the-hype.be^$3p
 ! 2022-04-08 frontpage.fok.nl
 ||nojazz.eu^$3p
 ! 2022-04-05 npostart.nl
