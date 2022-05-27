@@ -1,7 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 17 May 2022 06:59:33 +0000
+! Last updated: Fri, 27 May 2022 15:10:48 +0000
 !
+! 2022-05-27
+||mandelnieuws.be^*/Sponsors/
 ! 2022-05-05 
 ||imagekit.io/ijnl*/uploads/other/*?tr=w-20$image,domain=ijshockeynederland.nl
 ! 2022-05-04 on internetbode.nl
