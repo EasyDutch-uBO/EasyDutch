@@ -4,6 +4,7 @@
 !
 ! 2022-05-27
 goldfm.be###sponsors-carousel
+mandelnieuws.be##div[class*="blocksponsors"]
 mnm.be###reclameblok-wrapper
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
 radioviainternet.be##.banner-size-leaderbord
