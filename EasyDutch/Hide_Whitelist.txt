@@ -1,8 +1,10 @@
 ! Title: Hide Whitelist
 ! Description: Whitelist for hidden elements on Dutch websites
-! Last updated: Tue, 26 Apr 2022 13:19:29 +0000
+! Last updated: Fri, 27 May 2022 14:32:06 +0000
 !
 ! Uitzonderingen voor EasyList
+! 2022-05-27
+wereldreizigers.nl#@#.gridlove-ad
 ! 2022-04-26
 speurdeals.nl#@#.ad_description
 ! 2022-04-14
