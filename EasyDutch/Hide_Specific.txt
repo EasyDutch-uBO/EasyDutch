@@ -8,6 +8,7 @@ mandelnieuws.be##div[class*="blocksponsors"]
 mnm.be###reclameblok-wrapper
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
 radioviainternet.be##.banner-size-leaderbord
+rbsradio.be##.qt-sponsors
 ! 2022-05-25
 fcupdate.nl##.bet365
 feijenoordnieuws.nl##li > div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i)
