@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 27 May 2022 05:51:01 +0000
+! Last updated: Fri, 27 May 2022 14:13:25 +0000
 !
+! 2022-05-27
+goldfm.be###sponsors-carousel
 ! 2022-05-25
 fcupdate.nl##.bet365
 feijenoordnieuws.nl##li > div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i)
