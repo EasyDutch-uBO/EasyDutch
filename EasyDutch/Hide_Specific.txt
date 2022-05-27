@@ -1,9 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 27 May 2022 14:14:07 +0000
+! Last updated: Fri, 27 May 2022 15:11:22 +0000
 !
 ! 2022-05-27
 goldfm.be###sponsors-carousel
+mandelnieuws.be##div[class*="blocksponsors"]
 mnm.be###reclameblok-wrapper
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
 radioviainternet.be##.banner-size-leaderbord
