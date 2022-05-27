@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 25 May 2022 14:32:50 +0000
+! Last updated: Fri, 27 May 2022 05:51:01 +0000
 !
 ! 2022-05-25
 fcupdate.nl##.bet365
@@ -8,6 +8,8 @@ feijenoordnieuws.nl##li > div[class$="left"]:has-text(/gokkasten|online casino|c
 gpfans.com##.leaderboardbg
 gpfans.com##a[href^="https://casinoscout.nl/"]
 musicmeter.nl##.external
+twentefans.nl##.bn__wrapper
+twentefans.nl##.footer__partners
 voetbalprimeur.nl##.ad
 ! 2022-05-23
 ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
