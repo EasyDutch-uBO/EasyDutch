@@ -8,6 +8,8 @@ feijenoordnieuws.nl##li > div[class$="left"]:has-text(/gokkasten|online casino|c
 gpfans.com##.leaderboardbg
 gpfans.com##a[href^="https://casinoscout.nl/"]
 musicmeter.nl##.external
+twentefans.nl##.bn__wrapper
+twentefans.nl##.footer__partners
 voetbalprimeur.nl##.ad
 ! 2022-05-23
 ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
