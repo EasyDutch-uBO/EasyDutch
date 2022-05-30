@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-05-30
+mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
 ! 2022-05-27
 goldfm.be###sponsors-carousel
 mandelnieuws.be##div[class*="blocksponsors"]
