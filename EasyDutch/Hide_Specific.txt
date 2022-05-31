@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 30 May 2022 13:17:20 +0000
+! Last updated: Tue, 31 May 2022 17:00:25 +0000
 !
 ! 2022-05-30
 mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
@@ -14,7 +14,7 @@ rbsradio.be##.qt-sponsors
 wradio.be##.c-advertiser-logos
 ! 2022-05-25
 fcupdate.nl##.bet365
-feijenoordnieuws.nl##li > div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i)
+feijenoordnieuws.nl##li:has(div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i):not(:has(a[href^="https://feijenoordnieuws.nl/"])))
 gpfans.com##.leaderboardbg
 gpfans.com##a[href^="https://casinoscout.nl/"]
 musicmeter.nl##.external
