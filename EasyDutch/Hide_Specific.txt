@@ -14,7 +14,7 @@ rbsradio.be##.qt-sponsors
 wradio.be##.c-advertiser-logos
 ! 2022-05-25
 fcupdate.nl##.bet365
-feijenoordnieuws.nl##li > div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i)
+feijenoordnieuws.nl##li:has(div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i):not(:has(a[href^="https://feijenoordnieuws.nl/"])))
 gpfans.com##.leaderboardbg
 gpfans.com##a[href^="https://casinoscout.nl/"]
 musicmeter.nl##.external
