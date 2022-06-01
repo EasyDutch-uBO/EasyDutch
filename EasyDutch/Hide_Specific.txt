@@ -2,11 +2,12 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
-! 2022-05-30
-mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
+! 2022-06-01 https://github.com/uBlockOrigin/uAssets/issues/13494
+tweakers.net##.widebnr:not(:has(a[href*="tweakers.net"]))
 ! 2022-05-27
 goldfm.be###sponsors-carousel
 mandelnieuws.be##div[class*="blocksponsors"]
+mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
 mnm.be###reclameblok-wrapper
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
 radioviainternet.be##.banner-size-leaderbord
