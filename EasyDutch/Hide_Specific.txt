@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 02 Jun 2022 09:06:52 +0000
+! Last updated: Thu, 02 Jun 2022 14:28:27 +0000
 !
+! 2022-06-02
+nu.nl##div[id^="block-in-article-ad"]
 ! 2022-06-02 https://github.com/uBlockOrigin/uAssets/issues/13494 and https://github.com/EasyDutch-uBO/EasyDutch/issues/22
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
@@ -184,7 +186,6 @@ ninefornews.nl##.gofollow
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
 ! 2022-03-04
-nu.nl##.block-wrapper:has-text(adverteerders)
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .list
 nu.nl##.temptation__aside
 ! 2022-03-02
