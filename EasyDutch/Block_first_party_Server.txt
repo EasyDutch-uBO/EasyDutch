@@ -2,6 +2,8 @@
 ! Description: Filters for blocking first-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-06-02 https://github.com/EasyDutch-uBO/EasyDutch/issues/22
+||ab.tweakers.nl^
 ! 2022-04-29
 ||content1.pu.nl^
 ||content1.wasmachines.nl^
