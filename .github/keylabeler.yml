@@ -9,5 +9,4 @@ caseSensitive: true
 
 # Explicit keyword mappings to labels. Form of match:label. Required.
 labelMappings:
-  <!-- Put the copied text here, by replacing this line / Zet hier de gekopieerde tekst neer, door deze regel te overschrijven -->: invalid
   Remove this line, if you thruthfully filled in the Prerequisites: invalid
