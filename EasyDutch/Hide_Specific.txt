@@ -741,6 +741,7 @@ iex.nl##.rectanglewrap
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 nnieuws.be##.region-banner-diamond
 regionoordkop.nl##.regio-widget
+tweakers.net##.reserveSpace
 halstadcentraal.nl##.respbanners
 xmissy.nl##.rightbar > :has([src^="https://ads."])
 schaefer-shop.nl##.row > [class]:has(.sfr-pdp-section[id$="crossseller"])
