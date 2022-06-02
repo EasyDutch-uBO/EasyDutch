@@ -527,7 +527,6 @@ autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 online-omzetten.nl##.clearfix.entry > small
 leerlingen.com##.clearfix.widget > :has(.sponsors)
 nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
-tweakers.net##.client-promo
 financialinvestigator.nl##.c-newsList__story--partnernews
 rd.nl##.codalt-container
 pornopower.nl##.code-block-1
@@ -742,7 +741,6 @@ iex.nl##.rectanglewrap
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 nnieuws.be##.region-banner-diamond
 regionoordkop.nl##.regio-widget
-tweakers.net##.reserveSpace
 halstadcentraal.nl##.respbanners
 xmissy.nl##.rightbar > :has([src^="https://ads."])
 schaefer-shop.nl##.row > [class]:has(.sfr-pdp-section[id$="crossseller"])
@@ -832,7 +830,6 @@ intikkertje.nl##.vc_cta3-container
 dekrantnieuws.nl,destreekkrant.nu##.vc_inner:has([src$="324x484.jpg"])
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
 telegraaf.nl##.VideoArticlePage__banner
-tweakers.net##.video-container > iframe[src^="https://ads.pexi.nl/"]
 12milf.com##.video-description > .under-video-block
 sex-kamer.nl##.videoOverAdBig
 telegraaf.nl##.VideoPage__banner
