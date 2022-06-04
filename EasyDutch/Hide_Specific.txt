@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-04
+tweakers.net##.relatedItProContent > *:has(a[href*="doubleclick.net/"])
 guidinc.nl##.promotion_link
 radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
 ! 2022-06-02
