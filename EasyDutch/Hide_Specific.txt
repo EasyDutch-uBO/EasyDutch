@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 04 Jun 2022 06:06:00 +0000
+! Last updated: Sat, 04 Jun 2022 06:06:58 +0000
 !
 ! 2022-06-04
+guidinc.nl##.promotion_link
 radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
 ! 2022-06-02
 nu.nl##div[id^="block-in-article-ad"]
