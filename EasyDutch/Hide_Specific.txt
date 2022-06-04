@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-06-04
+radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
 ! 2022-06-02
 nu.nl##div[id^="block-in-article-ad"]
 ! 2022-06-02 https://github.com/uBlockOrigin/uAssets/issues/13494 and https://github.com/EasyDutch-uBO/EasyDutch/issues/22
@@ -880,7 +882,6 @@ culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img
 radioreflex.be##.widget_sponsors_widget
 spelersvrouw.nl##.widget_text.gridlove-box
 wielerflits.be,wielerflits.nl##.widget_text:has([class^="wielerflits_ros_bravo"])
-radionl.fm##.widget_text:has(a[href] > img[src])
 emerce.nl##.widget_text:has(img[src*="/hosted-by-true-"])
 nuus.be##.widget-area.sidebar:has([data-advadstrackid])
 sportinnederland.com##.widget-area:has([id^="custom_html-"]:has(.adsbygoogle))
