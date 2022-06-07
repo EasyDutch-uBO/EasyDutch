@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 04 Jun 2022 09:22:25 +0000
+! Last updated: Tue, 07 Jun 2022 13:09:43 +0000
 !
+! 2022-06-07
+autoweek.nl##.tile-category:has-text(/advert/i):upward(.aw-tile)
 ! 2022-06-04
 tweakers.net##.relatedItProContent > *:has(a[href*="doubleclick.net/"])
 guidinc.nl##.promotion_link
