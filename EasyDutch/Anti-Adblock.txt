@@ -2,6 +2,8 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-06-09
+@@||iphoned.nl/wp-content/*/scripts/adgear.js$script,domain=iphoned.nl,first-party
 ! 2022-05-28 racingnews365.nl
 @@||fwmrm.net/crossdomain.xml$xhr,domain=embed.viaplay.com|racingnews365.nl
 ! 2022-05-17 https://github.com/AdguardTeam/AdguardFilters/commit/a36ebed2232a093a07686e27783d695286b368e6
