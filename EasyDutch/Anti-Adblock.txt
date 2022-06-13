@@ -1,10 +1,11 @@
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Thu, 09 Jun 2022 09:59:41 +0000
+! Last updated: Mon, 13 Jun 2022 13:23:44 +0000
 !
 ! 2022-06-09
 @@||iphoned.nl/wp-content/*/scripts/adgear.js$script,1p
 ! 2022-05-28 racingnews365.nl
+@@||fwmrm.net/ad/*$xhr,domain=embed.viaplay.com|racingnews365.nl
 @@||fwmrm.net/crossdomain.xml$xhr,domain=embed.viaplay.com|racingnews365.nl
 ! 2022-05-17 https://github.com/AdguardTeam/AdguardFilters/commit/a36ebed2232a093a07686e27783d695286b368e6
 goplay.be##+js(no-fetch-if, pubads.g.doubleclick.net/gampad/ads)
