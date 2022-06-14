@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-14
+marktnet.nl##li.linkUnit
 mijnserie.nl##a[href^="https://partnerprogramma.bol.com/"]
 mijnserie.nl##.sponsors
 streamwijzer.nl##.wp-block-buttons
