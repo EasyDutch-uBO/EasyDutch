@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 14 Jun 2022 15:23:11 +0000
+! Last updated: Tue, 14 Jun 2022 15:36:23 +0000
 !
 ! 2022-06-14
+marktnet.nl##li.linkUnit
 mijnserie.nl##a[href^="https://partnerprogramma.bol.com/"]
 mijnserie.nl##.sponsors
 streamwijzer.nl##.wp-block-buttons
