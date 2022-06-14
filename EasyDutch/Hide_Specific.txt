@@ -1,11 +1,13 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 14 Jun 2022 15:21:27 +0000
+! Last updated: Tue, 14 Jun 2022 15:22:15 +0000
 !
 ! 2022-06-14
 streamwijzer.nl##.wp-block-buttons
 tvblik.nl##.r89-desktop-outstream
 tvblik.nl##.r89-desktop-rectangle-atf
+vlaamskijken.nl##.adds
+vlaamskijken.nl##a[href^="https://partner.bol.com/"]
 ! 2022-06-07
 autoweek.nl##.tile-category:has-text(/advert/i):upward(.aw-tile)
 ! 2022-06-04
