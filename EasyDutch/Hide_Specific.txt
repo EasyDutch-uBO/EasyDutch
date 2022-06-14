@@ -4,6 +4,7 @@
 !
 ! 2022-06-14
 mijnserie.nl##a[href^="https://partnerprogramma.bol.com/"]
+mijnserie.nl##.sponsors
 streamwijzer.nl##.wp-block-buttons
 tvblik.nl##.r89-desktop-outstream
 tvblik.nl##.r89-desktop-rectangle-atf
