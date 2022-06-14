@@ -2,6 +2,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-06-14
+tvblik.nl##.r89-desktop-outstream
+tvblik.nl##.r89-desktop-rectangle-atf
 ! 2022-06-07
 autoweek.nl##.tile-category:has-text(/advert/i):upward(.aw-tile)
 ! 2022-06-04
