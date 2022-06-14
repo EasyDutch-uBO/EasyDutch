@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! Uitzonderingen voor EasyList
+! 2022-06-14
+marktnet.nl#@#.ad-description
 ! 2022-05-27
 wereldreizigers.nl#@#.gridlove-ad
 ! 2022-04-26
