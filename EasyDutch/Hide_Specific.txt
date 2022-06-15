@@ -8,8 +8,7 @@ marktnet.nl##li.linkUnit
 mijnserie.nl##a[href^="https://partnerprogramma.bol.com/"]
 mijnserie.nl##.sponsors
 streamwijzer.nl##.wp-block-buttons
-tvblik.nl##.r89-desktop-outstream
-tvblik.nl##.r89-desktop-rectangle-atf
+tvblik.nl##div[class^="r89-desktop"]
 vlaamskijken.nl##a[href^="https://partner.bol.com/"]
 vlaamskijken.nl##div[class^="col"]:has([class^="add"])
 ! 2022-06-07
