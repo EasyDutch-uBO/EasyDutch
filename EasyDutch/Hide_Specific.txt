@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-06-15
+indignatie.nl##[id^="custom_html"]:has([src^="https://pagead2.googlesyndication.com/"])
 ! 2022-06-14
 sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
 marktnet.nl##li.linkUnit
