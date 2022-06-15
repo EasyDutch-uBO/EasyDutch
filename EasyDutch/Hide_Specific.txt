@@ -10,8 +10,8 @@ mijnserie.nl##.sponsors
 streamwijzer.nl##.wp-block-buttons
 tvblik.nl##.r89-desktop-outstream
 tvblik.nl##.r89-desktop-rectangle-atf
-vlaamskijken.nl##.adds
 vlaamskijken.nl##a[href^="https://partner.bol.com/"]
+vlaamskijken.nl##div[class^="col"]:has([class^="add"])
 ! 2022-06-07
 autoweek.nl##.tile-category:has-text(/advert/i):upward(.aw-tile)
 ! 2022-06-04
