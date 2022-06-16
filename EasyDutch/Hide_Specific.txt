@@ -3,7 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-16
-androidworld.nl,f1maximaal.nl##.sda
+androidworld.nl,dartsnieuws.com,f1maximaal.nl##.sda
 playboy.nl##a[href^="https://casinoscout.nl/"]
 webwoordenboek.nl##div[class^="r89-desktop-rectangle"]
 ! 2022-06-15
