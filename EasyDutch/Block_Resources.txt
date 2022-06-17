@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-06-17
+||dartfreakz.nl/wp-content/uploads/*/banner$image
 ! 2022-06-14
 ||qassa.nl/images/*/wallpaper$image
 ! 2022-05-27
