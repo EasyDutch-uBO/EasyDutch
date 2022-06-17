@@ -4,6 +4,12 @@
 !
 ! 2022-06-16
 androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
+dartfreakz.nl##.a-single:has(a[href*="casino"])
+dartfreakz.nl##.soliloquy-wrapper:not(:has(a[href*="dartfreakz.nl"]))
+dartfreakz.nl##.textwidget:has(a[href*="casino"]):not(:has(a[href*="darts-tv.com"]))
+dartfreakz.nl##.wpb_wrapper .textwidget > p + .g-14.g
+dartfreakz.nl##.wpb_wrapper a[href*="dartswarehouse.nl"]
+dartfreakz.nl##aside[class^="td_block"]:has-text(/partners/i)
 dartsactueel.nl##.elementor-widget-container:has-text(/powered by/i)
 dartsactueel.nl##.elementor-widget-container:has(.elementor-image:has(a[href$="dartshopmn.nl"]))
 playboy.nl##a[href^="https://casinoscout.nl/"]
