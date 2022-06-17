@@ -3,7 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-16
-androidworld.nl,dartsnieuws.com,f1maximaal.nl##.sda
+androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 playboy.nl##a[href^="https://casinoscout.nl/"]
 webwoordenboek.nl##div[class^="r89-desktop-rectangle"]
 ! 2022-06-15
@@ -432,7 +432,7 @@ kinkymedia.nl##.adguru-zone-wrap
 standaard.be##.ad--halfpageskyscraper
 koopplein.nl##.ad-item-container
 westerwoldeactueel.nl##.adr-wrapper
-androidworld.nl,cinenews.be,handbal.nl,indeleiderstrui.nl,openrotterdam.nl,webmastersunited.com##.ads
+androidworld.nl,cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com##.ads
 dissident.one##.adsbygoogle
 parool.nl,trouw.nl##.ad--section
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
