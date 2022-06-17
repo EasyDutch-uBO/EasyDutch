@@ -6,7 +6,7 @@
 androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 playboy.nl##a[href^="https://casinoscout.nl/"]
 webwoordenboek.nl##div[class^="r89-desktop-rectangle"]
-wkdarts.nl##.wpb_wrapper:has-text(/advert/i)
+wkdarts.nl##.vcex-module:has-text(/advert/i)
 wkdarts.nl##[href="https://www.loketkansspel.nl/"]
 ! 2022-06-15
 indignatie.nl##[id^="custom_html"]:has([src^="https://pagead2.googlesyndication.com/"])
