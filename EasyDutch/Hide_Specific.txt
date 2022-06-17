@@ -12,6 +12,7 @@ dartfreakz.nl##.wpb_wrapper a[href*="dartswarehouse.nl"]
 dartsactueel.nl##.elementor-widget-container:has-text(/powered by/i)
 dartsactueel.nl##.elementor-widget-container:has(a[href$="dartshopmn.nl"] > img)
 playboy.nl##a[href^="https://casinoscout.nl/"]
+rtlboulevard.nl##.dfp-rectangle-wrapper
 webwoordenboek.nl##div[class^="r89-desktop-rectangle"]
 wkdarts.nl##.vcex-module:has-text(advert)
 wkdarts.nl##[href="https://www.loketkansspel.nl/"]
