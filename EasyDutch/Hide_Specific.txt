@@ -5,7 +5,7 @@
 ! 2022-06-16
 androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 dartfreakz.nl##.soliloquy-wrapper:not(:has(a[href*="dartfreakz.nl"]))
-dartfreakz.nl##.textwidget:has(a[href*="casino"]):not(:has(a[href*="darts-tv.com"]))
+dartfreakz.nl##.textwidget:has(a[href*="casino"])
 dartfreakz.nl##.g
 dartfreakz.nl##.wpb_wrapper a[href*="dartswarehouse.nl"]
 dartsactueel.nl##.elementor-widget-container:has-text(/powered by/i)
