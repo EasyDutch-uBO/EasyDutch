@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 17 Jun 2022 08:23:13 +0000
+! Last updated: Fri, 17 Jun 2022 08:33:41 +0000
 !
 ! 2022-06-16
 androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
@@ -11,7 +11,7 @@ dartfreakz.nl##.wpb_wrapper .textwidget > p + .g-14.g
 dartfreakz.nl##.wpb_wrapper a[href*="dartswarehouse.nl"]
 dartfreakz.nl##aside[class^="td_block"]:has-text(/partners/i)
 dartsactueel.nl##.elementor-widget-container:has-text(/powered by/i)
-dartsactueel.nl##.elementor-widget-container:has(.elementor-image:has(a[href$="dartshopmn.nl"]))
+dartsactueel.nl##.elementor-widget-container:has(a[href$="dartshopmn.nl"] > img)
 playboy.nl##a[href^="https://casinoscout.nl/"]
 webwoordenboek.nl##div[class^="r89-desktop-rectangle"]
 wkdarts.nl##.vcex-module:has-text(advert)
