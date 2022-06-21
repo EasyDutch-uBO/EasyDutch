@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 17 Jun 2022 11:54:01 +0000
+! Last updated: Tue, 21 Jun 2022 05:25:46 +0000
 !
+! 2022-06-21
+viafora.nl##[class$="billboard-top"]
 ! 2022-06-16
 androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 dartfreakz.nl##.soliloquy-wrapper:not(:has(a[href*="dartfreakz.nl"]))
