@@ -4,6 +4,7 @@
 !
 ! 2022-06-21
 viafora.nl##[class$="billboard-top"]
+viafora.nl##[class$="rectangle-atf"]
 ! 2022-06-16
 androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 dartfreakz.nl##.soliloquy-wrapper:not(:has(a[href*="dartfreakz.nl"]))
