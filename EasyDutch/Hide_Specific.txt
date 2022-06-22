@@ -808,7 +808,6 @@ fcgroningen.nl##.sidebar__item--banner
 hardware.info##.sidebar_right_bottom
 hardware.info##.sidebar_right_top
 alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
-wijlimburg.nl##.sidebar-partners
 velt.be##.simpleads
 pcmweb.nl##.site__sidebar > .block:has(div.banner)
 geenstijl.nl##.slajeslag
