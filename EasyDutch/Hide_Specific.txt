@@ -530,7 +530,6 @@ sexjobs.nl##.banner-wrapper
 dutchitchannel.nl##.bannner
 feyenoordpings.nl##.betcity-intro-wrapper
 nnp.nl##.bg-gray-100:has([advobject])
-zuidenvelder.info##.bg-grey.mb-20:has([advobject])
 berekenhet.nl##.bh-ads
 bieos-omroep.nl##.bieos-widget
 autosport.nl##.bigbanner
