@@ -1,9 +1,8 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 22 Jun 2022 13:06:32 +0000
+! Last updated: Wed, 22 Jun 2022 13:08:03 +0000
 !
 ! 2022-06-22
-ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl##[data-temptation-position="OORTJE"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class$="center"] > [id^="div-gpt-ad"]:upward(2)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(advert)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
