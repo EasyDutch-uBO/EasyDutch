@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 22 Jun 2022 14:49:01 +0000
+! Last updated: Wed, 22 Jun 2022 15:08:06 +0000
 !
 ! 2022-06-22
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class$="center"] > [id^="div-gpt-ad"]:upward(2)
@@ -808,7 +808,6 @@ fcgroningen.nl##.sidebar__item--banner
 hardware.info##.sidebar_right_bottom
 hardware.info##.sidebar_right_top
 alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
-wijlimburg.nl##.sidebar-partners
 velt.be##.simpleads
 pcmweb.nl##.site__sidebar > .block:has(div.banner)
 geenstijl.nl##.slajeslag
