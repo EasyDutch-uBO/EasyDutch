@@ -1,7 +1,9 @@
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Fri, 15 Apr 2022 09:09:50 +0000
+! Last updated: Wed, 22 Jun 2022 07:43:59 +0000
 !
+! 2022-06-22
+@@||images.2dehands.com/api/v1/listing-twh-p/images/ad/$image,domain=2dehands.be
 ! 2022-04-06 Cannot reproduce (https://github.com/easylist/easylistdutch/commit/ee8ab6f8b2a96bd87e6c2e70326c3e8ebae77b7e)
 !@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
 ! 2022-03-18
