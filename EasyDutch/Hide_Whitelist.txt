@@ -3,7 +3,9 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-22 https://github.com/uBlockOrigin/uAssets/issues/13800
+!#if env_firefox
 welingelichtekringen.nl#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
+!#endif
 ! Uitzonderingen voor EasyList
 ! 2022-06-14
 marktnet.nl#@#.ad-description
