@@ -770,7 +770,6 @@ koopplein.nl##.promobloc-desktop
 koopplein.nl##.promoblocs__banner
 synoniemen.net##.promoblok
 oneworld.nl##.promotion-block
-fondsnieuws.nl##.promo-wrapper
 openingsurengids.be##.promSB
 girlpowerradio.nl##.proradio-owl-sponsorcarousel
 europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
