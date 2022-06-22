@@ -16,6 +16,9 @@ noordkopcentraal.nl##.widgettitle:has-text(Advert)
 rtlboulevard.nl###dfp-billboard-wrapper
 streekstadcentraal.nl##[class$="-banners-wrapper"]
 techradar.com###article-body > aside.hawk-nest:has([class^="hawk-affiliate"])
+zakenreisnieuws.nl##[id^="block-block"]:has([id^="div-gpt-ad"])
+zakenreisnieuws.nl##div[class*="block-block"]:has(.adsbygoogle)
+zakenreisnieuws.nl##div[style*="padding:10px"]:has(div[id^="div-gpt-ad"])
 ! 2022-06-22 https://github.com/uBlockOrigin/uAssets/issues/13800
 !#if env_firefox
 welingelichtekringen.nl##[id^="div-gpt-ad"]:style(height:10px !important;)
@@ -339,7 +342,6 @@ a1mediagroep.nl,brandweerspotters.nl,coc.nl,fanclubbarcelona.nl###banners
 almere-nieuws.nl###banner-text2
 marktplaats.nl,2dehands.be###banner-top-dt
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
-zakenreisnieuws.nl###block-views-banner_carousel-block
 willem-ii.nl###block-views-block-view-business-partners
 willem-ii.nl###block-views-block-view-main-sponsor
 willem-ii.nl###block-views-block-view-shirt-sponsor
@@ -996,8 +998,6 @@ online-radio.nl##[id^="AdvertMid"]
 bol-an.nl##[id^="block-"]:has([src*="_Banner"])
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
 bierdopje.com##[id^="block"]:has(h1:has-text(Advertentie))
-zakenreisnieuws.nl##[id^="block-block-"]:has(.adsbygoogle)
-zakenreisnieuws.nl##[id^="block-block"]:has([id^="div-gpt-ad"])
 blikopnieuws.nl##[id^="block-block-"]:has([target="_blank"] > img.media-element)
 luchtvaartnieuws.nl##[id^="block-block-"]:has-text(/voordelige/i)
 online-radio.nl##[id^="containersitead"]
