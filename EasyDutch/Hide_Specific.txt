@@ -1,11 +1,12 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 22 Jun 2022 15:23:30 +0000
+! Last updated: Wed, 22 Jun 2022 15:29:54 +0000
 !
 ! 2022-06-22
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class$="center"] > [id^="div-gpt-ad"]:upward(2)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(advert)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
+binnenvaartkrant.nl,dartfreakz.nl,dbsuriname.com,regioinbedrijf.nl,westerwoldeactueel.nl##.g
 briefjevanjan.nl##[href^="https://partner.bol.com/"]
 investmentofficer.nl##.region-banner
 investmentofficer.nl##[id*="dfptaghomeadvertorial"]:upward(.views-rows > .row > .col)
@@ -36,7 +37,6 @@ ditjesendatjes.nl##div[class^="article-page__sidebar"] a[href]:not(a[href*="ditj
 androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 dartfreakz.nl##.soliloquy-wrapper:not(:has(a[href*="dartfreakz.nl"]))
 dartfreakz.nl##.textwidget:has(a[href*="casino"])
-dartfreakz.nl##.g
 dartfreakz.nl##aside[class^="td_block"]:has-text(/partners/i)
 dartfreakz.nl##.wpb_wrapper a[href*="dartswarehouse.nl"]
 dartsactueel.nl##.elementor-widget-container:has-text(/powered by/i)
@@ -124,7 +124,6 @@ onsoranje.nl##.SponsorBar
 proshop.nl##.site-background-banner
 proshop.nl##.site-home-banner
 proshop.nl##.site-top-banner
-regioinbedrijf.nl##.g
 sc-heerenveen.nl##.partner-grid:upward(2)
 sc-heerenveen.nl##.partnerlink
 totoknvbbeker.nl##.SponsorBlock
@@ -184,7 +183,6 @@ farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
 mr-online.nl##.elementor-widget-container:has-text(Advertentie):upward(2)
 mr-online.nl##.strack_bnr
-binnenvaartkrant.nl##.g
 scheepvaartkrant.nl###block-leaderboard
 scheepvaartkrant.nl###block-topbannersidebar
 vlootschouw.nl##[id*="miw_widget"]:has(div[class]:has(a[href*="leverancier"]))
@@ -638,7 +636,6 @@ handbal.be##.footer-top
 kinkymedia.nl##.footer-widget-container:has(.size-full.aligncenter):has(img[src$="gif"])
 kanaalxxx.nl##.fpbnr
 unitednews.sr##.fullwidthbanner-container
-dbsuriname.com,westerwoldeactueel.nl##.g
 zeelandnet.nl##.g_banner
 spel.nl,spelletjes.nl##.game-page-sidebar
 hyvesgames.nl##.gamereel_featured-ad
