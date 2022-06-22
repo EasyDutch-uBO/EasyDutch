@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 22 Jun 2022 13:48:46 +0000
+! Last updated: Wed, 22 Jun 2022 14:22:40 +0000
 !
 ! 2022-06-22
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class$="center"] > [id^="div-gpt-ad"]:upward(2)
@@ -530,7 +530,6 @@ sexjobs.nl##.banner-wrapper
 dutchitchannel.nl##.bannner
 feyenoordpings.nl##.betcity-intro-wrapper
 nnp.nl##.bg-gray-100:has([advobject])
-zuidenvelder.info##.bg-grey.mb-20:has([advobject])
 berekenhet.nl##.bh-ads
 bieos-omroep.nl##.bieos-widget
 autosport.nl##.bigbanner
