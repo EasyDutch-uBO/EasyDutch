@@ -1,10 +1,11 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 22 Jun 2022 08:50:08 +0000
+! Last updated: Wed, 22 Jun 2022 09:09:40 +0000
 !
 ! 2022-06-22
-rtlboulevard.nl###dfp-billboard-wrapper
 ad.nl##[data-temptation-position="OORTJE"]
+rtlboulevard.nl###dfp-billboard-wrapper
+techradar.com###article-body > aside[class^="hawk-nest"]:has-text(/de beste/i):has(a[href*="tc.tradetracker.net"])
 ! 2022-06-22 https://github.com/uBlockOrigin/uAssets/issues/13800
 welingelichtekringen.nl##[id^="div-gpt-ad"]:style(height:10px !important;)
 ! 2022-06-21
