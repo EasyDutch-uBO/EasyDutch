@@ -16,6 +16,12 @@ noordkopcentraal.nl##.widgettitle:has-text(Advert)
 rtlboulevard.nl###dfp-billboard-wrapper
 streekstadcentraal.nl##[class$="-banners-wrapper"]
 techradar.com###article-body > aside.hawk-nest:has([class^="hawk-affiliate"])
+wielerflits.be,wielerflits.nl###mm_hpa
+wielerflits.be,wielerflits.nl##.affiliate_links
+wielerflits.be,wielerflits.nl##.list-group-item:has(span:has-text(Ad))
+wielerflits.be,wielerflits.nl##.mm_container
+wielerflits.be,wielerflits.nl##.row [class^="widget"]:has(.mm_container)
+wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
 zakenreisnieuws.nl##[id^="block-block"]:has([id^="div-gpt-ad"])
 zakenreisnieuws.nl##div[class*="block-block"]:has(.adsbygoogle)
 zakenreisnieuws.nl##div[style*="padding:10px"]:has(div[id^="div-gpt-ad"])
@@ -389,7 +395,6 @@ seksmet.nl###main-header-wrapper
 schiedamsnieuws.nl###media_image-3
 schiedamsnieuws.nl###media_image-4
 gratiscams.nl###menuinner > ul#menuinner > .cat
-wielerflits.be,wielerflits.nl###mm_hpa
 surinameview.com###nav_menu-2
 dutchitchannel.nl###news li:has-text(Adv)
 pokeren.nl###onetime-popup
@@ -479,7 +484,6 @@ autoweek.nl##.advertise
 broadcastmagazine.nl##.Advertisement
 goodbye.be,sporza.be##.advertising
 dagblad010.nl,voorburgsdagblad.nl##.advrow
-wielerflits.be,wielerflits.nl##.affiliate_links
 sportinnederland.com##.af-main-header-container
 modekoninginmaxima.nl##.after-content-ad:not(:has-text(Niets van deze website mag verveelvoudigd))
 gfcnieuws.com##.ai-viewport-1
@@ -702,7 +706,6 @@ iexgeld.nl##.LeaderboardContainer
 webwereld.nl##.leaderBoardHolder
 atv.be,robtv.be,tvl.be,tvoost.be##.leaderboardWrap
 blikopnieuws.nl##.ligatus-sidebar-block
-wielerflits.be,wielerflits.nl##.list-group-item:has(span:has-text(Ad))
 vagina.nl##.list-item:has(script[src*=realsrv])
 roulettefm.n,rtvstichtsevecht.nl##.list-sponsors
 sparta-rotterdam.nl##.logo_main_sponsor_image
@@ -722,7 +725,6 @@ eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.men
 mijn-tv-gids.be##.midzone
 scholieren.com##.min-h-250
 scholieren.com##.min-h-90
-wielerflits.be,wielerflits.nl##.mm_container
 !#if env_mobile
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
@@ -927,7 +929,6 @@ culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img
 123geldzaken.nl##.widget_sponsor
 radioreflex.be##.widget_sponsors_widget
 spelersvrouw.nl##.widget_text.gridlove-box
-wielerflits.be,wielerflits.nl##.widget_text:has([class^="wielerflits_ros_bravo"])
 emerce.nl##.widget_text:has(img[src*="/hosted-by-true-"])
 nuus.be##.widget-area.sidebar:has([data-advadstrackid])
 sportinnederland.com##.widget-area:has([id^="custom_html-"]:has(.adsbygoogle))
@@ -973,7 +974,6 @@ nporadio1.nl##[class^="sc-1o7zata"]:has-text(advert):has([id^="adid"]):has(scrip
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 gaynews.nl##[class^="va"]:has([class*="banner"])
-wielerflits.be,wielerflits.nl##[class^="wielerflits_ros_bravo"]
 negerinnensexdating.eu##[class="rand nomobile"]:has(a[href*="net69.nl/genre"])
 kinkysexcontactonline.nl,negerinnensexdating.eu,neukplaza.nl,privesexgids.nl,sexdatingholland.com,stellensexdating.nl,studentesexcontact.nl,tienersexpret.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"])
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
