@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-06-22 https://github.com/uBlockOrigin/uAssets/issues/13800
+welingelichtekringen.nl##[id^="div-gpt-ad"]:style(height:10px !important;)
 ! 2022-06-21
 deoudrotterdammer.nl##[id^="deoud-"]
 ditjesendatjes.nl##div[class^="article-page__sidebar"] a[href]:not(a[href*="ditjesendatjes.nl"]):not(a[href="#"]):has(img[src])
