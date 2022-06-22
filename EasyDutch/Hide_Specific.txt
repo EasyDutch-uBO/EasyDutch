@@ -1,8 +1,11 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 22 Jun 2022 09:36:47 +0000
+! Last updated: Wed, 22 Jun 2022 10:02:31 +0000
 !
 ! 2022-06-22
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class$="center"] > [id^="div-gpt-ad"]:upward(2)
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(advert)
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
 ad.nl##[data-temptation-position="OORTJE"]
 nnieuws.be##.content > .box:has(#partner-slider)
 rtlboulevard.nl###dfp-billboard-wrapper
@@ -182,8 +185,6 @@ skoften.net##.promoted
 headliner.nl###flex_left:has([id="div-gpt-ad"])
 hardnieuws.nl##[id*="ros-300x600"]:upward(1)
 ! 2022-03-22
-barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
-barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(/advert|Regiotreffers/)
 hbvl.be##.widget:has(.article-teaser)
 historiek.net,mariabode.nl,omroepeemsdelta.nl##[id^="custom_html"]:has-text(/advert/i)
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
