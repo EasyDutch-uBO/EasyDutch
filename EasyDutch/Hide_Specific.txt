@@ -1,9 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 22 Jun 2022 09:27:38 +0000
+! Last updated: Wed, 22 Jun 2022 09:36:47 +0000
 !
 ! 2022-06-22
 ad.nl##[data-temptation-position="OORTJE"]
+nnieuws.be##.content > .box:has(#partner-slider)
 rtlboulevard.nl###dfp-billboard-wrapper
 techradar.com###article-body > aside.hawk-nest:has([class^="hawk-affiliate"])
 ! 2022-06-22 https://github.com/uBlockOrigin/uAssets/issues/13800
