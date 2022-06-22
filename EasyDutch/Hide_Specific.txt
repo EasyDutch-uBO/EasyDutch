@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-22
+noordkopcentraal.nl##.bannerListWidget
+noordkopcentraal.nl##.widgettitle:has-text(Advert)
 investmentofficer.nl##[id*="dfptaghomeadvertorial"]:upward(.views-rows > .row > .col)
 investmentofficer.nl##.io-tape-card[href^="/partner"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class$="center"] > [id^="div-gpt-ad"]:upward(2)
@@ -331,7 +333,7 @@ dwtonline.com###banner1
 marketingtribune.nl###banner-billboard
 kranenwebsite.nl###bannerdiv
 autowereld.nl###banner-lister-top
-a1mediagroep.nl,brandweerspotters.nl,coc.nl,fanclubbarcelona.nl,noordkopcentraal.nl###banners
+a1mediagroep.nl,brandweerspotters.nl,coc.nl,fanclubbarcelona.nl###banners
 almere-nieuws.nl###banner-text2
 marktplaats.nl,2dehands.be###banner-top-dt
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
@@ -412,7 +414,6 @@ basketballbelgium.be###sidebar aside[id^="ao"]
 voetbal-vandaag.nl###sidebar_aanbevelen
 appletips.nl###singleab
 easyfm.nl###sponsors-carousel
-noordkopcentraal.nl###table-49960
 petitie24.nl###tekstpetitie > :has-text(advert)
 petitie24.nl###tekstpetitie > :has-text(advert) + div
 loemedia.nl###text-17
@@ -1019,8 +1020,6 @@ dutchporntube.nl##[id^="custom_html"]:has-text(Werelds Beste)
 geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
 aafm.nl##[id^="loaBlock"]:has-text(Advertentie)
 keizerstad.nl##[id^="media_image"]
-noordkopcentraal.nl##[id^="media_image-"].widget_media_image > .widgettitle:has-text(Advertenties)
-noordkopcentraal.nl##[id^="media_image-"].widget_media_image > a[href] > img[width="462"]
 dutchcryptotalk.com##[id^="media_image"]:has([href*="/bitvavo"])
 kanaancourant.nl##[id^="media_image-"]:has(a[href][target="_blank"][rel="noopener"])
 messianieuws.nl##[id^="media_image-"]:has(a[href][target="_blank"][rel="noopener"]:has(img[width="300"]))
