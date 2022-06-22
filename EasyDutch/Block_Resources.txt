@@ -167,7 +167,7 @@
 ||bloovi.be/frontend/files/banners/
 ||bnpparibasmarkets.nl/widget/$3p
 ||bol.com/nl/upload/banners/
-||bol.com/nl/upload/partnerprogramma/*.jpg
+||bol.com/nl/upload/partnerprogramma/$image
 ||bol-an.nl/wp-content/uploads/*/Adv_
 ||booking.com/flexiproduct.html$domain=puuropreis.nl
 ||buzzbie.nl/buzzbanners/*.js$script,1p
