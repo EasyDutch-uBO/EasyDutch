@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 27 Jun 2022 08:42:47 +0000
+! Last updated: Mon, 27 Jun 2022 08:45:37 +0000
 !
 ! 2022-06-27
 agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.sales-cat-context
@@ -347,7 +347,6 @@ alle-tests.nl###advertising
 bloovi.be###advertising
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
 sexdating-vrouwen.be###aside > :has(iframe[data-src*="affilaxy.com"])
-autozine.nl###asidetop
 ciaotutti.nl###b_searchboxInc
 belgiancycling.be###banner
 afkortingen.nu###banner_rectangle
