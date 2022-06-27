@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 27 Jun 2022 14:35:02 +0000
+! Last updated: Mon, 27 Jun 2022 14:49:57 +0000
 !
 ! 2022-06-27
+radiovisie.eu##.theiaStickySidebar [class*="widget"]:has(.adsbygoogle)
 iex.nl##.billboardwrapdown
 businessinsider.nl##[class*="-teaser"]:has(.bi-label--advertorial)
 kavelplatform.nl##.row > div:has([src*="uploads/banner"])
