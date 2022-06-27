@@ -688,7 +688,6 @@ weerplaza.nl##.hf-widget
 farm-date.com##.hide-for-small-only:has-text(Sponsors)
 slam.nl##.holder-ads
 basketbal.vlaanderen##.holder--divider-top
-18plussexdating.nl##.homebanner
 oogtv.nl##.home-banner
 nporadio2.nl##.home-module--advertisement
 eurogamer.nl##.homepage-billboard-container
