@@ -7,7 +7,8 @@ agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.n
 autoreview.nl##.autowereld_ros_bravo_leaderboard-billboard
 autozine.nl##.ad300x1050
 aavisie.nl##[id^="loaBlock"]:has-text(Advertentie)
-123geldzaken.nl##[class*="widget_sponsor"]
+123geldzaken.nl##.widget_sponsor
+123geldzaken.nl##.widget_sponsorlinks
 247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/)
 247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/) + section
 a1mediagroep.nl##.reclame
