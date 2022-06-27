@@ -1,13 +1,14 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 27 Jun 2022 08:35:59 +0000
+! Last updated: Mon, 27 Jun 2022 08:42:47 +0000
 !
 ! 2022-06-27
 agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.sales-cat-context
 autoreview.nl##.autowereld_ros_bravo_leaderboard-billboard
 autozine.nl##.ad300x1050
 aavisie.nl##[id^="loaBlock"]:has-text(Advertentie)
-123geldzaken.nl##[class*="widget_sponsor"]
+123geldzaken.nl##.widget_sponsor
+123geldzaken.nl##.widget_sponsorlinks
 247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/)
 247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/) + section
 a1mediagroep.nl##.reclame
