@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 27 Jun 2022 14:27:15 +0000
+! Last updated: Mon, 27 Jun 2022 14:29:03 +0000
 !
 ! 2022-06-27
 businessinsider.nl##[class*="-teaser"]:has(.bi-label--advertorial)
@@ -839,7 +839,7 @@ az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,niburu.co##.sponser
 computable.be##.sponsorartikelen
 knvb.nl##.SponsorBar-list
 omroephouten.nl##.sponsor-carousel
-businessinsider.nl,computable.nl##.sponsored
+computable.nl##.sponsored
 radio0511.com##.sponsorImg
 volleybelgium.be##.sponsors
 telegraaf.nl##.SportScoreboardPage__banner
