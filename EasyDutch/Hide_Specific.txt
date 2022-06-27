@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-27
+dsdating.nl##.bc_random_banner
+dsdating.nl##[href^="https://mt67.net/"]:upward(.elementor-section)
 beleggersbelangen.nl##.promo
 belegger.nl##.plusbtn
 bdsmleven.nl##.widget_random_banner_widget
