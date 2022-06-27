@@ -8,6 +8,7 @@ dsdating.nl##.bc_random_banner
 dsdating.nl##[href^="https://mt67.net/"]:upward(.elementor-section)
 beleggersbelangen.nl##.promo
 belegger.nl##.plusbtn
+beursgorilla.nl##.plus500
 bdsmleven.nl##.widget_random_banner_widget
 agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.sales-cat-context
 autoreview.nl##.autowereld_ros_bravo_leaderboard-billboard
