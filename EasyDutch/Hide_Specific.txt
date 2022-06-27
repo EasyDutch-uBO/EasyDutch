@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 27 Jun 2022 08:22:58 +0000
+! Last updated: Mon, 27 Jun 2022 08:30:32 +0000
 !
 ! 2022-06-27
 agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.sales-cat-context
@@ -13,7 +13,7 @@ aavisie.nl##[id^="loaBlock"]:has-text(Advertentie)
 a1mediagroep.nl##.reclame
 apintie.sr##div[style*="width:300px; height:200px;"]
 arenalokaal.nl##.content-start .items-center > .items-center:has([advobject]):upward(1)
-arenalokaal.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)
+arenalokaal.nl##[advobject]:upward(.bg-gray-100)
 ! 2022-06-23
 knack.be##.js-partner-content
 ! 2022-06-22
