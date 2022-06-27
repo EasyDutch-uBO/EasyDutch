@@ -1,8 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 27 Jun 2022 09:16:16 +0000
+! Last updated: Mon, 27 Jun 2022 09:49:46 +0000
 !
 ! 2022-06-27
+dsdating.nl##.bc_random_banner
+dsdating.nl##[href^="https://mt67.net/"]:upward(.elementor-section)
 beleggersbelangen.nl##.promo
 belegger.nl##.plusbtn
 bdsmleven.nl##.widget_random_banner_widget
