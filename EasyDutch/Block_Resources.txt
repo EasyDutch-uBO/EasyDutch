@@ -3,7 +3,9 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-27
-||bdsmleven.nl/wp-content/uploads/*/*-banner-$image
+||usercontent.one/wp/www.dsdating.nl/wp-content/uploads/2021/11/1436229.gif$image
+||usercontent.one/wp/www.dsdating.nl/wp-content/uploads/*/*banner$image
+||bdsmleven.nl/wp-content/uploads/*/*banner$image
 ||usercontent.one/wp/www.bdsmleven.nl/wp-content/uploads/*/*banner$image
 ||*.wp.com/www.appletips.nl/wp-content/uploads/Handyman-inCharge6.gif
 ||aafm.nl/cms/wp-content/*/banners/$image
