@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Mon, 27 Jun 2022 10:53:23 +0000
+! Last updated: Mon, 27 Jun 2022 15:01:24 +0000
 !
 ! 2022-06-27
 ||broadcastmagazine.nl/wp-content/uploads/*/SMPhomepagenw2.gif
@@ -131,7 +131,6 @@
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
 ||123video.nl^*/300x100_
-||18plussexdating.nl/images/18plussexdating.$image
 ||18plussexdating.nl/images/twero.$image
 ||2link.be/banners/
 ||402automotive.com/files/*/files/images/*/*/enibanner.$image
