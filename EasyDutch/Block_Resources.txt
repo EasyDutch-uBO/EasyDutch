@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-27
+||*.wp.com/www.appletips.nl/wp-content/uploads/Handyman-inCharge6.gif
 ||aafm.nl/cms/wp-content/*/banners/$image
 ||aavisie.nl/cms/wp-content/*/banners/$image
 ! 2022-06-22
