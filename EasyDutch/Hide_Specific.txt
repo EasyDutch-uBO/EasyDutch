@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 27 Jun 2022 15:01:24 +0000
+! Last updated: Mon, 27 Jun 2022 15:05:47 +0000
 !
 ! 2022-06-27
 ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href="http://eepurl.com/dFsw3z"]))
@@ -688,7 +688,6 @@ weerplaza.nl##.hf-widget
 farm-date.com##.hide-for-small-only:has-text(Sponsors)
 slam.nl##.holder-ads
 basketbal.vlaanderen##.holder--divider-top
-18plussexdating.nl##.homebanner
 oogtv.nl##.home-banner
 nporadio2.nl##.home-module--advertisement
 eurogamer.nl##.homepage-billboard-container
