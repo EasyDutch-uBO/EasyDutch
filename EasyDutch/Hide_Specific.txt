@@ -3,10 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-27
-autoline.be##.sales-cat-context
-autoline.nl##.sales-cat-context
-machineryline.be##.sales-cat-context
-machineryline.nl##.sales-cat-context
+autoline.be,autoline.nl##.sales-cat-context
+machineryline.be,machineryline.nl##.sales-cat-context
 autoreview.nl##.autowereld_ros_bravo_leaderboard-billboard
 autozine.nl##.ad300x1050
 aavisie.nl##[id^="loaBlock"]:has-text(Advertentie)
@@ -672,7 +670,6 @@ ajax.nl##.header__partner-link
 eredivisie.nl##.header__top__partners
 arenalokaal.nl,sexverhalen.com##.header_banner
 koopplein.nl,televizier.nl,tvblik.nl##.header-banner
-autoline-nl.be,autoline.nl##.header-bn-wrapper
 eromarkt.nl##.headerlinks:has(iframe[src="linkframe.php"])
 wos.nl##.header-right
 vivocyclo.com##.herald-sticky > [id^="media_image-"]
@@ -691,7 +688,6 @@ radiofm.nl##.hoofdAd2
 tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
 turkinfo.nl##.img_position_left:has(.adsbygoogle)
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,sportid.be,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
-autoline-nl.be,autoline.nl##.index-bns
 weertdegekste.nl##.infeed-outer
 weertdegekste.nl##.infeed-wrap
 rd.nl##.infotainment:has(a[href^="/advert"])
