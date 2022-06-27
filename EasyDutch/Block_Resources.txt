@@ -288,7 +288,6 @@
 ||handbalstartpunt.nl/content/schoonkapje$image,1p
 ||handbalstartpunt.nl/images/banner_$image,1p
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*.$image
-||hoekschnieuws.nl/banner/
 ||hotdatingvlaanderen.be/banner$image
 ||hotradiohits.nl/image/picture/*_banner.
 ||htforum.nl/yabbse/*-banner2.gif
@@ -471,7 +470,6 @@
 ||speurdeals.nl/uploads/banners$image
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=onder-filmpje$subdocument
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=rechts-menu-onder$subdocument
-||sponsorlink.nl/storage/*/conversions/*-thumbnail$domain=hoekschnieuws.nl
 ||sproeiendekutjes.nl/wp-content/uploads/*/spannende-afspraakjes.webm$media,1p
 ||srherald.com/wp-content/banners/
 ||static.qmusic.*/acties/qnl-nu-ad/index.html$subdocument,domain=nu.nl
