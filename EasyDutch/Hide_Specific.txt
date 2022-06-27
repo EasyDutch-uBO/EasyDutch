@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 27 Jun 2022 06:44:07 +0000
+! Last updated: Mon, 27 Jun 2022 06:44:36 +0000
 !
 ! 2022-06-27
+a1mediagroep.nl##.reclame
 apintie.sr##div[style*="width:300px; height:200px;"]
 arenalokaal.nl##.content-start .items-center > .items-center:has([advobject]):upward(1)
 arenalokaal.nl##[advobject]:upward(.bg-gray-100)
