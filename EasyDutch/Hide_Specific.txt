@@ -13,6 +13,7 @@ aavisie.nl##[id^="loaBlock"]:has-text(Advertentie)
 a1mediagroep.nl##.reclame
 apintie.sr##div[style*="width:300px; height:200px;"]
 arenalokaal.nl##.content-start .items-center > .items-center:has([advobject]):upward(1)
+arenalokaal.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)
 ! 2022-06-23
 knack.be##.js-partner-content
 ! 2022-06-22
