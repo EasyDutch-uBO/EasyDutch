@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 27 Jun 2022 07:21:21 +0000
+! Last updated: Mon, 27 Jun 2022 07:39:31 +0000
 !
 ! 2022-06-27
+autoreview.nl##.autowereld_ros_bravo_leaderboard-billboard
 autozine.nl##.ad300x1050
 aavisie.nl##[id^="loaBlock"]:has-text(Advertentie)
 123geldzaken.nl##.widget_sponsorlinks
