@@ -3,9 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-27
-@@||androidplanet.nl/wp-content/*/scripts/adgear.js$script,1p
-! 2022-06-09
-@@||iphoned.nl/wp-content/*/scripts/adgear.js$script,1p
+/wp-content/*/scripts/adgear.js$script,1p,domain=androidplanet.nl|iphoned.nl
 ! 2022-05-28 racingnews365.nl
 @@||fwmrm.net/ad/*$xhr,domain=embed.viaplay.com|racingnews365.nl
 @@||fwmrm.net/crossdomain.xml$xhr,domain=embed.viaplay.com|racingnews365.nl
