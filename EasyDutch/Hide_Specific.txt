@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-27
+radiovisie.eu##.theiaStickySidebar [class*="widget"]:has(.adsbygoogle)
 iex.nl##.billboardwrapdown
 businessinsider.nl##[class*="-teaser"]:has(.bi-label--advertorial)
 kavelplatform.nl##.row > div:has([src*="uploads/banner"])
