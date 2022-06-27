@@ -3,8 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-27
-autoline.be,autoline.nl##.sales-cat-context
-machineryline.be,machineryline.nl##.sales-cat-context
+agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.sales-cat-context
 autoreview.nl##.autowereld_ros_bravo_leaderboard-billboard
 autozine.nl##.ad300x1050
 aavisie.nl##[id^="loaBlock"]:has-text(Advertentie)
