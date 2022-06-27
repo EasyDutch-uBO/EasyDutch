@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-27
+||bdsmleven.nl/wp-content/uploads/*/*-banner-$image
+||usercontent.one/wp/www.bdsmleven.nl/wp-content/uploads/*/*banner$image
 ||*.wp.com/www.appletips.nl/wp-content/uploads/Handyman-inCharge6.gif
 ||aafm.nl/cms/wp-content/*/banners/$image
 ||aavisie.nl/cms/wp-content/*/banners/$image
