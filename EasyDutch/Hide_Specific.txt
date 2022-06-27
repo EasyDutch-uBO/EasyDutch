@@ -346,7 +346,6 @@ alle-tests.nl###advertising
 bloovi.be###advertising
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
 sexdating-vrouwen.be###aside > :has(iframe[data-src*="affilaxy.com"])
-autozine.nl###asidetop
 ciaotutti.nl###b_searchboxInc
 belgiancycling.be###banner
 afkortingen.nu###banner_rectangle
