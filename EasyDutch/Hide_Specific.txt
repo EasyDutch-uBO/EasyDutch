@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-27
+247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/)
+247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/) + section
 a1mediagroep.nl##.reclame
 apintie.sr##div[style*="width:300px; height:200px;"]
 arenalokaal.nl##.content-start .items-center > .items-center:has([advobject]):upward(1)
@@ -620,7 +622,6 @@ turksemedia.nl##.easingslider
 decibel.nl##.edgtf-carousel-holder
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.banner-container):not(:has-text(/podcast/i))
-247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
 sexcam-mokkels.nl,tellows.nl##.entry-content > div
 dutchporntube.nl##.entry-header > .button
 radiocontinu.nl##.eskimo-carousel-container
@@ -817,7 +818,6 @@ alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
 velt.be##.simpleads
 pcmweb.nl##.site__sidebar > .block:has(div.banner)
 geenstijl.nl##.slajeslag
-247spice.com##.slideInLeft.animated:has-text(Advert)
 omroepwest.nl##.slider-wrapper
 waarzo.nl##.smallbox:has-text(Advertentie)
 solarmagazine.nl##.sols
