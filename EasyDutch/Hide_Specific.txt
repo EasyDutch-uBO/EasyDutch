@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-27
+a1mediagroep.nl##.reclame
 apintie.sr##div[style*="width:300px; height:200px;"]
 arenalokaal.nl##.content-start .items-center > .items-center:has([advobject]):upward(1)
 arenalokaal.nl##[advobject]:upward(.bg-gray-100)
