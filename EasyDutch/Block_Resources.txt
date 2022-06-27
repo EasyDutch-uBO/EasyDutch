@@ -1,8 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Mon, 27 Jun 2022 10:24:44 +0000
+! Last updated: Mon, 27 Jun 2022 10:53:23 +0000
 !
 ! 2022-06-27
+||broadcastmagazine.nl/wp-content/uploads/*/SMPhomepagenw2.gif
 ||usercontent.one/wp/www.dsdating.nl/wp-content/uploads/2021/11/1436229.gif$image
 ||usercontent.one/wp/*/wp-content/uploads/*/*banner$image,domain=bdsmleven.nl|dsdating.nl
 ||bdsmleven.nl/wp-content/uploads/*/*banner$image
