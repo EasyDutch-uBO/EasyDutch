@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 27 Jun 2022 14:49:57 +0000
+! Last updated: Mon, 27 Jun 2022 14:57:26 +0000
 !
 ! 2022-06-27
+ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href="http://eepurl.com/dFsw3z"]))
 radiovisie.eu##.theiaStickySidebar [class*="widget"]:has(.adsbygoogle)
 iex.nl##.billboardwrapdown
 businessinsider.nl##[class*="-teaser"]:has(.bi-label--advertorial)
