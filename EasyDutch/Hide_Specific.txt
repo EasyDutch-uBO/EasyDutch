@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-27
+broadcastmagazine.nl##.banner
 biernet.nl###banTop
 belegger.nl##.Textads:upward(.ContentRightBlock)
 participaties.nl##[id^="div-gpt-ad"]:upward(.taggrid__item)
@@ -501,7 +502,6 @@ startlijstjes.nl##.advertentieblock
 dorpsklanken.online##.advertenties
 autoweek.nl##.advertise
 7sur7.be,ad.nl,bd.nl,bnnvara.nl,destentor.nl,ed.nl,elektormagazine.nl,gelderlander.nl,hln.be,hpdetijd.nl,kieskeurig.nl,modekoninginmaxima.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
-broadcastmagazine.nl##.Advertisement
 goodbye.be,sporza.be##.advertising
 dagblad010.nl,voorburgsdagblad.nl##.advrow
 sportinnederland.com##.af-main-header-container
