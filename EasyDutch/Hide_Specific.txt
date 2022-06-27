@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 27 Jun 2022 10:28:48 +0000
+! Last updated: Mon, 27 Jun 2022 10:29:20 +0000
 !
 ! 2022-06-27
+biernet.nl###banTop
 belegger.nl##.Textads:upward(.ContentRightBlock)
 participaties.nl##[id^="div-gpt-ad"]:upward(.taggrid__item)
 belgie-sexcontact.be##.well:has([src^="https://www.affilaxy.com/"])
@@ -326,7 +327,6 @@ nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(Advert))
 ! 2022-01-14
 biernet.nl###BJA2
 biernet.nl###BJA3
-biernet.nl##div[id^="banTop"]:has([class*="ad-wrapper"])
 dutchleader.nl##td[align="CENTER"]:has(td[background*="pics"]:has-text(/sponsor/i))
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
