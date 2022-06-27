@@ -839,7 +839,7 @@ az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,niburu.co##.sponser
 computable.be##.sponsorartikelen
 knvb.nl##.SponsorBar-list
 omroephouten.nl##.sponsor-carousel
-businessinsider.nl,computable.nl##.sponsored
+computable.nl##.sponsored
 radio0511.com##.sponsorImg
 volleybelgium.be##.sponsors
 telegraaf.nl##.SportScoreboardPage__banner
