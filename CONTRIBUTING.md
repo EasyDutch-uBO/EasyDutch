@@ -1,5 +1,8 @@
 #### EasyDutch
 
+Important note: </br>
+I, @BPower0036 owner of EasyDutch, prefer simplicity over complexity. So in stead of `123geldzaken.nl##[class*="widget_sponsor"]` use `123geldzaken.nl##.widget_sponsor` and `123geldzaken.nl##.widget_sponsorlinks`
+
 ##### Ordering of filters
 
 New filters must be added on the top of each list.
