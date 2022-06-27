@@ -1,7 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 22 Jun 2022 15:00:39 +0000
+! Last updated: Mon, 27 Jun 2022 06:47:29 +0000
 !
+! 2022-06-27
+||aavisie.nl/cms/wp-content/*/banners/$image
 ! 2022-06-22
 ||upload.gscdn.nl/uploads/*_Kansino_Feed$image,domain=geenstijl.nl
 ||streekstadcentraal.nl/images/banners/$image
