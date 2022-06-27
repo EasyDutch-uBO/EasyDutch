@@ -1,11 +1,9 @@
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Mon, 27 Jun 2022 06:49:03 +0000
+! Last updated: Mon, 27 Jun 2022 07:45:29 +0000
 !
 ! 2022-06-27
-@@||androidplanet.nl/wp-content/*/scripts/adgear.js$script,1p
-! 2022-06-09
-@@||iphoned.nl/wp-content/*/scripts/adgear.js$script,1p
+/wp-content/*/scripts/adgear.js$script,1p,domain=androidplanet.nl|iphoned.nl
 ! 2022-05-28 racingnews365.nl
 @@||fwmrm.net/ad/*$xhr,domain=embed.viaplay.com|racingnews365.nl
 @@||fwmrm.net/crossdomain.xml$xhr,domain=embed.viaplay.com|racingnews365.nl
