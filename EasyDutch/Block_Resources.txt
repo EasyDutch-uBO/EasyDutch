@@ -4,10 +4,9 @@
 !
 ! 2022-06-27
 ||usercontent.one/wp/www.dsdating.nl/wp-content/uploads/2021/11/1436229.gif$image
-||usercontent.one/wp/www.dsdating.nl/wp-content/uploads/*/*banner$image
+||usercontent.one/wp/*/wp-content/uploads/*/*banner$image,domain=bdsmleven.nl|dsdating.nl
 ||bdsmleven.nl/wp-content/uploads/*/*banner$image
 ||madmoney.eu/promotools/banners/
-||usercontent.one/wp/www.bdsmleven.nl/wp-content/uploads/*/*banner$image
 ||*.wp.com/www.appletips.nl/wp-content/uploads/Handyman-inCharge6.gif
 ||aafm.nl/cms/wp-content/*/banners/$image
 ||aavisie.nl/cms/wp-content/*/banners/$image
