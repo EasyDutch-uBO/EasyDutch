@@ -419,7 +419,6 @@ sexpower.nl###pre-footer-banners
 immo.vlan.be###ProvidersBox
 soccernews.nl###r89-mobile-rectangle-mid
 soccernews.nl###r89-takeover
-bdsmbook.nl###random_banner_widget-2
 stubru.be###reclameblok-wrapper
 xxxdump.nl###reclame-eroads
 rtvdrenthe.nl###recommendations-above-ad
