@@ -652,7 +652,6 @@ ajax1.nl##.footer__footer-fat
 feyenoordpings.nl##.footer__partners
 rtvgo.nl##.footeradd
 heracles.nl##.footer-blocks
-burggolf.nl##.footercontent
 fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
 handbal.be##.footer-top
