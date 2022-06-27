@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 27 Jun 2022 14:29:03 +0000
+! Last updated: Mon, 27 Jun 2022 14:32:03 +0000
 !
 ! 2022-06-27
 businessinsider.nl##[class*="-teaser"]:has(.bi-label--advertorial)
@@ -652,7 +652,6 @@ ajax1.nl##.footer__footer-fat
 feyenoordpings.nl##.footer__partners
 rtvgo.nl##.footeradd
 heracles.nl##.footer-blocks
-burggolf.nl##.footercontent
 fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
 handbal.be##.footer-top
