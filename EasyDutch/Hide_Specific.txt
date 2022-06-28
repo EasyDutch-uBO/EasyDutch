@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 07:07:24 +0000
+! Last updated: Tue, 28 Jun 2022 07:25:02 +0000
 !
 ! 2022-06-28
 dekrantvantynaarlo.nl##.et_pb_ads_agsdcm_0
@@ -563,7 +563,6 @@ marktplaats.nl,2dehands.be##.Banners-bannerFeedItem
 nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
 knhs.nl##.banners-right
-dolcevia.com##.banner-style
 radiomonique.am##.bannerswidget
 marktplaats.nl,2dehands.be##.banner-vipbottom
 sexjobs.nl##.banner-wrapper
@@ -715,7 +714,6 @@ dansendeberen.be##.inhype-bb-block-header
 qmusic.nl##.inline-partners
 nzbindex.nl##.inner:has([href^="/"])
 radiopros.be##.inside-left-sidebar
-dolcevia.com##.ira-container.ira-format-block > .bookingaff
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-billboard
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-skyscraper
 startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
