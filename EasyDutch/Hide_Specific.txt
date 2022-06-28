@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 09:31:54 +0000
+! Last updated: Tue, 28 Jun 2022 09:45:38 +0000
 !
 ! 2022-06-28
 edelmetaal-info.nl##section:has(.masonry-item:not(:has(a[href*="edelmetaal-info.nl"])))
@@ -1058,7 +1058,6 @@ top40.nl##[id^="sky"]:has(script:has-text(AdvertSlot))
 noordernieuws.nl##[id^="slideshowwidget"]:has(img[src$=".gif"])
 sciencelink.net##[id^="sponsored-content_"]
 itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
-elegance.nl##[id^="tdi_"][class^="tdc-row"]:has([class^="adsbygoogle"])
 watchfaces.be##[id^="text"]:has(.adsbygoogle)
 ninefornews.nl##[id^="text-"]:has(.nfn-target[data-advadsredirect])
 radiozuidrand.be##[id^="text-"]:has(.widget-title:has-text(ADVERTEERDERS))
