@@ -675,7 +675,6 @@ unitednews.sr##.fullwidthbanner-container
 zeelandnet.nl##.g_banner
 spel.nl,spelletjes.nl##.game-page-sidebar
 hyvesgames.nl##.gamereel_featured-ad
-eurogamer.nl##.game-spotlight-advertising
 fierljeppenwinsum.frl##.gdlr-sidebar:has-text(sponsoren)
 radiovisie.eu##.gmollik
 belgischecasinos.be,newspower.nu##.gofollow
@@ -701,7 +700,6 @@ slam.nl##.holder-ads
 basketbal.vlaanderen##.holder--divider-top
 oogtv.nl##.home-banner
 nporadio2.nl##.home-module--advertisement
-eurogamer.nl##.homepage-billboard-container
 racingnews365.nl##.homepage-casino-wrapper
 jan-magazine.nl##.homepage-marquee
 sexylingerie-winkel.be##.homepage-seo-footer
