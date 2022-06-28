@@ -4,6 +4,7 @@
 !
 ! 2022-06-28
 dekrantvantynaarlo.nl##.et_pb_ads_agsdcm_0
+dekrantvantynaarlo.nl###text-2:has-text(Advertentie)
 creditexpo.nl##.banner
 dagbladdewest.com##.elementor-widget-slides:has(.swiper-wrapper)
 palnws.be##.adlink:not(:has([src*="PalNWS"]))
