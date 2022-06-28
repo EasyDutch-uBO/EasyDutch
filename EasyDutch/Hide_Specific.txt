@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 12:54:56 +0000
+! Last updated: Tue, 28 Jun 2022 12:59:12 +0000
 !
 ! 2022-06-28
 schie.nu##.my-5:has-text(/advert/i)
@@ -1026,7 +1026,6 @@ besteproduct.nl##[id^="ad-block"]
 kinkymedia.nl##[id^="adguru-zone-widget"]
 online-radio.nl##[id^="AdvertMid"]
 bol-an.nl##[id^="block-"]:has([src*="_Banner"])
-frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
 bierdopje.com##[id^="block"]:has(h1:has-text(Advertentie))
 blikopnieuws.nl##[id^="block-block-"]:has([target="_blank"] > img.media-element)
 luchtvaartnieuws.nl##[id^="block-block-"]:has-text(/voordelige/i)

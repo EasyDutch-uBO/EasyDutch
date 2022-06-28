@@ -1,8 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 28 Jun 2022 12:53:39 +0000
+! Last updated: Tue, 28 Jun 2022 12:59:12 +0000
 !
 ! 2022-06-28
+||shemaledaten.net/img/banners/
 ||schie.nu/images/*banner
 ||fcgroningen.nl/websites/implementatie/website/img/sprite/sponsor-$image
 ||cryptobenelux.com/wp-content/uploads/*/Bets*$image
