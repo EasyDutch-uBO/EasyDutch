@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 07:39:01 +0000
+! Last updated: Tue, 28 Jun 2022 07:43:35 +0000
 !
 ! 2022-06-28
 drentsnieuws.nl##.shadow:has(#bannerCarousel)
@@ -1037,7 +1037,7 @@ naaktlog.nl##[id^="custom_html"]:has(iframe[src^="https://tools.vpscash.nl/"])
 okemedia.nl##[id^="custom_html"]:has(img[src*="banner"])
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
 pornomilf.nl##[id^="custom_html"]:has-text(Hier aanmelden)
-dutchporntube.nl##[id^="custom_html"]:has-text(Kennismaken en Afspreken)
+dutchporntube.nl##[id^="custom_html"]:has-text(Afspreken)
 nljug.org##[id^="custom_html-"]:has-text(Kennispartners):has(a[href] > img)
 tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Webcamsex|Sex contact/)
 dutchporntube.nl##[id^="custom_html"]:has-text(Werelds Beste)
