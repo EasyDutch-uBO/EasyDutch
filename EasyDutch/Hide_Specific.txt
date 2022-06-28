@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 11:17:12 +0000
+! Last updated: Tue, 28 Jun 2022 11:22:47 +0000
 !
 ! 2022-06-28
 emerce.nl##.m-banner-wrapper
@@ -729,7 +729,6 @@ eurocampings.nl##.js-mock-banner
 waldnet.nl##.kolom_haad > div[style="height: 300px;"]
 guruwatch.nl##.LargeRectangle
 gratispornofilm.nl##.lazyloaded.block-bordered
-eoswetenschap.eu##.l-banner
 speeleiland.nl##.leader-below-game
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,peoplesphere.be,psv.nl,sport-planet.eu,sportid.be,tenniskrant.be,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 rendez-vous.be##.leaderBoard
