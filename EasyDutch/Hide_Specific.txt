@@ -3,7 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
-geelfm.be###slider
+geelfm.be##a[href="/adverteren/"]:upward(1)
 gaynews.nl##a[href^="/_global/leesmeer.php?"]
 gaynews.nl##[id^="fp"]
 frontline.digital##p:has-text(,):not(:has-text(/[a-z]|[0-9]/i))
