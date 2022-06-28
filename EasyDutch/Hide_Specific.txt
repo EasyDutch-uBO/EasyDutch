@@ -3,7 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
-gaynews.nl##[id^="fp-"]
+gaynews.nl##a[href^="/_global/leesmeer.php?"]
+gaynews.nl##[id^="fp"]
 frontline.digital##p:has-text(,):not(:has-text(/[a-z]|[0-9]/i))
 schie.nu##.my-5:has-text(/advert/i)
 fleet-mobility.nl##.spotlight:has-text(Partners)
@@ -1092,7 +1093,6 @@ be.hardware.info##+js(nostif, .call(null), 10)
 geenstijl.nl##a[data-ga-event^="link-tip"]
 nu.nl##a[href*="/advertorial-"]
 geilverlangen.nl##a[href] > img.size-full.aligncenter
-gaynews.nl##a[href^="/_global/_cp.php?"]
 appletips.nl##a[href^="/adverteren-"]
 racexpress.nl##a[href^="http://www.onderdelenstore24.nl/"]
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
