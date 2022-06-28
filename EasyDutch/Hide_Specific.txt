@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+eurogamer.nl##.desktop_mpu
 edelmetaal-info.nl##section:has(.masonry-item:not(:has(a[href*="edelmetaal-info.nl"])))
 edelmetaal-info.nl##.figure-image[data-links=""]:not(a[href*="edelmetaal-info.nl"])
 edelmetaal-info.nl##div[class^=" element-short"] a[onclick*="outgoing"]:has(img[width="180"]):not(:has([href*="edelmetaal-info.nl"]))
@@ -639,7 +640,6 @@ voetbaluitslagen.com##.cta
 menttv.be##.cta-container
 kekmama.nl##.cts-row-wrapper
 touretappe.nl##.desktopad
-eurogamer.nl##.desktop-mpu
 nd.nl##.desktoponly > .text-center
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp-space
 sexafspraakonline.nl##.d-lg-block.d-none > .card:has-text(Advert)
