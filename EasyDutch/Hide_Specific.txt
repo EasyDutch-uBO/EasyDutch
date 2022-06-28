@@ -459,7 +459,6 @@ motorfietsblog.nl###shopside
 basketballbelgium.be###sidebar aside[id^="ao"]
 voetbal-vandaag.nl###sidebar_aanbevelen
 appletips.nl###singleab
-easyfm.nl###sponsors-carousel
 petitie24.nl###tekstpetitie > :has-text(advert)
 petitie24.nl###tekstpetitie > :has-text(advert) + div
 loemedia.nl###text-17
