@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+executive-people.nl##li:has(.banner)
+executive-people.nl##li:has(em:has-text(Advert))
 fcgroningen.nl##.sponsors
 halstadcentraal.nl##div[class$="banners-wrapper"]
 fd.nl##.noAdBlockDetected .fd-message
