@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 09:11:08 +0000
+! Last updated: Tue, 28 Jun 2022 09:15:50 +0000
 !
 ! 2022-06-28
 drentsnieuws.nl##.shadow:has(#bannerCarousel)
@@ -459,7 +459,6 @@ motorfietsblog.nl###shopside
 basketballbelgium.be###sidebar aside[id^="ao"]
 voetbal-vandaag.nl###sidebar_aanbevelen
 appletips.nl###singleab
-easyfm.nl###sponsors-carousel
 petitie24.nl###tekstpetitie > :has-text(advert)
 petitie24.nl###tekstpetitie > :has-text(advert) + div
 loemedia.nl###text-17
