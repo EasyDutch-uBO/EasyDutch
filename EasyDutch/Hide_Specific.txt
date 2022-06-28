@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 14:24:47 +0000
+! Last updated: Tue, 28 Jun 2022 14:29:07 +0000
 !
 ! 2022-06-28
+gids.tv##.advertisement:upward(1)
 gic.nl##.katernbanners
 geelfm.be##a[href="/adverteren/"]:upward(1)
 gaynews.nl##a[href^="/_global/leesmeer.php?"]
@@ -1170,8 +1171,6 @@ gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
 iculture.nl##div[style="min-height:250px"]
 crimesite.nl##em:has-text(reclame)
 seksmet.nl##gofollow:has(img[src])
-gids.tv##h2:has-text(Advert)
-gids.tv##h2:has-text(Advert) + .advertisement + a[href]
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 oisterwijknieuws.nl##img[alt="banner"]
