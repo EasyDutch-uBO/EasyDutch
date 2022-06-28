@@ -1,9 +1,8 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 06:53:38 +0000
+! Last updated: Tue, 28 Jun 2022 07:04:11 +0000
 !
 ! 2022-06-28
-dbsuriname.com##.BannerWidget
 creditexpo.nl##.banner
 dagbladdewest.com##.elementor-widget-slides:has(.swiper-wrapper)
 palnws.be##.adlink:not(:has([src*="PalNWS"]))
