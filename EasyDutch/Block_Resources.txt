@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+||gaynews.nl/images/advertisement$image
+||gaynews.nl/images/_adv_txt$image
 ||shemaledaten.net/img/banners/
 ||schie.nu/images/*banner
 ||fcgroningen.nl/websites/implementatie/website/img/sprite/sponsor-$image
