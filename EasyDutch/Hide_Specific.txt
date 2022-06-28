@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 07:43:35 +0000
+! Last updated: Tue, 28 Jun 2022 09:11:08 +0000
 !
 ! 2022-06-28
 drentsnieuws.nl##.shadow:has(#bannerCarousel)
@@ -380,7 +380,6 @@ belgiancycling.be###banner
 afkortingen.nu###banner_rectangle
 afkortingen.nu###banner_right
 afkortingen.nu###banner_top
-dwtonline.com###banner1
 marketingtribune.nl###banner-billboard
 kranenwebsite.nl###bannerdiv
 autowereld.nl###banner-lister-top
