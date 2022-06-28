@@ -925,7 +925,7 @@ marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
 barneveldsekrant.nl,edestad.nl##.w-300x.RM5
 osuradio.nl##.wdslider
 telegraaf.nl##.WebpushOptin__main
-dating-vinden.be,deperfecte-sexdate.be,deperfecte-sexdate.nl,flirten-vlaanderen.be,geile-sexverhalen.nl,geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexcontact-xxx.be,sexdate-xxx.be,sexdating4u.be,vrouwsex.be##.well:has(.bannergroup)
+dating-vinden.be,deperfecte-sexdate.be,deperfecte-sexdate.nl,flirten-vlaanderen.be,geile-sexverhalen.nl,geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexcontact-xxx.be,sexdate-xxx.be,vrouwsex.be##.well:has(.bannergroup)
 neuk-sexcontact.be##.well:has([src*=".sdcash.nl/"])
 belgie-sexcontact.be##.well:has(img[src])
 deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
