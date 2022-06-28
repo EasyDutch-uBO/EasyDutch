@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+dekrantvantynaarlo.nl##.et_pb_ads_agsdcm_0
 creditexpo.nl##.banner
 dagbladdewest.com##.elementor-widget-slides:has(.swiper-wrapper)
 palnws.be##.adlink:not(:has([src*="PalNWS"]))
@@ -460,7 +461,6 @@ easyfm.nl###sponsors-carousel
 petitie24.nl###tekstpetitie > :has-text(advert)
 petitie24.nl###tekstpetitie > :has-text(advert) + div
 loemedia.nl###text-17
-dekrantvantynaarlo.nl###text-2:has-text(Advertentie)
 sexpunt.nl###top:has(.banner)
 online-radio.nl###top_ad-360
 doorbraak.be###top-advertisement-area
