@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 15:01:00 +0000
+! Last updated: Tue, 28 Jun 2022 15:20:36 +0000
 !
 ! 2022-06-28
 golf.be##[class*="-ad-banner-box"]
@@ -1041,9 +1041,7 @@ cryptosjop.nl##[id^="custom_html-"]:has(.bitvavo-widget)
 rtvalbrandswaard.com##[id^="custom_html-"]:has([src^="https://bannerbuilder.sponsorkliks.com/"])
 pornopower.nl##[id^="custom_html"]:has([src^="https://chainadvertising.eu/"])
 janvissersweer.nl##[id^="custom_html-"]:has([src^="https://pagead2.googlesyndication.com/"])
-grandprixradio.nl##[id^="custom_html-"]:has([src^="https://partner.bol.com/"])
 pornopower.nl##[id^="custom_html"]:has([src^="https://www.2k19.nl/"])
-grandprixradio.nl##[id^="custom_html-"]:has([target="_blank"][rel="noopener"]):not(:has-text(/F1 kalender/i))
 messianieuws.nl##[id^="custom_html-"]:has(a[href][target="_blank"][rel="noopener"])
 sexervaringdelen.com##[id^="custom_html-"]:has(iframe)
 naaktlog.nl##[id^="custom_html"]:has(iframe[src^="https://tools.vpscash.nl/"])
