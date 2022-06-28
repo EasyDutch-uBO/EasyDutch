@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+dolcevia.com##.affiliatelink
+dolcevia.com##.bookingaff:upward(.card)
 dekrantvantynaarlo.nl##.et_pb_ads_agsdcm_0
 dekrantvantynaarlo.nl###text-2:has-text(Advertentie)
 creditexpo.nl##.banner
