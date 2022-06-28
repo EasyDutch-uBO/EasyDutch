@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+voetbalverslaafd.nl##.bn__wrapper
 executive-people.nl##li:has(.banner)
 executive-people.nl##li:has(em:has-text(Advert))
 executive-people.nl##.bannner
