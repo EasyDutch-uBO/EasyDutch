@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+waterkant.net##[href^="https://www.eventbrite.nl/e/tickets"]
 gids.tv##.advertisement:upward(1)
 gic.nl##.katernbanners
 geelfm.be##a[href="/adverteren/"]:upward(1)
