@@ -1,8 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 11:00:45 +0000
+! Last updated: Tue, 28 Jun 2022 11:14:33 +0000
 !
 ! 2022-06-28
+emerce.nl##.m-banner-wrapper
+emerce.nl##.widget_text:has(a[href^="https://partner.bol.com/"])
 europa-landbouwmachines.nl##.pt-3.height-90:has([id^="div-gpt-ad"])
 elegance.nl##div[class^="vc_row"]:has(.wpb_wrapper .adsbygoogle):not(:has([href]))
 eurogamer.nl##.desktop_mpu
