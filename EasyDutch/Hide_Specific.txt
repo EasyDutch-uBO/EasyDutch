@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 12:19:52 +0000
+! Last updated: Tue, 28 Jun 2022 12:26:52 +0000
 !
 ! 2022-06-28
+fleet-mobility.nl##.spotlight:has-text(Partners)
 flair##.c-commerical_banner
 risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
 voetbalverslaafd.nl##.bn__wrapper
@@ -859,7 +860,6 @@ computable.nl##.sponsored
 radio0511.com##.sponsorImg
 volleybelgium.be##.sponsors
 telegraaf.nl##.SportScoreboardPage__banner
-fleet-mobility.nl##.spotlight
 gratispittigesexfilms.nl,hetegangbang.nl##.spot-on
 detelefoongids.nl##.static-map
 nos.nl##.ster-banner
