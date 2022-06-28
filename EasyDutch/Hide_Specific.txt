@@ -3,7 +3,6 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
-dbsuriname.com##.BannerWidget
 creditexpo.nl##.banner
 dagbladdewest.com##.elementor-widget-slides:has(.swiper-wrapper)
 palnws.be##.adlink:not(:has([src*="PalNWS"]))
