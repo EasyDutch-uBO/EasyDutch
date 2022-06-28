@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+elegance.nl##div[class^="vc_row"]:has(.wpb_wrapper .adsbygoogle):not(:has([href]))
 eurogamer.nl##.desktop_mpu
 edelmetaal-info.nl##section:has(.masonry-item:not(:has(a[href*="edelmetaal-info.nl"])))
 edelmetaal-info.nl##.figure-image[data-links=""]:not(a[href*="edelmetaal-info.nl"])
