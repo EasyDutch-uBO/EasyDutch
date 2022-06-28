@@ -1058,7 +1058,6 @@ top40.nl##[id^="sky"]:has(script:has-text(AdvertSlot))
 noordernieuws.nl##[id^="slideshowwidget"]:has(img[src$=".gif"])
 sciencelink.net##[id^="sponsored-content_"]
 itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
-elegance.nl##[id^="tdi_"][class^="tdc-row"]:has([class^="adsbygoogle"])
 watchfaces.be##[id^="text"]:has(.adsbygoogle)
 ninefornews.nl##[id^="text-"]:has(.nfn-target[data-advadsredirect])
 radiozuidrand.be##[id^="text-"]:has(.widget-title:has-text(ADVERTEERDERS))
