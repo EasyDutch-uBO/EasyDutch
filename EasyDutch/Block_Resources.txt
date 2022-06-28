@@ -124,7 +124,7 @@
 .nl/adurl/$xhr,domain=start-player.npo.nl
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
 /^https\:\/\/executive-people\.nl\/media\/[\d]{6}\/[\d]+\.jpg$/$image
-/images/banners/*$image,domain=adodenhaag.nl|deperfecte-sexdate.be|bodemvondstenwereld.nl|deperfecte-sexdate.nl|dolcevia.com|drentsnieuws.nl|halstadcentraal.nl|lokaleomroepzeewolde.nl|neukengratis.be|neuk-sexcontact.be|niedziela.nl|puurnaturisme.nl|sexdate-xxx.be|sexdating4u.be|vrouwsex.be
+/images/banners/*$image,domain=adodenhaag.nl|deperfecte-sexdate.be|bodemvondstenwereld.nl|dolcevia.com|drentsnieuws.nl|halstadcentraal.nl|lokaleomroepzeewolde.nl|neukengratis.be|neuk-sexcontact.be|niedziela.nl|puurnaturisme.nl|sexdate-xxx.be|sexdating4u.be|vrouwsex.be
 /images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com|sexadvertentiesonline.nl|sexfotodating.nl|zinineensexdate.com
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
 /js/popup.js$script,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|shemaledaten.net|zoekertjesbelgie.be
