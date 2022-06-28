@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 12:02:31 +0000
+! Last updated: Tue, 28 Jun 2022 12:13:08 +0000
 !
 ! 2022-06-28
+risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
 voetbalverslaafd.nl##.bn__wrapper
 executive-people.nl##li:has(.banner)
 executive-people.nl##li:has(em:has-text(Advert))
@@ -978,7 +979,6 @@ cumcams.nl##.wpb_wrapper > center:has([src^="//pt.potwm.com/video-banner/"])
 bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
-risallah.com##.zijbalk-rechts > table > tbody:has-text(Advertentie)
 camping-frankrijk.nl##[class$="container"]:has([id*="HyperLinkBanner"])
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
 kekmama.nl##[class*="cts-advertorial"]
