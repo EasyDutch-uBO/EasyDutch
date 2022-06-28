@@ -1,9 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 07:06:16 +0000
+! Last updated: Tue, 28 Jun 2022 07:07:24 +0000
 !
 ! 2022-06-28
 dekrantvantynaarlo.nl##.et_pb_ads_agsdcm_0
+dekrantvantynaarlo.nl###text-2:has-text(Advertentie)
 creditexpo.nl##.banner
 dagbladdewest.com##.elementor-widget-slides:has(.swiper-wrapper)
 palnws.be##.adlink:not(:has([src*="PalNWS"]))
