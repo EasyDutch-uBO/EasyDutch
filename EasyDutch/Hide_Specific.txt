@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 09:45:38 +0000
+! Last updated: Tue, 28 Jun 2022 09:55:57 +0000
 !
 ! 2022-06-28
 edelmetaal-info.nl##section:has(.masonry-item:not(:has(a[href*="edelmetaal-info.nl"])))
@@ -806,8 +806,7 @@ synoniemen.net##.promoblok
 oneworld.nl##.promotion-block
 openingsurengids.be##.promSB
 girlpowerradio.nl##.proradio-owl-sponsorcarousel
-europa-landbouwmachines.nl,hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
-europa-landbouwmachines.nl##.pub-desktop-a
+hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 nedporno.com##.publ1s-b0ttom
 gocar.be##.pub-leaderboard-top
 simone.nl##.qt-sponsor
