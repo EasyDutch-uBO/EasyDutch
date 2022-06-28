@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+||linuxmag.nl/wp-content/uploads/*/*Rectangle*$image
+||linuxmag.nl/wp-content/uploads/*banner
 ||lflmagazine.nl/wp-content/uploads/*300x250*.gif$image,1p
 ||gaynews.nl/images/advertisement$image
 ||gaynews.nl/images/_adv_txt$image
@@ -329,7 +331,6 @@
 ||kranenwebsite.nl/banners/$image
 ||landenweb.nl/imgBoeking/$image
 ||linqmedia.nl/cwm/fm/userfiles/banner/$image
-||linuxmag.nl/wp-content/uploads/*/rectangle*.gif$image
 ||live-voetbal.com/wp-content/themes/fed/js/jquery-*.js$script,1p
 ||luister.nl/wp-content/uploads/*/Banner_$image
 ||maaslandradio.nl/wp-content/uploads/*/autodoc.
