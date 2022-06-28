@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+gratisepub.nl##.widget:has(.adsbygoogle)
 golf.be##[class*="-ad-banner-box"]
 thekinkyweb.nl##[href="https://www.domasmsuite.nl"]
 waterkant.net##[href^="https://www.eventbrite.nl/e/tickets"]
