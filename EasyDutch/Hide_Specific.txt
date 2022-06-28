@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+fleet-mobility.nl##.spotlight:has-text(Partners)
 flair##.c-commerical_banner
 risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
 voetbalverslaafd.nl##.bn__wrapper
@@ -859,7 +860,6 @@ computable.nl##.sponsored
 radio0511.com##.sponsorImg
 volleybelgium.be##.sponsors
 telegraaf.nl##.SportScoreboardPage__banner
-fleet-mobility.nl##.spotlight
 gratispittigesexfilms.nl,hetegangbang.nl##.spot-on
 detelefoongids.nl##.static-map
 nos.nl##.ster-banner
