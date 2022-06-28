@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+halstadcentraal.nl##div[class$="banners-wrapper"]
 fd.nl##.noAdBlockDetected .fd-message
 emerce.nl##.m-banner-wrapper
 emerce.nl##.widget_text:has(a[href^="https://partner.bol.com/"])
