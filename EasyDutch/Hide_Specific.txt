@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 12:13:08 +0000
+! Last updated: Tue, 28 Jun 2022 12:19:52 +0000
 !
 ! 2022-06-28
+flair##.c-commerical_banner
 risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
 voetbalverslaafd.nl##.bn__wrapper
 executive-people.nl##li:has(.banner)
@@ -622,7 +623,6 @@ tijd.be##.c-articleteaser--sponsored
 girlpics.nl##.cato_content:nth-of-type(2)
 girlpics.nl##.cato_footer:nth-of-type(3)
 motorfietsblog.nl##.cbcontent
-flaironline.nl##.c-commerical_banner
 srnieuws.com##.centered.card-view:has([id^="taboola"])
 ngf.nl##.c-footer-sponsors
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
