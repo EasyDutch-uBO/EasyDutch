@@ -1,8 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 07:25:02 +0000
+! Last updated: Tue, 28 Jun 2022 07:27:05 +0000
 !
 ! 2022-06-28
+dolcevia.com##.affiliatelink
+dolcevia.com##.bookingaff:upward(.card)
 dekrantvantynaarlo.nl##.et_pb_ads_agsdcm_0
 dekrantvantynaarlo.nl###text-2:has-text(Advertentie)
 creditexpo.nl##.banner
