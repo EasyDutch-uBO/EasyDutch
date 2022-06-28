@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+schie.nu##.my-5:has-text(/advert/i)
 fleet-mobility.nl##.spotlight:has-text(Partners)
 flair##.c-commerical_banner
 risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
