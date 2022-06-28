@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 07:31:21 +0000
+! Last updated: Tue, 28 Jun 2022 07:39:01 +0000
 !
 ! 2022-06-28
+drentsnieuws.nl##.shadow:has(#bannerCarousel)
 dolcevia.com##.affiliatelink
 dolcevia.com##.bookingaff:upward(.card)
 dekrantvantynaarlo.nl##.et_pb_ads_agsdcm_0
@@ -407,7 +408,6 @@ alkmaarguardians.nl###footer
 nieuws.nl###footer-banner
 geile-sexverhalen.be,geile-sexverhalen.nl###footermiddle > .well:has-text(Advert)
 bokt.nl###frontpage_mediumrect
-drentsnieuws.nl###g-header:has(img[src$=".gif"])
 gezondheid.be###gz_header:style(margin-top:-120px !important;)
 nu.nl###header > .zone
 nieuws.nl###header-banner
