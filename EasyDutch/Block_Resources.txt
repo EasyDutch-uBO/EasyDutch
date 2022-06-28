@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-06-28
+||cryptobenelux.com/wp-content/uploads/*/Bets*$image
 ! 2022-06-27
 ||broadcastmagazine.nl/wp-content/uploads/*/SMPhomepagenw2.gif
 ||usercontent.one/wp/www.dsdating.nl/wp-content/uploads/2021/11/1436229.gif$image
