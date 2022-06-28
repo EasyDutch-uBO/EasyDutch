@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 11:32:36 +0000
+! Last updated: Tue, 28 Jun 2022 11:35:06 +0000
 !
 ! 2022-06-28
+fcgroningen.nl##.sponsors
 halstadcentraal.nl##div[class$="banners-wrapper"]
 fd.nl##.noAdBlockDetected .fd-message
 emerce.nl##.m-banner-wrapper
@@ -845,7 +846,7 @@ omroepwest.nl##.slider-wrapper
 waarzo.nl##.smallbox:has-text(Advertentie)
 solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
-az.nl,cambuur.nl,fcgroningen.nl,ga-eagles.nl,nec-nijmegen.nl,niburu.co##.sponsers
+az.nl,cambuur.nl,ga-eagles.nl,nec-nijmegen.nl,niburu.co##.sponsers
 computable.be##.sponsorartikelen
 knvb.nl##.SponsorBar-list
 omroephouten.nl##.sponsor-carousel
