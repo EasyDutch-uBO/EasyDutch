@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 11:22:47 +0000
+! Last updated: Tue, 28 Jun 2022 11:29:51 +0000
 !
 ! 2022-06-28
 emerce.nl##.m-banner-wrapper
@@ -557,7 +557,7 @@ funnygames.be,funnygames.nl,rtvdordrecht.nl##.bannerContainer
 refoweb.nl##.bannercontainer
 elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,rootsmagazine.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
 tvblik.nl##.banner-fluid
-antilliaansdagblad.com,dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
+antilliaansdagblad.com,dolcevia.com,h2owaternetwerk.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
 prewarcar.nl##.banner-holder
 puurnaturisme.nl##.banneritem
 ewmagazine.nl##.banner-leaderboard
@@ -609,7 +609,6 @@ volleybal.nl##.card-banner-large
 nederlandsexdate.nl##.card-header:has-text(Advertentie)
 srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
 rkcwaalwijk.nl##.carousel
-halstadcentraal.nl##.carouselbanner_left
 tijd.be##.c-articlelistitem:has([id="adhese_sponsoredstory"])
 tijd.be##.c-articleteaser--sponsored
 girlpics.nl##.cato_content:nth-of-type(2)
@@ -822,7 +821,6 @@ belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 nnieuws.be##.region-banner-diamond
 regionoordkop.nl##.regio-widget
 tweakers.net##.reserveSpace
-halstadcentraal.nl##.respbanners
 xmissy.nl##.rightbar > :has([src^="https://ads."])
 schaefer-shop.nl##.row > [class]:has(.sfr-pdp-section[id$="crossseller"])
 zeelandnet.nl##.row--bnr-between
