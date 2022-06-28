@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 07:27:05 +0000
+! Last updated: Tue, 28 Jun 2022 07:31:21 +0000
 !
 ! 2022-06-28
 dolcevia.com##.affiliatelink
@@ -515,7 +515,6 @@ folderz.nl,intermediair.nl,spel.nl,spelletjes.nl##.advert
 deoudrotterdammer.nl##.advertentie
 autosport.nl##.advertentie_links
 startlijstjes.nl##.advertentieblock
-dorpsklanken.online##.advertenties
 autoweek.nl##.advertise
 7sur7.be,ad.nl,bd.nl,bnnvara.nl,destentor.nl,ed.nl,elektormagazine.nl,gelderlander.nl,hln.be,hpdetijd.nl,kieskeurig.nl,modekoninginmaxima.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
 goodbye.be,sporza.be##.advertising
