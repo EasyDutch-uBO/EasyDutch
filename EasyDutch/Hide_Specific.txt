@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-28
+dagbladdewest.com##.elementor-widget-slides:has(.swiper-wrapper)
 palnws.be##.adlink:not(:has([src*="PalNWS"]))
 palnws.be##.ads-wrapper:not(:has(a[href*="palnws.be"]))
 palnws.be##.jeg_ad:not(:has(a[href*="palnws.be"]))
@@ -861,7 +862,6 @@ groningsnieuws.nl##.sticky-sidebar > [id^="media_image"]
 sexverhalen.com##.story_suffix:has([href^="//tools.vpscash.nl/"])
 despirituelewereld.be##.stream-item-widget
 123video.nl##.stunt-wide
-dagbladdewest.com##.swiper-wrapper
 marktnet.nl##.tab4
 glutenvrij.nl##.t-banner
 nieuwsopbeeld.nl##.td_module_wrap:has(.td-post-category:has-text(Gesponsord))
@@ -1171,7 +1171,6 @@ androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 oisterwijknieuws.nl##img[alt="banner"]
 rotterdambasketbal.nl##img[title^="roba_sponosor_"]
 prewarcar.nl##img[width="160"][height="92"]
-dagbladdewest.com##img[width="300"]
 regio-voetbal.nl##img[width="300"][height="100"]
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 decibel.nl##img[width="640"][height="180"]
