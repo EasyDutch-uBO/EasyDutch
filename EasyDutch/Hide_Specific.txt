@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 11:29:51 +0000
+! Last updated: Tue, 28 Jun 2022 11:31:44 +0000
 !
 ! 2022-06-28
+fd.nl##.noAdBlockDetected .fd-message
 emerce.nl##.m-banner-wrapper
 emerce.nl##.widget_text:has(a[href^="https://partner.bol.com/"])
 europa-bouwmachines.nl,europa-heftruck.nl,europa-landbouwmachines.nl,europa-vrachtwagens.nl##.pt-3.height-90:has([id^="div-gpt-ad"])
@@ -661,7 +662,6 @@ seksmet.nl##.et_pb_module:has([href*="mt67.net"])
 seksmet.nl##.et_pb_module:has(iframe[src*="dt51.net"])
 seksmet.nl##.et_pb_text:has(div[class] > center > a[href]):not(:has(h3.heading-more))
 noordkopcentraal.nl##.ewic-slider-pro-widget
-fd.nl##.fd-message-home-header
 heracles.nl##.fixed-ads
 motorrijdenexpert.nl##.flat-theme-content:has(a[href][rel^="noopener"])
 wanttoknow.nl##.float-right
