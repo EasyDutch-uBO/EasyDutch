@@ -6,6 +6,7 @@
 ||cryptobenelux.com/wp-content/uploads/*/Bets*$image
 ||danny.media-totaal.nl/wp-admin/admin-ajax.php$domain=dekrantvantynaarlo.nl
 ||dekrantnieuws.nl/wp-content/uploads/*/deurbord-staand
+||edelmetaal-info.nl/wp-content/uploads/*/*HollandGold*$image
 ! 2022-06-27
 ||broadcastmagazine.nl/wp-content/uploads/*/SMPhomepagenw2.gif
 ||usercontent.one/wp/www.dsdating.nl/wp-content/uploads/2021/11/1436229.gif$image
