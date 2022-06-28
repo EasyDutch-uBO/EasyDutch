@@ -5,6 +5,7 @@
 ! 2022-06-28
 edelmetaal-info.nl##section:has(.masonry-item:not(:has(a[href*="edelmetaal-info.nl"])))
 edelmetaal-info.nl##.figure-image[data-links=""]:not(a[href*="edelmetaal-info.nl"])
+edelmetaal-info.nl##div[class^=" element-short"] a[onclick*="outgoing"]:has(img[width="180"]):not(:has([href*="edelmetaal-info.nl"]))
 easyfm.nl##.qt-sponsors
 drentsnieuws.nl##.shadow:has(#bannerCarousel)
 dolcevia.com##.affiliatelink
@@ -1070,7 +1071,6 @@ despirituelewereld.be##[id^="text-"]:has(a[href]:has([width="300"][height="250"]
 messianieuws.nl##[id^="text-"]:has(a[href][target="_blank"][rel="noopener"]):has-text(Sponsors)
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
 spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
-edelmetaal-info.nl##[id^="text-"]:has(img[src])
 adbroere.nl##[id^="text-"]:has-text(adv)
 kledingmaten.nl##[id^="text-"]:has-text(Advert)
 h20.gg,romagazine.nl,thekinkyweb.nl##[id^="text-"]:has-text(Partners)
@@ -1093,7 +1093,6 @@ tennisplaza.be##a[href^="https://ds1.nl/"]
 nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 ajax1.nl##a[href^="https://www.awin1.com/cread.php?"]
 bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
-edelmetaal-info.nl##a[onclick^="javascript:pageTracker._trackPageview"]
 gostreaming.nl##a[rel*="sponsored"]
 oisterwijknieuws.nl##a[target="_blank"] > img
 crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
