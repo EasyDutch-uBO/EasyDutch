@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+||tennisvlaanderen.be/documents/*/*banner/
 ||hoekschnieuws.nl/wp-content/banners$image
 ||sponsorlink.nl/js/snippet.js$script,domain=handbalstartpunt.nl
 ||h2owaternetwerk.nl/images/banners/$image
@@ -504,7 +505,6 @@
 ||teen-sex.nl/wp-content/uploads/*/SP1600x150.jpg$image
 ||te-les-koop.nl/images/B_
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-*$image,1p
-||tennisvlaanderen.be/documents/*/*Sponsorblok-$image,1p
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||thisislive.com/promo/
 ||tijd.be/ad/
