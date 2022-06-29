@@ -6,6 +6,7 @@
 ||h2owaternetwerk.nl/images/banners/$image
 ||h2owaternetwerk.nl/images/*/*Banner$image
 ||jobat.be/extra/trackuityhn/ticker_new.html$domain=gva.be
+||tickers.zimmo.be/gva/$domain=gva.be
 ||widget.vroom.be/$domain=gva.be
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
 ||voetbalrotterdam.nl/wp-content/uploads/*/*banner
