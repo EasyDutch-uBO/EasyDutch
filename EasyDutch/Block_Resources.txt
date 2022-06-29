@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 29 Jun 2022 07:32:31 +0000
+! Last updated: Wed, 29 Jun 2022 07:34:23 +0000
 !
 ! 2022-06-29
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
@@ -549,7 +549,6 @@
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
-||willem-ii.nl/banner/
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
 ||wp.com/www.thekinkyweb.nl/wp-content/uploads/*/*Banner$image
 ||xingo.nl/bannermanagement/
