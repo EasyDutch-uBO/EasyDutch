@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 13:51:48 +0000
+! Last updated: Wed, 29 Jun 2022 13:53:08 +0000
 !
 ! 2022-06-29
+racexpress.nl##img[src^="/img/sponsors"]:upward(.article-photo)
 jaap.nl##.details-rectangle:upward(1)
 itnijs.frl##.banner:upward(.widget)
 itdaily.be##.ad
@@ -1121,7 +1122,6 @@ geenstijl.nl##a[data-ga-event^="link-tip"]
 nu.nl##a[href*="/advertorial-"]
 geilverlangen.nl##a[href] > img.size-full.aligncenter
 appletips.nl##a[href^="/adverteren-"]
-racexpress.nl##a[href^="http://www.onderdelenstore24.nl/"]
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 tennisplaza.be##a[href^="https://ds1.nl/"]
 nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
