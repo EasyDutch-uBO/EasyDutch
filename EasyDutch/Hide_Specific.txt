@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 28 Jun 2022 15:48:07 +0000
+! Last updated: Wed, 29 Jun 2022 05:25:48 +0000
 !
 ! 2022-06-28
 groningerkrant.nl##.widget:has(.widget-title:has-text(Vrienden))
@@ -1022,7 +1022,6 @@ pornokartel.nl##[href*="pornokartel.nl/adverteren"]
 sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
 seksmet.nl##[href^="https://dt51.net/"]
 beeldbelsex.com##[href^="https://islive.com/"]
-groningerkrant.nl##[href^="https://track.adppg.com/"]
 villamedia.nl##[href^="https://www.anp.nl/start"]
 totaaltv.nl##[href^="https://www.totaaltv.nl/plugins/banner/"]
 beeldbelsex.com##[href^="https://www.twero.com/"]
