@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+hetkrantje-online.nl##[advobject]:upward(.bg-gray-100)
+hetkrantje-online.nl##.content-start > .items-center:has([advobject])
 h2owaternetwerk.nl##.bannergroup:upward(.module)
 h2owaternetwerk.nl##.ja-banner
 gva.be##main .widgetgroup > .grid
