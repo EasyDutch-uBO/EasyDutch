@@ -1,9 +1,10 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 29 Jun 2022 07:34:23 +0000
+! Last updated: Wed, 29 Jun 2022 07:48:45 +0000
 !
 ! 2022-06-29
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
+||voetbalrotterdam.nl/wp-content/uploads/*/*banner
 ||wp.com/gostreaming.nl/wp-content/uploads/*/*SOCIAL*_SNAP$image
 ! 2022-06-28
 ||linuxmag.nl/wp-content/uploads/*/*Rectangle*$image
@@ -535,7 +536,6 @@
 ||voetbalkrant.com/images/pub/
 ||voetbalnederland.nl/img/bravo.gif
 ||voetbalnieuws.be/*/images/website-takeover/*$image,1p
-||voetbalrotterdam.nl/wp-content/uploads/*/soccerdealbanner*.jpg$image
 ||voetbaluitslagen.com/wp-content/uploads/*/bet*$image
 ||volleybal.nl/uploads/images/Banners/$image
 ||volleybal.nl/uploads/images/Logos/$image
