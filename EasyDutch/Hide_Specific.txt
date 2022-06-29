@@ -1,8 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 12:32:46 +0000
+! Last updated: Wed, 29 Jun 2022 12:35:53 +0000
 !
 ! 2022-06-29
+iculture.nl##.ad-top-desktop
+iculture.nl##.feed-ad-wrapper
 sproeiendekutjes.nl##aside.widget:has(a[href*="trff9links.com/"])
 hvzeeland.nl##.square:has([id^="div-gpt-ad"])
 nporadio1.nl,nporadio2.nl##[id^="adid"]:upward(2)
@@ -1185,7 +1187,6 @@ apintie.sr##div[style^="width:300px; height:180px;"]
 kinderspelletjes.be,kinderspelletjes.nl##div[style^="width:336px;height:290px"]:has-text(Reclame)
 bitcoinmagazine.nl##div[style="height:52px;"]
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
-iculture.nl##div[style="min-height:250px"]
 crimesite.nl##em:has-text(reclame)
 seksmet.nl##gofollow:has(img[src])
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
