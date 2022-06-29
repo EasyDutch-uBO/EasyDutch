@@ -438,7 +438,6 @@
 ||profielactueel.nl/content/modules/catalog/4/*.gif$image
 ||promootjesite.nl/images/affliateBanner/
 ||promootjesite.nl/images/banners/
-||psv.nl/multimedia/toto_new/index.html$subdocument
 ||psv.nl/upload/*_image*.gif$image
 ||psv.nl/upload/*_Soccerlab_Logo.png$image
 ||psv.nl/upload/*SponsorVrouwenGOED-300x75.jpg$image
