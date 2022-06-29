@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+kidsweek.nl##.node-advertorial:upward(1)
 kekmama.nl##[id^="section-ad-banner"]
 psv.nl##.toto
 kbradio.nl##a[href="../../omroep/adverteren/"]
@@ -823,7 +824,6 @@ iex.nl##.network:has-text(Gesponsorde links)
 ninefornews.nl##.nfn-target[data-advadsredirect]
 nieuws.nl##.nieuws-banner
 showbizzsite.be##.nieuws-detail-page-bottom-part > :has(.konvento)
-kidsweek.nl##.node-advertorial
 30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
 dekattensite.nl##.nxs-default-p > p:has-text(advert)
 inmemoriam.be##.o-news__add
