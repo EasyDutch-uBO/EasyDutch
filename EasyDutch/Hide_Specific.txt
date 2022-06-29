@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 12:18:33 +0000
+! Last updated: Wed, 29 Jun 2022 12:20:13 +0000
 !
 ! 2022-06-29
+sproeiendekutjes.nl##aside:has(video:has([src*="spannende-afspraakjes.webm"]))
 hvzeeland.nl##.advertisement
 nporadio1.nl,nporadio2.nl##[id^="adid"]:upward(2)
 hollywoodhuizen.nl##rssapp-carousel
