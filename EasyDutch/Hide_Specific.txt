@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+infonu.nl###cc:has(a.product[href*="partnerprogramma.bol.com"])
 indignatie.nl###mvp-content-main .adsbygoogle:upward(1)
 simone.nl##section:has(div[class$="sponsors"])
 vakantieweb.be##.sponsor-sn
