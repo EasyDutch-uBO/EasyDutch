@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 29 Jun 2022 13:08:26 +0000
+! Last updated: Wed, 29 Jun 2022 13:43:12 +0000
 !
 ! 2022-06-29
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
@@ -448,7 +448,6 @@
 ||radioacacia.nl/sponsoren/
 ||radioeenhoorn.nl/images/Maxaro-badkamers-tegels.png
 ||radiolelystad.nl/images/stories/Banners/
-||radionl.fm/wp-content/uploads/*/Maxiaxi_
 ||radiovisie.eu/wp-content/banners/
 ||radiozuidrand.be/wp-content/uploads/*/banner-sponsors.jpg$image
 ||railhobby.nl/wp-content/uploads/*/*_banner-$image
