@@ -3,7 +3,6 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
-handbalstartpunt.nl##.mk-sponsorlink
 h2owaternetwerk.nl##.bannergroup:upward(.module)
 h2owaternetwerk.nl##.ja-banner
 gva.be##main .widgetgroup > .grid
