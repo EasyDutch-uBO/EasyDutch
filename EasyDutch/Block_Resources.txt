@@ -485,7 +485,6 @@
 ||simone.nl/wp-content/uploads/*/tijdelijkkkkk.png
 ||simone.nl/wp-content/uploads/*-besteonderdelen.nl-
 ||simone.nl/wp-content/uploads/*-onderdelenexpert.nl-
-||sleutelstad.nl/wp-content/uploads/*/Zooma*.jpg
 ||sociaaldigitaal.nl/img/Banner-$3p
 ||solarmagazine.nl/u/edwin/$image
 ||speurdeals.nl/uploads/banners$image
