@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 08:49:54 +0000
+! Last updated: Wed, 29 Jun 2022 08:59:32 +0000
 !
 ! 2022-06-29
 h2owaternetwerk.nl##.bannergroup:upward(.module)
@@ -8,6 +8,7 @@ h2owaternetwerk.nl##.ja-banner
 gva.be##main .widgetgroup > .grid
 gva.be##main > section.grid:has(.link-complex)
 groningsnieuws.nl##aside.widget:has(figure img)
+vives.nl##[class*="right"] .wpb_wrapper:has(img[height="520"][src])
 vnexplorer.net###ads_right_scroll_single_sidebar
 voetbalnederland.nl###submenubanner
 voetbalrotterdam##div[class^="r89-desktop"]
