@@ -1,9 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 29 Jun 2022 07:14:21 +0000
+! Last updated: Wed, 29 Jun 2022 07:19:46 +0000
 !
 ! 2022-06-29
-||*.wp.com/gostreaming.nl/wp-content/uploads/*/*SOCIAL*_SNAP$image
+||wp.com/gostreaming.nl/wp-content/uploads/*/*SOCIAL*_SNAP$image
 ! 2022-06-28
 ||linuxmag.nl/wp-content/uploads/*/*Rectangle*$image
 ||linuxmag.nl/wp-content/uploads/*banner
