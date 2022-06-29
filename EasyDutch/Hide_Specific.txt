@@ -5,6 +5,7 @@
 ! 2022-06-29
 gva.be##main .widgetgroup > .grid
 groningsnieuws.nl##aside.widget:has(figure img)
+voetbalnederland.nl###submenubanner
 voetbalrotterdam##div[class^="r89-desktop"]
 willem-ii.nl##.advert
 ! 2022-06-28
@@ -428,7 +429,6 @@ willem-ii.nl###block-views-block-view-main-sponsor
 willem-ii.nl###block-views-block-view-shirt-sponsor
 asex.nl###bottum_ad
 takecare4.eu###branding > .clearfix
-voetbalnederland.nl###bravo
 amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextube.com,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com###buttonUnderVideoLink
 indiexl.nl###carousel-indiexl_partners_carousel_widget
 girlpics.nl###cato_top:has-text(Ads)
