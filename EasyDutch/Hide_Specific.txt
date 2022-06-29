@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 13:53:08 +0000
+! Last updated: Wed, 29 Jun 2022 14:02:13 +0000
 !
 ! 2022-06-29
+kbradio.nl##a[href="../../omroep/adverteren/"]
 racexpress.nl##img[src^="/img/sponsors"]:upward(.article-photo)
 jaap.nl##.details-rectangle:upward(1)
 itnijs.frl##.banner:upward(.widget)
