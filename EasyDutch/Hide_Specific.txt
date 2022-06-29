@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 14:02:13 +0000
+! Last updated: Wed, 29 Jun 2022 14:04:18 +0000
 !
 ! 2022-06-29
 kbradio.nl##a[href="../../omroep/adverteren/"]
@@ -1081,7 +1081,6 @@ tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Webcamsex|Sex contact/)
 dutchporntube.nl##[id^="custom_html"]:has-text(Werelds Beste)
 geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
 aafm.nl##[id^="loaBlock"]:has-text(Advertentie)
-keizerstad.nl##[id^="media_image"]
 dutchcryptotalk.com##[id^="media_image"]:has([href*="/bitvavo"])
 kanaancourant.nl##[id^="media_image-"]:has(a[href][target="_blank"][rel="noopener"])
 messianieuws.nl##[id^="media_image-"]:has(a[href][target="_blank"][rel="noopener"]:has(img[width="300"]))
