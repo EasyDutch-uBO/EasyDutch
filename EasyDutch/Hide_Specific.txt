@@ -738,7 +738,6 @@ farm-date.com##.hide-for-small-only:has-text(Sponsors)
 slam.nl##.holder-ads
 basketbal.vlaanderen##.holder--divider-top
 oogtv.nl##.home-banner
-nporadio2.nl##.home-module--advertisement
 racingnews365.nl##.homepage-casino-wrapper
 jan-magazine.nl##.homepage-marquee
 sexylingerie-winkel.be##.homepage-seo-footer
@@ -1024,7 +1023,6 @@ schie.nu##[class^="my-"]:has(img[src*="/images/banner/"])
 appletips.nl##[class^="ph_block"]
 nedporno.com##[class^="r1ght-pl4yer"]:has([src*="ads"])
 visserijnieuws.nl##[class^="row advertentie-"]:not([class*="advertentie-1"])
-nporadio1.nl##[class^="sc-1o7zata"]:has-text(advert):has([id^="adid"]):has(script[src*="/adcdn."])
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 gaynews.nl##[class^="va"]:has([class*="banner"])
@@ -1204,7 +1202,6 @@ leerzaam.com##p:has(.adsbygoogle)
 creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"]))
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
-nporadio1.nl##section[class]:has-text(advert):has([id^="adid"]):has(script[src*="/adcdn."])
 oops.nl##table[cellspacing="30"]
 surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 marktplaats.nl,2dehands.be##ul.mp-Listings > li.mp-Listing:has(:scope > .mp-Listing-coverLink > .mp-Listing-group > .mp-Listing-group--price-date-feature > span.mp-Listing-priority > span:has-text(/^Topadvertentie$/))
