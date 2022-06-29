@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+sproeiendekutjes.nl##aside:has(video:has([src*="spannende-afspraakjes.webm"]))
 hvzeeland.nl##.advertisement
 nporadio1.nl,nporadio2.nl##[id^="adid"]:upward(2)
 hollywoodhuizen.nl##rssapp-carousel
