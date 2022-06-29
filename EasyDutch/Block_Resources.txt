@@ -549,7 +549,6 @@
 ||willem-ii.nl/banner/
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
 ||wp.com/gostreaming.nl/wp-content/uploads/*/*-sidebar-banner$image
-||wp.com/www.bol.com/*/upload/partnerprogramma/$image
 ||wp.com/www.thekinkyweb.nl/wp-content/uploads/*/*Banner$image
 ||xingo.nl/bannermanagement/
 ||xmissy.nl/admnfiles1809/*/freechatbanner_$image,3p
