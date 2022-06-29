@@ -1,8 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 09:26:05 +0000
+! Last updated: Wed, 29 Jun 2022 09:34:43 +0000
 !
 ! 2022-06-29
+hetkrantje-online.nl##[advobject]:upward(.bg-gray-100)
+hetkrantje-online.nl##.content-start > .items-center:has([advobject])
 h2owaternetwerk.nl##.bannergroup:upward(.module)
 h2owaternetwerk.nl##.ja-banner
 gva.be##main .widgetgroup > .grid
