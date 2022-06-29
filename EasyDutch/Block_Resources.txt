@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 29 Jun 2022 13:52:20 +0000
+! Last updated: Wed, 29 Jun 2022 14:04:58 +0000
 !
 ! 2022-06-29
 ||racexpress.nl/img/sponsors/
@@ -438,7 +438,6 @@
 ||profielactueel.nl/content/modules/catalog/4/*.gif$image
 ||promootjesite.nl/images/affliateBanner/
 ||promootjesite.nl/images/banners/
-||psv.nl/multimedia/toto_new/index.html$subdocument
 ||psv.nl/upload/*_image*.gif$image
 ||psv.nl/upload/*_Soccerlab_Logo.png$image
 ||psv.nl/upload/*SponsorVrouwenGOED-300x75.jpg$image
