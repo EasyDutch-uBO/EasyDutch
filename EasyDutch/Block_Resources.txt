@@ -205,7 +205,6 @@
 ||cdn.seksmet.nl/wp-content/uploads/*/all-over-40-handjob$image
 ||cdn.seksmet.nl/wp-content/uploads/*/brazzers-pornovideo-netwerk.*
 ||cdn.shopsuite.com/js/layer.js$script,domain=franska.nl
-||cdn.shortpixel.ai/client/*/https://groningerkrant.nl/wp-content/uploads/*/Rijschool-in-Groningen*.$image
 ||cdn.ster.nl/banners^
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
@@ -237,7 +236,6 @@
 ||debestevpn.nl/wp-content/*-banner.
 ||delichtzijde.nl/images/banners/*.$image,1p
 ||denachtvlinders.nl/wp-content/uploads/*/bol-*.gif$image
-||denieuwepraktijk.nl/zoic/kaart-coronatestlocaties.svg$domain=groningerkrant.nl
 ||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*$image
 ||despirituelewereld.be/wp-content/uploads/*/hook-bottom-info-coronavirus*$image
 ||detelefoongids.nl/img/youvia-banner/banner
