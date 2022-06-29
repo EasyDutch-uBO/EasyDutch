@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+simone.nl##section:has(div[class*="sponsorcarousel"])
 vakantieweb.be##.sponsor-sn
 immo.vlan.be,vakantieweb.be##[id^="rossel-leader"]
 vlan.be##.dfp
@@ -854,7 +855,6 @@ girlpowerradio.nl##.proradio-owl-sponsorcarousel
 hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 nedporno.com##.publ1s-b0ttom
 gocar.be##.pub-leaderboard-top
-simone.nl##.qt-sponsor
 oozo.nl##.rcntctr
 motocrossplanet.nl##.rcol-titel:has-text(Advert)
 rd.nl##.rdnl__adds
