@@ -1,10 +1,11 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 12:58:29 +0000
+! Last updated: Wed, 29 Jun 2022 13:04:05 +0000
 !
 ! 2022-06-29
+vakantieweb.be##.sponsor-sn
+immo.vlan.be,vakantieweb.be##[id^="rossel-leader"]
 vlan.be##.dfp
-immo.vlan.be##[id^="rossel-leaderboard"]
 sleutelstad.nl##.g
 iculture.nl##.ad-top-desktop
 iculture.nl##.feed-ad-wrapper
