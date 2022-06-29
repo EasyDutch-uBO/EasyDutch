@@ -1,9 +1,10 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 29 Jun 2022 09:57:35 +0000
+! Last updated: Wed, 29 Jun 2022 10:02:28 +0000
 !
 ! 2022-06-29
 ||tennisvlaanderen.be/documents/*/*banner/
+||tennisvlaanderen.be/documents/*/*Sponsorblok-$image,1p
 ||hoekschnieuws.nl/wp-content/banners$image
 ||sponsorlink.nl/js/snippet.js$script,domain=handbalstartpunt.nl
 ||h2owaternetwerk.nl/images/banners/$image
