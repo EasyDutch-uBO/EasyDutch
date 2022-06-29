@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+||h2owaternetwerk.nl/images/banners/$image
+||h2owaternetwerk.nl/images/*/*Banner$image
 ||jobat.be/extra/trackuityhn/ticker_new.html$domain=gva.be
 ||widget.vroom.be/$domain=gva.be
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
@@ -300,7 +302,6 @@
 ||gratis.nl/wp-content/uploads/*/*-gratis.png$image
 ||greenkeeper.nl/upload/banners/
 ||greenkeeper.nl/upload/relaties/
-||h2owaternetwerk.nl/images/*/*Banner*300x250px$image
 ||handbalstartpunt.nl/content/schoonkapje$image,1p
 ||handbalstartpunt.nl/images/banner_$image,1p
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*.$image
