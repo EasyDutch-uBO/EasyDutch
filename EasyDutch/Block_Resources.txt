@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 29 Jun 2022 08:08:33 +0000
+! Last updated: Wed, 29 Jun 2022 08:17:10 +0000
 !
 ! 2022-06-29
 ||jobat.be/extra/trackuityhn/ticker_new.html$domain=gva.be
@@ -535,7 +535,6 @@
 ||vives.nl/wp-content/uploads/*-Banner-*
 ||vives.nl/wp-content/uploads/Banner_*
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,1p
-||vnexplorer.net/assets/img/cover_single.png$image
 ||voetbalkrant.com/images/pub/
 ||voetbalnederland.nl/img/bravo.gif
 ||voetbalnieuws.be/*/images/website-takeover/*$image,1p
