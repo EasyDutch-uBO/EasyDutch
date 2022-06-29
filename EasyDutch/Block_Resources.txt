@@ -1,11 +1,12 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 29 Jun 2022 08:21:18 +0000
+! Last updated: Wed, 29 Jun 2022 08:33:14 +0000
 !
 ! 2022-06-29
 ||h2owaternetwerk.nl/images/banners/$image
 ||h2owaternetwerk.nl/images/*/*Banner$image
 ||jobat.be/extra/trackuityhn/ticker_new.html$domain=gva.be
+||tickers.zimmo.be/gva/$domain=gva.be
 ||widget.vroom.be/$domain=gva.be
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
 ||voetbalrotterdam.nl/wp-content/uploads/*/*banner
