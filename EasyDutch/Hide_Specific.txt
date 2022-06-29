@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 13:34:14 +0000
+! Last updated: Wed, 29 Jun 2022 13:37:19 +0000
 !
 ! 2022-06-29
+itnijs.frl##.banner:upward(.widget)
 itdaily.be##.ad
 infonu.nl###cc:has(a.product[href*="partnerprogramma.bol.com"])
 indignatie.nl###mvp-content-main .adsbygoogle:upward(1)
@@ -971,7 +972,6 @@ geile-sexverhalen.be##.well:has-text(Sponsers)
 transfermarkt.nl##.werbung
 androidplanet.nl##.w-full:has-text(/ADV|Gesponsord door|Advertentie/)
 baarsclassicrock.nl##.widebanner
-itnijs.frl##.widget > .banner
 transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteerdersinformatie/"])))
 onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
 streamwijzer.be##.widget:has(a[href*=".bn5x.net/"])
