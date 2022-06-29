@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 13:37:19 +0000
+! Last updated: Wed, 29 Jun 2022 13:46:08 +0000
 !
 ! 2022-06-29
 itnijs.frl##.banner:upward(.widget)
@@ -14,8 +14,7 @@ vlan.be##.dfp
 sleutelstad.nl##.g
 iculture.nl##.ad-top-desktop
 iculture.nl##.feed-ad-wrapper
-solarmagazine.nl##.row:has(.company-add)
-solarmagazine.nl##[id^="home-row"]:has(.company-add)
+solarmagazine.nl##[id]:has(.company-add)
 sproeiendekutjes.nl##aside.widget:has(a[href*="trff9links.com/"])
 hvzeeland.nl##.square:has([id^="div-gpt-ad"])
 nporadio1.nl,nporadio2.nl##[id^="adid"]:upward(2)
