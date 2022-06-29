@@ -5,6 +5,7 @@
 ! 2022-06-29
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
 ||voetbalrotterdam.nl/wp-content/uploads/*/*banner
+||voetbalrotterdam.nl/wp-content/uploads/*/fidus
 ||wp.com/gostreaming.nl/wp-content/uploads/*/*SOCIAL*_SNAP$image
 ! 2022-06-28
 ||linuxmag.nl/wp-content/uploads/*/*Rectangle*$image
