@@ -1,7 +1,10 @@
 ! Title: Block Third-Party Server
 ! Description: Filters for blocking only general third-party servers on Dutch websites
-! Last updated: Fri, 27 May 2022 15:30:02 +0000
+! Last updated: Wed, 29 Jun 2022 09:07:36 +0000
 !
+! 2022-06-29 hdtienersexfilms.nl
+||dronkenmokkels.nl^$domain=hdtienersexfilms.nl
+||srv69.eu^$domain=hdtienersexfilms.nl
 ! 2022-05-27 trosfm.be
 ||believe-the-hype.be^$3p
 ! 2022-04-08 frontpage.fok.nl
