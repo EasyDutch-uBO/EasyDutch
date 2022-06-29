@@ -448,7 +448,6 @@
 ||radioacacia.nl/sponsoren/
 ||radioeenhoorn.nl/images/Maxaro-badkamers-tegels.png
 ||radiolelystad.nl/images/stories/Banners/
-||radionl.fm/wp-content/uploads/*/Maxiaxi_
 ||radiovisie.eu/wp-content/banners/
 ||radiozuidrand.be/wp-content/uploads/*/banner-sponsors.jpg$image
 ||railhobby.nl/wp-content/uploads/*/*_banner-$image
