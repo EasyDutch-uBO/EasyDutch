@@ -535,7 +535,6 @@
 ||vives.nl/wp-content/uploads/*-Banner-*
 ||vives.nl/wp-content/uploads/Banner_*
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,1p
-||vnexplorer.net/assets/img/cover_single.png$image
 ||voetbalkrant.com/images/pub/
 ||voetbalnederland.nl/img/bravo.gif
 ||voetbalnieuws.be/*/images/website-takeover/*$image,1p
