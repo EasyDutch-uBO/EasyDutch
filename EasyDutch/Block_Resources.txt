@@ -535,7 +535,6 @@
 ||visserijnieuws.nl/images/banners/*$image
 ||vitesse.nl/assets/img/layout/etoro-logo.png$image
 ||vitesse.nl^*_sponsors_footer.png
-||vives.nl/wp-content/uploads/*-Banner-*
 ||vives.nl/wp-content/uploads/Banner_*
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,1p
 ||voetbalkrant.com/images/pub/
