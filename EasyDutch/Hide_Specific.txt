@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 13:04:05 +0000
+! Last updated: Wed, 29 Jun 2022 13:09:29 +0000
 !
 ! 2022-06-29
+simone.nl##section:has(div[class*="sponsorcarousel"])
 vakantieweb.be##.sponsor-sn
 immo.vlan.be,vakantieweb.be##[id^="rossel-leader"]
 vlan.be##.dfp
@@ -854,7 +855,6 @@ girlpowerradio.nl##.proradio-owl-sponsorcarousel
 hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 nedporno.com##.publ1s-b0ttom
 gocar.be##.pub-leaderboard-top
-simone.nl##.qt-sponsor
 oozo.nl##.rcntctr
 motocrossplanet.nl##.rcol-titel:has-text(Advert)
 rd.nl##.rdnl__adds
