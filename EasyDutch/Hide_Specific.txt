@@ -1,10 +1,11 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 08:09:00 +0000
+! Last updated: Wed, 29 Jun 2022 08:16:07 +0000
 !
 ! 2022-06-29
 gva.be##main .widgetgroup > .grid
 groningsnieuws.nl##aside.widget:has(figure img)
+vnexplorer.net###ads_right_scroll_single_sidebar
 voetbalnederland.nl###submenubanner
 voetbalrotterdam##div[class^="r89-desktop"]
 willem-ii.nl##.advert
