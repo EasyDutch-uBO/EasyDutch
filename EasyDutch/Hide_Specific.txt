@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+gva.be##main .grid .widget:has-text(Auto's in de kijker)
 groningsnieuws.nl##aside.widget:has(figure img)
 voetbalrotterdam##div[class^="r89-desktop"]
 willem-ii.nl##.advert
@@ -1187,7 +1188,6 @@ basketballbelgium.be##img[width="970"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 stubru.be##li:has-text(/advert/i)
 rtveen.nl##li:has-text(reclame)
-gva.be##main > div > .grid:has-text(Auto's in de kijker)
 leerzaam.com##p:has(.adsbygoogle)
 creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"]))
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
