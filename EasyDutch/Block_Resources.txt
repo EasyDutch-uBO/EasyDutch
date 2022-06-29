@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 29 Jun 2022 08:50:34 +0000
+! Last updated: Wed, 29 Jun 2022 09:00:28 +0000
 !
 ! 2022-06-29
 ||sponsorlink.nl/js/snippet.js$script,domain=handbalstartpunt.nl
@@ -535,7 +535,6 @@
 ||visserijnieuws.nl/images/banners/*$image
 ||vitesse.nl/assets/img/layout/etoro-logo.png$image
 ||vitesse.nl^*_sponsors_footer.png
-||vives.nl/wp-content/uploads/*-Banner-*
 ||vives.nl/wp-content/uploads/Banner_*
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,1p
 ||voetbalkrant.com/images/pub/
