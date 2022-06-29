@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-06-29
+||*.wp.com/gostreaming.nl/wp-content/uploads/*/*SOCIAL*_SNAP$image
 ! 2022-06-28
 ||linuxmag.nl/wp-content/uploads/*/*Rectangle*$image
 ||linuxmag.nl/wp-content/uploads/*banner
@@ -548,7 +550,6 @@
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
 ||willem-ii.nl/banner/
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
-||wp.com/gostreaming.nl/wp-content/uploads/*/*-sidebar-banner$image
 ||wp.com/www.thekinkyweb.nl/wp-content/uploads/*/*Banner$image
 ||xingo.nl/bannermanagement/
 ||xmissy.nl/admnfiles1809/*/freechatbanner_$image,3p
