@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+hoekschnieuws.nl##.td-a-rec.td-a-rec-id-content_bottom > a[href]
 historiek.net##.ablok
 hetkrantje-online.nl##[advobject]:upward(.bg-gray-100)
 hetkrantje-online.nl##.content-start > .items-center:has([advobject])
