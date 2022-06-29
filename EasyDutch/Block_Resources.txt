@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+||rss.app/api/widget/$domain=hollywoodhuizen.nl
 ||tennisvlaanderen.be/documents/*/*banner/
 ||tennisvlaanderen.be/documents/*/*Sponsorblok-$image,1p
 ||hoekschnieuws.nl/wp-content/banners$image
