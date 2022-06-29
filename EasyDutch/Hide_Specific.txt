@@ -4,7 +4,7 @@
 !
 ! 2022-06-29
 indignatie.nl###mvp-content-main .adsbygoogle:upward(1)
-simone.nl##section:has(div[class*="sponsorcarousel"])
+simone.nl##section:has(div[class$="sponsors"])
 vakantieweb.be##.sponsor-sn
 immo.vlan.be,vakantieweb.be##[id^="rossel-leader"]
 vlan.be##.dfp
