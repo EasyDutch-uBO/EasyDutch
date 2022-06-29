@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+kekmama.nl##[id^="section-ad-banner"]
 psv.nl##.toto
 kbradio.nl##a[href="../../omroep/adverteren/"]
 racexpress.nl##img[src^="/img/sponsors"]:upward(.article-photo)
@@ -696,7 +697,6 @@ tijd.be##.c-sitenavPlaceholder__ad
 golf.nl,qmusic.nl##.c-sponsors
 voetbaluitslagen.com##.cta
 menttv.be##.cta-container
-kekmama.nl##.cts-row-wrapper
 touretappe.nl##.desktopad
 nd.nl##.desktoponly > .text-center
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp-space
@@ -1020,7 +1020,6 @@ beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
 camping-frankrijk.nl##[class$="container"]:has([id*="HyperLinkBanner"])
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
-kekmama.nl##[class*="cts-advertorial"]
 domstadradio.nl##[class*="elementor-element-"]:has-text(/onze sponsors/i)
 hardnieuws.nl##[class*="mb-"]:has([id$="ros-970x250"])
 telefoonboek.nl##[class*="organic-"]:has-text(Advertentie)
