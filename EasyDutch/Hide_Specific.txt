@@ -3,8 +3,9 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+vakantieweb.be##.sponsor-sn
+immo.vlan.be,vakantieweb.be##[id^="rossel-leader"]
 vlan.be##.dfp
-immo.vlan.be##[id^="rossel-leaderboard"]
 sleutelstad.nl##.g
 iculture.nl##.ad-top-desktop
 iculture.nl##.feed-ad-wrapper
