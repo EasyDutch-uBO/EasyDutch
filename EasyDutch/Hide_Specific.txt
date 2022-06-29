@@ -1,9 +1,8 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 08:48:38 +0000
+! Last updated: Wed, 29 Jun 2022 08:49:54 +0000
 !
 ! 2022-06-29
-handbalstartpunt.nl##.mk-sponsorlink
 h2owaternetwerk.nl##.bannergroup:upward(.module)
 h2owaternetwerk.nl##.ja-banner
 gva.be##main .widgetgroup > .grid
