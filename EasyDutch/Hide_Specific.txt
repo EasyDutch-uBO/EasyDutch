@@ -1,8 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 29 Jun 2022 08:16:07 +0000
+! Last updated: Wed, 29 Jun 2022 08:21:58 +0000
 !
 ! 2022-06-29
+h2owaternetwerk.nl##.bannergroup:upward(.module)
+h2owaternetwerk.nl##.ja-banner
 gva.be##main .widgetgroup > .grid
 groningsnieuws.nl##aside.widget:has(figure img)
 vnexplorer.net###ads_right_scroll_single_sidebar
@@ -584,7 +586,7 @@ funnygames.be,funnygames.nl,rtvdordrecht.nl##.bannerContainer
 refoweb.nl##.bannercontainer
 elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,rootsmagazine.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
 tvblik.nl##.banner-fluid
-antilliaansdagblad.com,dolcevia.com,h2owaternetwerk.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
+antilliaansdagblad.com,dolcevia.com,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
 prewarcar.nl##.banner-holder
 puurnaturisme.nl##.banneritem
 ewmagazine.nl##.banner-leaderboard
