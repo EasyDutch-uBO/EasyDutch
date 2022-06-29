@@ -1,8 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 29 Jun 2022 12:55:54 +0000
+! Last updated: Wed, 29 Jun 2022 13:08:26 +0000
 !
 ! 2022-06-29
+||simone.nl/wp-content/uploads/*besteonderdelen.nl
 ||rss.app/api/widget/$domain=hollywoodhuizen.nl
 ||tennisvlaanderen.be/documents/*/*banner/
 ||tennisvlaanderen.be/documents/*/*Sponsorblok-$image,1p
@@ -482,8 +483,6 @@
 ||sexervaringendelen.nl/porno/$image
 ||sexverhalen.com/vriendschap/
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
-||simone.nl/wp-content/uploads/*/tijdelijkkkkk.png
-||simone.nl/wp-content/uploads/*-besteonderdelen.nl-
 ||simone.nl/wp-content/uploads/*-onderdelenexpert.nl-
 ||sociaaldigitaal.nl/img/Banner-$3p
 ||solarmagazine.nl/u/edwin/$image
