@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+immo.vlan.be##[id^="rossel-leaderboard"]
 sleutelstad.nl##.g
 iculture.nl##.ad-top-desktop
 iculture.nl##.feed-ad-wrapper
@@ -498,7 +499,6 @@ vagina.nl###partner-links
 coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl###partners
 forum.scholieren.com###posts .thead:has-text(Advert)
 sexpower.nl###pre-footer-banners
-immo.vlan.be###ProvidersBox
 soccernews.nl###r89-mobile-rectangle-mid
 soccernews.nl###r89-takeover
 stubru.be###reclameblok-wrapper
@@ -525,7 +525,6 @@ radio-minerva.be###topbanner
 sexpower.nl###top-banner
 marktplaats.nl,2dehands.be###top-banner-wrapper
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gaming-nieuws.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,hotstreams.nl,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
-immo.vlan.be###TopCompareBox
 nlsexfilmpjes.com###toplist_bodem li:not(:scope > a[target="_blank"])
 starnieuws.com###topstory > div:has-text(Advertentie)
 hotradiohits.nl###tpl_banners
