@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 15:32:49 +0000
+! Last updated: Thu, 30 Jun 2022 15:38:16 +0000
 !
 ! 2022-06-29
+buienradar.nl##.linklist
 nlsexfilmpjes.com###left_div li:not(> a[target="_blank"])
 nljug.org##.widget:has(.capegroep-banner)
 nl.motorsport.com##.ms-side-widget--custom-links__wrapper
