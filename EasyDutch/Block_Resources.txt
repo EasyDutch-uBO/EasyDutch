@@ -1,7 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 30 Jun 2022 09:05:42 +0000
+! Last updated: Thu, 30 Jun 2022 09:51:48 +0000
 !
+! 2022-06-30
+||noordkopcentraal.nl/wp-content/uploads/*/Vrienden-van
 ! 2022-06-29
 ||kinkysexcontactonline.nl/images/*.gif
 ||racexpress.nl/img/sponsors/
@@ -389,9 +391,6 @@
 ||nltube.com/b?z=A*$subdocument
 ||noordernieuws.nl/wp-content/uploads/201*/*/*.gif$image
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,1p
-||noordkopcentraal.nl/wp-content/uploads/*/*-Logo-462X*.$image
-||noordkopcentraal.nl/wp-content/uploads/*/Boersen-Logo-*.png$image
-||noordkopcentraal.nl^*/banner_
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xhr
 ||oisterwijknieuws.nl/wp-content/uploads/*/*-banner-*.$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-*.jpg$image
