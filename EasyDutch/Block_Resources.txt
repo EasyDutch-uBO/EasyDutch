@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-30
+||dagbladdewest.com/wp-content/uploads/*banner
 ||nljug.org/wp-content/uploads/*/*_banner_$image
 ||nljug.org/wp-content/uploads/*/300*250*Inline-Rectangle$image
 ||nljug.org/wp-content/uploads/2020/04/300x200-1.jpg
