@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-30
+||mygaydate.nl/images/eroshop.jpg
 ||floranews.com/img/banner/Floranews
 ||gigantfm.nl/assets/images/autoonderdelen24_1.png$image
 ||gigantfm.nl/assets/images/onderdelenshop.gif$image
