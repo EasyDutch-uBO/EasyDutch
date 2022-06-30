@@ -1,8 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 30 Jun 2022 11:42:00 +0000
+! Last updated: Thu, 30 Jun 2022 12:22:23 +0000
 !
 ! 2022-06-30
+||seksdatemet-milfs.be//images/*.gif
 ||menttv.be/wp-content/uploads/*/*-br.$image
 ||motokicx.com/wp-content/uploads/*RAD
 ||noordernieuws.nl/wp-content/uploads/*/*.gif$image
