@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 10:42:00 +0000
+! Last updated: Thu, 30 Jun 2022 10:42:43 +0000
 !
 ! 2022-06-29
+laardercourant.nl##[advobject]:upward(2)
 motocrossplanet.nl##.background_link
 tippelpagina.nl##.widget:has-text(Advertentie)
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
@@ -1035,8 +1036,8 @@ amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,in
 twentefm.nl##[class^="bannerzone_"]:has([href])
 ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
 gezondheid.be##[class^="gz-ads"]
-gooieneembode.nl,laardercourant.nl,weespernieuws.nl##[class^="mb"]:has([advobject^="webadv_"])
-gooieneembode.nl,laardercourant.nl##[class^="mtb-"]:has-text(Partner)
+gooieneembode.nl,weespernieuws.nl##[class^="mb"]:has([advobject^="webadv_"])
+gooieneembode.nl##[class^="mtb-"]:has-text(Partner)
 schie.nu##[class^="my-"]:has(img[src*="/images/banner/"])
 appletips.nl##[class^="ph_block"]
 nedporno.com##[class^="r1ght-pl4yer"]:has([src*="ads"])
