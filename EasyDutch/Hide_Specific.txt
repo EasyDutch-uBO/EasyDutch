@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+nlsexfilmpjes.com###left_div li:not(> a[target="_blank"])
 nljug.org##.widget:has(.capegroep-banner)
 nl.motorsport.com##.ms-side-widget--custom-links__wrapper
 detelefoongids.nl##.wrapper:has-text(Youvia)
@@ -520,7 +521,6 @@ techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
 gezondheid.be###leaderbord
-nlsexfilmpjes.com###left_div li:not(:scope > a[target="_blank"])
 autosport.nl###liggende-banner
 greenkeeper.nl###lijst_logos
 vlaanderen-sexdate.be###linkpartners > :has(.homebanner)
