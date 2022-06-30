@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 15:17:07 +0000
+! Last updated: Thu, 30 Jun 2022 15:20:40 +0000
 !
 ! 2022-06-29
+nl.motorsport.com##.ms-side-widget--custom-links__wrapper
 detelefoongids.nl##.wrapper:has-text(Youvia)
 nieuwsuitnijmegen.nl##.js-banner-slider:upward(2)
 dutchcryptotalk.com##.hootslider-image-wrapper
