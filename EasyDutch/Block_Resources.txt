@@ -296,7 +296,6 @@
 ||flexnieuws.nl/wp-content/uploads/*/Naamloos-*.png$image
 ||flirtmee.nl/img/160x70_sponsor-
 ||floranews.com/img/banner/
-||fonkonline.nl/adds/
 ||forum.spaarinformatie.nl/si-info.html
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||fx.nl/_ext/widget/$3p
