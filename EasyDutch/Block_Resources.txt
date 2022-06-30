@@ -1,8 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 30 Jun 2022 10:47:11 +0000
+! Last updated: Thu, 30 Jun 2022 11:17:37 +0000
 !
 ! 2022-06-30
+||menttv.be/wp-content/uploads/*/*-br.$image
 ||motokicx.com/wp-content/uploads/*RAD
 ||noordernieuws.nl/wp-content/uploads/*/*.gif$image
 ||noordkopcentraal.nl/wp-content/uploads/*/Vrienden-van
@@ -362,7 +363,6 @@
 ||media-totaal.nl/*com_adagency*adagencyAds$script,domain=dekrantnieuws.nl|destreekkrant.nu|dekrantvantynaarlo.nl
 ||meerdangewenst.nl^*/sponsors/
 ||meidenzoekensex.nl/assets/img/shemaledate$image
-||menttv.be/wp-content/uploads/*/*.jpg$image,1p
 ||metalfan.nl/banners/
 ||midvliet.nl/images/advertenties-$image
 ||milfdatingnederland.nl/banner$image
