@@ -10,6 +10,7 @@ midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
 motocrossplanet.nl##.background_link
 tippelpagina.nl##.widget:has-text(Advertentie)
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
+onderwijsland.com##div[class="col-md-16"]:has([style*="greystripe"])
 persberichten.com##[id^="PanelTopAds"]
 kinkymedia.nl##.adguru-zone
 kidsweek.nl##.node-advertorial:upward(1)
