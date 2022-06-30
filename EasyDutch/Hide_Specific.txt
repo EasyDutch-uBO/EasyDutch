@@ -440,9 +440,6 @@ cip.nl##a[href*="/ad/"]:upward(1):not(.podcast-inline):not(.nav)
 cip.nl##.vacation-big-widget
 wereldklokken.nl##.adsbygoogle:style(visibility: collapse !important;)
 wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
-! https://github.com/EasyDutch-uBO/EasyDutch/pull/7
-nieuwsonline.nu##.widget-title:has-text(/Advert|AD/):upward(1)
-nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(Advert))
 ! 2022-01-14
 biernet.nl###BJA2
 biernet.nl###BJA3
