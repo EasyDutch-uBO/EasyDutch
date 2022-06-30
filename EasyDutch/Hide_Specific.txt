@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 15:21:40 +0000
+! Last updated: Thu, 30 Jun 2022 15:26:29 +0000
 !
 ! 2022-06-29
 nljug.org##.widget:has(.capegroep-banner)
@@ -934,7 +934,6 @@ tijd.be##.sticky-article-halfpager
 want.nl##.sticky-banner-container
 ninefornews.nl##.sticky-element-placeholder
 sexverhalen.com##.story_suffix:has([href^="//tools.vpscash.nl/"])
-despirituelewereld.be##.stream-item-widget
 123video.nl##.stunt-wide
 marktnet.nl##.tab4
 glutenvrij.nl##.t-banner
@@ -1120,7 +1119,6 @@ watchfaces.be##[id^="text"]:has(.adsbygoogle)
 ninefornews.nl##[id^="text-"]:has(.nfn-target[data-advadsredirect])
 radiozuidrand.be##[id^="text-"]:has(.widget-title:has-text(ADVERTEERDERS))
 tweedehandschristelijkeboeken.nl##[id^="text-"]:has([href^="https://www.eo-acties.nl/TradeTracker/index.aspx"])
-despirituelewereld.be##[id^="text-"]:has([href="http://www.info-coronavirus.be"])
 sexervaringdelen.com##[id^="text-"]:has([src$="ads.js"])
 kutscheetje.nl##[id^="text"]:has([src*="banner"])
 kutscheetje.nl##[id^="text-"]:has([src^="http://promotools.islive.nl/ads/"])
