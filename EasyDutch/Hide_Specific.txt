@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 13:07:11 +0000
+! Last updated: Thu, 30 Jun 2022 13:27:29 +0000
 !
 ! 2022-06-29
+mnm.be##.ad--rectangle:upward(1)
 gigantfm.nl##.onderdelenshop
 gowiththevlo.nl###omc-sidebar li.gowit-widget:has(img):not(:has(a[href*="gowiththevlo.nl"]))
 seksdatemet-milfs.be##.card:has(img[src$=".gif"])
