@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 10:18:29 +0000
+! Last updated: Thu, 30 Jun 2022 10:18:58 +0000
 !
 ! 2022-06-29
+tippelpagina.nl##.widget:has-text(Advertentie)
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
 persberichten.com##[id^="PanelTopAds"]
 kinkymedia.nl##.adguru-zone
