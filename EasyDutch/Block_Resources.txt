@@ -268,7 +268,6 @@
 ||denachtvlinders.nl/wp-content/uploads/*/bol-*.gif$image
 ||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*$image
 ||despirituelewereld.be/wp-content/uploads/*/hook-bottom-info-coronavirus*$image
-||detelefoongids.nl/img/youvia-banner/banner
 ||dewereldmorgen.be/wp-content/banners/$image
 ||digitalaudience.io/bakery/pix/$image,3p
 ||disqus.com/recommendations/$subdocument,domain=webmastersunited.com
