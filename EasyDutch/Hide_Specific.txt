@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+detelefoongids.nl##.wrapper:has-text(Youvia)
 nieuwsuitnijmegen.nl##.js-banner-slider:upward(2)
 dutchcryptotalk.com##.hootslider-image-wrapper
 nieuwsfiets.nu###banner
@@ -1176,7 +1177,6 @@ knhs.nl##div.row:has(:scope > section > .cycler:has(img[src*="banner"]))
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
 ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
 rtlnieuws.nl##div[class$=_with_ad__ad]
-detelefoongids.nl##div[class*="additional__"]:has(div[id^="banner"])
 meteovista.be##div[class*="AdWrapper"]
 biflatie.nl##div[class*="elementor-widget-button"]:has-text(Advert)
 weespernieuws.nl##div[class*="krant-onder-web"]
