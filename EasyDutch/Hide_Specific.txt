@@ -2,7 +2,7 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
-! 2022-06-29
+! 2022-06-30
 buienradar.nl##.linklist
 nlsexfilmpjes.com###left_div li:not(> a[target="_blank"])
 nljug.org##.widget:has(.capegroep-banner)
@@ -36,6 +36,7 @@ tippelpagina.nl##.widget:has-text(Advertentie)
 oisterwijknieuws.nl##.sidebar
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
+! 2022-06-29
 onderwijsland.com##.col-md-16:has([style*="greystripe"])
 persberichten.com##[id^="PanelTopAds"]
 kinkymedia.nl##.adguru-zone
