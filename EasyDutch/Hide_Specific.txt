@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
 persberichten.com##[id^="PanelTopAds"]
 kinkymedia.nl##.adguru-zone
 kidsweek.nl##.node-advertorial:upward(1)
