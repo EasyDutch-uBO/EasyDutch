@@ -1,11 +1,12 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 11:00:54 +0000
+! Last updated: Thu, 30 Jun 2022 11:07:49 +0000
 !
 ! 2022-06-29
 limburger.nl##.widget-grid--partnerbox
 leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
 laardercourant.nl##[advobject]:upward(2)
+midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
 motocrossplanet.nl##.background_link
 tippelpagina.nl##.widget:has-text(Advertentie)
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
@@ -622,7 +623,7 @@ funnygames.be,funnygames.nl,rtvdordrecht.nl##.bannerContainer
 refoweb.nl##.bannercontainer
 elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,rootsmagazine.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
 tvblik.nl##.banner-fluid
-antilliaansdagblad.com,dolcevia.com,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
+antilliaansdagblad.com,dolcevia.com,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 prewarcar.nl##.banner-holder
 puurnaturisme.nl##.banneritem
 ewmagazine.nl##.banner-leaderboard
