@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 13:59:37 +0000
+! Last updated: Thu, 30 Jun 2022 14:10:53 +0000
 !
 ! 2022-06-29
+geile-adressen.nl##.nomobile:has(img[src$=".gif"])
 nec-nijmegen.nl##.sponsors
 mygaydate.nl##.rand:has(img[src$=".gif"])
 mr-online.nl##.elementor-widget-container:has(.strack_bnr)
