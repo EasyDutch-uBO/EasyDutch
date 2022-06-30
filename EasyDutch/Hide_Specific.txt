@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+nieuwsuitnijmegen.nl##.js-banner-slider:upward(2)
 dutchcryptotalk.com##.hootslider-image-wrapper
 nieuwsfiets.nu###banner
 nedporno.com##[class^="r1ght-pl4yer"]
@@ -291,7 +292,6 @@ sexcontact-xxx.be##.moduletable:has([src*="affilaxy.com/promos/"])
 reformatorischeomroep.nl##section:has(.item-banner)
 jammfm.nl##.vc_row:has([class^="qt-slickslider"] .qt-sponsor)
 ontdek-amerika.nl##[href^="https://www.reisburobartlimburg.nl/"]
-nieuwsuitnijmegen.nl##.js-banner-slider
 nieuwsuitnijmegen.nl##.text-left:has-text(Advert)
 voetbalkrant.com##.leaderboard
 voetbalkrant.com###imu:has(div[class*="ad--rectangle"])
