@@ -1089,7 +1089,6 @@ janvissersweer.nl##[id^="custom_html-"]:has([src^="https://pagead2.googlesyndica
 pornopower.nl##[id^="custom_html"]:has([src^="https://www.2k19.nl/"])
 messianieuws.nl##[id^="custom_html-"]:has(a[href][target="_blank"][rel="noopener"])
 sexervaringdelen.com##[id^="custom_html-"]:has(iframe)
-naaktlog.nl##[id^="custom_html"]:has(iframe[src^="https://tools.vpscash.nl/"])
 okemedia.nl##[id^="custom_html"]:has(img[src*="banner"])
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
 pornomilf.nl##[id^="custom_html"]:has-text(Hier aanmelden)
