@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 13:31:33 +0000
+! Last updated: Thu, 30 Jun 2022 13:32:44 +0000
 !
 ! 2022-06-29
+mnm.be##.ad--rectangle:upward(1)
 floranews.com##td[align="center"]:has(> hr):has([href^="/banner"])
 floranews.com##td[rowspan="2"][width="590"]:has(a[href^="/banner"]):not(:has(img[src*="Hier kan uw banner staan"]))
 gigantfm.nl##.onderdelenshop
