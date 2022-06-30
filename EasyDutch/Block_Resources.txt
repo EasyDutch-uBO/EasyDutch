@@ -1,8 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 30 Jun 2022 13:26:44 +0000
+! Last updated: Thu, 30 Jun 2022 13:46:17 +0000
 !
 ! 2022-06-30
+||mygaydate.nl/images/eroshop.jpg
 ||floranews.com/img/banner/Floranews
 ||gigantfm.nl/assets/images/autoonderdelen24_1.png$image
 ||gigantfm.nl/assets/images/onderdelenshop.gif$image
