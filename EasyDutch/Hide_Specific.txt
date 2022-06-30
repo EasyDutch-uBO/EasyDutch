@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+limburger.nl##.widget-grid--partnerbox
 leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
 laardercourant.nl##[advobject]:upward(2)
 motocrossplanet.nl##.background_link
