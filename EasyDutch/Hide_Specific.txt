@@ -590,7 +590,6 @@ autoweek.nl##.advertise
 goodbye.be,sporza.be##.advertising
 dagblad010.nl,voorburgsdagblad.nl##.advrow
 sportinnederland.com##.af-main-header-container
-modekoninginmaxima.nl##.after-content-ad:not(:has-text(Niets van deze website mag verveelvoudigd))
 gfcnieuws.com##.ai-viewport-1
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.albla-zijkant:has(.adv-link)
