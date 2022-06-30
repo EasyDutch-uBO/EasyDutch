@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+mr-online.nl##.elementor-widget-container:has(.strack_bnr)
 mnm.be##.ad--rectangle:upward(1)
 floranews.com##td[align="center"]:has(> hr):has([href^="/banner"])
 floranews.com##td[rowspan="2"][width="590"]:has(a[href^="/banner"]):not(:has(img[src*="Hier kan uw banner staan"]))
@@ -318,7 +319,6 @@ farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
 mr-online.nl##.elementor-widget-container:has-text(Advertentie):upward(2)
-mr-online.nl##.strack_bnr
 scheepvaartkrant.nl###block-leaderboard
 scheepvaartkrant.nl###block-topbannersidebar
 vlootschouw.nl##[id*="miw_widget"]:has(div[class]:has(a[href*="leverancier"]))
