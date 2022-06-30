@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+dutchcryptotalk.com##.hootslider-image-wrapper
 nieuwsfiets.nu###banner
 nedporno.com##[class^="r1ght-pl4yer"]
 geile-adressen.nl##.nomobile:has(img[src$=".gif"])
