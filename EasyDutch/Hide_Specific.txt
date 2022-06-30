@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 10:42:43 +0000
+! Last updated: Thu, 30 Jun 2022 10:49:08 +0000
 !
 ! 2022-06-29
+leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
 laardercourant.nl##[advobject]:upward(2)
 motocrossplanet.nl##.background_link
 tippelpagina.nl##.widget:has-text(Advertentie)
