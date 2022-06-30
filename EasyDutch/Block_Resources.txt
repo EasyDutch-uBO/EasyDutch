@@ -1,9 +1,10 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 30 Jun 2022 14:29:00 +0000
+! Last updated: Thu, 30 Jun 2022 14:35:43 +0000
 !
 ! 2022-06-30
 /^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
+||dutchitchannel.nl/6*?field=binary1$image
 ||geile-adressen.nl/images/overspel.gif
 ||mygaydate.nl/images/eroshop.jpg
 ||floranews.com/img/banner/Floranews
