@@ -1,8 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 30 Jun 2022 09:57:38 +0000
+! Last updated: Thu, 30 Jun 2022 10:27:06 +0000
 !
 ! 2022-06-30
+||motokicx.com/wp-content/uploads/*RAD
 ||noordernieuws.nl/wp-content/uploads/*/*.gif$image
 ||noordkopcentraal.nl/wp-content/uploads/*/Vrienden-van
 ! 2022-06-29
@@ -372,8 +373,6 @@
 ||motocrossplanet.nl/banner/
 ||motocrossplanet.nl/wwwuploads/banners/
 ||motocrossplanet.nl/wwwuploads/banners/
-||motokicx.com/wp-content/uploads/*/BANNER-
-||motokicx.com/wp-content/uploads/*/Website-ad-
 ||naaktkrant.nl/media/*/*.gif$image,1p
 ||nederlandsextube.nl/images/amateurwebcams$image
 ||nederlandsextube.nl/images/sextubewebcams$image
