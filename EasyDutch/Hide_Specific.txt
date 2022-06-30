@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+seksdatemet-milfs.be##.card:has(img[src$=".gif"])
 sexdatemet-milfs.be##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-skin-tango))
 mijn-tv-gids.be##[id^="ads-row"]
 mijnserie.nl##.sponsors-billboard:upward(.fullWidthWhite)
