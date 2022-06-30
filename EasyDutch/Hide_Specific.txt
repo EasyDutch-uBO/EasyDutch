@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 12:21:26 +0000
+! Last updated: Thu, 30 Jun 2022 12:21:47 +0000
 !
 ! 2022-06-29
+seksdatemet-milfs.be##.card:has(img[src$=".gif"])
 sexdatemet-milfs.be##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-skin-tango))
 mijn-tv-gids.be##[id^="ads-row"]
 mijnserie.nl##.sponsors-billboard:upward(.fullWidthWhite)
