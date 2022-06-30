@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+mygaydate.nl##.rand:has(img[src$=".gif"])
 mr-online.nl##.elementor-widget-container:has(.strack_bnr)
 mnm.be##.ad--rectangle:upward(1)
 flexnieuws.nl##.header-ads__custom-ad
@@ -447,7 +448,6 @@ handbalstartpunt.nl##aside > div[class]:has(> .adsbygoogle)
 handbalstartpunt.nl##p:has(img[src*="Logo"])
 kilroynews.net##table:has(a[href="http://www.waffen-jansen.de"])
 kinkymedia.nl##aside > div[id^="media_image"]:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
-mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
 netonline.be##.tekstboldwit td:has-text(/advert/i)
 ! 2022-01-13
 morningstar.*###ad_top_page
