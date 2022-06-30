@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 30 Jun 2022 11:17:37 +0000
+! Last updated: Thu, 30 Jun 2022 11:42:00 +0000
 !
 ! 2022-06-30
 ||menttv.be/wp-content/uploads/*/*-br.$image
@@ -399,7 +399,6 @@
 ||omejoop.be/pop.js
 ||omroeppenm.nl^*/banner/
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300x*.gif$image
-||onderwijsland.com/files/banners/
 ||onderwijsland.com/files/partners/
 ||oneworld.nl/app/uploads/*/*-Banner$image
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
