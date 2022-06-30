@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+geile-adressen.nl##.nomobile:has(img[src$=".gif"])
 nec-nijmegen.nl##.sponsors
 mygaydate.nl##.rand:has(img[src$=".gif"])
 mr-online.nl##.elementor-widget-container:has(.strack_bnr)
