@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 11:56:28 +0000
+! Last updated: Thu, 30 Jun 2022 12:05:52 +0000
 !
 ! 2022-06-29
+mijnserie.nl##.sponsors-billboard:upward(.fullWidthWhite)
 limburger.nl##.widget-grid--partnerbox
 leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
 laardercourant.nl##[advobject]:upward(2)
