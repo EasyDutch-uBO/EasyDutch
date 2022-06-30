@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 30 Jun 2022 13:06:41 +0000
+! Last updated: Thu, 30 Jun 2022 13:14:46 +0000
 !
 ! 2022-06-30
 ||gigantfm.nl/assets/images/autoonderdelen24_1.png$image
@@ -296,7 +296,6 @@
 ||flexnieuws.nl/wp-content/uploads/*/Naamloos-*.png$image
 ||flirtmee.nl/img/160x70_sponsor-
 ||floranews.com/img/banner/
-||fonkonline.nl/adds/
 ||forum.spaarinformatie.nl/si-info.html
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||fx.nl/_ext/widget/$3p
