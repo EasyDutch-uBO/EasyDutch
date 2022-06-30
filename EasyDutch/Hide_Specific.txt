@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+mijnserie.nl##.sponsors-billboard:upward(.fullWidthWhite)
 limburger.nl##.widget-grid--partnerbox
 leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
 laardercourant.nl##[advobject]:upward(2)
