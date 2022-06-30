@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-29
+mnm.be##.ad--rectangle:upward(1)
 gigantfm.nl##.onderdelenshop
 gowiththevlo.nl###omc-sidebar li.gowit-widget:has(img):not(:has(a[href*="gowiththevlo.nl"]))
 seksdatemet-milfs.be##.card:has(img[src$=".gif"])
