@@ -313,7 +313,6 @@
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
 ||golf.be/files/BannerImage/$image,1p
 ||gowiththevlo.nl/wp-content/uploads/*/*_banner_gwtv.jpg$image
-||gowiththevlo.nl/wp-content/uploads/*/apeldoorn-antiekmarkten-*.jpg$image
 ||gratis.nl/wp-content/uploads/*/*-gratis.png$image
 ||greenkeeper.nl/upload/banners/
 ||greenkeeper.nl/upload/relaties/
