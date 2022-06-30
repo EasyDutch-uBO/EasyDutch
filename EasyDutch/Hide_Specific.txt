@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 13:51:01 +0000
+! Last updated: Thu, 30 Jun 2022 13:59:37 +0000
 !
 ! 2022-06-29
+nec-nijmegen.nl##.sponsors
 mygaydate.nl##.rand:has(img[src$=".gif"])
 mr-online.nl##.elementor-widget-container:has(.strack_bnr)
 mnm.be##.ad--rectangle:upward(1)
@@ -914,7 +915,7 @@ omroepwest.nl##.slider-wrapper
 waarzo.nl##.smallbox:has-text(Advertentie)
 solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
-az.nl,cambuur.nl,ga-eagles.nl,nec-nijmegen.nl,niburu.co##.sponsers
+az.nl,cambuur.nl,ga-eagles.nl,niburu.co##.sponsers
 computable.be##.sponsorartikelen
 knvb.nl##.SponsorBar-list
 omroephouten.nl##.sponsor-carousel
