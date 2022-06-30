@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-30
+||noordernieuws.nl/wp-content/uploads/*/*.gif$image
 ||noordkopcentraal.nl/wp-content/uploads/*/Vrienden-van
 ! 2022-06-29
 ||kinkysexcontactonline.nl/images/*.gif
@@ -389,7 +390,6 @@
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||ninefornews.nl/wp-content/uploads/*/banner-set-*.png$image
 ||nltube.com/b?z=A*$subdocument
-||noordernieuws.nl/wp-content/uploads/201*/*/*.gif$image
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,1p
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xhr
 ||oisterwijknieuws.nl/wp-content/uploads/*/*-banner-*.$image
