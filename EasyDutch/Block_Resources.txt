@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 30 Jun 2022 15:03:30 +0000
+! Last updated: Thu, 30 Jun 2022 15:11:48 +0000
 !
 ! 2022-06-30
 ||nieuwsfiets.nu/wp-content/uploads/2021/03/Hulphond*.jpg
@@ -268,7 +268,6 @@
 ||denachtvlinders.nl/wp-content/uploads/*/bol-*.gif$image
 ||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*$image
 ||despirituelewereld.be/wp-content/uploads/*/hook-bottom-info-coronavirus*$image
-||detelefoongids.nl/img/youvia-banner/banner
 ||dewereldmorgen.be/wp-content/banners/$image
 ||digitalaudience.io/bakery/pix/$image,3p
 ||disqus.com/recommendations/$subdocument,domain=webmastersunited.com
