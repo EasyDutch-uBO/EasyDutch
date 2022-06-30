@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-06-30
+||nljug.org/wp-content/uploads/2020/04/300x200-1.jpg
 ||nieuwsfiets.nu/wp-content/uploads/2021/03/Hulphond*.jpg
 /^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
 ||dutchitchannel.nl/6*?field=binary1$image
