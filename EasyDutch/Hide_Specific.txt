@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 30 Jun 2022 10:49:08 +0000
+! Last updated: Thu, 30 Jun 2022 10:58:31 +0000
 !
 ! 2022-06-29
 leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
@@ -551,7 +551,7 @@ hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
 tweakers.net###true
 pornozot.com###video-right
 nlsexfilmpjes.com###videos_div_v > .clear_line
-dominant.be,lesbos.be,pornno.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
+dominant.be,pornno.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
 petities.com###visible_ad_1
 rtl.be###w-leaderboard
 nederland.fm###xbtm > .shadow
