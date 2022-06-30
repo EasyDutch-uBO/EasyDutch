@@ -9,6 +9,8 @@ laardercourant.nl##[advobject]:upward(2)
 midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
 motocrossplanet.nl##.background_link
 tippelpagina.nl##.widget:has-text(Advertentie)
+oisterwijknieuws.nl##.sidebar
+oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
 onderwijsland.com##.col-md-16:has([style*="greystripe"])
 persberichten.com##[id^="PanelTopAds"]
@@ -503,7 +505,6 @@ eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
 gezondheid.be###leaderbord
 nlsexfilmpjes.com###left_div li:not(:scope > a[target="_blank"])
-oisterwijknieuws.nl###left-sidebar
 autosport.nl###liggende-banner
 greenkeeper.nl###lijst_logos
 vlaanderen-sexdate.be###linkpartners > :has(.homebanner)
@@ -527,7 +528,6 @@ stubru.be###reclameblok-wrapper
 xxxdump.nl###reclame-eroads
 rtvdrenthe.nl###recommendations-above-ad
 sexfun.nl###recommendBlock
-oisterwijknieuws.nl###right-sidebar
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl###right-sidebar > :has(.mb-3:has-text(Advert))
 audiobookbay.nl###rsidebar > ul > li > h2:has-text(/ad/i)
@@ -885,7 +885,6 @@ xmissy.nl##.rightbar > :has([src^="https://ads."])
 schaefer-shop.nl##.row > [class]:has(.sfr-pdp-section[id$="crossseller"])
 zeelandnet.nl##.row--bnr-between
 rtlboulevard.nl##.rtldart
-oisterwijknieuws.nl##.sam-container
 softonic.nl##.sam-slot
 scholieren.com##.searchvertorial
 telegraaf.nl##.SectionPage__bannerWrapper
@@ -1137,7 +1136,6 @@ nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 ajax1.nl##a[href^="https://www.awin1.com/cread.php?"]
 bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
 gostreaming.nl##a[rel*="sponsored"]
-oisterwijknieuws.nl##a[target="_blank"] > img
 crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
 hardware.info##article.overview-item:has-text(Sponsored)
 racexpress.nl##article-side-block:has(a[href][target="_blank"] > img[width="310"][height="200"])
@@ -1164,7 +1162,6 @@ mariogames.be##div.gameinfo:has-text(/sponsored links/i)
 watchfaces.be##div.google
 loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(/Advertentie|Banner/))
 knhs.nl##div.row:has(:scope > section > .cycler:has(img[src*="banner"]))
-oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
 ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
 rtlnieuws.nl##div[class$=_with_ad__ad]
@@ -1207,7 +1204,6 @@ crimesite.nl##em:has-text(reclame)
 seksmet.nl##gofollow:has(img[src])
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
-oisterwijknieuws.nl##img[alt="banner"]
 rotterdambasketbal.nl##img[title^="roba_sponosor_"]
 prewarcar.nl##img[width="160"][height="92"]
 regio-voetbal.nl##img[width="300"][height="100"]
