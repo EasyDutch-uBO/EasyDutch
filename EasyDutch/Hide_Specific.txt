@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 01 Jul 2022 13:31:50 +0000
+! Last updated: Fri, 01 Jul 2022 14:52:28 +0000
 !
 ! 2022-07-01
 basketballbelgium.be##.sidebar-inner aside:has(.carousel.slide)
@@ -506,7 +506,7 @@ afkortingen.nu###banner_top
 marketingtribune.nl###banner-billboard
 kranenwebsite.nl###bannerdiv
 autowereld.nl###banner-lister-top
-a1mediagroep.nl,brandweerspotters.nl,coc.nl,fanclubbarcelona.nl###banners
+brandweerspotters.nl,coc.nl,fanclubbarcelona.nl###banners
 almere-nieuws.nl###banner-text2
 marktplaats.nl,2dehands.be###banner-top-dt
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
