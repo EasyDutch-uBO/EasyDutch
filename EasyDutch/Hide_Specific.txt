@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-01
+beveiligingnieuws.nl##.widget:has(img[src^="https://beveiligingnieuws.nl/banners/"])
 nieuws.nl##.banners
 seksmet.nl##.et_pb_text:has(* > .g):not(:has(.heading-more))
 seksmet.nl##.g
