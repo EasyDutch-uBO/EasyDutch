@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-01
+omroepeemsdelta.nl###qtFooterWidgets:has(.gs_logo_single--wrapper)
 commonsensetv.nl##.theiaStickySidebar div[id^="media_image"]:has(img[src*="wp.com/"])
 okemedia.nl##.widget:has-text(Interessante links)
 nuus.be##.advertentie
