@@ -203,8 +203,6 @@
 ||agconnect.nl/sites/ag/files/styles/partner_*$image,1p
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/CJG-Alblasserdam.jpg$image
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Rozendaal.jpg$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Week-*.png$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/WK*.$image
 ||amazonaws.com/zkn/files/*.gif$image,domain=zorgkaartnederland.nl
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amz01.plzcdn.com/a/
