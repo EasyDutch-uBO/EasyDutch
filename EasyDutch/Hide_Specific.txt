@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 01 Jul 2022 14:52:28 +0000
+! Last updated: Fri, 01 Jul 2022 15:14:58 +0000
 !
 ! 2022-07-01
+forum.scholieren.com##div[data-advert-placeholder-size]
 basketballbelgium.be##.sidebar-inner aside:has(.carousel.slide)
 basketballbelgium.be###sidebar-top-content > .widget-area:has(img[width="970"][height="250"])
 magazine.belgiancycling.be###section--banner
@@ -847,7 +848,6 @@ wanttoknow.nl##.mb-3:has-text(Advert)
 mediacourant.nl##.mc-adv
 eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.menubanner:has([src^="ads"])
 mijn-tv-gids.be##.midzone
-scholieren.com##.min-h-250
 scholieren.com##.min-h-90
 !#if env_mobile
 nudeviste.be,nudevista.nl##.mob_adv
