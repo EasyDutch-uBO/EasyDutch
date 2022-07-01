@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-01
+radio.nl###xttm > .shadow
+radio.nl###xbtm > .shadow
 cocamsterdam.nl,cochaaglanden.nl###banners
 cocdeventer.nl###ads
 omroephouten.nl##.bannerswidget
