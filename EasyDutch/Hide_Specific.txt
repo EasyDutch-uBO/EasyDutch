@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 01 Jul 2022 08:18:39 +0000
+! Last updated: Fri, 01 Jul 2022 08:24:35 +0000
 !
 ! 2022-07-01
 cocamsterdam.nl,cochaaglanden.nl###banners
@@ -1169,7 +1169,6 @@ digitaalburg.com##aside[class^="widget widget_text"]
 tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][src$=".gif"])
 hoekschnieuws.nl##body > center:has(img)
 dekrantvantoen.nl##body:style(margin-top:-20px!important)
-onlineluisteren.nl##center > div:has(.adsbygoogle)
 briefjevanjan.nl##center:has([src^="https://partner.bol.com/"])
 oops.nl##center:has-text(Klik hier voor meer webcams)
 nu.nl##div.articlelist[data-section^="advertorial"][data-section$="-adverteerder"]
