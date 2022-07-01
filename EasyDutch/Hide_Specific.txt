@@ -1,8 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 01 Jul 2022 08:48:13 +0000
+! Last updated: Fri, 01 Jul 2022 10:34:41 +0000
 !
 ! 2022-07-01
+seksmet.nl##.et_pb_text:has(* > .g):not(:has(.heading-more))
+seksmet.nl##.g
 ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href^="http://eepurl.com/"])):not(:has(a[href*="facebook.com/blogciaotutti"]))
 opwindend.net##.NoBM.Tab:has(img[src^="https://www.mysecretdate.nl/phpThumb/thumbnails/350x350"])
 opwindend.net##div.Tab:has(img[src^="Promotie_Content/"])
@@ -540,7 +542,6 @@ autosport.nl###liggende-banner
 greenkeeper.nl###lijst_logos
 vlaanderen-sexdate.be###linkpartners > :has(.homebanner)
 autowereld.nl###mainbanner
-seksmet.nl###main-header-wrapper
 schiedamsnieuws.nl###media_image-3
 schiedamsnieuws.nl###media_image-4
 gratiscams.nl###menuinner > ul#menuinner > .cat
@@ -753,9 +754,6 @@ deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.ban
 sexcam-mokkels.nl,tellows.nl##.entry-content > div
 dutchporntube.nl##.entry-header > .button
 radiocontinu.nl##.eskimo-carousel-container
-seksmet.nl##.et_pb_module:has([href*="mt67.net"])
-seksmet.nl##.et_pb_module:has(iframe[src*="dt51.net"])
-seksmet.nl##.et_pb_text:has(div[class] > center > a[href]):not(:has(h3.heading-more))
 noordkopcentraal.nl##.ewic-slider-pro-widget
 heracles.nl##.fixed-ads
 motorrijdenexpert.nl##.flat-theme-content:has(a[href][rel^="noopener"])
