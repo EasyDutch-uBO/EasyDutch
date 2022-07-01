@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-01
+||mysecretdate.nl/phpThumb/thumbnails/350x350/$domain=opwindend.net
 ||ciaotutti.nl/wp-content/uploads/*/italmania$image
 ||opwindend.net/Promotie_Content/*.gif
 ||radio.nl/i/banners/
