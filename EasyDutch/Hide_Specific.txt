@@ -4,6 +4,7 @@
 !
 ! 2022-07-01
 ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href^="http://eepurl.com/"])):not(:has(a[href*="facebook.com/blogciaotutti"]))
+opwindend.net##.NoBM.Tab:has(img[src^="https://www.mysecretdate.nl/phpThumb/thumbnails/350x350"])
 opwindend.net##div.Tab:has(img[src^="Promotie_Content/"])
 oogtv.nl##.g
 radio.nl###xttm > .shadow
