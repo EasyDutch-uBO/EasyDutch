@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Fri, 01 Jul 2022 12:17:07 +0000
+! Last updated: Fri, 01 Jul 2022 14:37:42 +0000
 !
 ! 2022-07-01
 ||beveiligingnieuws.nl/banners/$image
@@ -203,8 +203,6 @@
 ||agconnect.nl/sites/ag/files/styles/partner_*$image,1p
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/CJG-Alblasserdam.jpg$image
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Rozendaal.jpg$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Week-*.png$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/WK*.$image
 ||amazonaws.com/zkn/files/*.gif$image,domain=zorgkaartnederland.nl
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amz01.plzcdn.com/a/
