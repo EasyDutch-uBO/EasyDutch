@@ -506,7 +506,7 @@ afkortingen.nu###banner_top
 marketingtribune.nl###banner-billboard
 kranenwebsite.nl###bannerdiv
 autowereld.nl###banner-lister-top
-a1mediagroep.nl,brandweerspotters.nl,coc.nl,fanclubbarcelona.nl###banners
+brandweerspotters.nl,coc.nl,fanclubbarcelona.nl###banners
 almere-nieuws.nl###banner-text2
 marktplaats.nl,2dehands.be###banner-top-dt
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
