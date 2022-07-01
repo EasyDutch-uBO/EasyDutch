@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 01 Jul 2022 11:10:35 +0000
+! Last updated: Fri, 01 Jul 2022 12:05:20 +0000
 !
 ! 2022-07-01
+nieuws.nl##.banners
 seksmet.nl##.et_pb_text:has(* > .g):not(:has(.heading-more))
 seksmet.nl##.g
 ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href^="http://eepurl.com/"])):not(:has(a[href*="facebook.com/blogciaotutti"]))
