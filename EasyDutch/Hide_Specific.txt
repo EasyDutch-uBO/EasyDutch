@@ -1,9 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 01 Jul 2022 08:18:17 +0000
+! Last updated: Fri, 01 Jul 2022 08:18:39 +0000
 !
 ! 2022-07-01
 cocamsterdam.nl,cochaaglanden.nl###banners
+cocdeventer.nl###ads
 omroephouten.nl##.bannerswidget
 omroepeemsdelta.nl###qtFooterWidgets:has(.gs_logo_single--wrapper)
 commonsensetv.nl##.theiaStickySidebar div[id^="media_image"]:has(img[src*="wp.com/"])
