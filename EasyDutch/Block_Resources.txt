@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Fri, 01 Jul 2022 10:35:35 +0000
+! Last updated: Fri, 01 Jul 2022 11:09:44 +0000
 !
 ! 2022-07-01
 ||seksmet.nl/wp-content/uploads/*/*xplezier*.jpg
@@ -239,13 +239,6 @@
 ||camping-frankrijk.nl/graphics/*/*600.$image
 ||cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
 ||cdn.media.zylom.com/images/site/zylom/promo/$3p
-||cdn.nieuws.nl/media/sites/128/*.gif$image
-||cdn.nieuws.nl/media/sites/18/*.gif$image
-||cdn.nieuws.nl/media/sites/221/20*/*/*/*.gif$image
-||cdn.nieuws.nl/media/sites/221/20*/*/*/*-Banner.$image
-||cdn.nieuws.nl/media/sites/221/20*/*/*/dobbenwooncentrum.jpg$image
-||cdn.nieuws.nl/media/sites/88/*.gif$image
-||cdn.nieuws.nl/media/sites/88/*/banner$image
 ||cdn.sbsnet.nl/creatives/assets/*.mp4$domain=kijk.nl
 ||cdn.seksmet.nl/wp-content/uploads/*/all-over-40-handjob$image
 ||cdn.seksmet.nl/wp-content/uploads/*/brazzers-pornovideo-netwerk.*
