@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-01
+||opwindend.net/Promotie_Content/*.gif
 ||radio.nl/i/banners/
 /wp-content/uploads/*.gif$image,domain=cocamsterdam.nl|cocdeventer.nl|cochaaglanden.nl
 ||omroepeemsdelta.nl/wp-content/uploads/*/mw-bedrijfskleding-1.png
