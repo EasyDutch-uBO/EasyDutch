@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-07-01
+nuus.be##.advertentie
 ! 2022-06-30
 buienradar.nl##.linklist
 nlsexfilmpjes.com###left_div li:not(> a[target="_blank"])
