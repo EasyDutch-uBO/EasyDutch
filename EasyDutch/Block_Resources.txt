@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-07-01
+||curacao.nu/wp-content/uploads/*/*WebAD$image
 ! 2022-06-30
 ||dagbladdewest.com/wp-content/uploads/*banner
 ||nljug.org/wp-content/uploads/*/*_banner_$image
