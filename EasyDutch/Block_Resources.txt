@@ -1,8 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Fri, 01 Jul 2022 08:23:41 +0000
+! Last updated: Fri, 01 Jul 2022 08:45:10 +0000
 !
 ! 2022-07-01
+||opwindend.net/Promotie_Content/*.gif
 ||radio.nl/i/banners/
 /wp-content/uploads/*.gif$image,domain=cocamsterdam.nl|cocdeventer.nl|cochaaglanden.nl
 ||omroepeemsdelta.nl/wp-content/uploads/*/mw-bedrijfskleding-1.png
