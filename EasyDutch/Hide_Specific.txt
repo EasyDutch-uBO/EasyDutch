@@ -1,9 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 01 Jul 2022 12:22:08 +0000
+! Last updated: Fri, 01 Jul 2022 12:24:58 +0000
 !
 ! 2022-07-01
 beveiligingnieuws.nl##.widget:has(img[src^="https://beveiligingnieuws.nl/banners/"])
+beveiligingnieuws.nl##.widget:has(.widget-title:has-text(/Partners/i))
 nieuws.nl##.banners
 seksmet.nl##.et_pb_text:has(* > .g):not(:has(.heading-more))
 seksmet.nl##.g
