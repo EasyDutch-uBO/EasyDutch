@@ -1,8 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Fri, 01 Jul 2022 08:48:13 +0000
+! Last updated: Fri, 01 Jul 2022 08:49:11 +0000
 !
 ! 2022-07-01
+||mysecretdate.nl/phpThumb/thumbnails/350x350/$domain=opwindend.net
 ||ciaotutti.nl/wp-content/uploads/*/italmania$image
 ||opwindend.net/Promotie_Content/*.gif
 ||radio.nl/i/banners/
