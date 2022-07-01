@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-01
+||beveiligingnieuws.nl/banners/$image
+||beveiligingnieuws.nl/wp-content/uploads/*/*.gif$image
 ||seksmet.nl/wp-content/uploads/*/*xplezier*.jpg
 ||mysecretdate.nl/phpThumb/thumbnails/350x350/$domain=opwindend.net
 ||ciaotutti.nl/wp-content/uploads/*/italmania$image
