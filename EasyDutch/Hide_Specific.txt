@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-01
+oogtv.nl##.g
 radio.nl###xttm > .shadow
 radio.nl###xbtm > .shadow
 cocamsterdam.nl,cochaaglanden.nl###banners
