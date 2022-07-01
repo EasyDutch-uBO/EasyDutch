@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-01
+opwindend.net##div.Tab:has(img[src^="Promotie_Content/"])
 oogtv.nl##.g
 radio.nl###xttm > .shadow
 radio.nl###xbtm > .shadow
