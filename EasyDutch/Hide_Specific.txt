@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-01
+basketballbelgium.be##.sidebar-inner aside:has(.carousel.slide)
+basketballbelgium.be###sidebar-top-content > .widget-area:has(img[width="970"][height="250"])
 magazine.belgiancycling.be###section--banner
 beveiligingnieuws.nl##.widget:has(img[src^="https://beveiligingnieuws.nl/banners/"])
 beveiligingnieuws.nl##.widget:has(.widget-title:has-text(/Partners/i))
@@ -569,7 +571,6 @@ audiobookbay.nl###rsidebar > ul > li > h2:has-text(/ad/i)
 rtlnieuws.nl###rtln-ad-advertorial
 motorfietsblog.nl###shopside
 112achterhoek-nieuws.nl###sidebar
-basketballbelgium.be###sidebar aside[id^="ao"]
 voetbal-vandaag.nl###sidebar_aanbevelen
 appletips.nl###singleab
 petitie24.nl###tekstpetitie > :has-text(advert)
@@ -1233,7 +1234,6 @@ regio-voetbal.nl##img[width="300"][height="100"]
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 decibel.nl##img[width="640"][height="180"]
 wildfm.nl##img[width="699"][height="90"]
-basketballbelgium.be##img[width="970"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 stubru.be##li:has-text(/advert/i)
 rtveen.nl##li:has-text(reclame)
