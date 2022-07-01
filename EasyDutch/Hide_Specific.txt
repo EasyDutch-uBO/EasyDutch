@@ -1,9 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 01 Jul 2022 08:46:29 +0000
+! Last updated: Fri, 01 Jul 2022 08:48:13 +0000
 !
 ! 2022-07-01
 ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href^="http://eepurl.com/"])):not(:has(a[href*="facebook.com/blogciaotutti"]))
+opwindend.net##.NoBM.Tab:has(img[src^="https://www.mysecretdate.nl/phpThumb/thumbnails/350x350"])
 opwindend.net##div.Tab:has(img[src^="Promotie_Content/"])
 oogtv.nl##.g
 radio.nl###xttm > .shadow
