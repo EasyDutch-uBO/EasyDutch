@@ -402,7 +402,6 @@
 ||oisterwijknieuws.nl/wp-content/uploads/*/Paul-Kuijpers-*.$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/savona-wasstraat-*.jpg$image
 ||omejoop.be/pop.js
-||omroeppenm.nl^*/banner/
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300x*.gif$image
 ||onderwijsland.com/files/partners/
 ||oneworld.nl/app/uploads/*/*-Banner$image
