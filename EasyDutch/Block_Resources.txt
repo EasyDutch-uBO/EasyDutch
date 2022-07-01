@@ -1,8 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Fri, 01 Jul 2022 14:37:42 +0000
+! Last updated: Fri, 01 Jul 2022 14:44:24 +0000
 !
 ! 2022-07-01
+||pen.nl/wp-content/uploads/*/fitcity360x96.png
 ||beveiligingnieuws.nl/banners/$image
 ||beveiligingnieuws.nl/wp-content/uploads/*/*.gif$image
 ||seksmet.nl/wp-content/uploads/*/*xplezier*.jpg
