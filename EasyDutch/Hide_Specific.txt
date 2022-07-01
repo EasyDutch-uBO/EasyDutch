@@ -524,7 +524,6 @@ nieuws.nl###footer-banner
 geile-sexverhalen.be,geile-sexverhalen.nl###footermiddle > .well:has-text(Advert)
 bokt.nl###frontpage_mediumrect
 nu.nl###header > .zone
-nieuws.nl###header-banner
 unitednews.sr###image-vertical-reel-scroll-slideshow
 itdaily.be###itdaily-article-sidebar
 itdaily.be###itdaily-article-top
@@ -860,7 +859,6 @@ nl.motorsport.com##.ms-hapb
 vivatube.com##.mt15.container:has-text(Advert)
 iex.nl##.network:has-text(Gesponsorde links)
 ninefornews.nl##.nfn-target[data-advadsredirect]
-nieuws.nl##.nieuws-banner
 showbizzsite.be##.nieuws-detail-page-bottom-part > :has(.konvento)
 30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
 dekattensite.nl##.nxs-default-p > p:has-text(advert)
