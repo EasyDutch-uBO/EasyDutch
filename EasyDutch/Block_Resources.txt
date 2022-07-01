@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-01
+||omroepeemsdelta.nl/wp-content/uploads/*/mw-bedrijfskleding-1.png
+||omroepeemsdelta.nl/wp-content/uploads/*/deltaglasvezel*.jpeg
 ||curacao.nu/wp-content/uploads/*/*WebAD$image
 ||succesboeken.nl/api/public/images/branding/$image,domain=commonsensetv.nl
 ! 2022-06-30
