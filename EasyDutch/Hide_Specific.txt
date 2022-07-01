@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 01 Jul 2022 08:44:33 +0000
+! Last updated: Fri, 01 Jul 2022 08:46:29 +0000
 !
 ! 2022-07-01
+ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href^="http://eepurl.com/"])):not(:has(a[href*="facebook.com/blogciaotutti"]))
 opwindend.net##div.Tab:has(img[src^="Promotie_Content/"])
 oogtv.nl##.g
 radio.nl###xttm > .shadow
@@ -136,7 +137,6 @@ palnws.be##.jeg_ad:not(:has(a[href*="palnws.be"]))
 palnws.be##.jeg_ad_top:not(:has(a[href*="palnws.be"]))
 palnws.be##.palnw-widget:has-text(Advert)
 ! 2022-06-27
-ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href="http://eepurl.com/dFsw3z"]))
 radiovisie.eu##[id^="custom_html"]:has(.adsbygoogle)
 iex.nl##.billboardwrapdown
 businessinsider.nl##[class*="-teaser"]:has(.bi-label--advertorial)
