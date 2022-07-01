@@ -2,6 +2,8 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-07-01
+notebookcheck.nl##+js(acis, document.getElementById, nbc_contentcontainer)
 ! 2022-06-27
 /wp-content/*/scripts/adgear.js$script,1p,domain=androidplanet.nl|iphoned.nl
 ! 2022-05-28 racingnews365.nl
@@ -53,8 +55,6 @@ funnygames.nl,funnygames.be,spele.be,spele.nl##.is-billboard
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-skyscraper
 marokko.nl##+js(set, ads_toegestaan, true)
 @@*$ghide,domain=modekoninginmaxima.nl|quickclaims.nl
-! 2021-06-01
-notebookcheck.nl##+js(acis, document.getElementById, send)
 ! 2021-05-04
 112midden-zeeland.nl##+js(aopr, anOptions)
 ! 2021-04-28
