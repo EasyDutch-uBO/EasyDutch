@@ -4,6 +4,7 @@
 !
 ! 2022-07-01
 cocamsterdam.nl,cochaaglanden.nl###banners
+cocdeventer.nl###ads
 omroephouten.nl##.bannerswidget
 omroepeemsdelta.nl###qtFooterWidgets:has(.gs_logo_single--wrapper)
 commonsensetv.nl##.theiaStickySidebar div[id^="media_image"]:has(img[src*="wp.com/"])
