@@ -1,8 +1,10 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Fri, 01 Jul 2022 07:50:29 +0000
+! Last updated: Fri, 01 Jul 2022 08:00:17 +0000
 !
 ! 2022-07-01
+||omroepeemsdelta.nl/wp-content/uploads/*/mw-bedrijfskleding-1.png
+||omroepeemsdelta.nl/wp-content/uploads/*/deltaglasvezel*.jpeg
 ||curacao.nu/wp-content/uploads/*/*WebAD$image
 ||succesboeken.nl/api/public/images/branding/$image,domain=commonsensetv.nl
 ! 2022-06-30
