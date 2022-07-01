@@ -1,9 +1,10 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Fri, 01 Jul 2022 07:03:28 +0000
+! Last updated: Fri, 01 Jul 2022 07:50:29 +0000
 !
 ! 2022-07-01
 ||curacao.nu/wp-content/uploads/*/*WebAD$image
+||succesboeken.nl/api/public/images/branding/$image,domain=commonsensetv.nl
 ! 2022-06-30
 ||dagbladdewest.com/wp-content/uploads/*banner
 ||nljug.org/wp-content/uploads/*/*_banner_$image
@@ -258,7 +259,6 @@
 ||clubxmissy.nl/banners/*$image,3p
 ||coastline945fm.nl/cache/partners/$image
 ||coastlinefm.nl/cache/partners/
-||commonsensetv.nl/wp-content/uploads/*/ezgif.com-gif-maker*.gif$image
 ||computable.be/media/truelogo*$image,1p
 ||computable.nl/media/truelogo*$image,1p
 ||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
