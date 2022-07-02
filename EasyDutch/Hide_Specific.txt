@@ -477,7 +477,6 @@ duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/u
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 handbalstartpunt.nl##aside > div[class]:has(> .adsbygoogle)
-handbalstartpunt.nl##p:has(img[src*="Logo"])
 kilroynews.net##table:has(a[href="http://www.waffen-jansen.de"])
 kinkymedia.nl##aside > div[id^="media_image"]:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
 netonline.be##.tekstboldwit td:has-text(/advert/i)
