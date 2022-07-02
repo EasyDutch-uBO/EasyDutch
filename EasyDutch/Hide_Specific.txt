@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-07-02
+arenalokaal.nl##.content-start > .w-full:has-text(Externe)
 ! 2022-07-01
 forum.scholieren.com##div[data-advert-placeholder-size]
 basketballbelgium.be##.sidebar-inner aside:has(.carousel.slide)
