@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 02 Jul 2022 12:40:48 +0000
+! Last updated: Sat, 02 Jul 2022 12:41:14 +0000
 !
 ! 2022-07-01
 forum.scholieren.com##div[data-advert-placeholder-size]
@@ -174,7 +174,6 @@ aavisie.nl##[id^="loaBlock"]:has-text(Advertentie)
 a1mediagroep.nl##.reclame
 apintie.sr##div[style*="width:300px; height:200px;"]
 arenalokaal.nl##.content-start > .items-center:has([advobject])
-arenalokaal.nl##.content-start > * > div[style]:has-text(/Externe links|Externe websites/i)
 arenalokaal.nl##[advobject]:upward(.bg-gray-100)
 ! 2022-06-23
 knack.be##.js-partner-content
@@ -833,7 +832,7 @@ webwereld.nl##.leaderBoardHolder
 atv.be,robtv.be,tvl.be,tvoost.be##.leaderboardWrap
 blikopnieuws.nl##.ligatus-sidebar-block
 vagina.nl##.list-item:has(script[src*=realsrv])
-roulettefm.n,rtvstichtsevecht.nl##.list-sponsors
+roulettefm.nl,rtvstichtsevecht.nl##.list-sponsors
 sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
 greenkeeper.nl##.logoblok
@@ -894,7 +893,7 @@ fhm500.nl##.powered_by_profile
 nederlandsextube.nl##.prefilm
 marktplaats.nl,2dehands.be##.premium-content
 letsgodigital.org##.product__wrapper:has(.adsbygoogle)
-dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.n,rtvstichtsevecht.nl,wos.nl##.prom
+dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 koopplein.nl##.promobloc-desktop
 koopplein.nl##.promoblocs__banner
 synoniemen.net##.promoblok
