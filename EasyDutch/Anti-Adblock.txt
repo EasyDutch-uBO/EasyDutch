@@ -1,9 +1,10 @@
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Sat, 02 Jul 2022 09:52:23 +0000
+! Last updated: Sat, 02 Jul 2022 11:54:18 +0000
 !
-! 2022-07-01
+! 2022-07-02
 notebookcheck.nl##+js(acis, document.getElementById, AAdsspaCe)
+@@||cmp.quantcast.com/choice/*/*vi.nl/choice.js$script,domain=vi.nl
 ! 2022-06-27
 /wp-content/*/scripts/adgear.js$script,1p,domain=androidplanet.nl|iphoned.nl
 ! 2022-05-28 racingnews365.nl
