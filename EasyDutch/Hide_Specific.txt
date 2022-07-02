@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 02 Jul 2022 12:41:14 +0000
+! Last updated: Sat, 02 Jul 2022 12:49:18 +0000
 !
+! 2022-07-02
+arenalokaal.nl##.content-start > .w-full:has-text(Externe)
 ! 2022-07-01
 forum.scholieren.com##div[data-advert-placeholder-size]
 basketballbelgium.be##.sidebar-inner aside:has(.carousel.slide)
