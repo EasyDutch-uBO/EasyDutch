@@ -18,6 +18,7 @@ opwindend.net##div.Tab:has(img[src^="Promotie_Content/"])
 oogtv.nl##.g
 radio.nl###xttm > .shadow
 radio.nl###xbtm > .shadow
+radio.nl##[id^="takeover"]:has-text(Advert)
 cocamsterdam.nl,cochaaglanden.nl###banners
 cocdeventer.nl###ads
 omroephouten.nl##.bannerswidget
