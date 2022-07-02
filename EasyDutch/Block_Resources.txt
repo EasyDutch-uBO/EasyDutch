@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-01
+||handbalstartpunt.nl/*/banner$image
 ||racingnews365.nl/images/logos/odds/unibet/
 ||pen.nl/wp-content/uploads/*/fitcity360x96.png
 ||beveiligingnieuws.nl/banners/$image
@@ -323,8 +324,6 @@
 ||gratis.nl/wp-content/uploads/*/*-gratis.png$image
 ||greenkeeper.nl/upload/banners/
 ||greenkeeper.nl/upload/relaties/
-||handbalstartpunt.nl/content/schoonkapje$image,1p
-||handbalstartpunt.nl/images/banner_$image,1p
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*.$image
 !||hotdatingvlaanderen.be/banner$image
 ||hotradiohits.nl/image/picture/*_banner.
