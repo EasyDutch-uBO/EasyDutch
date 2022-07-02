@@ -1,12 +1,13 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Sat, 02 Jul 2022 08:07:41 +0000
+! Last updated: Sat, 02 Jul 2022 09:30:28 +0000
 !
 ! 2022-07-01
 ||racingnews365.nl/images/logos/odds/unibet/
 ||pen.nl/wp-content/uploads/*/fitcity360x96.png
 ||beveiligingnieuws.nl/banners/$image
 ||beveiligingnieuws.nl/wp-content/uploads/*/*.gif$image
+||beveiligingnieuws.nl/wp-content/uploads/*webbanner$image
 ||seksmet.nl/wp-content/uploads/*/*xplezier*.jpg
 ||mysecretdate.nl/phpThumb/thumbnails/350x350/$domain=opwindend.net
 ||ciaotutti.nl/wp-content/uploads/*/italmania$image
