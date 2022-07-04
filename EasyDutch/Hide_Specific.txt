@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 02 Jul 2022 12:49:18 +0000
+! Last updated: Mon, 04 Jul 2022 05:49:43 +0000
 !
 ! 2022-07-02
 arenalokaal.nl##.content-start > .w-full:has-text(Externe)
@@ -623,7 +623,7 @@ dissident.one##.adsbygoogle
 parool.nl,trouw.nl##.ad--section
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 dorpsklanken.online##.ads-mobiel
-hetkrantje-online.nl,leiderdorpsweekblad.nl##.adUnderArticle
+leiderdorpsweekblad.nl##.adUnderArticle
 adodenhaag.nl,spelletje.nl##.adv
 folderz.nl,intermediair.nl,spel.nl,spelletjes.nl##.advert
 deoudrotterdammer.nl##.advertentie
