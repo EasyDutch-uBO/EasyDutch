@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 05 Jul 2022 14:14:34 +0000
+! Last updated: Tue, 05 Jul 2022 14:21:57 +0000
 !
 ! 2022-07-05
 radiomonique.am##.qt-sponsors
@@ -385,7 +385,7 @@ headliner.nl###flex_left:has([id="div-gpt-ad"])
 hardnieuws.nl##[id*="ros-300x600"]:upward(1)
 ! 2022-03-22
 hbvl.be##.widget:has(.article-teaser)
-mariabode.nl,omroepeemsdelta.nl##[id^="custom_html"]:has-text(/advert/i)
+mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
 hvzeeland.nl##.affiliates
 maaslandradio.nl##.slides
