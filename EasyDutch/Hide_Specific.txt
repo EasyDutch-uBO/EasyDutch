@@ -5,8 +5,8 @@
 ! 2022-07-05
 gooieneembode.nl##[advobject]:upward(.bg-gray-100)
 gooieneembode.nl##.content-start > :has([advobject])
-weespernieuws.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)
-weespernieuws.nl##[advobject]:upward(div):has-text(/Uit de krant|advertenties/i)
+weespernieuws.nl##[advobject]:upward(.bg-gray-100)
+##.content-start > :has([advobject])
 tippelpagina.nl##.widget:has-text(/advertentie|aanraders/i)
 immo.vlan.be##.partners_immo
 vakantieweb.be##.partners-immo
