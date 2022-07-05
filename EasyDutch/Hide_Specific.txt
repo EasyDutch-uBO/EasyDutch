@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-05
+hollywoodhuizen.nl##.a-widget
+hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:not(.sharedaddy):not(:has(img))
 radiomonique.am##.qt-sponsors
 nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
 nieuwsfiets.nu##.ult-content-box > a[href]:not([href*="nieuwsfiets.nu"]):not([href*="questionpro.com"])
@@ -1207,7 +1209,6 @@ omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
 rtvdrenthe.nl##div[class^="col"]:has([class*="adcontainer"])
 assercourant.nl,emmercourant.nl##div[class^="col-sm-"]:has(.ad-item)
 zoom.nl##div[class^="display-ad_container"]
-hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:has(.adsbygoogle):not([id])
 weeronline.nl##div[class^="styled__AdWrapper-"]
 weeronline.nl##div[class^="styled__FooterAdWrapper-"]
 rtvpapendrecht.nl##div[class^="vc_column"]:has-text(/reclame/i)
