@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-05
+nl.motorsport.com##.ms-side-items--with-banner
 mr-online.nl##a[href="/partner/profielpartner/"]:upward(.elementor-widget-wrap)
 gooieneembode.nl##[advobject]:upward(.bg-gray-100)
 gooieneembode.nl##.content-start > :has([advobject])
