@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-05
+tippelpagina.nl##.widget:has-text(/advertentie|aanraders/i)
 immo.vlan.be##.partners_immo
 vakantieweb.be##.partners-immo
 hvzeeland.nl##.advertisement
@@ -61,7 +62,6 @@ leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
 laardercourant.nl##[advobject]:upward(2)
 midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
 motocrossplanet.nl##.background_link
-tippelpagina.nl##.widget:has-text(Advertentie)
 oisterwijknieuws.nl##.sidebar
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
