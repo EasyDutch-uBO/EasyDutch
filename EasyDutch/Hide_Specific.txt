@@ -2,7 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
-! 2022-07-02
+! 2022-07-05
+immo.vlan.be##.partners_immo
 vakantieweb.be##.partners-immo
 hvzeeland.nl##.advertisement
 arenalokaal.nl##.content-start > .w-full:has-text(Externe)
