@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-05
+gooieneembode.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)
+gooieneembode.nl##[advobject]:upward(div):has-text(/Uit de krant|advertenties/i)
 tippelpagina.nl##.widget:has-text(/advertentie|aanraders/i)
 immo.vlan.be##.partners_immo
 vakantieweb.be##.partners-immo
@@ -1073,8 +1075,7 @@ amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,in
 twentefm.nl##[class^="bannerzone_"]:has([href])
 ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
 gezondheid.be##[class^="gz-ads"]
-gooieneembode.nl,weespernieuws.nl##[class^="mb"]:has([advobject^="webadv_"])
-gooieneembode.nl##[class^="mtb-"]:has-text(Partner)
+weespernieuws.nl##[class^="mb"]:has([advobject^="webadv_"])
 schie.nu##[class^="my-"]:has(img[src*="/images/banner/"])
 appletips.nl##[class^="ph_block"]
 visserijnieuws.nl##[class^="row advertentie-"]:not([class*="advertentie-1"])
