@@ -4,6 +4,7 @@
 !
 ! 2022-07-05
 ||itnijs.frl/wp-content/uploads/*/adfertinsje
+||onderdanigeman.nl/wp-content/uploads/*.gif
 ||tippelpagina.nl/wp-content/uploads/*/*.gif
 ! 2022-07-01
 ||handbalstartpunt.nl/*/banner$image
