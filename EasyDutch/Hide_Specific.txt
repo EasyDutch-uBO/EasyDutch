@@ -1,12 +1,13 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 05 Jul 2022 11:51:02 +0000
+! Last updated: Tue, 05 Jul 2022 12:21:02 +0000
 !
 ! 2022-07-05
+mr-online.nl##a[href="/partner/profielpartner/"]:upward(.elementor-widget-wrap)
 gooieneembode.nl##[advobject]:upward(.bg-gray-100)
 gooieneembode.nl##.content-start > :has([advobject])
 weespernieuws.nl##[advobject]:upward(.bg-gray-100)
-##.content-start > :has([advobject])
+weespernieuws.nl##.content-start > :has([advobject])
 tippelpagina.nl##.widget:has-text(/advertentie|aanraders/i)
 immo.vlan.be##.partners_immo
 vakantieweb.be##.partners-immo
