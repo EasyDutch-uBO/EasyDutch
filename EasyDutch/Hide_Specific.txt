@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 04 Jul 2022 05:49:43 +0000
+! Last updated: Tue, 05 Jul 2022 06:48:36 +0000
 !
 ! 2022-07-02
 arenalokaal.nl##.content-start > .w-full:has-text(Externe)
@@ -374,7 +374,7 @@ headliner.nl###flex_left:has([id="div-gpt-ad"])
 hardnieuws.nl##[id*="ros-300x600"]:upward(1)
 ! 2022-03-22
 hbvl.be##.widget:has(.article-teaser)
-historiek.net,mariabode.nl,omroepeemsdelta.nl##[id^="custom_html"]:has-text(/advert/i)
+mariabode.nl,omroepeemsdelta.nl##[id^="custom_html"]:has-text(/advert/i)
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
 hvzeeland.nl##.affiliates
 maaslandradio.nl##.slides
