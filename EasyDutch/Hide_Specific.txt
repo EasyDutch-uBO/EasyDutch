@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-05
+nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
 nieuwsfiets.nu##.ult-content-box > a[href]:not([href*="nieuwsfiets.nu"]):not([href*="questionpro.com"])
 nl.motorsport.com##.ms-side-items--with-banner
 mr-online.nl##a[href="/partner/profielpartner/"]:upward(.elementor-widget-wrap)
