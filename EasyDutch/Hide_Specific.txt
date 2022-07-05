@@ -3,8 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-05
-gooieneembode.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)
-gooieneembode.nl##[advobject]:upward(div):has-text(/Uit de krant|advertenties/i)
+gooieneembode.nl##[advobject]:upward(.bg-gray-100)
+gooieneembode.nl##.content-start > :has([advobject])
 weespernieuws.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)
 weespernieuws.nl##[advobject]:upward(div):has-text(/Uit de krant|advertenties/i)
 tippelpagina.nl##.widget:has-text(/advertentie|aanraders/i)
