@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-05
+nieuwsfiets.nu##.ult-content-box > a[href]:not([href*="nieuwsfiets.nu"]):not([href*="questionpro.com"])
 nl.motorsport.com##.ms-side-items--with-banner
 mr-online.nl##a[href="/partner/profielpartner/"]:upward(.elementor-widget-wrap)
 gooieneembode.nl##[advobject]:upward(.bg-gray-100)
@@ -995,7 +996,6 @@ buzzbie.nl##.TS_Banner_Spot
 gratisepub.nl##.type-post:has-text(advert)
 uecl-voetbal.nl,uel-voetbal.nl##.uitgelichtbox
 buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
-nieuwsfiets.nu##.ult-content-box-container
 beursgorilla.nl##.ut--billboard
 beursgorilla.nl##.ut--rectangle
 dekrantnieuws.nl##.vc_box_outline.vc_single_image-wrapper
