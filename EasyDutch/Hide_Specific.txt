@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 05 Jul 2022 13:44:15 +0000
+! Last updated: Tue, 05 Jul 2022 14:14:34 +0000
 !
 ! 2022-07-05
+radiomonique.am##.qt-sponsors
 nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
 nieuwsfiets.nu##.ult-content-box > a[href]:not([href*="nieuwsfiets.nu"]):not([href*="questionpro.com"])
 nl.motorsport.com##.ms-side-items--with-banner
