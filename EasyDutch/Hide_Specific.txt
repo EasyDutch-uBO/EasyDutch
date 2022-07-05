@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-02
+hvzeeland.nl##.advertisement
 arenalokaal.nl##.content-start > .w-full:has-text(Externe)
 ! 2022-07-01
 forum.scholieren.com##div[data-advert-placeholder-size]
@@ -85,7 +86,6 @@ iculture.nl##.ad-top-desktop
 iculture.nl##.feed-ad-wrapper
 solarmagazine.nl##[id]:has(.company-add)
 sproeiendekutjes.nl##aside.widget:has(a[href*="trff9links.com/"])
-hvzeeland.nl##.square:has([id^="div-gpt-ad"])
 nporadio1.nl,nporadio2.nl##[id^="adid"]:upward(2)
 hollywoodhuizen.nl##rssapp-carousel
 tennisvlaanderen.be##.commercial-banner
