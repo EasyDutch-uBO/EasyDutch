@@ -1,9 +1,10 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 05 Jul 2022 10:56:53 +0000
+! Last updated: Tue, 05 Jul 2022 12:21:36 +0000
 !
 ! 2022-07-05
 ||itnijs.frl/wp-content/uploads/*/adfertinsje
+||mr-online.nl/wp-content/uploads/*/*.gif
 ||onderdanigeman.nl/wp-content/uploads/*.gif
 ||tippelpagina.nl/wp-content/uploads/*/*.gif
 ! 2022-07-01
