@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-06
+puurnaturisme.nl##aside div:has(.bannergroup_noborder)
 kinkymedia.nl##.footer-widget-container .widget_text:has(img)
 rapetube.eu##.happy-sidebar
 tubeseks.be##.site-footer
@@ -681,7 +682,6 @@ elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,rootsmagazine.nl,seasons.nl,truck
 tvblik.nl##.banner-fluid
 antilliaansdagblad.com,dolcevia.com,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 prewarcar.nl##.banner-holder
-puurnaturisme.nl##.banneritem
 ewmagazine.nl##.banner-leaderboard
 seks.com##.bannermid
 radiozenders.fm##.banner-rectangle:not(:nth-of-type(3))
