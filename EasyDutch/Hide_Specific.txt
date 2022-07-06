@@ -5,6 +5,7 @@
 ! 2022-07-06
 puurnaturisme.nl##aside div:has(.bannergroup_noborder)
 kinkymedia.nl##.footer-widget-container .widget:has(img)
+kinkymedia.nl##.widget:has(a[href*="ad"][href*="bnmngr"])
 tubeseks.be##.site-footer
 hollywoodhuizen.nl##.a-widget
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:not(.sharedaddy):not(:has(img))
