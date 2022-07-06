@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-06
+radio0511.com##.leftColumn.cell > div:has(.sponsorImg)
 qmusic.nl##.inline-partners
 puurnaturisme.nl##aside div:has(.bannergroup_noborder)
 kinkymedia.nl##.footer-widget-container .widget:has(img)
@@ -957,7 +958,6 @@ computable.be##.sponsorartikelen
 knvb.nl##.SponsorBar-list
 omroephouten.nl##.sponsor-carousel
 computable.nl##.sponsored
-radio0511.com##.sponsorImg
 volleybelgium.be##.sponsors
 telegraaf.nl##.SportScoreboardPage__banner
 gratispittigesexfilms.nl,hetegangbang.nl##.spot-on
