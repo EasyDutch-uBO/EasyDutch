@@ -2,7 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
-! 2022-07-05
+! 2022-07-06
+rapetube.eu##.happy-sidebar
 hollywoodhuizen.nl##.a-widget
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:not(.sharedaddy):not(:has(img))
 radiomonique.am##.qt-sponsors
