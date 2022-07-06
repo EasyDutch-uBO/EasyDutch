@@ -415,7 +415,6 @@
 ||onderwijsland.com/files/partners/
 ||oneworld.nl/app/uploads/*/*-Banner$image
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
-||oogtv.nl/wp-content/banners/
 ||oops.nl/banner/$subdocument
 ||openingsurengids.be/includes/js/checkblockv2.js
 ||openingsurengids.be/template/images/publi/
