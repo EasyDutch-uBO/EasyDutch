@@ -4,6 +4,7 @@
 !
 ! 2022-07-06
 rapetube.eu##.happy-sidebar
+tubeseks.be##.site-footer
 hollywoodhuizen.nl##.a-widget
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:not(.sharedaddy):not(:has(img))
 radiomonique.am##.qt-sponsors
