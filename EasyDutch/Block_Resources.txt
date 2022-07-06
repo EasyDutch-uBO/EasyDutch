@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 06 Jul 2022 11:27:46 +0000
+! Last updated: Wed, 06 Jul 2022 12:43:47 +0000
 !
 ! 2022-07-06
 *$3p,image,domain=kinkymedia.nl
@@ -415,7 +415,6 @@
 ||onderwijsland.com/files/partners/
 ||oneworld.nl/app/uploads/*/*-Banner$image
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
-||oogtv.nl/wp-content/banners/
 ||oops.nl/banner/$subdocument
 ||openingsurengids.be/includes/js/checkblockv2.js
 ||openingsurengids.be/template/images/publi/
