@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 06 Jul 2022 11:53:14 +0000
+! Last updated: Wed, 06 Jul 2022 12:17:31 +0000
 !
 ! 2022-07-06
 puurnaturisme.nl##aside div:has(.bannergroup_noborder)
@@ -759,7 +759,7 @@ gratispornofilm.nl##.cp-webcam-gallery-container
 tameteo.nl##.creatividad
 knltb.nl,tennis.nl##.c-site-footer__partners
 tijd.be##.c-sitenavPlaceholder__ad
-golf.nl,qmusic.nl##.c-sponsors
+golf.nl##.c-sponsors
 voetbaluitslagen.com##.cta
 menttv.be##.cta-container
 touretappe.nl##.desktopad
@@ -828,7 +828,6 @@ weertdegekste.nl##.infeed-wrap
 rd.nl##.infotainment:has(a[href^="/advert"])
 ninefornews.nl##.in-house
 dansendeberen.be##.inhype-bb-block-header
-qmusic.nl##.inline-partners
 nzbindex.nl##.inner:has([href^="/"])
 radiopros.be##.inside-left-sidebar
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-billboard
