@@ -1,6 +1,6 @@
 ! Title: Hide General
 ! Description: Filters for hiding general elements on Dutch websites
-! Last updated: Wed, 22 Jun 2022 13:07:40 +0000
+! Last updated: Wed, 06 Jul 2022 11:35:19 +0000
 !
 ! 2022-06-22
 ! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl
@@ -25,7 +25,7 @@
 ###homebanners
 ! erotischemassages.com,poldertube.nl,pornoplekje.nl,sextube-18.com,teen-sex.nl
 ##.happy-footer
-! dutchporntube.nl,gratispornofilm.nl,lekkerewebcams.nl,outdoor-sex.nl,pornomilf.nl,porno-filmpjes.nl,teen-sex.nl
+! dutchporntube.nl,gratispornofilm.nl,lekkerewebcams.nl,outdoor-sex.nl,pornomilf.nl,porno-filmpjes.nl,rapetube.eu,teen-sex.nl
 ##.happy-header
 ##.happy-sidebar
 ! dutchporntube.nl,geilesexfilms.nl,gratispornofilm.nl,kechtube.com,lekkerewebcams.nl,outdoor-sex.nl,pornomilf.nl,pornoplekje.nl,sextube-18.com,teen-sex.nl
