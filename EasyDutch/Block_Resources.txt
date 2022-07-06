@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-06
+*$3p,image,domain=kinkymedia.nl
 ||privesexgids.nl/images/eroshop.jpg
 ||date-sex.nl/banner$domain=privesexgids.nl
 ! 2022-07-05
@@ -506,7 +507,6 @@
 ||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
 ||storage.googleapis.com/stateless-www-nuus-be/*/*-banner-*$image,domain=nuus.be
 ||swpportal.com/upload/squarebanners/
-||t.whalehunter.cash/tiny/*$image,domain=kinkymedia.nl
 ||teen-sex.nl/wp-content/uploads/*/900x250$image
 ||teen-sex.nl/wp-content/uploads/*/SP1600x150.jpg$image
 ||te-les-koop.nl/images/B_
