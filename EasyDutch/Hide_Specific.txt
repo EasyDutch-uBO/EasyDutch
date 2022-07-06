@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 06 Jul 2022 12:49:15 +0000
+! Last updated: Wed, 06 Jul 2022 13:24:17 +0000
 !
 ! 2022-07-06
 palnws.be##.content-inner > .palnw-target:has([id^="div-gpt-ad"])
@@ -602,7 +602,6 @@ loemedia.nl###text-17
 sexpunt.nl###top:has(.banner)
 online-radio.nl###top_ad-360
 doorbraak.be###top-advertisement-area
-radio-minerva.be###topbanner
 sexpower.nl###top-banner
 marktplaats.nl,2dehands.be###top-banner-wrapper
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gaming-nieuws.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,hotstreams.nl,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
