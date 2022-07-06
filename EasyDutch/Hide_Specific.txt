@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-06
+kinkymedia.nl##.footer-widget-container .widget_text:has(img)
 rapetube.eu##.happy-sidebar
 tubeseks.be##.site-footer
 hollywoodhuizen.nl##.a-widget
@@ -787,7 +788,6 @@ heracles.nl##.footer-blocks
 fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
 handbal.be##.footer-top
-kinkymedia.nl##.footer-widget-container:has(.size-full.aligncenter):has(img[src$="gif"])
 kanaalxxx.nl##.fpbnr
 zeelandnet.nl##.g_banner
 spel.nl,spelletjes.nl##.game-page-sidebar
