@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 06 Jul 2022 12:17:31 +0000
+! Last updated: Wed, 06 Jul 2022 12:24:07 +0000
 !
 ! 2022-07-06
+qmusic.nl##.inline-partners
 puurnaturisme.nl##aside div:has(.bannergroup_noborder)
 kinkymedia.nl##.footer-widget-container .widget:has(img)
 kinkymedia.nl##.widget:has(a[href*="ad"][href*="bnmngr"])
