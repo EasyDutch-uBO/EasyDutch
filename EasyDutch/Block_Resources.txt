@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 06 Jul 2022 12:49:57 +0000
+! Last updated: Wed, 06 Jul 2022 13:35:57 +0000
 !
 ! 2022-07-06
 ||index4sex.com/global/asset/image/partner$image,domain=omejoop.be
@@ -290,7 +290,6 @@
 ||despirituelewereld.be/wp-content/uploads/*/hook-bottom-info-coronavirus*$image
 ||dewereldmorgen.be/wp-content/banners/$image
 ||digitalaudience.io/bakery/pix/$image,3p
-||disqus.com/recommendations/$subdocument,domain=webmastersunited.com
 ||ditjesendatjes.nl/app/uploads/*/*-footer-DenD.png$image
 ||dorpsklanken.online/wp-content/uploads/*/Knap-IT_Paterswolde.png$image
 ||dorpsklanken.online/wp-content/uploads/*/polling_basis.jpg$image
