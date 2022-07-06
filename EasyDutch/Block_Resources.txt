@@ -2,6 +2,9 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-07-06
+||privesexgids.nl/images/eroshop.jpg
+||date-sex.nl/banner$domain=privesexgids.nl
 ! 2022-07-05
 ||itnijs.frl/wp-content/uploads/*/adfertinsje
 ||mr-online.nl/wp-content/uploads/*/*.gif
