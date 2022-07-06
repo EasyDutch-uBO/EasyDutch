@@ -608,7 +608,7 @@ hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
 tweakers.net###true
 pornozot.com###video-right
 nlsexfilmpjes.com###videos_div_v > .clear_line
-dominant.be,pornno.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
+dominant.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
 petities.com###visible_ad_1
 rtl.be###w-leaderboard
 nederland.fm###xbtm > .shadow
