@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 06 Jul 2022 13:24:17 +0000
+! Last updated: Wed, 06 Jul 2022 13:40:22 +0000
 !
 ! 2022-07-06
+omejoop.be##.widget:has-text(/Schijnwerpers|Partners/)
 palnws.be##.content-inner > .palnw-target:has([id^="div-gpt-ad"])
 radio0511.com##.leftColumn.cell > div:has(.sponsorImg)
 qmusic.nl##.inline-partners
