@@ -1,10 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 07 Jul 2022 14:37:59 +0000
+! Last updated: Thu, 07 Jul 2022 14:40:22 +0000
 !
 ! 2022-07-06
 fucking-tube.com##.happy-section
-tubeclips.nl###buttonUnderVideoLink
+scattube.be,tubeclips.nl###buttonUnderVideoLink
 puuropreis.nl##.banneritem:not(:has([href^="/component/banners/click"]))
 omejoop.be##.widget:has-text(/Schijnwerpers|Partners/)
 palnws.be##.content-inner > .palnw-target:has([id^="div-gpt-ad"])
