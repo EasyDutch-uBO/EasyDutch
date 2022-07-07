@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-07-06
+fucking-tube.com##.happy-section
 tubeclips.nl###buttonUnderVideoLink
 puuropreis.nl##.banneritem:not(:has([href^="/component/banners/click"]))
 omejoop.be##.widget:has-text(/Schijnwerpers|Partners/)
