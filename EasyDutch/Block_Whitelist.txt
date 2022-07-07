@@ -1,7 +1,9 @@
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Wed, 29 Jun 2022 12:24:35 +0000
+! Last updated: Thu, 07 Jul 2022 10:37:17 +0000
 !
+! 2022-07-07
+@@||pipeline.rd.nl/assets/g-t-m$script,1p
 ! 2022-06-29
 @@||pt.pctlwm.com/embed/tbplyr/*$script,domain=sproeiendekutjes.nl
 ! 2022-06-22
