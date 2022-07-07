@@ -1,9 +1,8 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 07 Jul 2022 14:40:22 +0000
+! Last updated: Thu, 07 Jul 2022 14:53:06 +0000
 !
 ! 2022-07-06
-fucking-tube.com##.happy-section
 scattube.be,tubeclips.nl###buttonUnderVideoLink
 puuropreis.nl##.banneritem:not(:has([href^="/component/banners/click"]))
 omejoop.be##.widget:has-text(/Schijnwerpers|Partners/)
@@ -804,7 +803,6 @@ mariogames.be##.googleadvidx
 dumpert.nl##.grid_ad_container
 meerradio.nl##.grijze-balk:has-text(Advert)
 srherald.com##.gsrhera
-bejaardensextube.nl,creampiesex.nl,rapesextube.be,rapetube.be##.happy-section
 fcutrecht.nl##.has-items-center > .title-container:has-text(/deals/i)
 fcutrecht.nl##.has-toto-banners
 noordkopcentraal.nl##.headbanner
