@@ -18,7 +18,7 @@
 ##.ankeiler--advertisement
 ##.sixpack__advertisement-tile
 ! 2021-09-06
-! gld.nl,rtvnoord.nl,omroepwest.nl
+! gld.nl,rijnmond.nl,rtvnoord.nl,omroepwest.nl
 ##.groei-ad
 ! 2021-06-02
 ! kinkysexcontactonline.nl,negerinnensexdating.eu,neukplaza.nl,privesexgids.nl,stellensexdating.nl,tienersexpret.nl,zinomteneuken.nl
