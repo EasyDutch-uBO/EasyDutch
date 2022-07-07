@@ -4,7 +4,7 @@
 !
 ! 2022-07-06
 fucking-tube.com##.happy-section
-tubeclips.nl###buttonUnderVideoLink
+scattube.be,tubeclips.nl###buttonUnderVideoLink
 puuropreis.nl##.banneritem:not(:has([href^="/component/banners/click"]))
 omejoop.be##.widget:has-text(/Schijnwerpers|Partners/)
 palnws.be##.content-inner > .palnw-target:has([id^="div-gpt-ad"])
