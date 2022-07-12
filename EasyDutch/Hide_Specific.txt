@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 07 Jul 2022 14:53:06 +0000
+! Last updated: Tue, 12 Jul 2022 10:23:39 +0000
 !
+! 2022-07-12
+appletips.nl###aanbblok
 ! 2022-07-06
 scattube.be,tubeclips.nl###buttonUnderVideoLink
 puuropreis.nl##.banneritem:not(:has([href^="/component/banners/click"]))
