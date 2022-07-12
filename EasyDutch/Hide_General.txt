@@ -1,6 +1,6 @@
 ! Title: Hide General
 ! Description: Filters for hiding general elements on Dutch websites
-! Last updated: Thu, 07 Jul 2022 14:54:25 +0000
+! Last updated: Tue, 12 Jul 2022 09:59:05 +0000
 !
 ! 2022-06-22
 ! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl
@@ -8,7 +8,7 @@
 ! 2021-12-06
 ! amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv
 ##.adv-tekst
-! amateursextube.eu,anaaltube.be,incesttube.eu,opasextube.nl,plassextube.com,schaamlip.net,seksfilmstube.be,smsextube.com,tienersextube.com
+! amateursextube.eu,anaaltube.be,incesttube.eu,opasextube.nl,plassextube.com,schaamlip.net,seksfilmstube.be,smsextube.com,tienersextube.com,tubeclips.nl
 ##.adHomePage
 ! fucking-tube.com,pornokartel.nl,seks-tube.be
 ##.video-block-happy
