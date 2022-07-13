@@ -4,6 +4,7 @@
 !
 ! 2022-07-13
 uw-folder.nl##.banner
+webcam-binnenvaart.nl##.d-md-block.d-none:has-text(Met dank aan)
 ! 2022-07-12
 appletips.nl###aanbblok
 ! 2022-07-06
