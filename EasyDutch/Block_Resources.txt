@@ -1,7 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 06 Jul 2022 15:04:33 +0000
+! Last updated: Wed, 13 Jul 2022 15:09:14 +0000
 !
+! 2022-07-13
+||cdn-webcam-harlingen.nl/adv/
 ! 2022-07-06
 ||widgets.skyscanner.net^$domain=puuropreis.nl
 ||disqus.com/recommendations/$subdocument,domain=webmastersunited.com
