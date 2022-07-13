@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-07-13
+uw-folder.nl##.banner
 ! 2022-07-12
 appletips.nl###aanbblok
 ! 2022-07-06
