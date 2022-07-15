@@ -1,8 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 15 Jul 2022 15:33:06 +0000
+! Last updated: Fri, 15 Jul 2022 15:46:43 +0000
 !
 ! 2022-07-15
+lekkercryptisch.nl##.c-sponsoredBy
+lekkercryptisch.nl##.p-footer__randomPartner
 iex.nl##.strossle-widget
 iex.nl##.publisher-sh-spot
 iex.nl##.rectanglemid
