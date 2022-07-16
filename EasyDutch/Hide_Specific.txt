@@ -8,6 +8,7 @@ lekkercryptisch.nl##.p-footer__randomPartner
 iex.nl##.strossle-widget
 iex.nl##.publisher-sh-spot
 iex.nl##.rectanglemid
+iexprofs.nl##.banner__side
 iexprofs.nl##.banner__wrap
 iexprofs.nl##.tagwrapper:upward(.row__item)
 ! 2022-07-13
