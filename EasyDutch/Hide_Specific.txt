@@ -1,7 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 16 Jul 2022 09:08:50 +0000
+! Last updated: Wed, 03 Aug 2022 12:41:28 +0000
 !
+! 2022-08-03
+tweakers.net###contentArea>div>div:matches-css-after(content: /Advert/)
+tweakers.net###top>div>div>div:matches-css-after(content: /Advert/)
 ! 2022-07-15
 lekkercryptisch.nl##.c-sponsoredBy
 lekkercryptisch.nl##.p-footer__randomPartner
