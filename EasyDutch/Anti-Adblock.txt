@@ -4,6 +4,7 @@
 !
 ! 2022-08-05
 tweakers.net##+js(aopr, Object.prototype.autoRecov)
+tweakers.net##+js(aeld, , Flags.autoRecov)
 ! 2022-08-03
 ! tweakers.net##.noTrackingMessage
 ! 2022-07-02
