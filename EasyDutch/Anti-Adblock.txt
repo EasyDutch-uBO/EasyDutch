@@ -1,9 +1,10 @@
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Fri, 05 Aug 2022 14:30:02 +0000
+! Last updated: Fri, 05 Aug 2022 14:35:14 +0000
 !
 ! 2022-08-05
 tweakers.net##+js(aopr, Object.prototype.autoRecov)
+tweakers.net##+js(aeld, , Flags.autoRecov)
 ! 2022-08-03
 ! tweakers.net##.noTrackingMessage
 ! 2022-07-02
