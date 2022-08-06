@@ -3,8 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-08-03
-! tweakers.net###contentArea>div>div:matches-css-after(content: /Advert/)
-! tweakers.net###top>div>div>div:matches-css-after(content: /Advert/)
+tweakers.net###contentArea>div>div:matches-css-after(content: /Advert/)
+tweakers.net###top>div>div>div:matches-css-after(content: /Advert/)
 ! 2022-07-15
 lekkercryptisch.nl##.c-sponsoredBy
 lekkercryptisch.nl##.p-footer__randomPartner
