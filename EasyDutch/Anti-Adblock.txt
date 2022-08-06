@@ -2,11 +2,8 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2022-08-05
-tweakers.net##+js(aopr, Object.prototype.autoRecov)
-tweakers.net##+js(aeld, , Flags.autoRecov)
 ! 2022-08-03
-! tweakers.net##.noTrackingMessage
+tweakers.net##.noTrackingMessage
 ! 2022-07-02
 notebookcheck.nl##+js(acis, document.getElementById, AAdsspaCe)
 @@||cmp.quantcast.com/choice/*/*vi.nl/choice.js$script,domain=vi.nl
