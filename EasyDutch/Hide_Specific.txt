@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 25 Aug 2022 12:42:03 +0000
+! Last updated: Thu, 25 Aug 2022 12:45:50 +0000
 !
 ! 2022-08-25
+rtlnieuws.nl##.dfp-rectangle-wrapper
 rtlnieuws.nl##.dfp-billboard-wrapper
 ! 2022-08-03
 tweakers.net###contentArea>div>div:matches-css-after(content: /Advert/)
