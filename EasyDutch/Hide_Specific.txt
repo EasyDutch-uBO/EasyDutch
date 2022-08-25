@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-08-25
+rtlnieuws.nl##.dfp-rectangle-wrapper
 rtlnieuws.nl##.dfp-billboard-wrapper
 ! 2022-08-03
 tweakers.net###contentArea>div>div:matches-css-after(content: /Advert/)
