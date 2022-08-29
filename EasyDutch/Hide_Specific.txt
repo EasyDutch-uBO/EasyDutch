@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-08-29
+rtlnieuws.nl##.autoscalable-block-wrapper:has-text(/van onze partners/i)
 ! 2022-08-25
 rtlnieuws.nl##.dfp-rectangle-wrapper
 rtlnieuws.nl##.dfp-billboard-wrapper
