@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-09-01
+||minimumloon.nl/wp-content/uploads/*/*.gif
 ! 2022-07-13
 ||cdn-webcam-harlingen.nl/adv/
 ! 2022-07-06
