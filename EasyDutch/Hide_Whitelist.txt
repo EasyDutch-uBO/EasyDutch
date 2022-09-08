@@ -1,3 +1,4 @@
+[uBlock Origin]
 ! Title: Hide Whitelist
 ! Description: Whitelist for hidden elements on Dutch websites
 ! Last updated: %timestamp%
