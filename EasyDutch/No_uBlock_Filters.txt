@@ -1,6 +1,7 @@
+[uBlock Origin]
 ! Title: No uBO Filters
 ! Description: Filters for Dutch websites in case you don't use the uBlock Filters, but AdGuard Base
-! Last updated: Wed, 25 May 2022 14:43:19 +0000
+! Last updated: Thu, 08 Sep 2022 12:47:36 +0000
 !
 ! uBlock Filters
 *$image,redirect-rule=2x2.png,domain=tweakers.net
