@@ -1,6 +1,7 @@
+[uBlock Origin]
 ! Title: Block Third-Party Server
 ! Description: Filters for blocking only general third-party servers on Dutch websites
-! Last updated: Wed, 29 Jun 2022 09:07:36 +0000
+! Last updated: Thu, 08 Sep 2022 12:45:58 +0000
 !
 ! 2022-06-29 hdtienersexfilms.nl
 ||dronkenmokkels.nl^$domain=hdtienersexfilms.nl
