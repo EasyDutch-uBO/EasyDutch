@@ -1,6 +1,7 @@
+[uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 01 Sep 2022 15:28:42 +0000
+! Last updated: Thu, 08 Sep 2022 12:46:51 +0000
 !
 ! 2022-09-01
 minimumloon.nl##.header-widget-region > .col-full
