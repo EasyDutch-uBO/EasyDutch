@@ -1,3 +1,4 @@
+[uBlock Origin]
 ! Title: EasyDutch
 ! Description: Dutch supplement for the Easylist filters to use with uBlock Origin
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
