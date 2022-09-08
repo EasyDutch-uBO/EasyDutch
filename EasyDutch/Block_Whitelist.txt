@@ -1,6 +1,7 @@
+[uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Thu, 07 Jul 2022 10:42:58 +0000
+! Last updated: Thu, 08 Sep 2022 12:45:18 +0000
 !
 ! 2022-06-29
 @@||pt.pctlwm.com/embed/tbplyr/*$script,domain=sproeiendekutjes.nl
