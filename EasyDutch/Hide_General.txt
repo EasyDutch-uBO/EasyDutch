@@ -1,3 +1,4 @@
+[uBlock Origin]
 ! Title: Hide General
 ! Description: Filters for hiding general elements on Dutch websites
 ! Last updated: %timestamp%
