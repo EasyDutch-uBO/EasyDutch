@@ -1,10 +1,11 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 09 Sep 2022 06:15:23 +0000
+! Last updated: Fri, 09 Sep 2022 06:21:21 +0000
 !
 ! 2022-09-09
 gooieneembode.nl##[href^="/nieuws/advert"]:upward(2)
+gooieneembode.nl##.content-start > :has([advobject]):has-text(Uit de krant)
 ! 2022-09-01
 minimumloon.nl##.header-widget-region > .col-full
 ! 2022-08-29
@@ -13,8 +14,8 @@ rtlnieuws.nl##.autoscalable-block-wrapper:has-text(/van onze partners/i)
 rtlnieuws.nl##.dfp-rectangle-wrapper
 rtlnieuws.nl##.dfp-billboard-wrapper
 ! 2022-08-03
-tweakers.net###contentArea>div>div:matches-css-after(content: /Advert/)
-tweakers.net###top>div>div>div:matches-css-after(content: /Advert/)
+tweakers.net###contentArea > div > div:matches-css-after(content: /Advert/)
+tweakers.net###top > div > div > div:matches-css-after(content: /Advert/)
 ! 2022-07-15
 lekkercryptisch.nl##.c-sponsoredBy
 lekkercryptisch.nl##.p-footer__randomPartner
