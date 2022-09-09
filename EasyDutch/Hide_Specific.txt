@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 08 Sep 2022 12:46:51 +0000
+! Last updated: Fri, 09 Sep 2022 06:15:23 +0000
 !
+! 2022-09-09
+gooieneembode.nl##[href^="/nieuws/advert"]:upward(2)
 ! 2022-09-01
 minimumloon.nl##.header-widget-region > .col-full
 ! 2022-08-29
@@ -46,7 +48,6 @@ nieuwsfiets.nu##.ult-content-box > a[href]:not([href*="nieuwsfiets.nu"]):not([hr
 nl.motorsport.com##.ms-side-items--with-banner
 mr-online.nl##a[href="/partner/profielpartner/"]:upward(.elementor-widget-wrap)
 gooieneembode.nl##[advobject]:upward(.bg-gray-100)
-gooieneembode.nl##.content-start > :has([advobject])
 weespernieuws.nl##[advobject]:upward(.bg-gray-100)
 weespernieuws.nl##.content-start > :has([advobject])
 tippelpagina.nl##.widget:has-text(/advertentie|aanraders/i)
