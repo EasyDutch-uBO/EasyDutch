@@ -3,6 +3,8 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-09-12
+@@||looopings.nl/peel1.js
 ! 2022-08-03
 tweakers.net##.noTrackingMessage
 ! 2022-07-02
@@ -45,7 +47,6 @@ meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;
 ! 2022-01-29
 autoweek.nl##+js(set, isAdBlockActive, false)
 ! 2021-11-09
-@@||looopings.nl/wp-banners.js
 looopings.nl##+js(acis, document.getElementById, .style.display=)
 ! 2021-10-29
 dumpert.nl##+js(setTimeout-defuser, AdBlockerCheck)
