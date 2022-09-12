@@ -1,10 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 12 Sep 2022 08:29:13 +0000
+! Last updated: Mon, 12 Sep 2022 08:29:39 +0000
 !
 ! 2022-09-12
-barendrechtsdagblad.nl##.advrow
+albrandswaardsdagblad.nl,barendrechtsdagblad.nl##.advrow
 ! 2022-09-09
 gooieneembode.nl##[href^="/nieuws/advert"]:upward(2)
 gooieneembode.nl##.content-start > :has([advobject]):has-text(Uit de krant)
