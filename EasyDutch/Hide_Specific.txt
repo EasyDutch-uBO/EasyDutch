@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-09-12
+barendrechtsdagblad.nl##.advrow
 ! 2022-09-09
 gooieneembode.nl##[href^="/nieuws/advert"]:upward(2)
 gooieneembode.nl##.content-start > :has([advobject]):has-text(Uit de krant)
