@@ -4,7 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-09-12
-albrandswaardsdagblad.nl,barendrechtsdagblad.nl,capelsdagblad.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl##.advrow
+albrandswaardsdagblad.nl,barendrechtsdagblad.nl,capelsdagblad.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl##.advrow
 ! 2022-09-09
 gooieneembode.nl##[href^="/nieuws/advert"]:upward(2)
 gooieneembode.nl##.content-start > :has([advobject]):has-text(Uit de krant)
