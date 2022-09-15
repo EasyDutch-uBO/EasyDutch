@@ -20,7 +20,7 @@ fok.nl###wa_web_headertofloor
 gratisaftehalen.nl##+js(acis, fuckAdBlock, undefined)
 gsurl.be##+js(nowoif)
 nl.hardware.info##+js(nostif, .call(null), 10)
-nl.hardware.info##+js(aopr, Notification)
+nl.hardware.info##^script:has-text(Inject=!)
 icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
 radiowereld.nl##+js(nosiif, adb)
 @@||ah.nl^$ghide
