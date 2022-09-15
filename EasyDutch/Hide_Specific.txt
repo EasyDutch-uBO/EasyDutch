@@ -1193,7 +1193,7 @@ ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casi
 ucl-voetbal.nl##[src^="/derden/betcity-"]
 oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
 online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
-be.hardware.info##+js(aopr, Notification)
+be.hardware.info##^script:has-text(Inject=!)
 be.hardware.info##+js(nostif, .call(null), 10)
 geenstijl.nl##a[data-ga-event^="link-tip"]
 nu.nl##a[href*="/advertorial-"]
