@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: No uBO Filters
 ! Description: Filters for Dutch websites in case you don't use the uBlock Filters, but AdGuard Base
-! Last updated: Thu, 15 Sep 2022 11:42:25 +0000
+! Last updated: Thu, 15 Sep 2022 17:06:59 +0000
 !
 ! uBlock Filters
 *$image,redirect-rule=2x2.png,domain=tweakers.net
@@ -20,7 +20,7 @@ fok.nl###wa_web_headertofloor
 gratisaftehalen.nl##+js(acis, fuckAdBlock, undefined)
 gsurl.be##+js(nowoif)
 nl.hardware.info##+js(nostif, .call(null), 10)
-nl.hardware.info##+js(aopr, Notification)
+nl.hardware.info##^script:has-text(Inject=!)
 icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
 radiowereld.nl##+js(nosiif, adb)
 @@||ah.nl^$ghide
