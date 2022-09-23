@@ -3,6 +3,8 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-09-23
+vtm.be##+js(no-fetch-if, csai)
 ! 2022-09-12
 @@||looopings.nl/peel1.js
 ! 2022-08-03
