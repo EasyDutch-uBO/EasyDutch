@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: No uBO Filters
 ! Description: Filters for Dutch websites in case you don't use the uBlock Filters, but AdGuard Base
-! Last updated: Thu, 15 Sep 2022 17:06:59 +0000
+! Last updated: Fri, 23 Sep 2022 10:17:02 +0000
 !
 ! uBlock Filters
 *$image,redirect-rule=2x2.png,domain=tweakers.net
@@ -45,7 +45,6 @@ vtm.be##.pui__adinfo
 vtm.be##div.pui__seekbar__cuepoints
 ||freewheel-jitt.dpgmedia.be^
 ||spott.ai^$domain=vtm.be
-||fwmrm.net^$important,domain=vtm.be
 ||gemius.pl^$important,domain=vtm.be
 ! uBlock Filters - Unbreak
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dagelijksekost.een.be
