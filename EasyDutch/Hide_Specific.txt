@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 15 Sep 2022 17:08:30 +0000
+! Last updated: Mon, 26 Sep 2022 04:12:37 +0000
 !
 ! 2022-09-12
 dissident.one##[id^="custom_html-"]:has-text(advert)
@@ -16,9 +16,6 @@ rtlnieuws.nl##.autoscalable-block-wrapper:has-text(/van onze partners/i)
 ! 2022-08-25
 rtlnieuws.nl##.dfp-rectangle-wrapper
 rtlnieuws.nl##.dfp-billboard-wrapper
-! 2022-08-03
-tweakers.net###contentArea > div > div:matches-css-after(content: /Advert/)
-tweakers.net###top > div > div > div:matches-css-after(content: /Advert/)
 ! 2022-07-15
 lekkercryptisch.nl##.c-sponsoredBy
 lekkercryptisch.nl##.p-footer__randomPartner
