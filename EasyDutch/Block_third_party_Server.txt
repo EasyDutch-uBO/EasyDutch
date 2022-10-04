@@ -3,8 +3,8 @@
 ! Description: Filters for blocking only general third-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2022-10-04 barbiespornofilm.nl
-||dronkenmokkels.nl^domain=barbiespornofilm.nl,hdtienersexfilms.nl
+! 2022-10-04 barbiespornofilm.nl,broerneuktzusje.nl
+||dronkenmokkels.nl^$domain=barbiespornofilm.nl,broerneuktzusje.nl,hdtienersexfilms.nl
 ! 2022-06-29 hdtienersexfilms.nl
 ||srv69.eu^$domain=hdtienersexfilms.nl
 ! 2022-05-27 trosfm.be
