@@ -3,17 +3,22 @@
 ! Description: Filters for blocking only general third-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2022-10-04 barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,hdtienersexfilms.nl,jongetienersex.nl,partytieners.nl,poepsexfilmstube.nl,strandmokkels.nl,studentesneuken.nl
+! 2022-10-04
+! barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,hdtienersexfilms.nl,jongetienersex.nl,partytieners.nl,poepsexfilmstube.nl,strandmokkels.nl,studentesneuken.nl
 ||dronkenmokkels.nl^$3p
-! 2022-06-29 hdtienersexfilms.nl
+! 2022-06-29
+! hdtienersexfilms.nl
 ||srv69.eu^$domain=hdtienersexfilms.nl
-! 2022-05-27 trosfm.be
+! 2022-05-27
+! trosfm.be
 ||believe-the-hype.be^$3p
 ! 2022-04-08 frontpage.fok.nl
 ||nojazz.eu^$3p
-! 2022-04-05 npostart.nl
+! 2022-04-05
+! npostart.nl
 ||crnsgngrpj.nl^$3p
-! 2022-02-15 startpagina.nl
+! 2022-02-15
+! startpagina.nl
 ||optoutadvertising.com^$3p
 ! 2021-11-30
 ! goodbye.be
