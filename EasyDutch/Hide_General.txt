@@ -3,6 +3,9 @@
 ! Description: Filters for hiding general elements on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-10-04
+! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl
+##.article__component--temptation
 ! 2022-06-22
 ! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl
 ##[data-temptation-position="OORTJE"]
