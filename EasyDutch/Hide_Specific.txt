@@ -1,8 +1,11 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 26 Sep 2022 04:12:37 +0000
+! Last updated: Tue, 04 Oct 2022 04:44:01 +0000
 !
+! 2022-10-04
+encyclo.nl##.right[style]
+encyclo.nl##[id$="-336x280"]
 ! 2022-09-12
 dissident.one##[id^="custom_html-"]:has-text(advert)
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,capelsdagblad.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
