@@ -1,10 +1,10 @@
 [uBlock Origin]
 ! Title: Block Third-Party Server
 ! Description: Filters for blocking only general third-party servers on Dutch websites
-! Last updated: Tue, 04 Oct 2022 06:17:23 +0000
+! Last updated: Tue, 04 Oct 2022 06:17:57 +0000
 !
-! 2022-10-04 barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,hdtienersexfilms.nl,jongetienersex.nl,partytieners.nl,strandmokkels.nl
-||dronkenmokkels.nl^$domain=barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,hdtienersexfilms.nl,jongetienersex.nl,partytieners.nl,strandmokkels.nl
+! 2022-10-04 barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,hdtienersexfilms.nl,jongetienersex.nl,partytieners.nl,strandmokkels.nl,studentesneuken.nl
+||dronkenmokkels.nl^$domain=barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,hdtienersexfilms.nl,jongetienersex.nl,partytieners.nl,strandmokkels.nl,studentesneuken.nl
 ! 2022-06-29 hdtienersexfilms.nl
 ||srv69.eu^$domain=hdtienersexfilms.nl
 ! 2022-05-27 trosfm.be
