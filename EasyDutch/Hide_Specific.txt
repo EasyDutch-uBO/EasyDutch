@@ -5,8 +5,9 @@
 !
 ! 2022-10-04
 encyclo.nl##.right[style]
-encyclo.nl,mijnwoordenboek.nl##[id$="-336x280"]
+encyclo.nl,mijnwoordenboek.nl,woorden.org##[id$="-336x280"]
 mijnwoordenboek.nl##div[style] [id*="728x90"]:upward(1)
+woorden.org##div[style] [id*="728x90"]:upward(3)
 ! 2022-09-12
 dissident.one##[id^="custom_html-"]:has-text(advert)
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,capelsdagblad.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
