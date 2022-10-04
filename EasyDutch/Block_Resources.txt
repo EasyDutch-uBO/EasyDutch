@@ -3,6 +3,9 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-10-04
+.nl/remote/https/agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
+.nl/remote/https/cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
 ! 2022-09-01
 ||minimumloon.nl/wp-content/uploads/*/*.gif
 ! 2022-07-13
@@ -248,7 +251,6 @@
 ||bitvavo.com/assets/static/widget/$subdocument,domain=cryptosjop.nl
 ||blablacar.nl/widget-driver/$3p
 ||blob.core.windows.net/*/content/regiovoetbal/*_banner.*$image,domain=regio-voetbal.nl
-||blob.core.windows.net/banners/$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
 ||bloovi.be/frontend/files/banners/
 ||bnpparibasmarkets.nl/widget/$3p
 ||bol.com/nl/upload/banners/
@@ -257,7 +259,6 @@
 ||booking.com/flexiproduct.html$domain=puuropreis.nl
 ||buzzbie.nl/buzzbanners/*.js$script,1p
 ||camping-frankrijk.nl/graphics/*/*600.$image
-||cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
 ||cdn.media.zylom.com/images/site/zylom/promo/$3p
 ||cdn.sbsnet.nl/creatives/assets/*.mp4$domain=kijk.nl
 ||cdn.seksmet.nl/wp-content/uploads/*/all-over-40-handjob$image
