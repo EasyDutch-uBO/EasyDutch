@@ -5,7 +5,8 @@
 !
 ! 2022-10-04
 ! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl
-##.article__component--temptation
+##.article__component--temptation-article-inline
+##.article__component--outstream-advertisement
 ! 2022-06-22
 ! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl
 ##[data-temptation-position="OORTJE"]
