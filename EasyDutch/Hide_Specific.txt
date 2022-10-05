@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 04 Oct 2022 04:45:19 +0000
+! Last updated: Wed, 05 Oct 2022 03:58:30 +0000
 !
+! 2022-10-05
+agf.nl,bpnieuws.nl,groentennieuws.nl##.banner
 ! 2022-10-04
 encyclo.nl##.right[style]
 encyclo.nl,mijnwoordenboek.nl,woorden.org##[id$="-336x280"]
