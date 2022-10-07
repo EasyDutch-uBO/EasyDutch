@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-10-07 https://github.com/AdguardTeam/AdguardFilters/issues/131530
+hardware.info##div[class^="bnr-"]
 ! 2022-10-05
 agf.nl,bpnieuws.nl,groentennieuws.nl##.banner
 ! 2022-10-04
