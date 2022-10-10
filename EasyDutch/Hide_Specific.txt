@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 10 Oct 2022 19:11:46 +0000
+! Last updated: Mon, 10 Oct 2022 19:21:05 +0000
 !
+! 2022-10-10
+moviemeter.nl##.latestnewsbx:has-text(Advert)
 ! 2022-10-07 https://github.com/AdguardTeam/AdguardFilters/issues/131530
 hardware.info##div[class^="bnr-"]
 ! 2022-10-05
