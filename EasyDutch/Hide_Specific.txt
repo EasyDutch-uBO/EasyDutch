@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 07 Oct 2022 08:57:01 +0000
+! Last updated: Mon, 10 Oct 2022 19:11:46 +0000
 !
 ! 2022-10-07 https://github.com/AdguardTeam/AdguardFilters/issues/131530
 hardware.info##div[class^="bnr-"]
@@ -90,7 +90,6 @@ commonsensetv.nl##.theiaStickySidebar div[id^="media_image"]:has(img[src*="wp.co
 okemedia.nl##.widget:has-text(Interessante links)
 nuus.be##.advertentie
 ! 2022-06-30
-buienradar.nl##.linklist
 nlsexfilmpjes.com###left_div li:not(> a[target="_blank"])
 nljug.org##.widget:has(.capegroep-banner)
 nl.motorsport.com##.ms-side-widget--custom-links__wrapper
