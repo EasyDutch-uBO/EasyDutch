@@ -1,9 +1,11 @@
 [uBlock Origin]
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Fri, 23 Sep 2022 10:18:13 +0000
+! Last updated: Tue, 11 Oct 2022 13:55:07 +0000
 !
-! 2022-09-23
+! 2022-10-11 https://github.com/uBlockOrigin/uAssets/issues/14999
+@@||v.fwmrm.net/ad/*&caid$xhr,domain=vtm.be
+! 2022-09-23 https://github.com/uBlockOrigin/uAssets/issues/14999
 vtm.be##+js(no-fetch-if, csai)
 ! 2022-09-12
 @@||looopings.nl/peel1.js
