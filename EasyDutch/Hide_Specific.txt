@@ -3,6 +3,10 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-10-12
+vtm.be##.pe__container__ads
+vtm.be##.pui__adinfo
+vtm.be##div.pui__seekbar__cuepoints
 ! 2022-10-10
 moviemeter.nl##.latestnewsbx:has-text(Advert)
 ! 2022-10-07 https://github.com/AdguardTeam/AdguardFilters/issues/131530
