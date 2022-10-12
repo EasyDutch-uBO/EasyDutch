@@ -39,7 +39,6 @@ camsexbabe.nl##.happy-section
 girlscene.nl##.ad-container
 @@||videoplayer.persgroep.be/*/ad_smartads_.js$xhr,domain=vtm.be
 ||medialaancdn.be/vtm_od/prerolls/$media,domain=vtm.be,redirect=noopmp3-0.1s
-||freewheel-jitt.dpgmedia.be^
 ! uBlock Filters - Unbreak
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dagelijksekost.een.be
 @@||shared.mediahuis.be/ka-ching/prebid.js$script,domain=dagelijksekost.een.be
