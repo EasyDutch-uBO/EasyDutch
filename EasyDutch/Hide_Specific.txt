@@ -1,9 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 12 Oct 2022 05:08:14 +0000
+! Last updated: Wed, 12 Oct 2022 05:12:09 +0000
 !
 ! 2022-10-12
+vtm.be##+js(rc, pui__root--no-seekbar, .pui__root--no-seekbar, stay)
 vtm.be##.pe__container__ads
 vtm.be##.pui__adinfo
 vtm.be##div.pui__seekbar__cuepoints
