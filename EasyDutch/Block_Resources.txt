@@ -3,6 +3,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-10-12 https://github.com/uBlockOrigin/uAssets/issues/11028
+||medialaancdn.be/vtm_od/prerolls/$media,domain=vtm.be,redirect=noopmp3-0.1s
 ! 2022-10-04
 .nl/remote/https/agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
 .nl/remote/https/cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
