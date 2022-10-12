@@ -3,6 +3,8 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-1012
+citaten.net#@##bottom-ad
 ! 2022-10-11 https://github.com/uBlockOrigin/uAssets/issues/14999
 @@||v.fwmrm.net/ad/*&caid$xhr,domain=vtm.be
 ! 2022-09-23 https://github.com/uBlockOrigin/uAssets/issues/14999
