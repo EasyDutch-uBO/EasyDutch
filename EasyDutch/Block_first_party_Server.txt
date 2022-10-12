@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Block First-Party Server
 ! Description: Filters for blocking first-party servers on Dutch websites
-! Last updated: Fri, 07 Oct 2022 08:55:27 +0000
+! Last updated: Wed, 12 Oct 2022 05:13:14 +0000
 !
+! 2022-10-12
+||freewheel-jitt.dpgmedia.be^
 ! 2022-10-07 https://github.com/AdguardTeam/AdguardFilters/issues/131530
 ||aa.hwigroup.com^
 ||ab.hwigroup.com^
