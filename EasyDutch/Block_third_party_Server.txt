@@ -3,6 +3,9 @@
 ! Description: Filters for blocking only general third-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-10-12
+||spott.ai^$domain=vtm.be
+||gemius.pl^$important,domain=vtm.be
 ! 2022-10-04
 ! barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,hdtienersexfilms.nl,jongetienersex.nl,partytieners.nl,poepsexfilmstube.nl,strandmokkels.nl,studentesneuken.nl
 ||dronkenmokkels.nl^$3p
