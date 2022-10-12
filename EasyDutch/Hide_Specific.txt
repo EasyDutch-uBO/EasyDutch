@@ -3,7 +3,7 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
-! 2022-10-12
+! 2022-10-12 https://github.com/uBlockOrigin/uAssets/issues/11038
 vtm.be##+js(rc, pui__root--no-seekbar, .pui__root--no-seekbar, stay)
 vtm.be##.pe__container__ads
 vtm.be##.pui__adinfo
