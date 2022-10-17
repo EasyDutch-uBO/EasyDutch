@@ -1,14 +1,13 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 14 Oct 2022 14:21:46 +0000
+! Last updated: Mon, 17 Oct 2022 09:53:56 +0000
 !
 ! 2022-10-14
 vastgoedjournaal.nl##[href]:has([src*="media.prdn.nl"])
 vastgoedjournaal.nl##aside:has([class]:has-text(/advert/i)):has([href]:has([src*="media.prdn.nl"])
 ! 2022-10-13
 footballtransfers.com##div[id*="leaderboard-billboard"]
-tweakers.net##img[src^="https://tweakers.net/i/"][src*="/1280x400/"]:upward(1)
 ! 2022-10-12 https://github.com/uBlockOrigin/uAssets/issues/11038
 vtm.be##+js(rc, pui__root--no-seekbar, .pui__root--no-seekbar, stay)
 vtm.be##.pe__container__ads
