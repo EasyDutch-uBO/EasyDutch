@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-10-19
+ensie.nl##.advertisement
 ensie.nl##.bottom-banner
 ensie.nl##.top-banner:style(min-height: 0px !important)
 ! 2022-10-14
