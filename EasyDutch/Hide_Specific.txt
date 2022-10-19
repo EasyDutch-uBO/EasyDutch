@@ -1,9 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 19 Oct 2022 13:15:01 +0000
+! Last updated: Wed, 19 Oct 2022 13:19:19 +0000
 !
 ! 2022-10-19
+ensie.nl##.advertisement
 ensie.nl##.bottom-banner
 ensie.nl##.top-banner:style(min-height: 0px !important)
 ! 2022-10-14
