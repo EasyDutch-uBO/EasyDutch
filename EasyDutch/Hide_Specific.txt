@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 17 Oct 2022 09:53:56 +0000
+! Last updated: Wed, 19 Oct 2022 13:08:18 +0000
 !
+! 2022-10-19
+ensie.nl##.bottom-banner
 ! 2022-10-14
 vastgoedjournaal.nl##[href]:has([src*="media.prdn.nl"])
 vastgoedjournaal.nl##aside:has([class]:has-text(/advert/i)):has([href]:has([src*="media.prdn.nl"])
