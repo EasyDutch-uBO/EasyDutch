@@ -1,9 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 25 Oct 2022 14:49:41 +0000
+! Last updated: Tue, 25 Oct 2022 14:50:37 +0000
 !
 ! 2022-10-25
+autoscout24.nl##.ad-banner
 voetbalindebollenstreek.nl##.partners
 ! 2022-10-20
 bnnvara.nl##div[id^="ster-ad-bnnvara-"]:upward(1)
