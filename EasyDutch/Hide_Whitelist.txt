@@ -1,12 +1,15 @@
 [uBlock Origin]
 ! Title: Hide Whitelist
 ! Description: Whitelist for hidden elements on Dutch websites
-! Last updated: Thu, 08 Sep 2022 12:47:07 +0000
+! Last updated: Tue, 25 Oct 2022 12:43:27 +0000
 !
 ! 2022-06-22 https://github.com/uBlockOrigin/uAssets/issues/13800
 !#if env_firefox
 welingelichtekringen.nl#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 !#endif
+! Uitzonderingen voor AdGuard
+! 2022-10-25 https://github.com/EasyDutch-uBO/EasyDutch/issues/29
+embed.kijk.nl#@#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links:style(display: block !important;)
 ! Uitzonderingen voor EasyList
 ! 2022-07-05
 radiozuidrand.be#@#.advertisement_300x250
