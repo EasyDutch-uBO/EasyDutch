@@ -27,7 +27,7 @@ labels:
   - name: unable to reproduce 
     labeled:
       issue:
-        body: I can't reproduce your issue. Please give more information (e.g. screenshots)
+        body: I can't reproduce your issue. Please give more information (e.g. uBO logger output or screenshots)
   - name: in progress
     labeled:
       issue:
