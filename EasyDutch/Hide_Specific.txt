@@ -1,10 +1,11 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Oct 2022 05:54:18 +0000
+! Last updated: Thu, 27 Oct 2022 06:28:34 +0000
 !
 ! 2022-10-25
-autoscout24.be,autoscout24.nl##.cl-ad-billboard
+autoscout24.be##[type="doubleclick"][ad-unit-path][ad-label-text="Advertentie"]
+autoscout24.nl##[type="doubleclick"][ad-unit-path][ad-label-text="Reclame"]
 voetbalindebollenstreek.nl##.partners
 ! 2022-10-20
 bnnvara.nl##div[id^="ster-ad-bnnvara-"]:upward(1)
@@ -796,7 +797,6 @@ girlpics.nl##.cato_footer:nth-of-type(3)
 motorfietsblog.nl##.cbcontent
 srnieuws.com##.centered.card-view:has([id^="taboola"])
 ngf.nl##.c-footer-sponsors
-autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 online-omzetten.nl##.clearfix.entry > small
 leerlingen.com##.clearfix.widget > :has(.sponsors)
 nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
