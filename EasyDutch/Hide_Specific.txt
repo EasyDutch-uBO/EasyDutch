@@ -4,7 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-10-25
-autoscout24.be,autoscout24.nl##.ad-banner
+autoscout24.be,autoscout24.nl##.cl-ad-billboard
 voetbalindebollenstreek.nl##.partners
 ! 2022-10-20
 bnnvara.nl##div[id^="ster-ad-bnnvara-"]:upward(1)
