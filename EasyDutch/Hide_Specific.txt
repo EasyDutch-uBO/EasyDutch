@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-10-25
+autoscout24.be##.hf-top-ad
 autoscout24.be##[type="doubleclick"][ad-unit-path][ad-label-text="Advertentie"]
 autoscout24.nl##[type="doubleclick"][ad-unit-path][ad-label-text="Reclame"]
 voetbalindebollenstreek.nl##.partners
