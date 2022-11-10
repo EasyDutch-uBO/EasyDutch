@@ -1,11 +1,8 @@
 [uBlock Origin]
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Thu, 10 Nov 2022 12:57:11 +0000
+! Last updated: Thu, 10 Nov 2022 13:04:19 +0000
 !
-! 2022-11-10
-/wp-content/themes/*/dist/all.js$script,domain=androidplanet.nl|iphoned.nl
-androidplanet.nl,iphoned.nl##.no-content-styles:has-text(/Steun Android Planet|Steun iPhoned|whitelist/)
 ! 2022-10-12
 ! https://github.com/uBlockOrigin/uAssets/issues/12572
 ! https://github.com/NanoMeow/QuickReports/issues/911
