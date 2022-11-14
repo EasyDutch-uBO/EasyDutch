@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 10 Nov 2022 13:06:04 +0000
+! Last updated: Mon, 14 Nov 2022 17:13:42 +0000
 !
+! 2022-11-14
+voetbalnieuws.be##.header-banner
 ! 2022-11-10
 androidplanet.nl,iphoned.nl##.no-content-styles:has(.adblock-detect)
 ! 2022-10-25
