@@ -3,6 +3,8 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-11-14
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,3p,redirect-rule,domain=vrt.be
 ! 2022-10-12
 ! https://github.com/uBlockOrigin/uAssets/issues/12572
 ! https://github.com/NanoMeow/QuickReports/issues/911
