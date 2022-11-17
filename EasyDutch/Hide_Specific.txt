@@ -4,7 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-11-17
-telegraf.nl##.Banner
+telegraaf.nl##.Banner
 ! 2022-11-14
 voetbalnieuws.be##.header-banner
 ! 2022-11-10
