@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-11-28
+marktplaats.nl,2dehands.be##.mp-Page-element > div:has(div[class*="admarktTitle"]):has-text(Advert)
 ! 2022-11-17
 telegraaf.nl##.Banner
 ! 2022-11-14
@@ -937,7 +939,6 @@ radioeenhoorn.nl##.module_round_box
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
 marktplaats.nl,2dehands.be##.mp-adsense-header
 marktplaats.nl,2dehands.be##.mp-Banner
-marktplaats.nl,2dehands.be##.mp-Page-element > .mp-Listings + div:not([class]):not([id]):has(:scope > .mp-Listings__admarktTitle)
 financialinvestigator.nl##.mpu
 wintersport.nl##.mq-banner:not(:has-text(Reisverzekering))
 nl.motorsport.com##.ms-hapb
