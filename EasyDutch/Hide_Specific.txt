@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-12-01
+rtlnieuws.nl##.article-sidebar__ad
 ! 2022-11-29
 dissident.one##[id^="custom_html-"]:has-text(/advert/i)
 ! 2022-11-28
