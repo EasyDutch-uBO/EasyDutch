@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 01 Dec 2022 16:53:09 +0000
+! Last updated: Wed, 07 Dec 2022 18:07:23 +0000
 !
+! 2022-12-07
+telegraaf.nl##.ComponentRotation
 ! 2022-12-01
 rtlnieuws.nl##.article-sidebar__ad
 ! 2022-11-29
