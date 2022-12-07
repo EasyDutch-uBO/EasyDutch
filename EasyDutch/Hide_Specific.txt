@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-12-07
+telegraaf.nl##.ComponentRotation
 ! 2022-12-01
 rtlnieuws.nl##.article-sidebar__ad
 ! 2022-11-29
