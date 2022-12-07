@@ -5,6 +5,7 @@
 !
 ! 2022-12-07
 flashscore.nl##.adsenvelope
+flashscore.nl##.oddsPlacement
 telegraaf.nl##.ComponentRotation
 ! 2022-12-01
 rtlnieuws.nl##.article-sidebar__ad
