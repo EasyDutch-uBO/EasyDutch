@@ -4,7 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-12-08
-/wp-content/uploads/*/Banner$domain=accountancyvanmorgen.nl
+/wp-content/uploads/*/Banner$domain=accountancyvanmorgen.nl|salarisvanmorgen.nl
 ! 2022-11-10
 /wp-content/themes/*/dist/all.js$script,domain=androidplanet.nl|iphoned.nl
 ! 2022-10-14
