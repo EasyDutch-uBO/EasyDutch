@@ -4,6 +4,10 @@
 ! Last updated: %timestamp%
 !
 ! 2022-12-08
+accountancyvanmorgen.nl##.rc-banner-inner-wrapper
+accountancyvanmorgen.nl##.rc-banner-leaderboard
+accountancyvanmorgen.nl##aside > section:has(img):not(:has(a[href*="vanmorgen.nl"]))
+accountancyvanmorgen.nl##div[class*="slideshow-wrapper"]:has-text(/vriend|partners|hoofdsponsor/i)
 jndkgrf.nl##.wp-block-image:has([href^="https://partner.bol.com/click/"])
 ! 2022-12-07
 flashscore.nl##.adsenvelope
