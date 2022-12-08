@@ -3,6 +3,8 @@
 ! Description: Whitelist for specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-12-08
+@@||salarisvanmorgen.nl/wp-content/uploads/*abonneer-nieuwsbrief
 ! 2022-06-29
 @@||pt.pctlwm.com/embed/tbplyr/*$script,domain=sproeiendekutjes.nl
 ! 2022-06-22
