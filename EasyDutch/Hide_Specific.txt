@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-12-08
+jndkgrf.nl##.wp-block-image:has([href^="https://partner.bol.com/click/"])
 ! 2022-12-07
 flashscore.nl##.adsenvelope
 flashscore.nl##.oddsPlacement
