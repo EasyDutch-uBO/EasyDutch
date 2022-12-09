@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-12-09
+wijkkrantzuid.nl##.widget_media_image:not(:has(a[href^="https://wijkkrantzuid.nl"]))
 rodi.nl##[id^="gtm-article-lb"]
 rodi.nl##[id^="gtm-article-mpu"]
 drimble.nl##.ASTAGQ_Billboard
