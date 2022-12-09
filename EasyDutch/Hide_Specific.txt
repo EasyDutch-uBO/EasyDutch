@@ -1,9 +1,11 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 09 Dec 2022 10:40:09 +0000
+! Last updated: Fri, 09 Dec 2022 11:10:22 +0000
 !
 ! 2022-12-09
+amsterdamsdagblad.nl##.banner
+amsterdamsdagblad.nl##.bannerrow
 dehavenloods.nl##[advobject]:upward(.bg-gray-100)
 dehavenloods.nl##.content-start > .items-center:has([advobject])
 ! 2022-12-08
