@@ -3,6 +3,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-12-09
+dehavenloods.nl##[advobject]:upward(.bg-gray-100)
+dehavenloods.nl##.content-start > .items-center:has([advobject])
 ! 2022-12-08
 accountancyvanmorgen.nl##.rc-banner-inner-wrapper
 accountancyvanmorgen.nl,salarisvanmorgen.nl##.rc-banner-leaderboard
