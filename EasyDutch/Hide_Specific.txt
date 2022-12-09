@@ -6,6 +6,7 @@
 ! 2022-12-09
 amsterdamsdagblad.nl##.banner
 amsterdamsdagblad.nl##.bannerrow
+amsterdamsdagblad.nl##.partnerrow
 dehavenloods.nl##[advobject]:upward(.bg-gray-100)
 dehavenloods.nl##.content-start > .items-center:has([advobject])
 ! 2022-12-08
