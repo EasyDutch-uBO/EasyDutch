@@ -1,9 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 09 Dec 2022 11:23:54 +0000
+! Last updated: Fri, 09 Dec 2022 11:34:28 +0000
 !
 ! 2022-12-09
+wijkkrantzuid.nl##.widget_media_image:not(:has(a[href^="https://wijkkrantzuid.nl"]))
 rodi.nl##[id^="gtm-article-lb"]
 rodi.nl##[id^="gtm-article-mpu"]
 drimble.nl##.ASTAGQ_Billboard
