@@ -4,7 +4,8 @@
 ! Last updated: %timestamp%
 !
 ! 2022-12-09
-rodi.nl##[id^="gtm-home-lb-atf"]
+rodi.nl##[id^="gtm-article-lb"]
+rodi.nl##[id^="gtm-article-mpu"]
 drimble.nl##.ASTAGQ_Billboard
 amsterdamsdagblad.nl##.banner
 amsterdamsdagblad.nl##.bannerrow
