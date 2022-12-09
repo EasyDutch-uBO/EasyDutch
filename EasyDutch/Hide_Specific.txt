@@ -1,9 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 09 Dec 2022 11:13:48 +0000
+! Last updated: Fri, 09 Dec 2022 11:16:09 +0000
 !
 ! 2022-12-09
+rodi.nl##[id^="gtm-home-lb-atf"]
 drimble.nl##.ASTAGQ_Billboard
 amsterdamsdagblad.nl##.banner
 amsterdamsdagblad.nl##.bannerrow
