@@ -3,6 +3,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-12-09
+||rotterdam-nesselande.nl/*/wp-content/webpc-passthru.php?src=*.gif
 ! 2022-12-08
 /wp-content/uploads/*/Banner$domain=accountancyvanmorgen.nl|salarisvanmorgen.nl
 ! 2022-11-10
