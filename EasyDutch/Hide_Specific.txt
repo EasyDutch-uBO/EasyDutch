@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-12-10 https://github.com/uBlockOrigin/uAssets/issues/15963
+tweakers.net##.headline:has([title^=".Adv"])
 ! 2022-12-09
 wijkkrantzuid.nl##.widget_media_image:not(:has(a[href^="https://wijkkrantzuid.nl"]))
 rodi.nl##[id^="gtm-article-lb"]
