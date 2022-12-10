@@ -1,9 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 10 Dec 2022 10:03:51 +0000
+! Last updated: Sat, 10 Dec 2022 10:17:56 +0000
 !
 ! 2022-12-10
+voetbalprimeur.nl##[href^="https://ads.jacks.nl/redirect.aspx"]
 vi.nl##.c-tag:has-text(/advert/i):upward(.c-articles-list__link)
 ! 2022-12-10 https://github.com/uBlockOrigin/uAssets/issues/15963
 tweakers.net##.headline:has([title^=".Adv"])
