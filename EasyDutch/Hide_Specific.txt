@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-12-10
+voetbalprimeur.nl##[href^="https://ads.jacks.nl/redirect.aspx"]
 vi.nl##.c-tag:has-text(/advert/i):upward(.c-articles-list__link)
 ! 2022-12-10 https://github.com/uBlockOrigin/uAssets/issues/15963
 tweakers.net##.headline:has([title^=".Adv"])
