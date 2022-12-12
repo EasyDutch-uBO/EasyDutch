@@ -3,6 +3,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-12-12
+cvandaag.nl##[class*="anativead"][href*="/ad/"]:upward(1)
+cvandaag.nl##.vacation-big-widget
 ! 2022-12-10
 voetbalprimeur.nl##[href^="https://ads.jacks.nl/redirect.aspx"]
 vi.nl##.c-tag:has-text(/advert/i):upward(.c-articles-list__link)
