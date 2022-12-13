@@ -6,6 +6,7 @@
 ! 2022-12-13
 soccernews.nl##.ad-container
 soccernews.nl##.bcb-atts:upward(1)
+soccernews.nl##.bcb-sport-block-data
 npo3fm.nl,nporadio4.nl##ul > li:has(script[src*="ster"]):has-text(/advert/i)
 ! 2022-12-12
 cvandaag.nl##[class*="anativead"][href*="/ad/"]:upward(1)
