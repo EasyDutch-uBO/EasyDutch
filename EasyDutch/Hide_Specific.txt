@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-12-13
+soccernews.nl##.ad-container
 soccernews.nl##.bcb-atts:upward(1)
 npo3fm.nl,nporadio4.nl##ul > li:has(script[src*="ster"]):has-text(/advert/i)
 ! 2022-12-12
