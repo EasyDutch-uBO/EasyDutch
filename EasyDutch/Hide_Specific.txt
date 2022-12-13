@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-12-13
+npo3fm.nl##ul > li:has(script[src*="ster"]):has-text(/advert/i)
 ! 2022-12-12
 cvandaag.nl##[class*="anativead"][href*="/ad/"]:upward(1)
 cvandaag.nl##.vacation-big-widget
