@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 12 Dec 2022 19:30:27 +0000
+! Last updated: Tue, 13 Dec 2022 07:37:30 +0000
 !
+! 2022-12-13
+npo3fm.nl##ul > li:has(script[src*="ster"]):has-text(/advert/i)
 ! 2022-12-12
 cvandaag.nl##[class*="anativead"][href*="/ad/"]:upward(1)
 cvandaag.nl##.vacation-big-widget
