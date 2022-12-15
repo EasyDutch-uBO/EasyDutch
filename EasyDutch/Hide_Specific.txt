@@ -115,7 +115,6 @@ radio0511.com##.leftColumn.cell > div:has(.sponsorImg)
 qmusic.nl##.inline-partners
 puurnaturisme.nl##aside div:has(.bannergroup_noborder)
 kinkymedia.nl##.footer-widget-container .widget:has(img)
-kinkymedia.nl##.widget:has(a[href*="ad"][href*="bnmngr"])
 tubeseks.be##.site-footer
 hollywoodhuizen.nl##.a-widget
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:not(.sharedaddy):not(:has(img))
@@ -578,7 +577,6 @@ hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
 helpmij.nl##[id^="navbar_notice"]:has(.adsbygoogle)
 ! 2022-01-19
-kinkymedia.nl##.carousel-frame:has([id*="adguru_slider"])
 klapjes.nl##a[href*="/adverteren"]:upward(2)
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(webcamsex)
 klapjes.nl##div[class*="Sidebar"] img[src*="/hoomezaz"][src*=".gif"]:upward(3)
