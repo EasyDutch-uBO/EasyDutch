@@ -73,8 +73,6 @@ vtm.be##div.pui__seekbar__cuepoints
 moviemeter.nl##.latestnewsbx:has-text(Advert)
 ! 2022-10-07 https://github.com/AdguardTeam/AdguardFilters/issues/131530
 hardware.info##div[class^="bnr-"]
-! 2022-10-05
-agf.nl,bpnieuws.nl,groentennieuws.nl##.banner
 ! 2022-10-04
 encyclo.nl##.right[style]
 encyclo.nl,mijnwoordenboek.nl,woorden.org##[id$="-336x280"]
@@ -771,7 +769,7 @@ zeelandnet.nl##.as__bottom-banner
 nailtalk.nl##.ashe-widget
 klimaatinfo.nl##.aside__add
 salvora.nl##.avia-content-slider1
-afkortingen.nu,allradio.nl,elkspel.nl,erotracks.nl,executive-people.nl,filmladder.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,retaildetail.be,retaildetail.nl,sexfotodating.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,uiennieuws.nl,unity.nu,waldnet.nl##.banner
+afkortingen.nu,allradio.nl,elkspel.nl,erotracks.nl,executive-people.nl,filmladder.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,retaildetail.be,retaildetail.nl,sexfotodating.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,unity.nu,waldnet.nl##.banner
 dutchitchannel.nl##.banner:has([href*="/bannerclick.html&banner"])
 vlietnieuws.nl##.banner_wrapper
 402online.com##.bannerblock
