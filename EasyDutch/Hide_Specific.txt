@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-12-15
+kinkymedia.nl##aside > .widget:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
 ! 2022-12-13
 soccernews.nl##.ad-container
 soccernews.nl##.bcb-atts:upward(1)
@@ -600,7 +602,6 @@ duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 handbalstartpunt.nl##aside > div[class]:has(> .adsbygoogle)
 kilroynews.net##table:has(a[href="http://www.waffen-jansen.de"])
-kinkymedia.nl##aside > div[id^="media_image"]:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
 netonline.be##.tekstboldwit td:has-text(/advert/i)
 ! 2022-01-13
 morningstar.*###ad_top_page
