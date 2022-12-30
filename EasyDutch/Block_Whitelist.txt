@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Thu, 08 Dec 2022 13:48:55 +0000
+! Last updated: Fri, 30 Dec 2022 09:57:35 +0000
 !
+! 2022-12-30
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=weerplaza.nl
 ! 2022-12-08
 @@||salarisvanmorgen.nl/wp-content/uploads/*abonneer-nieuwsbrief
 ! 2022-06-29
@@ -13,7 +15,7 @@
 !@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
 ! 2022-03-18
 @@||files.skoften.net/website/lib/vjs/plugins/ads/videojs.ads.min.js$script,~third-party
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=skoften.net
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=skoften.net
 ! 2022-03-17
 @@||sliedrecht24.nl/wp-content/uploads/*/Banner-300x250*.jpg$image,1p
 ! 2022-03-12
@@ -24,7 +26,7 @@
 @@||cdn.ebayclassifieds.net/bff/static/*/MyAds.$domain=2dehands.be|marktplaats.nl
 ! 2022-01-05
 @@||massariuscdn.com/pubs/$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dailybuzz.nl
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dailybuzz.nl
 ! 2021-12-14
 @@||vinatera.be/wp-content/uploads/*_300x600.$image,1p
 ! 2021-12-02
