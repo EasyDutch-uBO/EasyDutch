@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 15 Dec 2022 15:32:06 +0000
+! Last updated: Fri, 30 Dec 2022 09:55:37 +0000
 !
+! 2022-12-30
+wordfeudwoorden.nl##.mobblue
 ! 2022-12-15
 kinkymedia.nl##aside > .widget:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
 ! 2022-12-13
