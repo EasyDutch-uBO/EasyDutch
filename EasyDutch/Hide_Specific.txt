@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-12-31
+sneeuwhoogte.nl##.leaderboard
 ! 2022-12-30
 wordfeudwoorden.nl##.mobblue
 ! 2022-12-15
