@@ -1,9 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 06 Jan 2023 10:04:53 +0000
+! Last updated: Fri, 06 Jan 2023 10:31:32 +0000
 !
 ! 2022-01-06
+sexguide.nl##.moreEscortM:has-text(Sponsors)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
 ! 2023-01-04
