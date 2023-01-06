@@ -1,13 +1,12 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 06 Jan 2023 09:54:26 +0000
+! Last updated: Fri, 06 Jan 2023 10:01:19 +0000
 !
 ! 2022-01-06
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
 ! 2023-01-04
-blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
 ! 2022-12-31
 sneeuwhoogte.nl##.leaderboard
 ! 2022-12-30
@@ -724,7 +723,6 @@ petities.com###visible_ad_1
 rtl.be###w-leaderboard
 nederland.fm###xbtm > .shadow
 nederland.fm###xttm > .shadow
-androidplanet.nl,iphoned.nl##.aa-top-dog
 tijd.be##.ac_paragraph:has(.bb_wrapper)
 beleggersbelangen.nl,bestereistijd.be,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,radioluisterenlive.nl,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,wijlimburg.nl,xgn.nl##.ad
 bestereistijd.be##.ad + .card-divider
@@ -1130,7 +1128,6 @@ deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
 belgie-sexdate.be##.well:has(img[src^="https://www.2k19.nl/"])
 geile-sexverhalen.be##.well:has-text(Sponsers)
 transfermarkt.nl##.werbung
-androidplanet.nl##.w-full:has-text(/ADV|Gesponsord door|Advertentie/)
 baarsclassicrock.nl##.widebanner
 transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteerdersinformatie/"])))
 onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
