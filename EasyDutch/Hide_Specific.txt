@@ -1,8 +1,11 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 04 Jan 2023 14:49:36 +0000
+! Last updated: Fri, 06 Jan 2023 08:39:32 +0000
 !
+! 2022-01-06
+loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
+loonwijzer.be##[class^="article__ad"]
 ! 2023-01-04
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
 ! 2022-12-31
