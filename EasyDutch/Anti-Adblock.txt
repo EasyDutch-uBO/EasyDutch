@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Mon, 14 Nov 2022 17:18:28 +0000
+! Last updated: Fri, 06 Jan 2023 09:52:29 +0000
 !
+! 2023-01-06
+@@/wp-content/*/scripts/adb.min.js$script,1p,domain=androidplanet.nl|iphoned.nl
 ! 2022-11-14
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,3p,redirect-rule,domain=vrt.be
 ! 2022-10-12
@@ -21,8 +23,6 @@ tweakers.net##.noTrackingMessage
 ! 2022-07-02
 notebookcheck.nl##+js(acis, document.getElementById, AAdsspaCe)
 @@||cmp.quantcast.com/choice/*/*vi.nl/choice.js$script,domain=vi.nl
-! 2022-06-27
-@@/wp-content/*/scripts/adgear.js$script,1p,domain=androidplanet.nl|iphoned.nl
 ! 2022-05-28 racingnews365.nl
 @@||fwmrm.net/ad/*$xhr,domain=embed.viaplay.com|racingnews365.nl
 @@||fwmrm.net/crossdomain.xml$xhr,domain=embed.viaplay.com|racingnews365.nl
