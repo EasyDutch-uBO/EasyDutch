@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-01-06
+androidplanet.nl,iphoned.nl##div[data-name="dynamic-content-injected"]:upward(2)
 sexguide.nl##.moreEscortM:has-text(Sponsors)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
