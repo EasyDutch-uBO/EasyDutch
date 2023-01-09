@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-01-09
+stopdebankiers.com##.adsbygoogle:upward([id^="custom_html"])
 ! 2022-01-06
 androidplanet.nl,iphoned.nl##div[data-name="dynamic-content-injected"]:upward(2)
 sexguide.nl##.moreEscortM:has-text(Sponsors)
