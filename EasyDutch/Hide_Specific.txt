@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 07 Jan 2023 10:33:39 +0000
+! Last updated: Mon, 09 Jan 2023 16:12:34 +0000
 !
+! 2022-01-09
+stopdebankiers.com##.adsbygoogle:upward([id^="custom_html"])
 ! 2022-01-06
 androidplanet.nl,iphoned.nl##div[data-name="dynamic-content-injected"]:upward(2)
 sexguide.nl##.moreEscortM:has-text(Sponsors)
