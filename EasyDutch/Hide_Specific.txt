@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2022-01-10
+kutjeporno.com##div.thumb:has([href^="/hot/out.php"])
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 ! 2022-01-09
