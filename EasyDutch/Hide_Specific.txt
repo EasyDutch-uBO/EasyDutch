@@ -3,6 +3,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2022-01-10
+nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
+nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 ! 2022-01-09
 stopdebankiers.com##.adsbygoogle:upward([id^="custom_html"])
 ! 2022-01-06
@@ -169,7 +172,6 @@ commonsensetv.nl##.theiaStickySidebar div[id^="media_image"]:has(img[src*="wp.co
 okemedia.nl##.widget:has-text(Interessante links)
 nuus.be##.advertentie
 ! 2022-06-30
-nlsexfilmpjes.com###left_div li:not(> a[target="_blank"])
 nljug.org##.widget:has(.capegroep-banner)
 nl.motorsport.com##.ms-side-widget--custom-links__wrapper
 detelefoongids.nl##.wrapper:has-text(Youvia)
@@ -716,7 +718,6 @@ doorbraak.be###top-advertisement-area
 sexpower.nl###top-banner
 marktplaats.nl,2dehands.be###top-banner-wrapper
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gaming-nieuws.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,hotstreams.nl,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
-nlsexfilmpjes.com###toplist_bodem li:not(:scope > a[target="_blank"])
 starnieuws.com###topstory > div:has-text(Advertentie)
 hotradiohits.nl###tpl_banners
 hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
