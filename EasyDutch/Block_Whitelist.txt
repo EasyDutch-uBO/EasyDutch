@@ -3,6 +3,8 @@
 ! Description: Whitelist for specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-01-12
+@@||tweakers.net^$ghide
 ! 2023-01-02
 @@||2mdn.net/instream/html5/ima3.js$script,domain=omroepbrabant.nl
 ! 2022-12-30
