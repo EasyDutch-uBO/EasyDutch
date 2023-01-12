@@ -5,6 +5,9 @@
 !
 ! 2023-01-12
 @@||tweakers.net^$ghide
+! 2023-01-12 https://github.com/uBlockOrigin/uAssets/commit/943cc256a43b4aa5c20f2898860279629abd72b2
+@@||cdn.vuplay.co.uk/stats/*/AppMeasurement.js$script,domain=vrt.be
+@@||cdn.vuplay.co.uk/stats/*/VisitorAPI.js$script,domain=vrt.be
 ! 2023-01-02
 @@||2mdn.net/instream/html5/ima3.js$script,domain=omroepbrabant.nl
 ! 2022-12-30
