@@ -22,11 +22,7 @@ nl.hardware.info##^script:has-text(Inject=!)
 icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
 radiowereld.nl##+js(nosiif, adb)
 @@||ah.nl^$ghide
-@@||awemwh.com/$image,domain=camsexbabe.nl
 @@||cdn.vuplay.co.uk/*/comscore.$script,domain=vrt.be|sporza.be
-@@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
-@@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
-@@||prtawe.com/embed/tbplyr/?$script,domain=camsexbabe.nl
 @@||quantcast.mgr.consensu.org/*/cmp2.js$script,domain=vi.nl
 @@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
 @@||whiskyprijzen.*^$ghide
@@ -36,6 +32,10 @@ camsexbabe.nl##.happy-player-beside
 camsexbabe.nl##.happy-section
 girlscene.nl##.ad-container
 ! uBlock Filters - Unbreak
+@@||awemwh.com/$image,domain=camsexbabe.nl
+@@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
+@@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
+@@||prtawe.com/embed/tbplyr/?$script,domain=camsexbabe.nl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dagelijksekost.een.be
 @@||shared.mediahuis.be/ka-ching/prebid.js$script,domain=dagelijksekost.een.be
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=dagelijksekost.een.be
