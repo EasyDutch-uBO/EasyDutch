@@ -3,6 +3,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-01-12
+*$image,redirect-rule=2x2.png,domain=tweakers.net
 ! 2022-12-09
 ||dewestkrant.nl/wp-content/uploads/*/*Banner
 ||amsterdamsdagblad.nl/banner/
