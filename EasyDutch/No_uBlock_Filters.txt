@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: No uBO Filters
 ! Description: Filters for Dutch websites in case you don't use the uBlock Filters, but AdGuard Base
-! Last updated: Wed, 12 Oct 2022 05:17:32 +0000
+! Last updated: Thu, 12 Jan 2023 06:39:34 +0000
 !
 ! uBlock Filters
 *$image,redirect-rule=2x2.png,domain=tweakers.net
@@ -12,9 +12,7 @@ tweakers.net##.widebanner
 ||7mb.nl^$3p
 ||mmcdn.nl^$3p
 ||pornokartel.nl^$3p
-||flowcdn.nl/js/devtools-detector.js^
 ||googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=spel.nl
-cadsite.be,hetverschiltussen.nl,itunestore.nl,jan-smitfan.nl,sxpix.nl##+js(nobab)
 fok.nl##+js(aeld, , DAB)
 fok.nl###wa_web_headertofloor
 gratisaftehalen.nl##+js(acis, fuckAdBlock, undefined)
