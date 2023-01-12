@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-01-12
+tweakers.net##.widebanner
 ! 2023-01-10
 kutjeporno.com##div.thumb:has([href^="/hot/out.php"])
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
