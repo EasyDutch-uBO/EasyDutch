@@ -42,8 +42,6 @@ girlscene.nl##.ad-container
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=dagelijksekost.een.be
 @@||assets.adobedtm.com/*-source.min.js$script,domain=dagelijksekost.een.be
 @@||2mdn.net/instream/html5/ima3.js$script,domain=geenstijl.nl
-@@||cdn.vuplay.co.uk/stats/*/AppMeasurement.js$script,domain=vrt.be
-@@||cdn.vuplay.co.uk/stats/*/VisitorAPI.js$script,domain=vrt.be
 @@||coolblue.nl^*/ard.png$script,1p
 @@||flightapi.travix.com/flight$xhr,domain=cheaptickets.nl
 !#if env_firefox
