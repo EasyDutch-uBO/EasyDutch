@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Mon, 02 Jan 2023 12:48:19 +0000
+! Last updated: Thu, 12 Jan 2023 06:45:59 +0000
 !
+! 2023-01-12
+@@||tweakers.net^$ghide
 ! 2023-01-02
 @@||2mdn.net/instream/html5/ima3.js$script,domain=omroepbrabant.nl
 ! 2022-12-30
