@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: No uBO Filters
 ! Description: Filters for Dutch websites in case you don't use the uBlock Filters, but AdGuard Base
-! Last updated: Thu, 12 Jan 2023 06:40:36 +0000
+! Last updated: Thu, 12 Jan 2023 06:41:13 +0000
 !
 ! uBlock Filters
 *$image,redirect-rule=2x2.png,domain=tweakers.net
@@ -42,8 +42,6 @@ girlscene.nl##.ad-container
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=dagelijksekost.een.be
 @@||assets.adobedtm.com/*-source.min.js$script,domain=dagelijksekost.een.be
 @@||2mdn.net/instream/html5/ima3.js$script,domain=geenstijl.nl
-@@||cdn.vuplay.co.uk/stats/*/AppMeasurement.js$script,domain=vrt.be
-@@||cdn.vuplay.co.uk/stats/*/VisitorAPI.js$script,domain=vrt.be
 @@||coolblue.nl^*/ard.png$script,1p
 @@||flightapi.travix.com/flight$xhr,domain=cheaptickets.nl
 !#if env_firefox
