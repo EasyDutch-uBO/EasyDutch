@@ -4,11 +4,6 @@
 ! Last updated: %timestamp%
 !
 ! uBlock Filters
-*$image,redirect-rule=2x2.png,domain=tweakers.net
-!||tweakers.net^*.jpeg$removeparam
-!tweakers.net##+js(aost, setTimeout, /inlineScript|Array/)
-@@||tweakers.net^$ghide
-tweakers.net##.widebanner
 ||7mb.nl^$3p
 ||mmcdn.nl^$3p
 ||pornokartel.nl^$3p
