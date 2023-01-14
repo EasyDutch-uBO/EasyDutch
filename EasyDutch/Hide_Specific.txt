@@ -1,9 +1,18 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 12 Jan 2023 06:47:04 +0000
+! Last updated: Sat, 14 Jan 2023 13:19:24 +0000
 !
-! 2023-01-12
+! 2023-01-14
+! https://github.com/uBlockOrigin/uAssets/issues/13494 
+! https://github.com/EasyDutch-uBO/EasyDutch/issues/22
+! https://github.com/uBlockOrigin/uAssets/issues/15963
+tweakers.net##.headline:has([title^=".Adv"])
+tweakers.net##.relatedItProContent > *:has(a[href*="doubleclick.net/"])
+tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
+tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
+tweakers.net###true
+tweakers.net##.reserveSpace
 tweakers.net##.widebanner
 ! 2023-01-10
 kutjeporno.com##div.thumb:has([href^="/hot/out.php"])
@@ -35,8 +44,6 @@ cvandaag.nl##.vacation-big-widget
 ! 2022-12-10
 voetbalprimeur.nl##[href^="https://ads.jacks.nl/redirect.aspx"]
 vi.nl##.c-tag:has-text(/advert/i):upward(.c-articles-list__link)
-! 2022-12-10 https://github.com/uBlockOrigin/uAssets/issues/15963
-tweakers.net##.headline:has([title^=".Adv"])
 ! 2022-12-09
 wijkkrantzuid.nl##.widget_media_image:not(:has(a[href^="https://wijkkrantzuid.nl"]))
 rodi.nl##[id^="gtm-article-lb"]
@@ -378,15 +385,10 @@ vlaamskijken.nl##a[href^="https://partner.bol.com/"]
 vlaamskijken.nl##div[class^="col"]:has([class^="add"])
 ! 2022-06-07
 autoweek.nl##.tile-category:has-text(/advert/i):upward(.aw-tile)
-! 2022-06-04
-tweakers.net##.relatedItProContent > *:has(a[href*="doubleclick.net/"])
 guidinc.nl##.promotion_link
 radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
 ! 2022-06-02
 nu.nl##div[id^="block-in-article-ad"]
-! 2022-06-02 https://github.com/uBlockOrigin/uAssets/issues/13494 and https://github.com/EasyDutch-uBO/EasyDutch/issues/22
-tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
-tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
 ! 2022-05-27
 goldfm.be###sponsors-carousel
 mandelnieuws.be##div[class*="blocksponsors"]
@@ -724,7 +726,6 @@ eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gaming-nieuws.nl,gazetvandaa
 starnieuws.com###topstory > div:has-text(Advertentie)
 hotradiohits.nl###tpl_banners
 hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
-tweakers.net###true
 pornozot.com###video-right
 nlsexfilmpjes.com###videos_div_v > .clear_line
 dominant.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
@@ -1039,7 +1040,6 @@ iex.nl##.rectanglewrap
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 nnieuws.be##.region-banner-diamond
 regionoordkop.nl##.regio-widget
-tweakers.net##.reserveSpace
 xmissy.nl##.rightbar > :has([src^="https://ads."])
 schaefer-shop.nl##.row > [class]:has(.sfr-pdp-section[id$="crossseller"])
 zeelandnet.nl##.row--bnr-between
