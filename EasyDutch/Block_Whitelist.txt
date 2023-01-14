@@ -9,6 +9,7 @@
 @@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
 @@||prtawe.com/embed/tbplyr/?$script,domain=camsexbabe.nl
 @@||coolblue.nl^*/ard.png$script,1p
+@@||2mdn.net/instream/html5/ima3.js$script,domain=geenstijl.nl
 ! 2023-01-12
 @@||tweakers.net^$ghide
 ! 2023-01-12 https://github.com/uBlockOrigin/uAssets/commit/943cc256a43b4aa5c20f2898860279629abd72b2
