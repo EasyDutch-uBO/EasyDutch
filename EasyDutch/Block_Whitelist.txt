@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Sat, 14 Jan 2023 13:14:14 +0000
+! Last updated: Sat, 14 Jan 2023 13:15:00 +0000
 !
 ! 2023-01-14
 @@||awemwh.com/$image,domain=camsexbabe.nl
@@ -9,6 +9,7 @@
 @@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
 @@||prtawe.com/embed/tbplyr/?$script,domain=camsexbabe.nl
 @@||coolblue.nl^*/ard.png$script,1p
+@@||2mdn.net/instream/html5/ima3.js$script,domain=geenstijl.nl
 ! 2023-01-12
 @@||tweakers.net^$ghide
 ! 2023-01-12 https://github.com/uBlockOrigin/uAssets/commit/943cc256a43b4aa5c20f2898860279629abd72b2
