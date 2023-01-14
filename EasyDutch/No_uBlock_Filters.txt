@@ -28,10 +28,6 @@ camsexbabe.nl##.happy-player-beside
 camsexbabe.nl##.happy-section
 girlscene.nl##.ad-container
 ! uBlock Filters - Unbreak
-@@||awemwh.com/$image,domain=camsexbabe.nl
-@@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
-@@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
-@@||prtawe.com/embed/tbplyr/?$script,domain=camsexbabe.nl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dagelijksekost.een.be
 @@||shared.mediahuis.be/ka-ching/prebid.js$script,domain=dagelijksekost.een.be
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=dagelijksekost.een.be
