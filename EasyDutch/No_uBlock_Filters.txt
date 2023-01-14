@@ -39,4 +39,3 @@ girlscene.nl##.ad-container
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=nieuwsblad.be
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=nieuwsblad.be
 !#endif
-@@||laredoute.com^$image,domain=laredoute.nl|laredoute.lu
