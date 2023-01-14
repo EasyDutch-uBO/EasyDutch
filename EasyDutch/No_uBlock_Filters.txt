@@ -33,7 +33,6 @@ girlscene.nl##.ad-container
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=dagelijksekost.een.be
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=dagelijksekost.een.be
 @@||assets.adobedtm.com/*-source.min.js$script,domain=dagelijksekost.een.be
-@@||coolblue.nl^*/ard.png$script,1p
 @@||flightapi.travix.com/flight$xhr,domain=cheaptickets.nl
 !#if env_firefox
 @@||markup.nieuwsblad.be/extra/assets/advertising/prebid.js$script,1p
