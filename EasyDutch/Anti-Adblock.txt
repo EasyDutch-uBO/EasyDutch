@@ -1,8 +1,11 @@
 [uBlock Origin]
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Thu, 12 Jan 2023 06:38:53 +0000
+! Last updated: Mon, 16 Jan 2023 10:16:44 +0000
 !
+! 2023-1-16
+tweakers.net##+js(aeld, bannerLoadEvent, adblock)
+tweakers.net##.noTrackingMessage
 ! 2023-01-06
 @@/wp-content/*/scripts/adb.min.js$script,1p,domain=androidplanet.nl|iphoned.nl
 ! 2022-11-14
@@ -18,8 +21,6 @@
 citaten.net#@##bottom-ad
 ! 2022-09-12
 @@||looopings.nl/peel1.js
-! 2022-08-03
-tweakers.net##.noTrackingMessage
 ! 2022-07-02
 notebookcheck.nl##+js(acis, document.getElementById, AAdsspaCe)
 @@||cmp.quantcast.com/choice/*/*vi.nl/choice.js$script,domain=vi.nl
