@@ -1,10 +1,11 @@
+[uBlock Origin]
 ! Title: EasyDutch
 ! Description: Dutch supplement for the Easylist filters to use with uBlock Origin
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! Expires: 3 days (update frequency)
 !
-! Alleen voor advertenties of anti-adblock op Nederlandstalige sites!
-! Rapporteer gevonden advertenties of fouten hier:
+! Alleen voor advertenties of anti-adblock op Nederlandstalige sites!  /  Only for ads or anti-adblock on Dutch sites!
+! Rapporteer gevonden advertenties of fouten hier:  /  Report found ads or errors here:
 ! https://github.com/EasyDutch-uBO/EasyDutch/issues
 ! mailto: easydutch.adblock@gmail.com
 !
