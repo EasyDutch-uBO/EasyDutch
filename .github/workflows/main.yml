@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'EasyDutch/**'
+      - 'EasyDutch.txt'
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#example-only-cancel-in-progress-jobs-or-runs-for-the-current-workflow
 concurrency: 
@@ -23,9 +24,10 @@ jobs:
             ref: gh-pages
       - name: Copy filter lists to gh-pages
         run: |
-          TMPDIR=$(mktemp)
-          git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPDIR
-          cp $TMPDIR/EasyDutch/*.txt EasyDutch/
+             TMPFILE=$(mktemp -d)
+             git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPFILE
+             cp $TMPFILE/EasyDutch/*.txt EasyDutch/
+             cp $TMPFILE/EasyDutch.txt EasyDutch.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
@@ -42,7 +44,7 @@ jobs:
           if [[ -n $(git diff) ]]; then
             git config user.name "GitHub-Actions"
             git config user.email "<>"
-            git add -u EasyDutch/
+            git add -u EasyDutch/ EasyDutch.txt
             git commit -m "Update modified filter lists"
             git push origin gh-pages
           fi
