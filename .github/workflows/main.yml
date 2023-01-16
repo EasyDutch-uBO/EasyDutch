@@ -21,13 +21,9 @@ jobs:
             ref: gh-pages
       - name: Copy filter lists to gh-pages
         run: |
-          TMPDIR=$(mktemp -d)
-          git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPDIR
-          cp $TMPDIR/EasyDutch/*.txt EasyDutch/
-      - name: Copy main filter list to gh-pages
-        run: |
-          TMPFILE=$(mktemp)
+          TMPFILE=$(mktemp -d)
           git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPFILE
+          cp $TMPFILE/EasyDutch/*.txt EasyDutch/
           cp $TMPFILE/EasyDutch.txt EasyDutch.txt
       - name: Patch last-updated field
         run: |
