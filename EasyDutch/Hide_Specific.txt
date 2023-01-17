@@ -1,8 +1,11 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 14 Jan 2023 13:22:37 +0000
+! Last updated: Tue, 17 Jan 2023 07:36:16 +0000
 !
+! 2022-01-17
+girlscene.nl##[id$="ad-desktop"]
+girlscene.nl##[id*="desktop-leaderboard"]
 ! 2023-01-14
 ! https://github.com/AdguardTeam/AdguardFilters/issues/131530
 hardware.info##div[class^="bnr-"]
@@ -13,7 +16,6 @@ hardware.info##[data-testid^="banner"]
 hardware.info##^script:has-text(Inject=!)
 hardware.info##+js(nostif, .call(null), 10)
 hardware.info##article.overview-item:has-text(Sponsored)
-! 2023-01-14
 ! https://github.com/uBlockOrigin/uAssets/issues/13494 
 ! https://github.com/EasyDutch-uBO/EasyDutch/issues/22
 ! https://github.com/uBlockOrigin/uAssets/issues/15963
