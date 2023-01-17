@@ -63,7 +63,6 @@ marokko.nl##+js(set, ads_toegestaan, true)
 ! 2021-05-04
 112midden-zeeland.nl##+js(aopr, anOptions)
 ! 2021-04-28
-webwereld.nl##+js(set, adBlockStatus, false)
 nu.nl##+js(set, isAdBlockEnabled, false)
 ! 2021-04-27
 directwonen.nl#@#.adsbox
