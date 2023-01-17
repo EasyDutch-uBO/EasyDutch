@@ -1,9 +1,9 @@
 [uBlock Origin]
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Mon, 16 Jan 2023 10:16:44 +0000
+! Last updated: Tue, 17 Jan 2023 07:04:18 +0000
 !
-! 2023-1-16
+! 2023-1-16 https://github.com/EasyDutch-uBO/EasyDutch/issues/34
 tweakers.net##+js(aeld, bannerLoadEvent, adblock)
 tweakers.net##.noTrackingMessage
 ! 2023-01-06
