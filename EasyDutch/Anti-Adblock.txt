@@ -3,7 +3,7 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2023-1-16
+! 2023-1-16 https://github.com/EasyDutch-uBO/EasyDutch/issues/34
 tweakers.net##+js(aeld, bannerLoadEvent, adblock)
 tweakers.net##.noTrackingMessage
 ! 2023-01-06
