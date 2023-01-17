@@ -20,8 +20,6 @@ tweakers.net##.noTrackingMessage
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=vtm.be
 ! 2022-10-12
 citaten.net#@##bottom-ad
-! 2022-09-12
-@@||looopings.nl/peel1.js
 ! 2022-07-02
 notebookcheck.nl##+js(acis, document.getElementById, AAdsspaCe)
 @@||cmp.quantcast.com/choice/*/*vi.nl/choice.js$script,domain=vi.nl
