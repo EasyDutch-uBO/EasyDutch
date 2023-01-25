@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 17 Jan 2023 07:41:22 +0000
+! Last updated: Wed, 25 Jan 2023 13:17:08 +0000
 !
+! 2023-01-25
+nd.nl##.page-header__inner__ad
 ! 2023-01-17
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
@@ -887,7 +889,6 @@ golf.nl##.c-sponsors
 voetbaluitslagen.com##.cta
 menttv.be##.cta-container
 touretappe.nl##.desktopad
-nd.nl##.desktoponly > .text-center
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp-space
 sexafspraakonline.nl##.d-lg-block.d-none > .card:has-text(Advert)
 dating-zoeken.nl,hete-sexcontacten.nl,milf-overzicht.nl,sexdating-afspraak.nl,sexdating-gids.be,sexdatinggids.be,vrouwensexdate.nl##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-skin-tango))
