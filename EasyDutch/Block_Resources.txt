@@ -1,12 +1,12 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Fri, 27 Jan 2023 07:05:51 +0000
+! Last updated: Fri, 27 Jan 2023 09:32:22 +0000
 !
 ! 2023-01-27
 ||wieringernieuws.nl/gfx/ads/$domain=hollandskroonnieuws.nl,wieringernieuws.nl
 ||viralize.tv/display/$domain=startpagina.nl
-/webcam.+\.nl\/media\/banners2?\//$1p,image
+/^https?:\/\/(?:www\.)?webcams?\-?[a-z]+\.nl\/media\/banners2?\//$1p,image
 ! 2023-01-12
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 ! 2022-12-09
