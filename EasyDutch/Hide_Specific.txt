@@ -1,9 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 27 Jan 2023 07:02:44 +0000
+! Last updated: Fri, 27 Jan 2023 07:06:54 +0000
 !
 ! 2023-01-27
+wieringernieuws.nl##div#block-blue:has-text(advert)
 hollandskroonnieuws.nl,wieringernieuws.nl###navleft > center:has-text(advert)
 webcam-harlingen.nl,webcam-maastricht.nl##.carousel
 webcam-aalsmeer.nl,webcam-airport.nl,webcam-binnenvaart.nl,webcam-blokzijl.nl,webcam-brandaris.nl,webcam-delfzijl.nl,webcam-denhelder.nl,webcam-denoever.nl,webcam-dokkum.nl,webcam-dordrecht.nl,webcam-enkhuizen.nl,webcam-friesemeren.nl,webcam-grou.nl,webcam-havenijmuiden.nl,webcam-hindeloopen.nl,webcam-hoekvanholland.nl,webcam-kampen.nl,webcam-lauwersoog.nl,webcam-leeuwarden.nl,webcam-lelystad.nl,webcam-maassluis.nl,webcam-marken.nl,webcam-monnickendam.nl,webcam-rotterdam.nl,webcam-sneek.nl,webcam-terneuzen.nl,webcam-vlaardingen.nl,webcam-volendam.nl,webcam-workum.nl,webcam-zaanzicht.nl,webcam-zoutkamp.nl,webcam-zwartsluis.nl,webcams-ameland.nl,webcams-scheveningen.nl,webcams-texel.nl,webcams-vlissingen.nl,webcamschiermonnikoog.nl,webcamvlieland.nl##.flexslider
