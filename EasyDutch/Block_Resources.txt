@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-01-27
+||viralize.tv/display/$domain=startpagina.nl
 ||webcam-aalsmeer.nl/media/banners/
 ||webcam-aalsmeer.nl/media/banners2/
 ||webcam-airport.nl/media/banners/
