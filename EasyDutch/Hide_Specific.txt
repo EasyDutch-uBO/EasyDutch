@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 10 Feb 2023 15:57:49 +0000
+! Last updated: Fri, 10 Feb 2023 16:00:35 +0000
 !
 ! 2023-02-10 https://github.com/uBlockOrigin/uAssets/issues/9705
 modekoninginmaxima.nl##.adsbygoogle
@@ -712,7 +712,6 @@ tellows.nl###lb_header
 techzine.nl###lead
 eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
-gezondheid.be###leaderbord
 autosport.nl###liggende-banner
 greenkeeper.nl###lijst_logos
 vlaanderen-sexdate.be###linkpartners > :has(.homebanner)
@@ -1216,7 +1215,6 @@ linda.nl##[class^="article-"][class$="_article"]:has(.category-label_label:has-t
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,motocrossplanet.nl,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##[class^="banner"]
 twentefm.nl##[class^="bannerzone_"]:has([href])
 ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
-gezondheid.be##[class^="gz-ads"]
 schie.nu##[class^="my-"]:has(img[src*="/images/banner/"])
 appletips.nl##[class^="ph_block"]
 visserijnieuws.nl##[class^="row advertentie-"]:not([class*="advertentie-1"])
