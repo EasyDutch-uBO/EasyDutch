@@ -5,6 +5,9 @@
 !
 ! 2023-02-10 https://github.com/uBlockOrigin/uAssets/issues/9705
 modekoninginmaxima.nl##.adsbygoogle
+! 2023-02-10
+gezondheid.be###leaderboard
+gezondheid.be###leaderboard_floor
 ! 2023-02-09
 juf-milou.nl##.adverteerdersblok
 juf-milou.nl##.content_blok_reclame
