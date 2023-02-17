@@ -1,1 +1,4 @@
 *.txt linguist-language=Adblock linguist-detectable
+.github/** -linguist-vendored
+.github/** linguist-detectable
+* linguist-detectable
