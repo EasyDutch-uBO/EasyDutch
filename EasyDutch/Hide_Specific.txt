@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 10 Feb 2023 16:00:35 +0000
+! Last updated: Sat, 18 Feb 2023 07:36:47 +0000
 !
+! 2023-02-18
+redbot.frl##.slider.container:has(.twelvecol:has-text(partners))
 ! 2023-02-10 https://github.com/uBlockOrigin/uAssets/issues/9705
 modekoninginmaxima.nl##.adsbygoogle
 ! 2023-02-10
