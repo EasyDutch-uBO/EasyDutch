@@ -691,7 +691,6 @@ amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextub
 indiexl.nl###carousel-indiexl_partners_carousel_widget
 girlpics.nl###cato_top:has-text(Ads)
 almere-nieuws.nl###containerx
-redbot.frl###content .container:has(.twelvecol:has-text(partners))
 vnexplorer.net###div_the_mgid
 oops.nl###dropinboxv2cover
 538.nl###eCommerce
