@@ -4,6 +4,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-02-18
+||srv69.eu/smartlink/banner/$3p
+||srv69.eu/b/$image,3p
 /wp-content/uploads/*/banner-sponsors$image,domain=radiozuidrand.be
 /wp-content/uploads/*/banner_reclame$image,domain=radiozuidrand.be
 ||i0.wp.com/cdn.onlineradiobox.com/img/b/$image,domain=radiozuidrand.be
