@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-02-18
+telegraaf.nl##.OutbrainWrapper
 reclamefolder.nl##[class*="folderRowAd"]
 redbot.frl##.slider.container:has(.twelvecol:has-text(partners))
 ! 2023-02-10 https://github.com/uBlockOrigin/uAssets/issues/9705
