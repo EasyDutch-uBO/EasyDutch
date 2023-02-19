@@ -3,9 +3,6 @@
 ! Description: Filters for blocking only general third-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2023-02-18
-! hdtienersexfilms.nl,rapesextube.be,rapetube.eu
-||srv69.eu^$domain=hdtienersexfilms.nl|rapesextube.be|rapetube.eu
 ! 2022-10-25
 ! https://nos.nl/teletekst
 ||adcdn.ster.nl^$3p
