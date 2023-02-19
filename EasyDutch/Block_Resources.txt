@@ -1,9 +1,11 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Sat, 18 Feb 2023 07:18:54 +0000
+! Last updated: Sun, 19 Feb 2023 20:00:36 +0000
 !
 ! 2023-02-18
+||srv69.eu/smartlink/banner/$3p
+||srv69.eu/b/$image,3p
 /wp-content/uploads/*/banner-sponsors$image,domain=radiozuidrand.be
 /wp-content/uploads/*/banner_reclame$image,domain=radiozuidrand.be
 ||i0.wp.com/cdn.onlineradiobox.com/img/b/$image,domain=radiozuidrand.be
