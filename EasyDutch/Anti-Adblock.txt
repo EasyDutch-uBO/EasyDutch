@@ -1,8 +1,17 @@
 [uBlock Origin]
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Sun, 19 Feb 2023 13:55:23 +0000
+! Last updated: Wed, 22 Feb 2023 07:05:58 +0000
 !
+! 2023-02-23 
+! https://github.com/uBlockOrigin/uAssets/issues/16881
+! https://github.com/AdguardTeam/AdguardFilters/commit/a36ebed2232a093a07686e27783d695286b368e6
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,domain=goplay.be
+goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doubleclick.net/ondemand)
+goplay.be##+js(no-fetch-if, pubads.g.doubleclick.net/gampad/ads)
+||goplay.be/js/sourcepoint/msg?v=
+@@||goplay.be^$ghide
+@@||sdk.privacy-center.org^$script,domain=goplay.be
 ! 2023-02-16 https://github.com/EasyDutch-uBO/EasyDutch/issues/34
 ! https://github.com/uBlockOrigin/uAssets/issues/16782
 ! tweakers.net##+js(aeld, , adblock)
@@ -28,12 +37,6 @@ notebookcheck.nl##+js(acis, document.getElementById, AAdsspaCe)
 ! 2022-05-28 racingnews365.nl
 @@||fwmrm.net/ad/*$xhr,domain=embed.viaplay.com|racingnews365.nl
 @@||fwmrm.net/crossdomain.xml$xhr,domain=embed.viaplay.com|racingnews365.nl
-! 2022-05-17 https://github.com/AdguardTeam/AdguardFilters/commit/a36ebed2232a093a07686e27783d695286b368e6
-goplay.be##+js(no-fetch-if, pubads.g.doubleclick.net/gampad/ads)
-||goplay.be/js/sourcepoint/msg?v=
-||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=noopjs,domain=goplay.be
-@@||goplay.be^$ghide
-@@||sdk.privacy-center.org^$script,domain=goplay.be
 ! 2022-05-17 https://github.com/uBlockOrigin/uAssets/issues/13260
 ! 2022-04-08 https://github.com/uBlockOrigin/uAssets/issues/12644
 ! https://www.reddit.com/r/uBlockOrigin/comments/tblfcf/dutch_site_cant_watch_video/
