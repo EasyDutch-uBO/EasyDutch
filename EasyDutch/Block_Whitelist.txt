@@ -1,8 +1,12 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Sat, 14 Jan 2023 13:15:43 +0000
+! Last updated: Wed, 22 Feb 2023 06:55:43 +0000
 !
+! 2023-02-22
+! https://github.com/uBlockOrigin/uAssets/issues/16881
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=goplay.be
+@@||doubleclick.net^$xhr,domain=goplay.be
 ! 2023-01-14
 @@||awemwh.com/$image,domain=camsexbabe.nl
 @@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
