@@ -3,6 +3,8 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-03-01 https://github.com/uBlockOrigin/uAssets/issues/16839
+112amsterdam.nl##+js(aost, document.querySelectorAll, /(?=.*inlineScript)(?=^(?!.*(https)))/)
 ! 2023-02-23 
 ! https://github.com/uBlockOrigin/uAssets/issues/16881
 ! https://github.com/AdguardTeam/AdguardFilters/commit/a36ebed2232a093a07686e27783d695286b368e6
