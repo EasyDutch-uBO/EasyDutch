@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-03-16
+camsexbabe.nl,fucking-tube.com,mijnpornotube.nl,pornosterneuken.nl,sexdatingtube.be,tubeseks.be##.video-sidebar
 agraaf.nl##.partners-carousel
 wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 ! 2023-03-09
@@ -1153,7 +1154,6 @@ telegraaf.nl##.VideoArticlePage__banner
 12milf.com##.video-description > .under-video-block
 sex-kamer.nl##.videoOverAdBig
 telegraaf.nl##.VideoPage__banner
-camsexbabe.nl,mijnpornotube.nl,pornosterneuken.nl,sexbios.net,sexdatingtube.be##.video-sidebar
 mo.be##.view-id-banners_top
 nnieuws.be##.view-vw-banners.view
 rubenweytjens.be##.view-weather-ads-view
