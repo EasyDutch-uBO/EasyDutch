@@ -4,7 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-03-16
-sexmetdikkewijven.nl,strandmokkels.nl,studentesneuken.nl###tracking-url
+partytieners.nl,sexmetdikkewijven.nl,strandmokkels.nl,studentesneuken.nl###tracking-url
 agraaf.nl##.partners-carousel
 wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 ! 2023-03-09
