@@ -6,7 +6,7 @@
 ! 2023-03-16
 seksfilms.eu##[id^="custom_html"]:has-text(Sexafspraakjes)
 seksfilms.eu##[id^="custom_html-"]:has([src*="pt.pctlwm.com/embed/"])
-camsexbabe.nl,fucking-tube.com,mijnpornotube.nl,pornosterneuken.nl,sexdatingtube.be,tubeseks.be##.video-sidebar
+amateursextube.eu,camsexbabe.nl,fucking-tube.com,mijnpornotube.nl,pornosterneuken.nl,sexdatingtube.be,tubeseks.be##.video-sidebar
 agraaf.nl##.partners-carousel
 wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 ! 2023-03-09
