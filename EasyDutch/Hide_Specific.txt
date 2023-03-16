@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 16 Mar 2023 08:36:09 +0000
+! Last updated: Thu, 16 Mar 2023 08:42:27 +0000
 !
 ! 2023-03-16
 amateursexfilmss.nl###buttonUnderVideoLink
@@ -176,7 +176,6 @@ webcam-binnenvaart.nl##.d-md-block.d-none:has-text(Met dank aan)
 ! 2022-07-12
 appletips.nl###aanbblok
 ! 2022-07-06
-scattube.be,tubeclips.nl###buttonUnderVideoLink
 puuropreis.nl##.banneritem:not(:has([href^="/component/banners/click"]))
 omejoop.be##.widget:has-text(/Schijnwerpers|Partners/)
 palnws.be##.content-inner > .palnw-target:has([id^="div-gpt-ad"])
@@ -699,7 +698,6 @@ willem-ii.nl###block-views-block-view-main-sponsor
 willem-ii.nl###block-views-block-view-shirt-sponsor
 asex.nl###bottum_ad
 takecare4.eu###branding > .clearfix
-amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextube.com,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com###buttonUnderVideoLink
 indiexl.nl###carousel-indiexl_partners_carousel_widget
 girlpics.nl###cato_top:has-text(Ads)
 almere-nieuws.nl###containerx
