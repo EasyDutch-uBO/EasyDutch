@@ -762,7 +762,7 @@ marktplaats.nl,2dehands.be###top-banner-wrapper
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gaming-nieuws.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,hotstreams.nl,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
 starnieuws.com###topstory > div:has-text(Advertentie)
 hotradiohits.nl###tpl_banners
-hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
+hdtienersexfilms.nl,poepsexfilmstube.nl,tubeseks.be###tracking-url
 pornozot.com###video-right
 nlsexfilmpjes.com###videos_div_v > .clear_line
 dominant.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
