@@ -1,10 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 16 Mar 2023 08:44:42 +0000
+! Last updated: Thu, 16 Mar 2023 08:45:22 +0000
 !
 ! 2023-03-16
-amateursexfilmss.nl,schaamlip.net###buttonUnderVideoLink
+amateursexfilmss.nl,schaamlip.net,tubeclips.nl###buttonUnderVideoLink
 seksfilms.eu##[id^="custom_html"]:has-text(Sexafspraakjes)
 seksfilms.eu##[id^="custom_html-"]:has([src*="pt.pctlwm.com/embed/"])
 amateursextube.eu,camsexbabe.nl,fucking-tube.com,mijnpornotube.nl,pornosterneuken.nl,sexdatingtube.be,tubeseks.be##.video-sidebar
