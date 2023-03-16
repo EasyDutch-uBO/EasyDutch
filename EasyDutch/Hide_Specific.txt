@@ -4,7 +4,6 @@
 ! Last updated: %timestamp%
 !
 ! 2023-03-16
-barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,extreemneuken.com,partytieners.nl,pornomilf.nl,sexmetdikkewijven.nl,strandmokkels.nl,studentesneuken.nl###tracking-url
 agraaf.nl##.partners-carousel
 wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 ! 2023-03-09
@@ -499,7 +498,6 @@ thatsgaming.nl##[id^="menu-item"]:has-text(/gokken|casino/i)
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
 yourlittleblackbook.me##[id*="banner"]
 ! 2022-04-26
-teen-sex.nl###tracking-url
 pornopower.nl##[id^="block"]:has([src$="/jads.js"])
 sexcam-mokkels.nl##[id^="custom_html-"]:has(iframe[data-src*="jygotubvpyguak.com"])
 sexcontact-xxx.be##.moduletable:has([src*="2k19.nl"])
@@ -763,7 +761,6 @@ marktplaats.nl,2dehands.be###top-banner-wrapper
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gaming-nieuws.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,hotstreams.nl,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
 starnieuws.com###topstory > div:has-text(Advertentie)
 hotradiohits.nl###tpl_banners
-hdtienersexfilms.nl,poepsexfilmstube.nl,tubeseks.be###tracking-url
 pornozot.com###video-right
 nlsexfilmpjes.com###videos_div_v > .clear_line
 dominant.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
