@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: No uBO Filters
 ! Description: Filters for Dutch websites in case you don't use the uBlock Filters, but AdGuard Base
-! Last updated: Wed, 01 Mar 2023 09:26:00 +0000
+! Last updated: Thu, 16 Mar 2023 08:24:59 +0000
 !
 ! uBlock Filters
 ||7mb.nl^$3p
@@ -22,8 +22,6 @@ radiowereld.nl##+js(nosiif, adb)
 @@||whiskyprijzen.*^$ghide
 @@||whiskyprix.*^$ghide
 whiskyprijzen.be,whiskyprijzen.nl,whiskyprix.be##.blocker
-camsexbabe.nl##.happy-player-beside
-camsexbabe.nl##.happy-section
 girlscene.nl##.ad-container
 ! uBlock Filters - Unbreak
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dagelijksekost.een.be
