@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 16 Mar 2023 11:37:38 +0000
+! Last updated: Thu, 16 Mar 2023 12:18:08 +0000
 !
 ! 2023-03-16
 amateursexfilmss.nl,schaamlip.net,tubeclips.nl###buttonUnderVideoLink
@@ -10,6 +10,8 @@ creampievideos.nl##section:has(a[href^="https://pornoverhalen.org/reclame/"])
 seksfilms.eu##[id^="custom_html"]:has-text(Sexafspraakjes)
 seksfilms.eu##[id^="custom_html-"]:has([src*="pt.pctlwm.com/embed/"])
 agraaf.nl##.partners-carousel
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[id^="div-gpt-ad"]:upward(.component__plugin)
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
 wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 ! 2023-03-09
 alarmeringen.nl##.ad
@@ -372,9 +374,6 @@ arenalokaal.nl##[advobject]:upward(.bg-gray-100)
 ! 2022-06-23
 knack.be##.js-partner-content
 ! 2022-06-22
-barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class$="center"] > [id^="div-gpt-ad"]:upward(2)
-barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(advert)
-barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
 binnenvaartkrant.nl,dartfreakz.nl,dbsuriname.com,regioinbedrijf.nl,westerwoldeactueel.nl##.g
 briefjevanjan.nl##[href^="https://partner.bol.com/"]
 investmentofficer.nl##.region-banner
