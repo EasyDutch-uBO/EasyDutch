@@ -22,8 +22,6 @@ radiowereld.nl##+js(nosiif, adb)
 @@||whiskyprijzen.*^$ghide
 @@||whiskyprix.*^$ghide
 whiskyprijzen.be,whiskyprijzen.nl,whiskyprix.be##.blocker
-camsexbabe.nl##.happy-player-beside
-camsexbabe.nl##.happy-section
 girlscene.nl##.ad-container
 ! uBlock Filters - Unbreak
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dagelijksekost.een.be
