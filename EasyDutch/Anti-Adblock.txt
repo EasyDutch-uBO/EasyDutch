@@ -1,8 +1,14 @@
 [uBlock Origin]
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Wed, 01 Mar 2023 09:24:51 +0000
+! Last updated: Thu, 23 Mar 2023 11:24:25 +0000
 !
+! 2023-03-23
+! https://github.com/EasyDutch-uBO/EasyDutch/issues/34
+! https://github.com/uBlockOrigin/uAssets/issues/16782
+tweakers.net##+js(aeld, , adblock)
+! tweakers.net##+js(aeld, , handleAdblockDetect)
+! @@||aa.tweakers.nl/json$domain=tweakers.net
 ! 2023-03-01 https://github.com/uBlockOrigin/uAssets/issues/16839
 112amsterdam.nl##+js(aost, document.querySelectorAll, /(?=.*inlineScript)(?=^(?!.*(https)))/)
 ! 2023-02-23 
@@ -13,11 +19,6 @@ goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doublecli
 ||goplay.be/js/sourcepoint/msg?v=
 @@||goplay.be^$ghide
 @@||sdk.privacy-center.org^$script,domain=goplay.be
-! 2023-02-16 https://github.com/EasyDutch-uBO/EasyDutch/issues/34
-! https://github.com/uBlockOrigin/uAssets/issues/16782
-! tweakers.net##+js(aeld, , adblock)
-! tweakers.net##+js(aeld, , handleAdblockDetect)
-@@||aa.tweakers.nl/json$domain=tweakers.net
 ! 2023-01-06
 @@/wp-content/*/scripts/adb.min.js$script,1p,domain=androidplanet.nl|iphoned.nl
 ! 2022-11-14
