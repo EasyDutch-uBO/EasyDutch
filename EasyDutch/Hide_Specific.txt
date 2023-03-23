@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-03-23
+allecijfers.nl##div.card:has(.adsbygoogle)
 ! 2023-03-22
 racingnews365.nl##.meta-format:has-text(Advert):upward(.card)
 ! 2023-03-20
