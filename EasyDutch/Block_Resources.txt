@@ -17,8 +17,6 @@
 ||wieringernieuws.nl/gfx/ads/$domain=hollandskroonnieuws.nl|wieringernieuws.nl
 ||viralize.tv/display/$domain=startpagina.nl
 /^https?:\/\/(?:www\.)?webcams?\-?[a-z]+\.nl\/media\/banners2?\//$1p,image
-! 2023-01-12
-*$image,redirect-rule=2x2.png,domain=tweakers.net
 ! 2022-12-09
 ||dewestkrant.nl/wp-content/uploads/*/*Banner
 ||amsterdamsdagblad.nl/banner/
