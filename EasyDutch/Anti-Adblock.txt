@@ -13,12 +13,13 @@
 ! https://github.com/uBlockOrigin/uAssets/issues/15963
 @@||tweakers.net^$ghide
 @@||tweakers.nl^$xhr,domain=tweakers.net
+*$image,redirect-rule=2x2.png,domain=tweakers.net
 ! tweakers.net##+js(aeld, , /^e=>.*\(e\)$/)
 ! tweakers.net##+js(aeld, , handleAdblockDetect)
 ! ||tweakers.net/x/build/components.*.js$script,1p
 tweakers.net##.headline:has([title^=".Adv"])
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
-tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 0px !important;)
+tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1px !important;)
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
 tweakers.net###true
 ! 2023-03-01 https://github.com/uBlockOrigin/uAssets/issues/16839
