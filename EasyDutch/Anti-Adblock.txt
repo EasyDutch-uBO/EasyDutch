@@ -14,7 +14,7 @@
 ! https://github.com/uBlockOrigin/uAssets/issues/15963
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 ! @@||tweakers.nl^$xhr,domain=tweakers.net
-tweakers.net##+js(no-fetch-if, ad.tweakers.nl)
+tweakers.net##+js(no-fetch-if, ab.tweakers.nl)
 tweakers.net##+js(set, BannerManager, emptyObj)
 tweakers.net##+js(set, BannerManager.init, noopFunc)
 tweakers.net##+js(set, BannerManager.addTag, noopFunc)
