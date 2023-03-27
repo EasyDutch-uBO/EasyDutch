@@ -58,16 +58,6 @@ hardware.info##[data-testid^="banner"]
 hardware.info##^script:has-text(Inject=!)
 hardware.info##+js(nostif, .call(null), 10)
 hardware.info##article.overview-item:has-text(Sponsored)
-! https://github.com/uBlockOrigin/uAssets/issues/13494 
-! https://github.com/EasyDutch-uBO/EasyDutch/issues/22
-! https://github.com/uBlockOrigin/uAssets/issues/15963
-tweakers.net##.headline:has([title^=".Adv"])
-tweakers.net##.relatedItProContent > *:has(a[href*="doubleclick.net/"])
-tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
-tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
-tweakers.net###true
-tweakers.net##.reserveSpace
-tweakers.net##.widebnr
 ! 2023-01-10
 kutjeporno.com##div.thumb:has([href^="/hot/out.php"])
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
