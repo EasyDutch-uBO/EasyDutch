@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Tue, 21 Mar 2023 13:19:29 +0000
+! Last updated: Mon, 27 Mar 2023 09:38:05 +0000
 !
 ! 2023-03-21
 ! https://github.com/uBlockOrigin/uAssets/issues/17233
@@ -18,8 +18,6 @@
 @@||coolblue.nl^*/ard.png$script,1p
 @@||2mdn.net/instream/html5/ima3.js$script,domain=geenstijl.nl
 @@||laredoute.com^$image,domain=laredoute.nl|laredoute.lu
-! 2023-01-12
-@@||tweakers.net^$ghide
 ! 2023-01-12 https://github.com/uBlockOrigin/uAssets/commit/943cc256a43b4aa5c20f2898860279629abd72b2
 @@||cdn.vuplay.co.uk/stats/*/AppMeasurement.js$script,domain=vrt.be
 @@||cdn.vuplay.co.uk/stats/*/VisitorAPI.js$script,domain=vrt.be
