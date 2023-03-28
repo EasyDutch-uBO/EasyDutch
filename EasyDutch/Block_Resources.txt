@@ -3,6 +3,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-03-28
+||pokeren.nl/assets/*banner
 ! 2023-03-16
 ||dailypic.nl/banners/$domain=voetensex.com
 ! 2023-02-18
