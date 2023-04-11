@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 04 Apr 2023 06:49:46 +0000
+! Last updated: Tue, 11 Apr 2023 06:31:25 +0000
 !
+! 2023-04-11
+escort46.nl###top_image_div
 ! 2023-04-04
 zozwanger.nl##.a-single
 zozwanger.nl##.g-single
