@@ -3,6 +3,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-04-14
+serietotaal.nl##[class^="banner"]
+serietotaal.nl###adf-autonative
 ! 2023-04-11
 escort46.nl###top_image_div
 ! 2023-04-04
