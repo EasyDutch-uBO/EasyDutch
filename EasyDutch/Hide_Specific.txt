@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 14 Apr 2023 08:28:35 +0000
+! Last updated: Tue, 18 Apr 2023 14:01:16 +0000
 !
+! 2023-04-18
+voorburgsdagblad.nl##.ddbad_wrapper
 ! 2023-04-14
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
