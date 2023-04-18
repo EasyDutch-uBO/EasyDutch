@@ -5,6 +5,7 @@
 !
 ! 2023-04-18
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad010.nl,dagblad070.nl,goudsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,voorburgsdagblad.nl,zoetermeersdagblad.nl##.ddbad_wrapper
+freeones.nl##.banner-placeholder
 ! 2023-04-14
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
