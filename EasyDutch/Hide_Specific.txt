@@ -4,7 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-18
-voorburgsdagblad.nl##.ddbad_wrapper
+albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad010.nl,dagblad070.nl,goudsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,voorburgsdagblad.nl,zoetermeersdagblad.nl##.ddbad_wrapper
 ! 2023-04-14
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
