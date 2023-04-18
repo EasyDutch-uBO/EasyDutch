@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-04-18
+voorburgsdagblad.nl##.ddbad_wrapper
 ! 2023-04-14
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
