@@ -3,6 +3,17 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-04-22
+marktplaats.nl,2dehands.be###adsense-container
+marktplaats.nl,2dehands.be###banner-top-dt
+marktplaats.nl,2dehands.be##.BannerBottom-root
+marktplaats.nl,2dehands.be##.BannerRight-root
+marktplaats.nl,2dehands.be##.Banners-bannerFeedItem
+marktplaats.nl,2dehands.be##.hz-Banner
+marktplaats.nl,2dehands.be##.hz-Page-content:style(max-width: 1300px!important;)
+marktplaats.nl,2dehands.be##.right-banner-root-container
+marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
+marktplaats.nl,2dehands.be##div[class*="admarktTitle"]:upward(1)
 ! 2023-04-20
 dutchitleaders.nl##a[target]:not(a[href*="dutchitleaders.nl"]):not(a[href*="linkedin.com"]):has(img[src*=".assets-servd.host/"])
 ! 2023-04-18
@@ -132,8 +143,6 @@ telegraaf.nl##.ComponentRotation
 rtlnieuws.nl##.article-sidebar__ad
 ! 2022-11-29
 dissident.one##[id^="custom_html-"]:has-text(/advert/i)
-! 2022-11-28
-marktplaats.nl,2dehands.be##.mp-Page-element > div:has(div[class*="admarktTitle"]):has-text(Advert)
 ! 2022-11-17
 telegraaf.nl##.Banner
 ! 2022-11-14
@@ -587,7 +596,6 @@ binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlands
 duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
 duurzaamnieuws.nl##aside section[class$="widget_text"]:has-text(wordt mede mogelijk gemaakt door)
 duurzaamnieuws.nl##section[class^="avia_codeblock"]:has-text(wordt mede mogelijk gemaakt door)
-2dehands.be,marktplaats.nl##.right-banner-root-container
 podcastluisteren.nl##.bnr
 spreekbuis.nl##.widget_media_image:not(:has(img[src*="vierkant-spreekbuis"]))
 spreekbuis.nl##.widget_spreekbuis_partners
@@ -704,7 +712,6 @@ kranenwebsite.nl###bannerdiv
 autowereld.nl###banner-lister-top
 brandweerspotters.nl,coc.nl,fanclubbarcelona.nl###banners
 almere-nieuws.nl###banner-text2
-marktplaats.nl,2dehands.be###banner-top-dt
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
 willem-ii.nl###block-views-block-view-business-partners
 willem-ii.nl###block-views-block-view-main-sponsor
@@ -772,7 +779,6 @@ sexpunt.nl###top:has(.banner)
 online-radio.nl###top_ad-360
 doorbraak.be###top-advertisement-area
 sexpower.nl###top-banner
-marktplaats.nl,2dehands.be###top-banner-wrapper
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gaming-nieuws.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,hotstreams.nl,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
 starnieuws.com###topstory > div:has-text(Advertentie)
 hotradiohits.nl###tpl_banners
@@ -837,7 +843,6 @@ afkortingen.nu,allradio.nl,elkspel.nl,erotracks.nl,filmladder.nl,klasse.be,nieuw
 dutchitchannel.nl##.banner:has([href*="/bannerclick.html&banner"])
 vlietnieuws.nl##.banner_wrapper
 402online.com##.bannerblock
-marktplaats.nl,2dehands.be##.BannerBottom-root
 speeleiland.nl##.banner-btf-side-rectangle
 feyenoord.nl##.banner-carousel
 funnygames.be,funnygames.nl,rtvdordrecht.nl##.bannerContainer
@@ -850,15 +855,11 @@ ewmagazine.nl##.banner-leaderboard
 seks.com##.bannermid
 radiozenders.fm##.banner-rectangle:not(:nth-of-type(3))
 weertdegekste.nl##.banner-right
-marktplaats.nl,2dehands.be##.BannerRight-root
-marktplaats.nl,2dehands.be##.banner-row
 gic.nl,kbradio.nl##.banners
-marktplaats.nl,2dehands.be##.Banners-bannerFeedItem
 nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
 knhs.nl##.banners-right
 radiomonique.am##.bannerswidget
-marktplaats.nl,2dehands.be##.banner-vipbottom
 sexjobs.nl##.banner-wrapper
 dutchitchannel.nl##.bannner
 feyenoordpings.nl##.betcity-intro-wrapper
@@ -1012,7 +1013,6 @@ roulettefm.nl,rtvstichtsevecht.nl##.list-sponsors
 sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
 greenkeeper.nl##.logoblok
-marktplaats.nl,2dehands.be##.l-page:style(max-width: 1300px!important;)
 dvhn.nl,lc.nl##.main__ad
 deblueskrant.nl##.main-banner
 telegraaf.nl##.MainCuratedTeasersLayout__banner
@@ -1031,8 +1031,6 @@ nudeviste.be,nudevista.nl##.mob_adv
 video18.nl##.modal
 radioeenhoorn.nl##.module_round_box
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
-marktplaats.nl,2dehands.be##.mp-adsense-header
-marktplaats.nl,2dehands.be##.mp-Banner
 financialinvestigator.nl##.mpu
 wintersport.nl##.mq-banner:not(:has-text(Reisverzekering))
 nl.motorsport.com##.ms-hapb
@@ -1065,7 +1063,6 @@ janvissersweer.nl##.post:has-text(Sponsor)
 fhm500.nl##.powered_by_page
 fhm500.nl##.powered_by_profile
 nederlandsextube.nl##.prefilm
-marktplaats.nl,2dehands.be##.premium-content
 letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 koopplein.nl##.promobloc-desktop
@@ -1169,7 +1166,6 @@ telegraaf.nl##.VideoPage__banner
 mo.be##.view-id-banners_top
 nnieuws.be##.view-vw-banners.view
 rubenweytjens.be##.view-weather-ads-view
-marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
 barneveldsekrant.nl,edestad.nl##.w-300x.RM5
 osuradio.nl##.wdslider
 telegraaf.nl##.WebpushOptin__main
@@ -1401,4 +1397,3 @@ radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
 oops.nl##table[cellspacing="30"]
 surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
-marktplaats.nl,2dehands.be##ul.mp-Listings > li.mp-Listing:has(:scope > .mp-Listing-coverLink > .mp-Listing-group > .mp-Listing-group--price-date-feature > span.mp-Listing-priority > span:has-text(/^Topadvertentie$/))
