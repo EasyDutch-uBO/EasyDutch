@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Mon, 24 Apr 2023 18:01:07 +0000
+! Last updated: Mon, 24 Apr 2023 18:05:47 +0000
 !
 ! 2023-04-24
 @@||cdn.spotxcdn.com/integration/easi/$script,domain=radioluisteren.fm
@@ -34,8 +34,6 @@
 @@||pt.pctlwm.com/embed/tbplyr/*$script,domain=sproeiendekutjes.nl
 ! 2022-06-22
 @@||images.2dehands.com/api/v1/listing-twh-p/images/ad/$image,domain=2dehands.be
-! 2022-04-06 Cannot reproduce (https://github.com/easylist/easylistdutch/commit/ee8ab6f8b2a96bd87e6c2e70326c3e8ebae77b7e)
-!@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
 ! 2022-03-18
 @@||files.skoften.net/website/lib/vjs/plugins/ads/videojs.ads.min.js$script,~third-party
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=skoften.net
