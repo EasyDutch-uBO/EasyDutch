@@ -1,9 +1,10 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Mon, 24 Apr 2023 13:07:59 +0000
+! Last updated: Mon, 24 Apr 2023 13:22:10 +0000
 !
 ! 2023-04-24
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*week$image
 /images/banners/*$image,domain=bodemvondstenwereld.nl|drentsnieuws.nl|lokaleomroepzeewolde.nl|neukengratis.be|niedziela.nl|puurnaturisme.nl|sexdate-xxx.be
 /images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
