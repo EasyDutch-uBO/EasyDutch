@@ -3,8 +3,11 @@
 ! Description: Whitelist for specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2023-03-21
-! https://github.com/uBlockOrigin/uAssets/issues/17233
+! 2023-04-24
+@@||cdn.spotxcdn.com/integration/easi/$script,domain=radioluisteren.fm
+@@||js.spotx.tv/ados/$script,domain=radioluisteren.fm 
+@@||search.spotxchange.com/$image,script,xhr,domain=radioluisteren.fm
+! 2023-03-21 https://github.com/uBlockOrigin/uAssets/issues/17233
 @@||cdn.bluebillywig.com/scripts/prebid/$script,domain=geenstijl.nl
 ! 2023-02-22
 ! https://github.com/uBlockOrigin/uAssets/issues/16881
@@ -79,12 +82,6 @@
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
 ! 2021-05-05
 @@||dekrantvantoen.nl/resources/*/images/*_336x120.$image
-! 2021-05-04
-@@||aka.spotxcdn.com/integration/ados/$script,domain=radioluisteren.fm
-@@||cdn.spotxcdn.com/integration/easi/$script,domain=radioluisteren.fm
-@@||js.spotx.tv/ados/$script,domain=radioluisteren.fm 
-@@||search.spotxchange.com/js/spotx$script,domain=radioluisteren.fm
-@@||sync.search.spotxchange.com/partner?source=easi$image,domain=radioluisteren.fm
 ! https://github.com/uBlockOrigin/uAssets/issues/8974
 @@||securepubads.g.doubleclick.net/gpt/pubads_$script,domain=allestoringen.*
 ! 2021-04-27
