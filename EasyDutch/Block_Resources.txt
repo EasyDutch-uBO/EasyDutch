@@ -567,13 +567,7 @@
 ||vitesse.nl^*_sponsors_footer.png
 ||vives.nl/wp-content/uploads/Banner_*
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,1p
-||voetbalkrant.com/images/pub/
-||voetbalnederland.nl/img/bravo.gif
-||voetbalnieuws.be/*/images/website-takeover/*$image,1p
 ||voetbaluitslagen.com/wp-content/uploads/*/bet*$image
-||volleybal.nl/uploads/images/Banners/$image
-||volleybal.nl/uploads/images/Logos/$image
-||vrouwpedia.nl/wp-content/uploads/*/Maxaro-badkamers-tegels.png
 ||waarzo.nl/imagestore/banners/
 ||wanttoknow.nl^*Banner
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-*.jpg$image
