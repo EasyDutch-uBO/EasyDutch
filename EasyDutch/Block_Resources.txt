@@ -4,12 +4,20 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-24
-||tussenonstwee.nl/wp-content/uploads/*/tu_banner*$image
-||lustmagazine.nl/mediafiles/*.gif$domain=wraaksex.nl
-||poldersexverhalen.nl/wp-content/uploads/*.gif$image
-||sexmetvrouwen.nl/wp-content/uploads/*.gif$image
-||tiener-sexverhalen.nl/wp-content/*.gif$image
+/images/banners/*$image,domain=bodemvondstenwereld.nl|drentsnieuws.nl|lokaleomroepzeewolde.nl|neukengratis.be|niedziela.nl|puurnaturisme.nl|sexdate-xxx.be
+/images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com
+/img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
+/js/popup.js$script,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|shemaledaten.net|zoekertjesbelgie.be
+/voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
+/voicebericht/assets/images/videochat277x$image,domain=geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl
 /wp-content/*banner$image,domain=retaildetail.be|retaildetail.nl
+/wp-content/uploads/*.gif$image,domain=alblasserdamsnieuws.nl|bekijkporno.nl|ciaotutti.nl|edelmetaal-info.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|nieuws.xxx|noordkopcentraal.nl|onschuldigemeiden.nl|poldersexverhalen.nl|pornokartel.nl|regionoordkop.nl|rtvlansingerland.nl|seksmet.nl|sexmeid.nl|sexmetvrouwen.nl|shespot.nl|sproeiendekutjes.nl|tubelight.nl|unitednews.sr|wraaksex.nl
+/wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|biflatie.nl|cryptobenelux.com|curacao.nu|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|maaslandradio.nl|mannennieuws.nl|omroepalmere.nl|oogtv.nl|radiocontinu.nl|railhobby.nl|regionoordkop.nl|sleutelstad.nl|unitednews.sr
+/wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
+/wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
+||lustmagazine.nl/mediafiles/*.gif$domain=wraaksex.nl
+||tiener-sexverhalen.nl/wp-content/*.gif$image
+||tussenonstwee.nl/wp-content/uploads/*/tu_banner*$image
 ! 2023-04-24 https://github.com/uBlockOrigin/uAssets/issues/17747
 /banner/*$image,1p,domain=alkmaarsdagblad.nl|almelosdagblad.nl|almeredagblad.nl|amstelveensdagblad.nl|amsterdamsdagblad.nl|arnhemmerdagblad.nl|assensdagblad.nl|bergensdagblad.nl|beverwijkerdagblad.nl|bloemendaalsdagblad.nl|bosschedagblad.nl|bredasdagblad.nl|castricumsdagblad.nl|dagbladdijkenwaard.nl|dagbladeindhoven.nl|dagbladgroningen.nl|dagbladutrecht.nl|denheldersdagblad.nl|deventersdagblad.nl|doetinchemsdagblad.nl|dokkumerdagblad.nl|dordrechtsdagblad.nl|drechterlandsdagblad.nl|drontensdagblad.nl|emmensdagblad.nl|enkhuizerdagblad.nl|enschedesdagblad.nl|gooischdagblad.nl|haagsdagblad.nl|haarlemmerdagblad.nl|haarlemmermeerdagblad.nl|harlingerdagblad.nl|heemskerkerdagblad.nl|heerenveensdagblad.nl|heerhugowaardsdagblad.nl|heerlensdagblad.nl|heilooerdagblad.nl|helmondsdagblad.nl|hilversumsdagblad.nl|hollandskroondagblad.nl|hoornsdagblad.nl|ijmuidensdagblad.nl|jouresdagblad.nl|katwijksdagblad.nl|kennemerdagblad.nl|koggenlandsdagblad.nl|langedijkerdagblad.nl|leeuwarderdagblad.nl|lelystadsdagblad.nl|lemsterdagblad.nl|maastrichterdagblad.nl|medembliksdagblad.nl|middelburgsdagblad.nl|nieuwsuitwestfriesland.nl|nijmeegsedagblad.nl|noordlimburgsdagblad.nl|noordoostpoldersdagblad.nl|noordwijkerdagblad.nl|nunspeetsdagblad.nl|opmeerderdagblad.nl|purmerendsdagblad.nl|rodensdagblad.nl|roermondsdagblad.nl|rotterdammerdagblad.nl|sassenheimsdagblad.nl|schagerdagblad.nl|schermerdagblad.nl|sittardsdagblad.nl|sneekerdagblad.nl|stedebroecsdagblad.nl|texelsdagblad.nl|tielsdagblad.nl|tilburgsdagblad.nl|uitgeesterdagblad.nl|volendamsdagblad.nl|wassenaarsdagblad.nl|waterlandsdagblad.nl|westlandsdagblad.nl|wieringerdagblad.nl|wormersdagblad.nl|zaandamsdagblad.nl|zandvoortsdagblad.nl|zeewoldesdagblad.nl|zwolledagblad.nl
 ! 2023-03-28
@@ -233,16 +241,6 @@
 ! 2022-01-13
 .nl/adurl/$xhr,domain=start-player.npo.nl
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
-/images/banners/*$image,domain=adodenhaag.nl|deperfecte-sexdate.be|bodemvondstenwereld.nl|dolcevia.com|drentsnieuws.nl|halstadcentraal.nl|lokaleomroepzeewolde.nl|neukengratis.be|neuk-sexcontact.be|niedziela.nl|puurnaturisme.nl|sexdate-xxx.be
-/images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com|sexadvertentiesonline.nl|sexfotodating.nl|zinineensexdate.com
-/img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
-/js/popup.js$script,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|shemaledaten.net|zoekertjesbelgie.be
-/voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
-/voicebericht/assets/images/videochat277x$image,domain=geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl
-/wp-content/uploads/*.gif$image,domain=alblasserdamsnieuws.nl|bekijkporno.nl|ciaotutti.nl|edelmetaal-info.nl|geilverlangen.nl|hete-foto.nl|lekkerewebcams.nl|nieuws.xxx|noordkopcentraal.nl|onschuldigemeiden.nl|pornokartel.nl|regionoordkop.nl|rtvlansingerland.nl|seksmet.nl|sexmeid.nl|shespot.nl|sproeiendekutjes.nl|tubelight.nl|unitednews.sr|wraaksex.nl
-/wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|biflatie.nl|bol-an.nl|cryptobenelux.com|curacao.nu|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|loemedia.nl|luister.nl|maaslandradio.nl|mannennieuws.nl|omroepalmere.nl|oogtv.nl|radiocontinu.nl|railhobby.nl|regionoordkop.nl|simone.nl|sleutelstad.nl|spreekbuis.nl|streamwijzer.be|tradeidee.nl|unitednews.sr
-/wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
-/wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
 ||123video.nl^*/300x100_
 ||18plussexdating.nl/images/twero.$image
 ||2link.be/banners/
