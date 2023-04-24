@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-24
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*week$image
 /images/banners/*$image,domain=bodemvondstenwereld.nl|drentsnieuws.nl|lokaleomroepzeewolde.nl|neukengratis.be|niedziela.nl|puurnaturisme.nl|sexdate-xxx.be
 /images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
