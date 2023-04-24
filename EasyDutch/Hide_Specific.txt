@@ -4,11 +4,12 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-24
+alblasserdamsnieuws.nl##[class^="albla-top-slider"]
 bekijkporno.nl##.sponsor
 dknieuws.nl##[id^="dknie-grid-"]:has(.adv-link)
 dknieuws.nl##.dknie-widget:has(.adv-link)
 edelmetaal-info.nl##.dfad
-alblasserdamsnieuws.nl##[class^="albla-top-slider"]
+gratissexverhalen.nu##[id^="block-"]:has([href^="https://www.dql2clk.com/"])
 ! 2023-04-24
 retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
 ! 2023-04-24 https://github.com/uBlockOrigin/uAssets/issues/17747
