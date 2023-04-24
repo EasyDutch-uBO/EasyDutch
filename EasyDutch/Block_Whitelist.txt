@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Mon, 24 Apr 2023 18:09:56 +0000
+! Last updated: Mon, 24 Apr 2023 18:23:58 +0000
 !
 ! 2023-04-24
 @@||cdn.spotxcdn.com/integration/easi/$script,domain=radioluisteren.fm
@@ -37,8 +37,6 @@
 @@||sliedrecht24.nl/wp-content/uploads/*/Banner-300x250*.jpg$image,1p
 ! 2022-03-12
 @@/images/volgende.gif$image,1p,domain=privesexgids.nl|sexdatingholland.com|sexpret.com|studentesexcontact.nl|tienersexpret.nl|zinomteneuken.nl
-! 2022-03-11
-@@||weerstation-markelo.nl/weer/banners/weerbanner$domain=maarkelsnieuws.nl
 ! https://github.com/AdguardTeam/AdguardFilters/issues/108243
 @@||cdn.ebayclassifieds.net/bff/static/*/MyAds.$domain=2dehands.be|marktplaats.nl
 ! 2022-01-05
