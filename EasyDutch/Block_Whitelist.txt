@@ -80,8 +80,6 @@
 @@||media.plista.com^*$image,domain=totaaltv.nl
 ! 2021-05-07
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
-! 2021-05-05
-@@||dekrantvantoen.nl/resources/*/images/*_336x120.$image
 ! https://github.com/uBlockOrigin/uAssets/issues/8974
 @@||securepubads.g.doubleclick.net/gpt/pubads_$script,domain=allestoringen.*
 ! 2021-04-27
