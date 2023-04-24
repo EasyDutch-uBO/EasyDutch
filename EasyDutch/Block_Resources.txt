@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Mon, 24 Apr 2023 13:29:57 +0000
+! Last updated: Mon, 24 Apr 2023 13:41:13 +0000
 !
 ! 2023-04-24
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*week$image
@@ -575,20 +575,14 @@
 ||vrouwpedia.nl/wp-content/uploads/*/Maxaro-badkamers-tegels.png
 ||waarzo.nl/imagestore/banners/
 ||wanttoknow.nl^*Banner
-||webcamchicks.net/banner$image
-||webcamsexplaza.com/bannerwsp.$image
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-*.jpg$image
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
-||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
 ||wp.com/www.thekinkyweb.nl/wp-content/uploads/*/*Banner$image
 ||xingo.nl/bannermanagement/
-||xmissy.nl/admnfiles1809/*/freechatbanner_$image,3p
 ||xmissy.nl/skins/_customplayers/*/footer.jpg$image,1p
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
-||xxxlivesex.nl/banner$image
 ||zilverengoudkopen.nl/banners/
 ||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-$image
-||zwartewaterfm.nl/images/SponsorenZwarteWaterFM.$image
