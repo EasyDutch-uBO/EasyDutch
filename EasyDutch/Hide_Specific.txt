@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 24 Apr 2023 06:40:43 +0000
+! Last updated: Mon, 24 Apr 2023 08:28:03 +0000
 !
 ! 2023-04-24
 retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
@@ -379,8 +379,6 @@ biernet.nl###banTop
 belegger.nl##.Textads:upward(.ContentRightBlock)
 participaties.nl##[id^="div-gpt-ad"]:upward(.taggrid__item)
 belgie-sexcontact.be##.well:has([src^="https://www.affilaxy.com/"])
-dsdating.nl##.bc_random_banner
-dsdating.nl##[href^="https://mt67.net/"]:upward(.elementor-section)
 beleggersbelangen.nl##.promo
 belegger.nl##.plusbtn
 beursgorilla.nl##.plus500
