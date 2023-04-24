@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Mon, 24 Apr 2023 08:29:02 +0000
+! Last updated: Mon, 24 Apr 2023 10:05:25 +0000
 !
 ! 2023-04-24
 /wp-content/*banner$image,domain=retaildetail.be|retaildetail.nl
@@ -123,7 +123,6 @@
 ||usercontent.one/wp/*/wp-content/uploads/*/*banner$image,domain=bdsmleven.nl
 ||bdsmleven.nl/wp-content/uploads/*/*banner$image
 ||madmoney.eu/promotools/banners/
-||*.wp.com/www.appletips.nl/wp-content/uploads/Handyman-inCharge6.gif
 ||aafm.nl/cms/wp-content/*/banners/$image
 ||aavisie.nl/cms/wp-content/*/banners/$image
 ! 2022-06-22
@@ -146,7 +145,6 @@
 ||proshop.nl/Images/*Top-Banner$image
 ||zoekhulp.nl/img/bnr-
 ! 2022-04-26
-||wp.com/www.appletips.nl/wp-content/uploads/112-tmobviaplay.png$image,domain=appletips.nl
 ||radioeenhoorn.nl/images/banners$image
 ||kechtube.com^$popunder
 ||nieuwsuitnijmegen.nl/uploads/banners/
@@ -375,9 +373,6 @@
 ||htforum.nl/yabbse/banners/
 ||htforum.nl/yabbse/topframe_v3.php
 ||huisvrouwenvoorsex.nl/banner*.gif$image
-||i0.wp.com/www.appletips.nl/wp-content/uploads/incharge$image,domain=appletips.nl
-||i0.wp.com/www.appletips.nl/wp-content/uploads/luvago$image,domain=appletips.nl
-||i2.wp.com/www.appletips.nl/wp-content/uploads/nordvpn$image,domain=appletips.nl
 ||ikwilneuken.*/assets/img/*.gif$image
 ||images.islive.nl/snapshot/*/200x150$image,domain=nederlandsextube.nl
 ||images.islive.nl/snapshot/*/99x84.jpg$image,domain=sexverhalen.com
