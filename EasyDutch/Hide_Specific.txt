@@ -1,8 +1,11 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 22 Apr 2023 05:55:30 +0000
+! Last updated: Mon, 24 Apr 2023 04:40:14 +0000
 !
+! 2023-04-24 https://github.com/uBlockOrigin/uAssets/issues/17747
+alkmaarsdagblad.nl##.banner
+alkmaarsdagblad.nl##.partnerrow
 ! 2023-04-22
 marktplaats.nl,2dehands.be###adsense-container
 marktplaats.nl,2dehands.be###banner-top-dt
