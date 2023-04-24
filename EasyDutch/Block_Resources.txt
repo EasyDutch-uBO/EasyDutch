@@ -1,12 +1,13 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Mon, 24 Apr 2023 11:40:00 +0000
+! Last updated: Mon, 24 Apr 2023 11:42:19 +0000
 !
 ! 2023-04-24
 ||tussenonstwee.nl/wp-content/uploads/*/tu_banner*$image
 ||lustmagazine.nl/mediafiles/*.gif$domain=wraaksex.nl
 ||poldersexverhalen.nl/wp-content/uploads/*.gif$image
+||sexmetvrouwen.nl/wp-content/uploads/*.gif$image
 ||tiener-sexverhalen.nl/wp-content/*.gif$image
 /wp-content/*banner$image,domain=retaildetail.be|retaildetail.nl
 ! 2023-04-24 https://github.com/uBlockOrigin/uAssets/issues/17747
