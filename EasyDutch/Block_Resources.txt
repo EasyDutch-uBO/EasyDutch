@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Mon, 24 Apr 2023 10:22:03 +0000
+! Last updated: Mon, 24 Apr 2023 10:28:05 +0000
 !
 ! 2023-04-24
 /wp-content/*banner$image,domain=retaildetail.be|retaildetail.nl
@@ -250,8 +250,6 @@
 ||abcsuriname.com/templates/abc/assets/gfx/header_banner$image,1p
 ||adodenhaag.nl/fpbanner
 ||agconnect.nl/sites/ag/files/styles/partner_*$image,1p
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/CJG-Alblasserdam.jpg$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Rozendaal.jpg$image
 ||amazonaws.com/zkn/files/*.gif$image,domain=zorgkaartnederland.nl
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amz01.plzcdn.com/a/
