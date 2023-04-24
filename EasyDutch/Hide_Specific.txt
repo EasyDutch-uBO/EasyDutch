@@ -7,6 +7,7 @@
 bekijkporno.nl##.sponsor
 dknieuws.nl##[id^="dknie-grid-"]:has(.adv-link)
 dknieuws.nl##.dknie-widget:has(.adv-link)
+edelmetaal-info.nl##.dfad
 alblasserdamsnieuws.nl##[class^="albla-top-slider"]
 ! 2023-04-24
 retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
