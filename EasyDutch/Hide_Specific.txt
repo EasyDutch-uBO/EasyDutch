@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-24
+bekijkporno.nl##.sponsor
 alblasserdamsnieuws.nl##[class^="albla-top-slider"]
 ! 2023-04-24
 retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
