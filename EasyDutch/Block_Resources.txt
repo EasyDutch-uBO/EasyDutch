@@ -4,7 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-24 https://github.com/uBlockOrigin/uAssets/issues/17747
-||alkmaarsdagblad.nl/banner/$image
+/^https:\/\/www\.(?:alkmaarsdagblad|almelosdagblad|almeredagblad|amstelveensdagblad|amsterdamsdagblad|arnhemmerdagblad|assensdagblad|bergensdagblad|beverwijkerdagblad|bloemendaalsdagblad|bosschedagblad|bredasdagblad|castricumsdagblad|dagbladdijkenwaard|dagbladeindhoven|dagbladgroningen|dagbladutrecht|denheldersdagblad|deventersdagblad|doetinchemsdagblad|dokkumerdagblad|dordrechtsdagblad|drechterlandsdagblad|drontensdagblad|emmensdagblad|enkhuizerdagblad|enschedesdagblad|gooischdagblad|haagsdagblad|haarlemmerdagblad|haarlemmermeerdagblad|harlingerdagblad|heemskerkerdagblad|heerenveensdagblad|heerhugowaardsdagblad|heerlensdagblad|heilooerdagblad|helmondsdagblad|hilversumsdagblad|hollandskroondagblad|hoornsdagblad|ijmuidensdagblad|jouresdagblad|katwijksdagblad|kennemerdagblad|koggenlandsdagblad|langedijkerdagblad|leeuwarderdagblad|lelystadsdagblad|lemsterdagblad|maastrichterdagblad|medembliksdagblad|middelburgsdagblad|nieuwsuitwestfriesland|nijmeegsedagblad|noordlimburgsdagblad|noordoostpoldersdagblad|noordwijkerdagblad|nunspeetsdagblad|opmeerderdagblad|purmerendsdagblad|rodensdagblad|roermondsdagblad|rotterdammerdagblad|sassenheimsdagblad|schagerdagblad|schermerdagblad|sittardsdagblad|sneekerdagblad|stedebroecsdagblad|texelsdagblad|tielsdagblad|tilburgsdagblad|uitgeesterdagblad|volendamsdagblad|wassenaarsdagblad|waterlandsdagblad|westlandsdagblad|wieringerdagblad|wormersdagblad|zaandamsdagblad|zandvoortsdagblad|zeewoldesdagblad|zwolledagblad)\.nl\/banner\//$image
 ! 2023-03-28
 ||pokeren.nl/assets/*banner
 ! 2023-03-16
@@ -23,7 +23,6 @@
 /^https?:\/\/(?:www\.)?webcams?\-?[a-z]+\.nl\/media\/banners2?\//$1p,image
 ! 2022-12-09
 ||dewestkrant.nl/wp-content/uploads/*/*Banner
-||amsterdamsdagblad.nl/banner/
 ||rotterdam-nesselande.nl/*/wp-content/webpc-passthru.php?src=*.gif
 ! 2022-12-08
 /wp-content/uploads/*/Banner$domain=accountancyvanmorgen.nl|salarisvanmorgen.nl
