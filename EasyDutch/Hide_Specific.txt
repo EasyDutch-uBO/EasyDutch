@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 24 Apr 2023 11:51:46 +0000
+! Last updated: Mon, 24 Apr 2023 11:52:35 +0000
 !
 ! 2023-04-24
 alblasserdamsnieuws.nl##[class^="albla-top-slider"]
@@ -10,6 +10,7 @@ dknieuws.nl##[id^="dknie-grid-"]:has(.adv-link)
 dknieuws.nl##.dknie-widget:has(.adv-link)
 edelmetaal-info.nl##.dfad
 gratissexverhalen.nu##[id^="block-"]:has([href^="https://www.dql2clk.com/"])
+nuneuken.nl##.module:has(img[src^="https://www.2k19.nl/b/"])
 ! 2023-04-24
 retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
 ! 2023-04-24 https://github.com/uBlockOrigin/uAssets/issues/17747
