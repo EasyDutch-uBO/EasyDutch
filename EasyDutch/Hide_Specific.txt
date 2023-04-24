@@ -379,8 +379,6 @@ biernet.nl###banTop
 belegger.nl##.Textads:upward(.ContentRightBlock)
 participaties.nl##[id^="div-gpt-ad"]:upward(.taggrid__item)
 belgie-sexcontact.be##.well:has([src^="https://www.affilaxy.com/"])
-dsdating.nl##.bc_random_banner
-dsdating.nl##[href^="https://mt67.net/"]:upward(.elementor-section)
 beleggersbelangen.nl##.promo
 belegger.nl##.plusbtn
 beursgorilla.nl##.plus500
