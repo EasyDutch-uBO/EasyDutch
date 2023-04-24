@@ -128,9 +128,6 @@ wijkkrantzuid.nl##.widget_media_image:not(:has(a[href^="https://wijkkrantzuid.nl
 rodi.nl##[id^="gtm-article-lb"]
 rodi.nl##[id^="gtm-article-mpu"]
 drimble.nl##.ASTAGQ_Billboard
-amsterdamsdagblad.nl##.banner
-amsterdamsdagblad.nl##.bannerrow
-amsterdamsdagblad.nl##.partnerrow
 dehavenloods.nl##[advobject]:upward(.bg-gray-100)
 dehavenloods.nl##.content-start > .items-center:has([advobject])
 ! 2022-12-08
