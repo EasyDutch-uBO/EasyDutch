@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-24
+||lustmagazine.nl/mediafiles/*.gif$domain=wraaksex.nl
 ||poldersexverhalen.nl/wp-content/uploads/*.gif$image
 ||tiener-sexverhalen.nl/wp-content/*.gif$image
 /wp-content/*banner$image,domain=retaildetail.be|retaildetail.nl
