@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Mon, 24 Apr 2023 17:57:26 +0000
+! Last updated: Mon, 24 Apr 2023 18:01:07 +0000
 !
 ! 2023-04-24
 @@||cdn.spotxcdn.com/integration/easi/$script,domain=radioluisteren.fm
@@ -75,9 +75,6 @@
 ! 2021-05-19
 @@||aweprt.com/embed/$script,domain=cumcams.nl
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=cumcams.nl
-! https://github.com/uBlockOrigin/uAssets/issues/9106
-@@||plista.com/async$script,domain=totaaltv.nl
-@@||media.plista.com^*$image,domain=totaaltv.nl
 ! 2021-05-07
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
 ! https://github.com/uBlockOrigin/uAssets/issues/8974
