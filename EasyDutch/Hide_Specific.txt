@@ -3,6 +3,10 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-04-25
+ecommercenews.nl##.ldrtop
+ecommercenews.nl##.sidebar > .widget-image-content-button:not(:has(a[href*="ecommercenews.nl"]))
+ecommercenews.nl##.widget-partners
 ! 2023-04-24
 alblasserdamsnieuws.nl##[class^="albla-top-slider"]
 bekijkporno.nl##.sponsor
