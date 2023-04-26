@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 14:56:16 +0000
+! Last updated: Wed, 26 Apr 2023 15:08:40 +0000
 !
 ! 2023-04-26
 ||glutenvrij.nl/l/library/download/urn*ncv*?scaleType=1$image
@@ -16,6 +16,7 @@
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/ondernemers-oisterwijk.png$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/steenwitgoed-270x324-*.jpg$image
+||persinfo.org/assets/front/images/website/multimmo*.mp4
 ||cdn-radio.dpgmedia.net/b/*_Banner_$image,domain=qmusic.be
 ||reformatorischeomroep.nl/*Banner*.gif
 ||reliwiki.nl/img/banner$image
@@ -451,13 +452,10 @@
 ||peoplesphere.be/img/logo/financemanagement.png$image
 ||persberichten.com/Images/Banners/
 ||persberichten.com/Images/marcommit/
-||persinfo.org/assets/images/pictures/ad/$image,1p
 ||poepsexfilmstube.nl/sexdating/sexdating.php$subdocument
 ||poldertube.nl/banners/*/small_banner
-||popinstituut.nl/wp-content/uploads/2014/02/Huren.nl
 ||pornoexpert.nl/img/950x250_*.gif$image
 ||powerconnect.be^*/poweractie.jpg$3p
-||privesexgids.nl/images/webcamsex
 ||prm03.wlresources.com/$script,3p
 ||profielactueel.nl/content/modules/catalog/4/*.gif$image
 ||promootjesite.nl/images/affliateBanner/
