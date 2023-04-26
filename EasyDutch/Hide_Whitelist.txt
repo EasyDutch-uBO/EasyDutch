@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Whitelist
 ! Description: Whitelist for hidden elements on Dutch websites
-! Last updated: Wed, 26 Apr 2023 07:42:23 +0000
+! Last updated: Wed, 26 Apr 2023 07:51:26 +0000
 !
 ! 2022-06-22 https://github.com/uBlockOrigin/uAssets/issues/13800
 !#if env_firefox
@@ -41,8 +41,6 @@ wereldklokken.nl#@#.adsbygoogle
 ajaxrss.nl#@#.top-ads-block
 bokt.nl#@#.ad-body
 bokt.nl#@#.node-ad 
-! 2021-11-17
-veeteelt.nl#@#.advertorial
 ! 2021-11-06
 ajaxreport.nl,blockchainvandaag.com,casinoreport.nl,cryptobelegging.com,feyenoordreport.nl,formula1report.com,gamblingreport.nl,livestreamvandaag.be,onlinecasinorss.nl,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,vergelijkbookmakers.nl,voetbalsnafu.nl,voetbalvisie.com,voetbalweddenrss.nl#@#.top-ads-block
 ! 2021-08-04
