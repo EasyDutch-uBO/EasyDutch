@@ -427,10 +427,6 @@
 ||newsexcontact.nl/images/milfjesneuken.$image
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||nieuwsopbeeld.nl/wp-content/uploads/*/Advertentie-
-||ninefornews.nl/wp-content/a-d-s/*
-||ninefornews.nl/wp-content/plugins/advanced-ads*/public/assets/js/*.js$script,1p
-||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
-||ninefornews.nl/wp-content/uploads/*/banner-set-*.png$image
 ||nltube.com/b?z=A*$subdocument
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,1p
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xhr
