@@ -3,6 +3,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-04-26
+bierdopje.com##.content-rechts-ad
 ! 2023-04-25
 ecommercenews.nl##.ldrtop
 ecommercenews.nl##.sidebar > .widget-image-content-button:not(:has(a[href*="ecommercenews.nl"]))
