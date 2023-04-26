@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 26 Apr 2023 16:14:05 +0000
+! Last updated: Wed, 26 Apr 2023 17:53:05 +0000
 !
 ! 2023-04-26
 frontline.digital##.featured-banner
@@ -1016,7 +1016,6 @@ vivocyclo.com##.herald-sticky > [id^="media_image-"]
 weerplaza.nl##.hf-widget
 farm-date.com##.hide-for-small-only:has-text(Sponsors)
 slam.nl##.holder-ads
-basketbal.vlaanderen##.holder--divider-top
 oogtv.nl##.home-banner
 racingnews365.nl##.homepage-casino-wrapper
 jan-magazine.nl##.homepage-marquee
