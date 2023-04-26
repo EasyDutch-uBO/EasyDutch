@@ -8,6 +8,7 @@ geile-sexverhalen.be##.card-header:has-text(Spons):upward(div.card)
 kinkymedia.nl##[href^="https://mt67.net/c/"]
 sexervaringendelen.nl##iframe[data-src^="https://ads."]
 nuus.be##.adv-link:upward(.sidebar)
+nuus.be###masthead:style(height:90px!important;)
 truck1.be,truck1.nl,truck1-nl.be##.banners
 truck1.be,truck1.nl,truck1-nl.be##.splitter-banner
 bierdopje.com##.content-rechts-ad
