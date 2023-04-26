@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-26
+||glutenvrij.nl/l/library/download/urn*ncv*?scaleType=1$image
 ||golf.be/files/BannerImage/$image,1p
 ||golf.be/images/*_950x90_CTA$image
 ||klasse.be/wp/wp-content/images/*_lb_*full.*$image
@@ -377,8 +378,6 @@
 ||gadgetsentrends.nl/imagestore/banners/
 ||geile-sexverhalen.be^$popup,1p
 ||gic.nl/uploads/fckconnector/$image,1p
-||glutenvrij.nl/l/library/*banner*.jpg?
-||glutenvrij.nl/tmp/media/afbeeldingen/*_w720_h720.jpg$image
 ||go2.go2cloud.org/aff_ad?$domain=sextube.nl
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukencoach-300x250.jpg
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keuken-ontwerp-aan-huis.jpg
