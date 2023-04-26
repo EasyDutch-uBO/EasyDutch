@@ -1,9 +1,14 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 10:06:28 +0000
+! Last updated: Wed, 26 Apr 2023 10:30:58 +0000
 !
 ! 2023-04-26
+||oisterwijknieuws.nl/wp-content/uploads/*/50-Plus-Makelaar-*.jpg$image
+||oisterwijknieuws.nl/wp-content/uploads/*/Boogaers-2018-125.png$image
+||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
+||oisterwijknieuws.nl/wp-content/uploads/*/ondernemers-oisterwijk.png$image
+||oisterwijknieuws.nl/wp-content/uploads/*/steenwitgoed-270x324-*.jpg$image
 ||sedproductions.nl/ads/$image,3p
 ||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
 ||storage.googleapis.com/stateless-www-nuus-be/*/*-banner*$image,domain=nuus.be
@@ -439,12 +444,6 @@
 ||nltube.com/b?z=A*$subdocument
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,1p
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xhr
-||oisterwijknieuws.nl/wp-content/uploads/*/*-banner-*.$image
-||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-*.jpg$image
-||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
-||oisterwijknieuws.nl/wp-content/uploads/*/parelexpres.jpg$image
-||oisterwijknieuws.nl/wp-content/uploads/*/Paul-Kuijpers-*.$image
-||oisterwijknieuws.nl/wp-content/uploads/*/savona-wasstraat-*.jpg$image
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300x*.gif$image
 ||onderwijsland.com/files/partners/
 ||oneworld.nl/app/uploads/*/*-Banner$image
