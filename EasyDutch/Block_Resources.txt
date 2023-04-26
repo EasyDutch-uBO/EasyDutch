@@ -405,7 +405,6 @@
 ||itnijs.frl/wp-content/uploads/*/bannerItNijs
 ||jobat.be/extra/trackuityhn/ticker_new.html$3p
 ||kavelplatform.nl/assets/uploads/banners/
-||kilroynews.net^*banner
 ||kinkydatingnederland.nl/banner$image
 ||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,1p
 ||kookboekennieuws.nl/wp-content/uploads/*/*-banners-*.$image
