@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 14:44:44 +0000
+! Last updated: Wed, 26 Apr 2023 14:56:16 +0000
 !
 ! 2023-04-26
 ||glutenvrij.nl/l/library/download/urn*ncv*?scaleType=1$image
@@ -16,6 +16,7 @@
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/ondernemers-oisterwijk.png$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/steenwitgoed-270x324-*.jpg$image
+||cdn-radio.dpgmedia.net/b/*_Banner_$image,domain=qmusic.be
 ||reformatorischeomroep.nl/*Banner*.gif
 ||reliwiki.nl/img/banner$image
 ||rickfm.nl/cwm/fm/userfiles/banner/foto/thumb$image
@@ -466,10 +467,8 @@
 ||psv.nl/upload/*SponsorVrouwenGOED-300x75.jpg$image
 ||qmusic.medialaancdn.be/b/*/*/*Banner*$image,domain=qmusic.nl
 ||racexpress.nl/advertising/$image
-||racingnews365.nl/images/banners/$image
 ||racingnews365.nl/images/logos/partners/*/$image,1p
 ||radioacacia.nl/sponsoren/
-||radioeenhoorn.nl/images/Maxaro-badkamers-tegels.png
 ||radiolelystad.nl/images/stories/Banners/
 ||radiovisie.eu/wp-content/banners/
 ||railhobby.nl/wp-content/uploads/*/*_banner-$image
