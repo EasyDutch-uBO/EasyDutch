@@ -1,9 +1,11 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 12:00:27 +0000
+! Last updated: Wed, 26 Apr 2023 12:09:22 +0000
 !
 ! 2023-04-26
+||knhs.nl/imagegen.ashx?image=/media/*/*banner*&width=550&constrain=true$image
+||knhs.nl/imagegen.ashx?image=/media/*/*banner*&width=360&constrain=true$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/50-Plus-Makelaar-*.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/Boogaers-2018-125.png$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
@@ -406,8 +408,6 @@
 ||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,1p
 ||klasse.be/wp/wp-content/images/*_lb_zondergrenzenvzw.full.$image
 ||klokradio.nl/wp-content/uploads/*/adv-
-||knhs.nl/imagegen.ashx?image=/media/1*&width=360&constrain=true$image
-||knhs.nl/imagegen.ashx?image=/media/1*/*banner-*&width=550&constrain=true$image
 ||kookboekennieuws.nl/wp-content/uploads/*/*-banners-*.$image
 ||kranenwebsite.nl/banners/$image
 ||landenweb.nl/imgBoeking/$image
