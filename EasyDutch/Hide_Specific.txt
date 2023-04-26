@@ -8,6 +8,7 @@ frontline.digital##.featured-banner
 frontline.digital##.elementor-section:has(.elementor-widget-flip-box img[src*="banner"])
 geile-sexverhalen.be##.card-header:has-text(Spons):upward(div.card)
 kinkymedia.nl##[href^="https://mt67.net/c/"]
+kookboekennieuws.nl##.cb-sidebar-widget:has-text(Kijk ook eens op:)
 sexervaringendelen.nl##iframe[data-src^="https://ads."]
 nuus.be##.adv-link:upward(.sidebar)
 nuus.be###masthead:style(height:90px!important;)
