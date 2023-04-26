@@ -375,7 +375,6 @@
 ||forum.spaarinformatie.nl/si-info.html
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||fx.nl/_ext/widget/$3p
-||gadgetsentrends.nl/imagestore/banners/
 ||gic.nl/uploads/fckconnector/$image,1p
 ||go2.go2cloud.org/aff_ad?$domain=sextube.nl
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukencoach-300x250.jpg
