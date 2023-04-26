@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-26
+||402automotive.com/files/*/files/images/banners/*.$image,domain=402online.com
 ||glutenvrij.nl/l/library/download/urn*ncv*?scaleType=1$image
 ||golf.be/files/BannerImage/$image,1p
 ||golf.be/images/*_950x90_CTA$image
@@ -273,10 +274,6 @@
 ||123video.nl^*/300x100_
 ||18plussexdating.nl/images/twero.$image
 ||2link.be/banners/
-||402automotive.com/files/*/files/images/*/*/enibanner.$image
-||402automotive.com/files/*/files/images/*online-banner-$image
-||402automotive.com/files/*/files/images/banners/*.$image
-||402automotive.com/files/images/website/banners/*.$image
 ||a1mediagroep.nl/content/*/company/*/banne*.*?width=290&height=150
 ||abcsuriname.com/images/banners/$image,1p
 ||abcsuriname.com/templates/abc/assets/gfx/header_banner$image,1p
