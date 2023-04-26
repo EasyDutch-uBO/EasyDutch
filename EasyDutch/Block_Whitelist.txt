@@ -1,11 +1,13 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 13:29:02 +0000
+! Last updated: Wed, 26 Apr 2023 13:36:20 +0000
 !
 ! 2023-04-26
 @@||pt.ctsdwm.com/tube-player/$subdocument,domain=sproeiendekutjes.nl
 @@||pt.pctlwm.com/embed/tbplyr/$script,domain=sproeiendekutjes.nl
+@@||pt.ctsdwm.com/api/video-promotion/v1/get-content-url/*$xhr,domain=pt.ctsdwm.com
+@@||galleryn0.awemdia.com/*.mp4$media,domain=pt.ctsdwm.com
 @@||truck1.be/_BANNERS_/client/redefiner/
 @@||truck1.nl/_BANNERS_/client/redefiner/
 @@||truck1-nl.be/_BANNERS_/client/redefiner/
