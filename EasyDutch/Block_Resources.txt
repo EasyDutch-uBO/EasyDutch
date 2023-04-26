@@ -428,8 +428,6 @@
 ||mo.be/sites/default/files/banners/$image
 ||mobqo.nl^*/banner
 ||motocrossplanet.nl/banner/
-||motocrossplanet.nl/banner/
-||motocrossplanet.nl/wwwuploads/banners/
 ||motocrossplanet.nl/wwwuploads/banners/
 ||naaktkrant.nl/media/*/*.gif$image,1p
 ||nederlandsextube.nl/images/amateurwebcams$image
