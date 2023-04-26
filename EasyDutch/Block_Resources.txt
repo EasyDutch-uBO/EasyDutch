@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 15:16:36 +0000
+! Last updated: Wed, 26 Apr 2023 15:24:42 +0000
 !
 ! 2023-04-26
 ||402automotive.com/files/*/files/images/banners/*.$image,domain=402online.com
@@ -9,6 +9,7 @@
 ||golf.be/files/BannerImage/$image,1p
 ||golf.be/images/*_950x90_CTA$image
 ||klasse.be/wp/wp-content/images/*_lb_*full.*$image
+||kookboekennieuws.nl/wp-content/uploads/*/*BANNER*$image
 ||wp.com/klokradio.nl/wp-content/uploads/*/adv-
 ||knhs.nl/imagegen.ashx?image=/media/*/*banner*&width=550&constrain=true$image
 ||knhs.nl/imagegen.ashx?image=/media/*/*banner*&width=360&constrain=true$image
@@ -407,7 +408,6 @@
 ||kavelplatform.nl/assets/uploads/banners/
 ||kinkydatingnederland.nl/banner$image
 ||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,1p
-||kookboekennieuws.nl/wp-content/uploads/*/*-banners-*.$image
 ||kranenwebsite.nl/banners/$image
 ||landenweb.nl/imgBoeking/$image
 ||linqmedia.nl/cwm/fm/userfiles/banner/$image
