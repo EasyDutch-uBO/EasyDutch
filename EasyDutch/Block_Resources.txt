@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-26
+||klasse.be/wp/wp-content/images/*_lb_*full.*$image
 ||wp.com/klokradio.nl/wp-content/uploads/*/adv-
 ||knhs.nl/imagegen.ashx?image=/media/*/*banner*&width=550&constrain=true$image
 ||knhs.nl/imagegen.ashx?image=/media/*/*banner*&width=360&constrain=true$image
@@ -407,7 +408,6 @@
 ||kilroynews.net^*banner
 ||kinkydatingnederland.nl/banner$image
 ||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,1p
-||klasse.be/wp/wp-content/images/*_lb_zondergrenzenvzw.full.$image
 ||kookboekennieuws.nl/wp-content/uploads/*/*-banners-*.$image
 ||kranenwebsite.nl/banners/$image
 ||landenweb.nl/imgBoeking/$image
