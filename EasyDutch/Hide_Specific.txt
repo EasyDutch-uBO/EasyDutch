@@ -5,6 +5,7 @@
 !
 ! 2023-04-26
 geile-sexverhalen.be##.card-header:has-text(Spons):upward(div.card)
+kinkymedia.nl##[href^="https://mt67.net/c/"]
 sexervaringendelen.nl##iframe[data-src^="https://ads."]
 nuus.be##.adv-link:upward(.sidebar)
 truck1.be,truck1.nl,truck1-nl.be##.banners
