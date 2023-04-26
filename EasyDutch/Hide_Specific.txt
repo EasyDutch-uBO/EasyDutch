@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 26 Apr 2023 15:45:54 +0000
+! Last updated: Wed, 26 Apr 2023 16:13:08 +0000
 !
 ! 2023-04-26
 frontline.digital##.featured-banner
@@ -13,6 +13,8 @@ qmusic.be##.inline-partners
 rtvmaastricht.nl##.prom
 rtveen.nl##.widget[id^="block-"]
 sexervaringendelen.nl##iframe[data-src^="https://ads."]
+tameteo.nl###bannerDerPC
+tameteo.nl##.megabanner
 nuus.be##.adv-link:upward(.sidebar)
 nuus.be###masthead:style(height:90px!important;)
 truck1.be,truck1.nl,truck1-nl.be##.banners
