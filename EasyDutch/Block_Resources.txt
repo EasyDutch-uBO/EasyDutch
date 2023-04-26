@@ -16,6 +16,7 @@
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/ondernemers-oisterwijk.png$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/steenwitgoed-270x324-*.jpg$image
+||persberichten.com/Actueel_Images*/*.gif$image
 ||persinfo.org/assets/front/images/website/multimmo*.mp4
 ||cdn-radio.dpgmedia.net/b/*_Banner_$image,domain=qmusic.be
 ||reformatorischeomroep.nl/*Banner*.gif
@@ -450,8 +451,6 @@
 ||paypro.nl/payproads/
 ||pdd-nos.nl/footer.html
 ||peoplesphere.be/img/logo/financemanagement.png$image
-||persberichten.com/Images/Banners/
-||persberichten.com/Images/marcommit/
 ||poepsexfilmstube.nl/sexdating/sexdating.php$subdocument
 ||poldertube.nl/banners/*/small_banner
 ||pornoexpert.nl/img/950x250_*.gif$image
