@@ -1,9 +1,11 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 12:36:17 +0000
+! Last updated: Wed, 26 Apr 2023 12:41:02 +0000
 !
 ! 2023-04-26
+||golf.be/files/BannerImage/$image,1p
+||golf.be/images/*_950x90_CTA$image
 ||klasse.be/wp/wp-content/images/*_lb_*full.*$image
 ||wp.com/klokradio.nl/wp-content/uploads/*/adv-
 ||knhs.nl/imagegen.ashx?image=/media/*/*banner*&width=550&constrain=true$image
@@ -381,7 +383,6 @@
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukencoach-300x250.jpg
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keuken-ontwerp-aan-huis.jpg
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
-||golf.be/files/BannerImage/$image,1p
 ||gowiththevlo.nl/wp-content/uploads/*/*_banner_gwtv.jpg$image
 ||greenkeeper.nl/upload/banners/
 ||greenkeeper.nl/upload/relaties/
