@@ -1016,7 +1016,6 @@ vivocyclo.com##.herald-sticky > [id^="media_image-"]
 weerplaza.nl##.hf-widget
 farm-date.com##.hide-for-small-only:has-text(Sponsors)
 slam.nl##.holder-ads
-basketbal.vlaanderen##.holder--divider-top
 oogtv.nl##.home-banner
 racingnews365.nl##.homepage-casino-wrapper
 jan-magazine.nl##.homepage-marquee
