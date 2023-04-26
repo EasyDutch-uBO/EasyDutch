@@ -4,8 +4,6 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-26
-||rickfm.nl/cwm/fm/userfiles/banner/foto/thumb$image
-||rickfm.nl/views/rickfm/images/*.gif$image
 ||glutenvrij.nl/l/library/download/urn*ncv*?scaleType=1$image
 ||golf.be/files/BannerImage/$image,1p
 ||golf.be/images/*_950x90_CTA$image
@@ -18,6 +16,9 @@
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/ondernemers-oisterwijk.png$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/steenwitgoed-270x324-*.jpg$image
+||reliwiki.nl/img/banner$image
+||rickfm.nl/cwm/fm/userfiles/banner/foto/thumb$image
+||rickfm.nl/views/rickfm/images/*.gif$image
 ||sedproductions.nl/ads/$image,3p
 ||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
 ||storage.googleapis.com/stateless-www-nuus-be/*/*-banner*$image,domain=nuus.be
@@ -476,7 +477,6 @@
 ||regionieuwshoogeveen.nl/wp-content/uploads/*/*/243505202_939414096933645_1681220239902803510_n*.jpg$image
 ||regioonline.nl/wp-content/uploads/*/*-Ads.*$image,1p
 ||relatieplanet.be/2linkbe/iframesearch.asp
-||reliwiki.nl/images/*banner
 ||resellers.viboshop.nl/promoimages/
 ||risallah.com/multimedia/images/banners/$image
 ||rtveen.nl/wp-content/plugins/advanced-advertising-system/js/*$script,1p
