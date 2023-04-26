@@ -1,10 +1,12 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 15:24:42 +0000
+! Last updated: Wed, 26 Apr 2023 15:40:05 +0000
 !
 ! 2023-04-26
 ||402automotive.com/files/*/files/images/banners/*.$image,domain=402online.com
+||acties.nl/uploads/nl/ckeditor/*-af-*$image,domain=frontline.digital
+||kortingsimages.kortingscop.nl/banners/$image,domain=frontline.digital
 ||glutenvrij.nl/l/library/download/urn*ncv*?scaleType=1$image
 ||golf.be/files/BannerImage/$image,1p
 ||golf.be/images/*_950x90_CTA$image
@@ -378,7 +380,6 @@
 ||flexnieuws.nl/wp-content/uploads/*/Naamloos-*.png$image
 ||flirtmee.nl/img/160x70_sponsor-
 ||forum.spaarinformatie.nl/si-info.html
-||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||fx.nl/_ext/widget/$3p
 ||gic.nl/uploads/fckconnector/$image,1p
 ||go2.go2cloud.org/aff_ad?$domain=sextube.nl
@@ -399,7 +400,6 @@
 ||images.islive.nl/snapshot/*/99x84.jpg$image,domain=sexverhalen.com
 ||images.islive.nl/snapshot/*/snapshot.jpg$image,domain=12milf.com
 ||img.iex.nl/uploads/banners/$image
-||infotalia.com/worktalia_promo_
 ||inviteonly.nl/banner/*$image,domain=kutscheetje.nl
 ||ishotmyself.nl/include/*/promo/footer/
 ||islive.nl/splash1/banners/
