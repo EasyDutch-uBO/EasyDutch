@@ -439,7 +439,6 @@
 ||netonline.be/slices/banners/
 ||nevobo.nl^*/sponsor/
 ||newsexcontact.nl/images/milfjesneuken.$image
-||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||nltube.com/b?z=A*$subdocument
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,1p
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300x*.gif$image
