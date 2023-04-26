@@ -383,7 +383,6 @@
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
 ||golf.be/files/BannerImage/$image,1p
 ||gowiththevlo.nl/wp-content/uploads/*/*_banner_gwtv.jpg$image
-||gratis.nl/wp-content/uploads/*/*-gratis.png$image
 ||greenkeeper.nl/upload/banners/
 ||greenkeeper.nl/upload/relaties/
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*.$image
