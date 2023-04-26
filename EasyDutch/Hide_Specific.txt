@@ -1,12 +1,13 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 26 Apr 2023 16:13:08 +0000
+! Last updated: Wed, 26 Apr 2023 16:14:05 +0000
 !
 ! 2023-04-26
 frontline.digital##.featured-banner
 frontline.digital##.elementor-section:has(.elementor-widget-flip-box img[src*="banner"])
 geile-sexverhalen.be##.card-header:has-text(Spons):upward(div.card)
+gezondheidsplein.nl##.ad
 kinkymedia.nl##[href^="https://mt67.net/c/"]
 kookboekennieuws.nl##.cb-sidebar-widget:has-text(Kijk ook eens op:)
 qmusic.be##.inline-partners
