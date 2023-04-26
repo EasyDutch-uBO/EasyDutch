@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Whitelist
 ! Description: Whitelist for hidden elements on Dutch websites
-! Last updated: Wed, 26 Apr 2023 07:36:52 +0000
+! Last updated: Wed, 26 Apr 2023 07:38:22 +0000
 !
 ! 2022-06-22 https://github.com/uBlockOrigin/uAssets/issues/13800
 !#if env_firefox
@@ -51,8 +51,6 @@ focus-wtv.be#@#.sponsored-article
 directwonen.nl#@#.top-advert
 ! 2021-06-04
 marktplaats.nl#@#.adSummary
-vakantieplaats.nl#@#.featuredAds
-vakantieplaats.nl#@#.feed-ad
 !#if env_mobile
 klusidee.nl#@#.header-ad
 !#endif
