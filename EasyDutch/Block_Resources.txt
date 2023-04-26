@@ -1,13 +1,14 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 17:52:36 +0000
+! Last updated: Wed, 26 Apr 2023 17:57:55 +0000
 !
 ! 2023-04-26
 ||402automotive.com/files/*/files/images/banners/*.$image,domain=402online.com
 ||autosport.nl/dist/images/Banner$image
 ||autosport.nl/images/banner$image
 ||basketbal.vlaanderen/files/tmp/logo*.png$image
+||beeldbelsex.com/wp-content/uploads/*/beeldbellesex$image
 ||acties.nl/uploads/nl/ckeditor/*-af-*$image,domain=frontline.digital
 ||kortingsimages.kortingscop.nl/banners/$image,domain=frontline.digital
 ||glutenvrij.nl/l/library/download/urn*ncv*?scaleType=1$image
@@ -295,7 +296,6 @@
 ||audiobookbay.nl/images/fr.jpg$image
 ||b-cdn.net/w_/s3-roulettefm/*.$image,domain=roulettefm.nl
 ||b-cdn.net/w_/s3-rtvstichtsevecht/*.$image,domain=rtvstichtsevecht.nl
-||beeldbelsex.com/wp-content/uploads/*/bellenafspreken.$image
 ||belgiancycling.be/resize.asp?w=120&file=*.gif
 ||belgiancycling.be^*/Banners/
 ||belgiancycling.be^*/Logo%27s%20partners/
