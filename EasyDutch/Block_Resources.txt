@@ -8,6 +8,7 @@
 ||autosport.nl/dist/images/Banner$image
 ||autosport.nl/images/banner$image
 ||basketbal.vlaanderen/files/tmp/logo*.png$image
+||beeldbelsex.com/wp-content/uploads/*/*islive*.gif$image
 ||beeldbelsex.com/wp-content/uploads/*/beeldbellesex$image
 ||acties.nl/uploads/nl/ckeditor/*-af-*$image,domain=frontline.digital
 ||kortingsimages.kortingscop.nl/banners/$image,domain=frontline.digital
