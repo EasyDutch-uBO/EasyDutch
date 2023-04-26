@@ -10,6 +10,7 @@
 ||basketbal.vlaanderen/files/tmp/logo*.png$image
 ||beeldbelsex.com/wp-content/uploads/*/*islive*.gif$image
 ||beeldbelsex.com/wp-content/uploads/*/beeldbellesex$image
+||flirtmee.nl/profiel/banners/$image
 ||acties.nl/uploads/nl/ckeditor/*-af-*$image,domain=frontline.digital
 ||kortingsimages.kortingscop.nl/banners/$image,domain=frontline.digital
 ||glutenvrij.nl/l/library/download/urn*ncv*?scaleType=1$image
@@ -375,7 +376,6 @@
 ||feenstra-internetservices.nl/?_dnid=$3p
 ||fiets.nl/app/uploads/*-Webbanner-*$image,1p
 ||flexnieuws.nl/wp-content/uploads/*/Naamloos-*.png$image
-||flirtmee.nl/img/160x70_sponsor-
 ||forum.spaarinformatie.nl/si-info.html
 ||fx.nl/_ext/widget/$3p
 ||gic.nl/uploads/fckconnector/$image,1p
