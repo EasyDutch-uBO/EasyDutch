@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 14:33:51 +0000
+! Last updated: Wed, 26 Apr 2023 14:44:44 +0000
 !
 ! 2023-04-26
 ||glutenvrij.nl/l/library/download/urn*ncv*?scaleType=1$image
@@ -16,6 +16,7 @@
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/ondernemers-oisterwijk.png$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/steenwitgoed-270x324-*.jpg$image
+||reformatorischeomroep.nl/*Banner*.gif
 ||reliwiki.nl/img/banner$image
 ||rickfm.nl/cwm/fm/userfiles/banner/foto/thumb$image
 ||rickfm.nl/views/rickfm/images/*.gif$image
@@ -473,10 +474,6 @@
 ||radiovisie.eu/wp-content/banners/
 ||railhobby.nl/wp-content/uploads/*/*_banner-$image
 ||recreatief.nl/kerstarrangementen.gif
-||reformatorischeomroep.nl/files/000/*/*/banner*.gif$image
-||regionieuwshoogeveen.nl/wp-content/uploads/*/*/243505202_939414096933645_1681220239902803510_n*.jpg$image
-||regioonline.nl/wp-content/uploads/*/*-Ads.*$image,1p
-||relatieplanet.be/2linkbe/iframesearch.asp
 ||resellers.viboshop.nl/promoimages/
 ||risallah.com/multimedia/images/banners/$image
 ||rtveen.nl/wp-content/plugins/advanced-advertising-system/js/*$script,1p
