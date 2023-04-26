@@ -387,7 +387,6 @@
 ||greenkeeper.nl/upload/banners/
 ||greenkeeper.nl/upload/relaties/
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*.$image
-!||hotdatingvlaanderen.be/banner$image
 ||hotradiohits.nl/image/picture/*_banner.
 ||htforum.nl/yabbse/*-banner2.gif
 ||htforum.nl/yabbse/banners/
