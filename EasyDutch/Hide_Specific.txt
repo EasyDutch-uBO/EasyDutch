@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-26
+sexervaringendelen.nl##iframe[data-src^="https://ads."]
 nuus.be##.adv-link:upward(.sidebar)
 truck1.be,truck1.nl,truck1-nl.be##.banners
 truck1.be,truck1.nl,truck1-nl.be##.splitter-banner
