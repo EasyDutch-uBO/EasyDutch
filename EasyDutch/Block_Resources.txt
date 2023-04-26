@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-26
+||sedproductions.nl/ads/$image,3p
 ||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
 ||storage.googleapis.com/stateless-www-nuus-be/*/*-banner*$image,domain=nuus.be
 ||truck1.be/_BANNERS_/$image
