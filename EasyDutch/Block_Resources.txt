@@ -443,7 +443,6 @@
 ||nieuwsopbeeld.nl/wp-content/uploads/*/Advertentie-
 ||nltube.com/b?z=A*$subdocument
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,1p
-||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xhr
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300x*.gif$image
 ||onderwijsland.com/files/partners/
 ||oneworld.nl/app/uploads/*/*-Banner$image
