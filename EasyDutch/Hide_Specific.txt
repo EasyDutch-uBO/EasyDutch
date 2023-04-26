@@ -4,6 +4,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-26
+truck1.be,truck1.nl,truck1-nl.be##.banners
+truck1.be,truck1.nl,truck1-nl.be##.splitter-banner
 bierdopje.com##.content-rechts-ad
 ! 2023-04-25
 ecommercenews.nl##.ldrtop
