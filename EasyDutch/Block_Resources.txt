@@ -4,6 +4,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-26
+||rickfm.nl/cwm/fm/userfiles/banner/foto/thumb$image
+||rickfm.nl/views/rickfm/images/*.gif$image
 ||glutenvrij.nl/l/library/download/urn*ncv*?scaleType=1$image
 ||golf.be/files/BannerImage/$image,1p
 ||golf.be/images/*_950x90_CTA$image
@@ -476,12 +478,8 @@
 ||relatieplanet.be/2linkbe/iframesearch.asp
 ||reliwiki.nl/images/*banner
 ||resellers.viboshop.nl/promoimages/
-||rickfm.nl/cwm/fm/userfiles/banner/
 ||risallah.com/multimedia/images/banners/$image
-||rtvdordrecht.nl/cwm/fm/userfiles/banner/
 ||rtveen.nl/wp-content/plugins/advanced-advertising-system/js/*$script,1p
-||rtvmaastricht.nl/banners/
-||rtvnof.nl/prowurk/
 ||schie.nu/images/banner/$image
 ||search-result.com^*/klokad2.js
 ||sedproductions.nl/banners/$image,3p
