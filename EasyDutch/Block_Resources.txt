@@ -421,7 +421,6 @@
 ||media.prdn.nl/retailtrends/images/thumbnail_bnr-*$domain=retailtrends.nl
 ||media-totaal.nl/*com_adagency*adagencyAds$script,domain=dekrantnieuws.nl|destreekkrant.nu|dekrantvantynaarlo.nl
 ||meerdangewenst.nl^*/sponsors/
-||meidenzoekensex.nl/assets/img/shemaledate$image
 ||metalfan.nl/banners/
 ||midvliet.nl/images/advertenties-$image
 ||mo.be/sites/default/files/banners/$image
