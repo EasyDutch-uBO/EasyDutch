@@ -1,8 +1,12 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Mon, 24 Apr 2023 18:23:58 +0000
+! Last updated: Wed, 26 Apr 2023 09:18:22 +0000
 !
+! 2023-04-26
+@@||truck1.be/_BANNERS_/client/redefiner/
+@@||truck1.nl/_BANNERS_/client/redefiner/
+@@||truck1-nl.be/_BANNERS_/client/redefiner/
 ! 2023-04-24
 @@||cdn.spotxcdn.com/integration/easi/$script,domain=radioluisteren.fm
 @@||js.spotx.tv/ados/$script,domain=radioluisteren.fm 
