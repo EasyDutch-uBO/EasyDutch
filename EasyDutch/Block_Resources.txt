@@ -563,11 +563,6 @@
 ||vbro.be/wp-content/uploads/*/autoonderdelen24_$image
 ||verkeerplaza.nl/js/banner.js
 ||viapizza.online/?ts_id=$subdocument,domain=dagbladdewest.com
-||video18.nl/img/banners/$image
-||visserijnieuws.nl/images/banners/*$image
-||vitesse.nl/assets/img/layout/etoro-logo.png$image
-||vitesse.nl^*_sponsors_footer.png
-||vives.nl/wp-content/uploads/Banner_*
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,1p
 ||voetbaluitslagen.com/wp-content/uploads/*/bet*$image
 ||waarzo.nl/imagestore/banners/
