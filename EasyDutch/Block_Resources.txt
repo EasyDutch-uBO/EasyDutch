@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 09:49:03 +0000
+! Last updated: Wed, 26 Apr 2023 10:06:28 +0000
 !
 ! 2023-04-26
 ||sedproductions.nl/ads/$image,3p
@@ -453,13 +453,6 @@
 ||openingsurengids.be/includes/js/checkblockv2.js
 ||openingsurengids.be/template/images/publi/
 ||opiniepeilers.nl/media/*/*notiesHR*.jpg$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/adverteren-$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/banner$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/Boeren-van-Amstel.jpg$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/BW_logo_blok_rgb_$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/JammFM*-banner$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/logo1-default_new-$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/Logo-Ridder-RGB_$image
 ||opwindend.net/Promotie*.php?$subdocument
 ||outdoor-sex.nl/wp-content/uploads/*/buitenseks.$image
 ||outdoor-sex.nl/wp-content/uploads/*/Sexindeprovincie-$image
