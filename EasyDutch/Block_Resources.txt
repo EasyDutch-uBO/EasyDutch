@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 12:54:52 +0000
+! Last updated: Wed, 26 Apr 2023 12:57:57 +0000
 !
 ! 2023-04-26
 ||glutenvrij.nl/l/library/download/urn*ncv*?scaleType=1$image
@@ -376,7 +376,6 @@
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||fx.nl/_ext/widget/$3p
 ||gadgetsentrends.nl/imagestore/banners/
-||geile-sexverhalen.be^$popup,1p
 ||gic.nl/uploads/fckconnector/$image,1p
 ||go2.go2cloud.org/aff_ad?$domain=sextube.nl
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukencoach-300x250.jpg
