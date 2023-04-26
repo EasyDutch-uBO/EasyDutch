@@ -1,8 +1,13 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Mon, 24 Apr 2023 13:50:55 +0000
+! Last updated: Wed, 26 Apr 2023 08:15:03 +0000
 !
+! 2023-04-26
+/wp-content/uploads/*/banner.jpg$image,domain=radiozuidrand.be
+/wp-content/uploads/*/banner_reclame$image,domain=radiozuidrand.be
+/wp-content/uploads/*/banner-sponsors$image,domain=radiozuidrand.be
+||wp.com/cdn.onlineradiobox.com/img/b/$image,domain=radiozuidrand.be
 ! 2023-04-24
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*week$image
 /images/banners/*$image,domain=bodemvondstenwereld.nl|drentsnieuws.nl|lokaleomroepzeewolde.nl|neukengratis.be|niedziela.nl|puurnaturisme.nl|sexdate-xxx.be
@@ -29,9 +34,6 @@
 ! 2023-02-18
 ||srv69.eu/smartlink/banner/$3p
 ||srv69.eu/b/$image,3p
-/wp-content/uploads/*/banner-sponsors$image,domain=radiozuidrand.be
-/wp-content/uploads/*/banner_reclame$image,domain=radiozuidrand.be
-||i0.wp.com/cdn.onlineradiobox.com/img/b/$image,domain=radiozuidrand.be
 ! 2023-02-02
 ||focusclub.nl/images/banners/
 ! 2023-01-27
