@@ -1,11 +1,11 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Wed, 26 Apr 2023 14:01:14 +0000
+! Last updated: Wed, 26 Apr 2023 14:07:29 +0000
 !
 ! 2023-04-26
 @@||prtawe.com/embed/tbplyr/$script,domain=camsexbabe.nl
-@@||pt.ctsdwm.com/tube-player/$subdocument,domain=camsexbabe.nl,sproeiendekutjes.nl
+@@||pt.ctsdwm.com/tube-player/$subdocument,domain=camsexbabe.nl|sproeiendekutjes.nl
 @@||pt.pctlwm.com/embed/tbplyr/$script,domain=sproeiendekutjes.nl
 @@||pt.ctsdwm.com/api/video-promotion/v1/get-content-url/$xhr,domain=pt.ctsdwm.com
 @@||awemdia.com/*.mp4$media,domain=pt.ctsdwm.com
