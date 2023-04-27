@@ -9,6 +9,7 @@ id.nl##.adunitContainer:upward(div[class^="flex items-center"])
 id.nl##.rounded-md:has(p[class^="call-to-action"])
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
 oops.nl##td[background="http://www.oops.nl/sexverhalen/oopslogo.jpg"]:style(height:50px !important;)
+pu.nl##.ad-container
 sexdatingholland.com##.homebanner
 sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
 sexvoorgeldadvertenties.nl##.widget:has(iframe[src*="banner"])
