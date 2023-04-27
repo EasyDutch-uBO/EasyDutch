@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 15:35:51 +0000
+! Last updated: Thu, 27 Apr 2023 15:41:15 +0000
 !
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -1347,8 +1347,6 @@ opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
 watchfaces.be##div.google
 knhs.nl##div.row:has(:scope > section > .cycler:has(img[src*="banner"]))
-voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
-ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
 rtlnieuws.nl##div[class$=_with_ad__ad]
 meteovista.be##div[class*="AdWrapper"]
 biflatie.nl##div[class*="elementor-widget-button"]:has-text(Advert)
