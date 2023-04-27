@@ -1347,8 +1347,6 @@ opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
 watchfaces.be##div.google
 knhs.nl##div.row:has(:scope > section > .cycler:has(img[src*="banner"]))
-voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
-ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
 rtlnieuws.nl##div[class$=_with_ad__ad]
 meteovista.be##div[class*="AdWrapper"]
 biflatie.nl##div[class*="elementor-widget-button"]:has-text(Advert)
