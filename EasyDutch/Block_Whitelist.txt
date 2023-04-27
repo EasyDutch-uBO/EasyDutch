@@ -62,10 +62,6 @@
 ! 2021-08-09
 @@||lexozfldkklgvc.com/cp/webcam_gallery/index.php$subdocument,domain=sexmeid.nl
 @@||lexozfldkklgvc.com/assets/cp/js/webcam_gallery/iframe_handler.js$script,domain=sexmeid.nl
-! 2021-08-03
-@@||ptwmstc.com/*/tube-player/script/*.js$script,domain=potwm.com
-! 2021-06-30
-@@||protoawe.com/embed/tbplyr/*$script,domain=lekkerewebcams.nl|gratispornofilm.nl|teen-sex.nl
 ! 2021-05-19
 @@||aweprt.com/embed/$script,domain=cumcams.nl
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=cumcams.nl
