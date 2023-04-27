@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 16:22:32 +0000
+! Last updated: Thu, 27 Apr 2023 18:12:04 +0000
 !
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -1373,7 +1373,6 @@ vagina.nl##div[id^=video-fish-hook]
 meerradio.nl##div[id="pristineslider.12"]
 waldnet.nl##div[style$="0px;"]:has(.adsbygoogle)
 apintie.sr##div[style*="width:300px; height:250px;"]
-routenet.nl##div[style*="width:730px; height:90px;"]
 kinderspelletjes.be,kinderspelletjes.nl##div[style*="width:970px"]:has-text(Reclame)
 landbouwgrond.nu##div[style]:has(.adsbygoogle)
 apintie.sr##div[style^="width:300px; height:180px;"]
