@@ -7,6 +7,8 @@
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
 oops.nl##td[background="http://www.oops.nl/sexverhalen/oopslogo.jpg"]:style(height:50px !important;)
 sexdatingholland.com##.homebanner
+sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
+sexvoorgeldadvertenties.nl##.widget:has(iframe[src*="banner"])
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"])
 ! 2023-04-26
 frontline.digital##.featured-banner
@@ -485,7 +487,6 @@ wkdarts.nl##[href="https://www.loketkansspel.nl/"]
 ! 2022-06-15
 indignatie.nl##[id^="custom_html"]:has([src^="https://pagead2.googlesyndication.com/"])
 ! 2022-06-14
-sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
 marktnet.nl##li.linkUnit
 mijnserie.nl##a[href^="https://partnerprogramma.bol.com/"]
 mijnserie.nl##.sponsors
