@@ -1118,7 +1118,6 @@ koopplein.nl##.promoblocs__banner
 synoniemen.net##.promoblok
 oneworld.nl##.promotion-block
 openingsurengids.be##.promSB
-girlpowerradio.nl##.proradio-owl-sponsorcarousel
 hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 gocar.be##.pub-leaderboard-top
 oozo.nl##.rcntctr
