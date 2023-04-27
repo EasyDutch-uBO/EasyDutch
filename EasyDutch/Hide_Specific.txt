@@ -1276,7 +1276,7 @@ pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 gaynews.nl##[class^="va"]:has([class*="banner"])
 negerinnensexdating.eu##[class="rand nomobile"]:has(a[href*="net69.nl/genre"])
-kinkysexcontactonline.nl,negerinnensexdating.eu,neukplaza.nl,privesexgids.nl,sexdatingholland.com,stellensexdating.nl,studentesexcontact.nl,tienersexpret.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"])
+kinkysexcontactonline.nl,neukplaza.nl,sexdatingholland.com,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"])
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 pornokartel.nl##[href*="pornokartel.nl/adverteren"]
 sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
