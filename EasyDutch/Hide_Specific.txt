@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 15:47:52 +0000
+! Last updated: Thu, 27 Apr 2023 15:53:44 +0000
 !
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -778,7 +778,7 @@ almere-nieuws.nl###containerx
 vnexplorer.net###div_the_mgid
 oops.nl###dropinboxv2cover
 538.nl###eCommerce
-genotsplekje.nl,pornoplekje.nl###exitpopup-modal
+pornoplekje.nl###exitpopup-modal
 bellotube.com###exo
 alkmaarguardians.nl###footer
 nieuws.nl###footer-banner
