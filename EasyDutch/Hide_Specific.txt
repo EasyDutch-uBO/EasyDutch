@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 18:19:45 +0000
+! Last updated: Thu, 27 Apr 2023 18:58:21 +0000
 !
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -28,6 +28,7 @@ pu.nl##.ad-container
 sexdatingholland.com##.homebanner
 sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
 sexvoorgeldadvertenties.nl##.widget:has(iframe[src*="banner"])
+sliedrecht24.nl##[id$="random_ads"]
 spidersolitairespelen.nl##.b_i_bg
 thekinkyweb.nl##.widget_media_image:not(:has(a[href^="https://www.thekinkyweb.nl/"]))
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"])
