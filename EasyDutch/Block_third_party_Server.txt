@@ -3,6 +3,9 @@
 ! Description: Filters for blocking only general third-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-04-27
+! https://www.rd.nl/
+||adverteren.rd.nl^$strict3p
 ! 2022-10-25
 ! https://nos.nl/teletekst
 ||adcdn.ster.nl^$3p
