@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 06:37:31 +0000
+! Last updated: Thu, 27 Apr 2023 06:42:37 +0000
 !
 ! 2023-04-27
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
@@ -650,8 +650,6 @@ tpo.nl##[id$="halfpage"]
 tpo.nl##div.ads-contain
 vi.nl##.betting-provider-row
 vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
-! 2022-03-12
-sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
 ! 2022-03-11
 maarkelsnieuws.nl##.banner-widget
 maarkelsnieuws.nl##.banner-secondary-sidebar:not(:has(img[src*="weerbanner"]))
