@@ -5,6 +5,7 @@
 !
 ! 2023-04-27
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
+oops.nl##td[background="http://www.oops.nl/sexverhalen/oopslogo.jpg"]:style(height:50px !important;)
 sexdatingholland.com##.homebanner
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"])
 ! 2023-04-26
