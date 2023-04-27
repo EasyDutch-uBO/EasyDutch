@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 06:09:28 +0000
+! Last updated: Thu, 27 Apr 2023 06:14:24 +0000
 !
 ! 2023-04-27
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
@@ -1081,7 +1081,7 @@ vivatube.com##.mt15.container:has-text(Advert)
 iex.nl##.network:has-text(Gesponsorde links)
 ninefornews.nl##.nfn-target[data-advadsredirect]
 showbizzsite.be##.nieuws-detail-page-bottom-part > :has(.konvento)
-30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
+ikwilneuken.net,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
 dekattensite.nl##.nxs-default-p > p:has-text(advert)
 inmemoriam.be##.o-news__add
 cabla.nl##.ontwerp_ads
