@@ -329,7 +329,6 @@ nieuwsuitnijmegen.nl##.js-banner-slider:upward(2)
 dutchcryptotalk.com##.hootslider-image-wrapper
 nieuwsfiets.nu###banner
 nec-nijmegen.nl##.sponsors
-mygaydate.nl##.rand:has(img[src$=".gif"])
 mr-online.nl##.elementor-widget-container:has(.strack_bnr)
 mnm.be##.ad--rectangle:upward(1)
 fhm500.nl##div.profiel:has-text(Powered by)
