@@ -6,12 +6,12 @@
 ! 2023-04-27
 @@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|sexdatingholland.com|zinomteneuken.nl
 @@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|sexdatingholland.com|zinomteneuken.nl
-! 2023-04-26
 @@||prtawe.com/embed/tbplyr/$script,domain=camsexbabe.nl
-@@||pt.ctsdwm.com/tube-player/$subdocument,domain=camsexbabe.nl|sproeiendekutjes.nl
-@@||pt.pctlwm.com/embed/tbplyr/$script,domain=sproeiendekutjes.nl
+@@||pt.ctsdwm.com/tube-player/$subdocument,domain=camsexbabe.nl|erotischemassages.com|sproeiendekutjes.nl
+@@||pt.pctlwm.com/embed/tbplyr/$script,domain=erotischemassages.com|sproeiendekutjes.nl
 @@||pt.ctsdwm.com/api/video-promotion/v1/get-content-url/$xhr,domain=pt.ctsdwm.com
 @@||awemdia.com/*.mp4$media,domain=pt.ctsdwm.com
+! 2023-04-26
 @@||truck1.be/_BANNERS_/client/redefiner/
 @@||truck1.nl/_BANNERS_/client/redefiner/
 @@||truck1-nl.be/_BANNERS_/client/redefiner/
