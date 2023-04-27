@@ -1371,7 +1371,6 @@ nu.nl##div.articlelist[data-section^="advertorial"][data-section$="-adverteerder
 pcmweb.nl##div.block:has([id^="div-gpt-ad"])
 pcmweb.nl##div.block:has-text(Vacatures)
 classic.nl##div.brievenbus
-direct-sexdate.be##div.card:has(img[src*="/banner"])
 rtveen.nl##div.category:has-text(Advert)
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
