@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 15:15:54 +0000
+! Last updated: Thu, 27 Apr 2023 15:19:56 +0000
 !
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -1043,7 +1043,6 @@ iex.nl##.js-banner
 eurocampings.nl##.js-mock-banner
 waldnet.nl##.kolom_haad > div[style="height: 300px;"]
 guruwatch.nl##.LargeRectangle
-gratispornofilm.nl##.lazyloaded.block-bordered
 speeleiland.nl##.leader-below-game
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,peoplesphere.be,psv.nl,sport-planet.eu,sportid.be,tenniskrant.be,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 rendez-vous.be##.leaderBoard
