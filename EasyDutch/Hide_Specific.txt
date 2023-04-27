@@ -574,7 +574,6 @@ sc-heerenveen.nl##.partnerlink
 totoknvbbeker.nl##.SponsorBlock
 trappers.nl##.sponsors
 weerstationleeuwarden.nl##.cookieconsent-optin-marketing
-zoekhulp.nl###banner
 ! 2022-04-29
 besteproduct.nl,voetbalnieuws.nl##.ad
 xgn.nl##.bs
