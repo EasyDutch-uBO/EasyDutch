@@ -14,6 +14,8 @@
 ||msa.paginabanner.nl/banners/$image
 ||thekinkyweb.nl/wp-content/uploads/*/banner$image
 ||thekinkyweb.nl/wp-content/uploads/*/Logo-RedRopes-Erotische-verhale$image
+||xmissy.nl/skins/_customplayers/*/*overlay$image
+||xmissy.nl/skins/_customplayers/*/*top$image
 ||zwartewaterfm.nl/wp-content/uploads/*/SponsorenZwarteWaterFM
 ! 2023-04-26
 ||402automotive.com/files/*/files/images/banners/*.$image,domain=402online.com
