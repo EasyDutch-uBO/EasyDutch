@@ -3,6 +3,8 @@
 ! Description: Whitelist for hidden elements on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-04-27
+gratis.nl#@#a[href^="https://ndt5.net/"]
 ! 2023-04-26
 wereldklokken.nl#@#ins.adsbygoogle
 ! 2022-06-22 https://github.com/uBlockOrigin/uAssets/issues/13800
