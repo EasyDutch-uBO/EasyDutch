@@ -1,15 +1,15 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Thu, 27 Apr 2023 08:33:17 +0000
+! Last updated: Thu, 27 Apr 2023 15:24:53 +0000
 !
 ! 2023-04-27
 @@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|sexdatingholland.com|zinomteneuken.nl
 @@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|sexdatingholland.com|zinomteneuken.nl
-@@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument,domain=camsexbabe.nl|erotischemassages.com|sproeiendekutjes.nl
-@@/https\:\/\/pt\.[\w]{6}\.com\/embed\/tbplyr\//$script,domain=camsexbabe.nl|erotischemassages.com|sproeiendekutjes.nl
-@@/https\:\/\/pt\.[\w]{6}\.com\/api\/video-promotion\/v1\/get-content-url\//$xhr,domain=/pt\.[\w]{6}\.com/,to=camsexbabe.nl|erotischemassages.com|sproeiendekutjes.nl
-@@||awemdia.com/*.mp4$media,domain=/pt\.[\w]{6}\.com/,to=camsexbabe.nl|erotischemassages.com|sproeiendekutjes.nl
+@@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument
+@@/https\:\/\/pt\.[\w]{6}\.com\/embed\/tbplyr\//$script
+@@/https\:\/\/pt\.[\w]{6}\.com\/api\/video-promotion\/v1\/get-content-url\//$xhr,domain=/pt\.[\w]{6}\.com/
+@@||awemdia.com/*.mp4$media,domain=/pt\.[\w]{6}\.com/
 ! 2023-04-26
 @@||truck1.be/_BANNERS_/client/redefiner/
 @@||truck1.nl/_BANNERS_/client/redefiner/
