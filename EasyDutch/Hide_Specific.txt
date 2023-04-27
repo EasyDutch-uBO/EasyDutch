@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 14:21:50 +0000
+! Last updated: Thu, 27 Apr 2023 14:25:12 +0000
 !
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -1254,7 +1254,6 @@ telegraaf.nl##.withBanners
 eindtijdklok.org##.wpa
 nieuwsfiets.nu##.wpb_raw_html[class*="us_custom_"]:has(.wpb_wrapper)
 dekrantnieuws.nl,destreekkrant.nu##.wpb_wrapper > .a-single
-cumcams.nl##.wpb_wrapper > center:has([src^="//pt.potwm.com/video-banner/"])
 bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
