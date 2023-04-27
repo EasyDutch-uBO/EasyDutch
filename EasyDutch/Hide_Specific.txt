@@ -15,6 +15,7 @@ messianieuws.nl##.sb-widget:has(a[href][target="_blank"][rel="noopener"] > img[w
 messianieuws.nl##.widget-title:has-text(Sponsors):upward(.sb-widget)
 motorrijder.be##.elementor-widget-container > a:not([href*="https://motorrijder.be"]) > img:upward(.elementor-widget-image)
 oops.nl##td[background="http://www.oops.nl/sexverhalen/oopslogo.jpg"]:style(height:50px !important;)
+pornozot.com##.abbcn-footer
 pu.nl##.ad-container
 sexdatingholland.com##.homebanner
 sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
@@ -1290,7 +1291,6 @@ beeldbelsex.com##[href^="https://www.twero.com/"]
 vagina.nl##[href^="https://xltube.nl/click/"]
 audiobookbay.nl##[href="/dl-14-days-trial"]
 vagina.nl##[id$="fish-hooks"]
-pornozot.com##[id$="iframe"]:has-text(/Reclame/i)
 gaynews.nl##[id^="abri"]
 besteproduct.nl##[id^="ad-block"]
 kinkymedia.nl##[id^="adguru-zone-widget"]
@@ -1302,11 +1302,7 @@ luchtvaartnieuws.nl##[id^="block-block-"]:has-text(/voordelige/i)
 online-radio.nl##[id^="containersitead"]
 cryptosjop.nl##[id^="custom_html-"]:has(.bitvavo-widget)
 rtvalbrandswaard.com##[id^="custom_html-"]:has([src^="https://bannerbuilder.sponsorkliks.com/"])
-pornopower.nl##[id^="custom_html"]:has([src^="https://chainadvertising.eu/"])
 janvissersweer.nl##[id^="custom_html-"]:has([src^="https://pagead2.googlesyndication.com/"])
-pornopower.nl##[id^="custom_html"]:has([src^="https://www.2k19.nl/"])
-sexervaringdelen.com##[id^="custom_html-"]:has(iframe)
-cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
 pornomilf.nl##[id^="custom_html"]:has-text(Hier aanmelden)
 dutchporntube.nl##[id^="custom_html"]:has-text(Afspreken)
 nljug.org##[id^="custom_html-"]:has-text(Kennispartners):has(a[href] > img)
@@ -1320,8 +1316,6 @@ omroeprsh.nl##[id^="media_image-"]:has(img[width="300"]):not(:has([href*="youtub
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 geileverhalen.nl##[id^="menu-item-"] > [href^="https://go2.go2cloud.org/aff_ad"]
 rtvkrimpenerwaard.nl##[id^="pg-1407"]:has-text(Vrienden):has([class^="sp-logo-carousel"] .sp-lcp-logo-wrapper):has(img[src])
-seksverhalen.nl##[id^="sgpb-popup-dialog"]:has(iframe[src^="https://www.affilaxy.com/promos/"])
-seksverhalen.nl##[id^="sgpb-popup-dialog"]:has(iframe[src^="https://www.affilaxy.com/promos/"]) + [class]
 top40.nl##[id^="sky"]:has(script:has-text(AdvertSlot))
 noordernieuws.nl##[id^="slideshowwidget"]:has(img[src$=".gif"])
 sciencelink.net##[id^="sponsored-content_"]
@@ -1330,9 +1324,6 @@ watchfaces.be##[id^="text"]:has(.adsbygoogle)
 ninefornews.nl##[id^="text-"]:has(.nfn-target[data-advadsredirect])
 radiozuidrand.be##[id^="text-"]:has(.widget-title:has-text(ADVERTEERDERS))
 tweedehandschristelijkeboeken.nl##[id^="text-"]:has([href^="https://www.eo-acties.nl/TradeTracker/index.aspx"])
-sexervaringdelen.com##[id^="text-"]:has([src$="ads.js"])
-kutscheetje.nl##[id^="text"]:has([src*="banner"])
-kutscheetje.nl##[id^="text-"]:has([src^="http://promotools.islive.nl/ads/"])
 shespot.nl##[id^="text"]:has([src^="https://www.shespot.nl/wp-content/uploads/"])
 despirituelewereld.be##[id^="text-"]:has(a[href]:has([width="300"][height="250"]))
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
