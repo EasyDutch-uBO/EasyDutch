@@ -14,6 +14,7 @@ kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
 kicxstart.nl##.elementor-widget-container > a:not([href*="https://kicxstart.nl/"]) > img:upward(.elementor-widget-image)
 loemedia.nl##.widgettitle:has-text(/advert|banner/i):upward(.widget)
 nedporno.com##.publ11s-b0ttom
+nedporno.com##[class^="r11ght-pl4yer"]
 messianieuws.nl##.sb-widget:has(a[href][target="_blank"][rel="noopener"] > img[width="300"])
 messianieuws.nl##.widget-title:has-text(Sponsors):upward(.sb-widget)
 motorrijder.be##.elementor-widget-container > a:not([href*="https://motorrijder.be"]) > img:upward(.elementor-widget-image)
@@ -323,8 +324,6 @@ detelefoongids.nl##.wrapper:has-text(Youvia)
 nieuwsuitnijmegen.nl##.js-banner-slider:upward(2)
 dutchcryptotalk.com##.hootslider-image-wrapper
 nieuwsfiets.nu###banner
-nedporno.com##[class^="r1ght-pl4yer"]
-geile-adressen.nl##.nomobile:has(img[src$=".gif"])
 nec-nijmegen.nl##.sponsors
 mygaydate.nl##.rand:has(img[src$=".gif"])
 mr-online.nl##.elementor-widget-container:has(.strack_bnr)
