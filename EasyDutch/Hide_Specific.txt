@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 07:07:38 +0000
+! Last updated: Thu, 27 Apr 2023 07:17:45 +0000
 !
 ! 2023-04-27
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
@@ -259,7 +259,6 @@ palnws.be##.content-inner > .palnw-target:has([id^="div-gpt-ad"])
 radio0511.com##.leftColumn.cell > div:has(.sponsorImg)
 qmusic.nl##.inline-partners
 puurnaturisme.nl##aside div:has(.bannergroup_noborder)
-kinkymedia.nl##.footer-widget-container .widget:has(img)
 tubeseks.be##.site-footer
 hollywoodhuizen.nl##.a-widget
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:not(.sharedaddy):not(:has(img))
@@ -600,7 +599,6 @@ sexguide.nl##div.vipEscortModel:has-text(Sponsors)
 kieskeurig.nl##div[id*="gpt-ad"]
 ! 2022-04-14
 camjam.nl##.banner
-kinkymedia.nl###advertentie
 finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
 fonkmagazine.nl###partners
 fonkmagazine.nl##.advertisement
