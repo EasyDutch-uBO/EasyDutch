@@ -6,7 +6,7 @@
 ! 2023-04-26
 frontline.digital##.featured-banner
 frontline.digital##.elementor-section:has(.elementor-widget-flip-box img[src*="banner"])
-geile-sexverhalen.be##.card-header:has-text(Spons):upward(div.card)
+geile-sexverhalen.be,geile-sexverhalen.nl##.card-header:has-text(/Advert|Spons/):upward(div.card)
 gezondheidsplein.nl##.ad
 kinkymedia.nl##[href^="https://mt67.net/c/"]
 kookboekennieuws.nl##.cb-sidebar-widget:has-text(Kijk ook eens op:)
@@ -769,7 +769,6 @@ genotsplekje.nl,pornoplekje.nl###exitpopup-modal
 bellotube.com###exo
 alkmaarguardians.nl###footer
 nieuws.nl###footer-banner
-geile-sexverhalen.be,geile-sexverhalen.nl###footermiddle > .well:has-text(Advert)
 bokt.nl###frontpage_mediumrect
 nu.nl###header > .zone
 unitednews.sr###image-vertical-reel-scroll-slideshow
@@ -1209,12 +1208,11 @@ rubenweytjens.be##.view-weather-ads-view
 barneveldsekrant.nl,edestad.nl##.w-300x.RM5
 osuradio.nl##.wdslider
 telegraaf.nl##.WebpushOptin__main
-dating-vinden.be,deperfecte-sexdate.be,deperfecte-sexdate.nl,flirten-vlaanderen.be,geile-sexverhalen.nl,geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexcontact-xxx.be,sexdate-xxx.be##.well:has(.bannergroup)
+dating-vinden.be,deperfecte-sexdate.be,deperfecte-sexdate.nl,flirten-vlaanderen.be,geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexcontact-xxx.be,sexdate-xxx.be##.well:has(.bannergroup)
 neuk-sexcontact.be##.well:has([src*=".sdcash.nl/"])
 belgie-sexcontact.be##.well:has(img[src])
 deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
 belgie-sexdate.be##.well:has(img[src^="https://www.2k19.nl/"])
-geile-sexverhalen.be##.well:has-text(Sponsers)
 transfermarkt.nl##.werbung
 baarsclassicrock.nl##.widebanner
 transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteerdersinformatie/"])))
