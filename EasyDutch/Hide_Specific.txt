@@ -1067,7 +1067,6 @@ scholieren.com##.min-h-90
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
 radioeenhoorn.nl##.module_round_box
-vrouwen-sexdate.be##.moduletable:has-text(Advert)
 financialinvestigator.nl##.mpu
 wintersport.nl##.mq-banner:not(:has-text(Reisverzekering))
 nl.motorsport.com##.ms-hapb
