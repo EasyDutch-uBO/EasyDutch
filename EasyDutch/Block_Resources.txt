@@ -13,6 +13,7 @@
 ||motokicx.com/wp-content/uploads/*/Motokicx*.gif$image
 ||motorrijder.be/wp-content/uploads/*/*1300x150$image
 ||msa.paginabanner.nl/banners/$image
+||wp.com/noordernieuws.nl/wp-content/uploads/*/*.gif$image,domain=noordernieuws.nl
 ||thekinkyweb.nl/wp-content/uploads/*/banner$image
 ||thekinkyweb.nl/wp-content/uploads/*/Logo-RedRopes-Erotische-verhale$image
 ||xmissy.nl/skins/_customplayers/*/*overlay$image
