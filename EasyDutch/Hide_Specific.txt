@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 18:12:04 +0000
+! Last updated: Thu, 27 Apr 2023 18:19:45 +0000
 !
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -32,6 +32,7 @@ spidersolitairespelen.nl##.b_i_bg
 thekinkyweb.nl##.widget_media_image:not(:has(a[href^="https://www.thekinkyweb.nl/"]))
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"])
 voetbalrotterdam.nl##.lshowcase-logos
+waldnet.nl##div[style*="height: 320px;"]:has(.adsbygoogle)
 ! 2023-04-26
 frontline.digital##.featured-banner
 frontline.digital##.elementor-section:has(.elementor-widget-flip-box img[src*="banner"])
@@ -1371,7 +1372,6 @@ handbalinside.nl##div[id^="handb-"]
 voetbalbelgie.be##div[id^="voetb-"]
 vagina.nl##div[id^=video-fish-hook]
 meerradio.nl##div[id="pristineslider.12"]
-waldnet.nl##div[style$="0px;"]:has(.adsbygoogle)
 apintie.sr##div[style*="width:300px; height:250px;"]
 kinderspelletjes.be,kinderspelletjes.nl##div[style*="width:970px"]:has-text(Reclame)
 landbouwgrond.nu##div[style]:has(.adsbygoogle)
