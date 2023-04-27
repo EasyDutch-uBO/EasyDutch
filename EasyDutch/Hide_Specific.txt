@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 16:08:21 +0000
+! Last updated: Thu, 27 Apr 2023 16:22:32 +0000
 !
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -808,7 +808,7 @@ pokeren.nl###onetime-popup
 autoreview.nl###parentgpt
 eredivisie.nl###partner-bar
 vagina.nl###partner-links
-coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl###partners
+coastline945fm.nl,elfvoetbal.nl###partners
 forum.scholieren.com###posts .thead:has-text(Advert)
 sexpower.nl###pre-footer-banners
 soccernews.nl###r89-mobile-rectangle-mid
