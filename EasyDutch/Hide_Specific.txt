@@ -1254,7 +1254,6 @@ telegraaf.nl##.withBanners
 eindtijdklok.org##.wpa
 nieuwsfiets.nu##.wpb_raw_html[class*="us_custom_"]:has(.wpb_wrapper)
 dekrantnieuws.nl,destreekkrant.nu##.wpb_wrapper > .a-single
-cumcams.nl##.wpb_wrapper > center:has([src^="//pt.potwm.com/video-banner/"])
 bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
