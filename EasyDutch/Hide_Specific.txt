@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 05:39:22 +0000
+! Last updated: Thu, 27 Apr 2023 05:51:46 +0000
 !
 ! 2023-04-26
 frontline.digital##.featured-banner
@@ -1209,7 +1209,7 @@ rubenweytjens.be##.view-weather-ads-view
 barneveldsekrant.nl,edestad.nl##.w-300x.RM5
 osuradio.nl##.wdslider
 telegraaf.nl##.WebpushOptin__main
-dating-vinden.be,deperfecte-sexdate.be,deperfecte-sexdate.nl,flirten-vlaanderen.be,geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexcontact-xxx.be,sexdate-xxx.be##.well:has(.bannergroup)
+neukengratis.be,sexdate-xxx.be##.well:has(.bannergroup)
 neuk-sexcontact.be##.well:has([src*=".sdcash.nl/"])
 belgie-sexcontact.be##.well:has(img[src])
 deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
