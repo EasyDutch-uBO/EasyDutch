@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 27 Apr 2023 14:10:19 +0000
+! Last updated: Thu, 27 Apr 2023 14:14:06 +0000
 !
 ! 2023-04-27
 ||cdn.amateursexstart.nl/wp-content/uploads/*/*.gif$image
@@ -209,7 +209,6 @@
 ! 2022-05-04
 ||onsoranje.nl/sites/*/images/sponsorlogos/
 ||proshop.nl/Images/*Top-Banner$image
-||zoekhulp.nl/img/bnr-
 ! 2022-04-26
 ||radioeenhoorn.nl/images/banners$image
 ||kechtube.com^$popunder
