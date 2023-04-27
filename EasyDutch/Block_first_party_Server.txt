@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block First-Party Server
 ! Description: Filters for blocking first-party servers on Dutch websites
-! Last updated: Mon, 16 Jan 2023 10:15:42 +0000
+! Last updated: Thu, 27 Apr 2023 05:39:58 +0000
 !
 ! 2023-01-16 https://github.com/EasyDutch-uBO/EasyDutch/issues/34
 ! 2022-06-02 https://github.com/EasyDutch-uBO/EasyDutch/issues/22
@@ -30,5 +30,4 @@
 ! https://github.com/BPower0036/AdBlockFilters/issues/16
 ||content2.nrc.nl^
 ! 2021-04-27
-||adverteren.rd.nl^
 ||mooieplaatjes.bierdopje.com^
