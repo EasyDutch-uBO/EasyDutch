@@ -1167,7 +1167,7 @@ netonline.be##.tekstboldwit:has-text(ADVERT)
 gaynews.nl##.telefoon_verberg
 nos.nl##.teletekst__banner
 netonline.be##.text_12_jobs_only
-belegger.nl,beursonline.nl,debeurs.nl##.Textads
+beursonline.nl,debeurs.nl##.Textads
 telegraaf.nl##.TextArticlePage__bannerWrapper
 nedporno.com##.text-center:has-text(/Reclame/i)
 nederlandsewebcambabes.nl##.textwidget:has(.model)
