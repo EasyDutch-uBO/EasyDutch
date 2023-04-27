@@ -149,7 +149,6 @@
 /^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
 ||dutchitchannel.nl/6*?field=binary1$image
 ||geile-adressen.nl/images/overspel.gif
-||mygaydate.nl/images/eroshop.jpg
 ||floranews.com/img/banner/Floranews
 ||gigantfm.nl/assets/images/autoonderdelen$image
 ||gigantfm.nl/assets/images/onderdelenshop$image
