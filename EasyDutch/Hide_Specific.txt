@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 12:39:29 +0000
+! Last updated: Thu, 27 Apr 2023 12:41:39 +0000
 !
 ! 2023-04-27
 erotischemassages.com##.widget:has(iframe[data-src*="banner"]):upward(.footer-widget-zone)
@@ -1371,7 +1371,6 @@ nu.nl##div.articlelist[data-section^="advertorial"][data-section$="-adverteerder
 pcmweb.nl##div.block:has([id^="div-gpt-ad"])
 pcmweb.nl##div.block:has-text(Vacatures)
 classic.nl##div.brievenbus
-direct-sexdate.be##div.card:has(img[src*="/banner"])
 rtveen.nl##div.category:has-text(Advert)
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
