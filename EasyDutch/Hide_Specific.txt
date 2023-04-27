@@ -41,7 +41,7 @@ gaslicht.com##.c-comparison-list__usp-label:has-text(Adv):upward(.c-comparison-l
 gratispornofilm.nl##[id^="custom_html-"]:has-text(Favoriete Pornosterren)
 gratispornofilm.nl##[id^="text"]:has(iframe)
 gratissexverhalen.nu##[id^="block-"]:has([href^="https://www.dql2clk.com/"])
-neuk-sexcontact.be##.moduletable:has-text(Adv)
+neuk-sexcontact.be##.moduletable:has(.bannergroup)
 nuneuken.nl##.module:has(img[src^="https://www.2k19.nl/b/"])
 poldersexverhalen.nl##[id^="custom_html-"]:has(img[src$=".gif"])
 retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
@@ -1209,10 +1209,6 @@ barneveldsekrant.nl,edestad.nl##.w-300x.RM5
 osuradio.nl##.wdslider
 telegraaf.nl##.WebpushOptin__main
 neukengratis.be,sexdate-xxx.be##.well:has(.bannergroup)
-neuk-sexcontact.be##.well:has([src*=".sdcash.nl/"])
-belgie-sexcontact.be##.well:has(img[src])
-deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
-belgie-sexdate.be##.well:has(img[src^="https://www.2k19.nl/"])
 transfermarkt.nl##.werbung
 baarsclassicrock.nl##.widebanner
 transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteerdersinformatie/"])))
