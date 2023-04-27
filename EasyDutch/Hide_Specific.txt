@@ -650,8 +650,6 @@ tpo.nl##[id$="halfpage"]
 tpo.nl##div.ads-contain
 vi.nl##.betting-provider-row
 vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
-! 2022-03-12
-sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
 ! 2022-03-11
 maarkelsnieuws.nl##.banner-widget
 maarkelsnieuws.nl##.banner-secondary-sidebar:not(:has(img[src*="weerbanner"]))
