@@ -265,8 +265,6 @@
 ||startlinken.nl/images/banner-$image,1p
 ||startlinken.nl/javascript/BannerRotation*$script,1p
 ||waarzo.nl/imagestore/site-banners/
-! 2022-02-02
-||webcamsexplaza.com/images/shemaledating.gif
 ! 2022-01-26
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
 ! 2022-01-19
