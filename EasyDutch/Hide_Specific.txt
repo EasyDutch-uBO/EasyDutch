@@ -31,6 +31,7 @@ sexvoorgeldadvertenties.nl##.widget:has(iframe[src*="banner"])
 spidersolitairespelen.nl##.b_i_bg
 thekinkyweb.nl##.widget_media_image:not(:has(a[href^="https://www.thekinkyweb.nl/"]))
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"])
+voetbalrotterdam.nl##.lshowcase-flex:has(img)
 ! 2023-04-26
 frontline.digital##.featured-banner
 frontline.digital##.elementor-section:has(.elementor-widget-flip-box img[src*="banner"])
