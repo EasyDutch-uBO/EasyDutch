@@ -16,6 +16,7 @@ pu.nl##.ad-container
 sexdatingholland.com##.homebanner
 sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
 sexvoorgeldadvertenties.nl##.widget:has(iframe[src*="banner"])
+thekinkyweb.nl##.widget_media_image:not(:has(a[href^="https://www.thekinkyweb.nl/"]))
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"])
 ! 2023-04-26
 frontline.digital##.featured-banner
@@ -385,7 +386,6 @@ willem-ii.nl##.advert
 groningerkrant.nl##.widget:has(.widget-title:has-text(Vrienden))
 gratisepub.nl##.widget:has(.adsbygoogle)
 golf.be##[class*="-ad-banner-box"]
-thekinkyweb.nl##[href="https://www.domasmsuite.nl"]
 waterkant.net##[href^="https://www.eventbrite.nl/e/tickets"]
 gids.tv##.advertisement:upward(1)
 gic.nl##.katernbanners
@@ -1339,7 +1339,7 @@ goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopst
 spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
 adbroere.nl##[id^="text-"]:has-text(adv)
 kledingmaten.nl##[id^="text-"]:has-text(Advert)
-h20.gg,romagazine.nl,thekinkyweb.nl##[id^="text-"]:has-text(Partners)
+h20.gg,romagazine.nl##[id^="text-"]:has-text(Partners)
 senseigaming.be##[id^="text-"]:has-text(sponsors)
 peoplesphere.be##[id^="text-"]:not(:has(a[href^="https://peoplesphere.be/"])):not(:has(.twitter-timeline))
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
