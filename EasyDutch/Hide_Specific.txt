@@ -9,6 +9,7 @@ id.nl##.adunitContainer:upward(div[class^="flex items-center"])
 id.nl##.rounded-md:has(p[class^="call-to-action"])
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
 kicxstart.nl##.elementor-widget-container > a:not([href*="https://kicxstart.nl/"]) > img:upward(.elementor-widget-image)
+loemedia.nl##.widgettitle:has-text(/advert|banner/i):upward(.widget)
 motorrijder.be##.elementor-widget-container > a:not([href*="https://motorrijder.be"]) > img:upward(.elementor-widget-image)
 oops.nl##td[background="http://www.oops.nl/sexverhalen/oopslogo.jpg"]:style(height:50px !important;)
 pu.nl##.ad-container
@@ -823,7 +824,6 @@ voetbal-vandaag.nl###sidebar_aanbevelen
 appletips.nl###singleab
 petitie24.nl###tekstpetitie > :has-text(advert)
 petitie24.nl###tekstpetitie > :has-text(advert) + div
-loemedia.nl###text-17
 sexpunt.nl###top:has(.banner)
 online-radio.nl###top_ad-360
 doorbraak.be###top-advertisement-area
@@ -1375,7 +1375,6 @@ rtveen.nl##div.category:has-text(Advert)
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
 watchfaces.be##div.google
-loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(/Advertentie|Banner/))
 knhs.nl##div.row:has(:scope > section > .cycler:has(img[src*="banner"]))
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
 ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
