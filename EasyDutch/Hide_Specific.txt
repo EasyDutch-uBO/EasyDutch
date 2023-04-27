@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 06:21:59 +0000
+! Last updated: Thu, 27 Apr 2023 06:26:23 +0000
 !
 ! 2023-04-27
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
@@ -971,8 +971,6 @@ voetbaluitslagen.com##.cta
 menttv.be##.cta-container
 touretappe.nl##.desktopad
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp-space
-dating-zoeken.nl,hete-sexcontacten.nl,milf-overzicht.nl,sexdating-afspraak.nl,sexdating-gids.be,sexdatinggids.be,vrouwensexdate.nl##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-skin-tango))
-geile-sexcontacten.be##.d-lg-block:has-text(Advert)
 autobahn.eu##.d-none.mb-3:has(a[target="_blank"][rel="noopener"])
 duurzaamnieuws.nl##.duurz-content:has([data-advadstrackid])
 turksemedia.nl##.easingslider
