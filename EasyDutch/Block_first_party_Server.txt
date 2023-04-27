@@ -18,7 +18,6 @@
 ||content1.zoom.nl^
 ||content2.besteproduct.nl^
 ||content2.kieskeurig.nl^
-||content2.pu.nl^
 ||content2.wasmachines.nl^
 ||content2.zoom.nl^
 ! 2021-12-04
