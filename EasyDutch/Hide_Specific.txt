@@ -1394,9 +1394,7 @@ basketball.nl##div[data-component="partner"]
 !#if env_mobile
 nu.nl##div[data-type="tealium"]
 !#endif
-motokicx.com##div[id^="adtemplate"]
 sexjobs.nl##div[id^="banner-"]
-motokicx.com##div[id^="bannerhome"]
 dutchcryptotalk.com##div[id^="dutch-"]:has(a[href^="https://bitvavo.com/"])
 handbalinside.nl##div[id^="handb-"]
 voetbalbelgie.be##div[id^="voetb-"]
