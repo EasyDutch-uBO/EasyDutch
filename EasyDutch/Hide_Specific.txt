@@ -11,6 +11,7 @@ id.nl##.rounded-md:has(p[class^="call-to-action"])
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
 kicxstart.nl##.elementor-widget-container > a:not([href*="https://kicxstart.nl/"]) > img:upward(.elementor-widget-image)
 loemedia.nl##.widgettitle:has-text(/advert|banner/i):upward(.widget)
+nedporno.com##.publ11s-b0ttom
 messianieuws.nl##.sb-widget:has(a[href][target="_blank"][rel="noopener"] > img[width="300"])
 messianieuws.nl##.widget-title:has-text(Sponsors):upward(.sb-widget)
 motorrijder.be##.elementor-widget-container > a:not([href*="https://motorrijder.be"]) > img:upward(.elementor-widget-image)
@@ -1119,7 +1120,6 @@ oneworld.nl##.promotion-block
 openingsurengids.be##.promSB
 girlpowerradio.nl##.proradio-owl-sponsorcarousel
 hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
-nedporno.com##.publ1s-b0ttom
 gocar.be##.pub-leaderboard-top
 oozo.nl##.rcntctr
 motocrossplanet.nl##.rcol-titel:has-text(Advert)
@@ -1224,7 +1224,6 @@ onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
 streamwijzer.be##.widget:has(a[href*=".bn5x.net/"])
 geilefotoverhalen.nl##.widget:has(iframe[src*="/aff_ad?"])
 mannennieuws.nl##.widget:has(img[src*="banner"])
-netxxx.nl##.widget:has(img[src])
 bol-an.nl##.widget:has-text(Sponsors)
 hoekschnieuws.nl##.widget[class^="td_block_template"]:has-text(Advert)
 autoblog.nl##.widget_ab_sidebar
@@ -1275,15 +1274,12 @@ ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
 schie.nu##[class^="my-"]:has(img[src*="/images/banner/"])
 appletips.nl##[class^="ph_block"]
 visserijnieuws.nl##[class^="row advertentie-"]:not([class*="advertentie-1"])
-pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 gaynews.nl##[class^="va"]:has([class*="banner"])
-negerinnensexdating.eu##[class="rand nomobile"]:has(a[href*="net69.nl/genre"])
 kinkysexcontactonline.nl,neukplaza.nl,sexdatingholland.com,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"])
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 pornokartel.nl##[href*="pornokartel.nl/adverteren"]
 sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
-seksmet.nl##[href^="https://dt51.net/"]
 beeldbelsex.com##[href^="https://islive.com/"]
 villamedia.nl##[href^="https://www.anp.nl/start"]
 totaaltv.nl##[href^="https://www.totaaltv.nl/plugins/banner/"]
