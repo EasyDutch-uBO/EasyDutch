@@ -1131,7 +1131,6 @@ nnieuws.be##.region-banner-diamond
 regionoordkop.nl##.regio-widget
 xmissy.nl##.rightbar > :has([src^="https://ads."])
 schaefer-shop.nl##.row > [class]:has(.sfr-pdp-section[id$="crossseller"])
-zeelandnet.nl##.row--bnr-between
 rtlboulevard.nl##.rtldart
 softonic.nl##.sam-slot
 scholieren.com##.searchvertorial
