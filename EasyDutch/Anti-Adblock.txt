@@ -3,6 +3,8 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-04-27
+routenet.nl,trafficnet.nl##+js(set, canRunAds, true)
 ! 2023-04-22
 ! https://github.com/AdguardTeam/AdguardFilters/issues/148866
 ! https://github.com/AdguardTeam/AdguardFilters/commit/307002a2486b1e3e0276fa8b975def66ad69539b
