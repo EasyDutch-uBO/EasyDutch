@@ -4,6 +4,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-27
+amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
+amateursexstart.nl##.g
 apintie.sr###left-inside > div[style$="px;"]:not(:has(a[href]))
 erotischemassages.com##.widget:has(iframe[data-src*="banner"]):upward(.footer-widget-zone)
 id.nl##.adunitContainer:upward(div[class^="flex items-center"])
