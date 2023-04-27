@@ -3,6 +3,9 @@
 ! Description: Whitelist for specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-04-27
+@@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|sexdatingholland.com|zinomteneuken.nl
+@@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|sexdatingholland.com|zinomteneuken.nl
 ! 2023-04-26
 @@||prtawe.com/embed/tbplyr/$script,domain=camsexbabe.nl
 @@||pt.ctsdwm.com/tube-player/$subdocument,domain=camsexbabe.nl|sproeiendekutjes.nl
@@ -37,8 +40,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=skoften.net
 ! 2022-03-17
 @@||sliedrecht24.nl/wp-content/uploads/*/Banner-300x250*.jpg$image,1p
-! 2022-03-12
-@@/images/volgende.gif$image,1p,domain=privesexgids.nl|sexdatingholland.com|sexpret.com|studentesexcontact.nl|tienersexpret.nl|zinomteneuken.nl
 ! https://github.com/AdguardTeam/AdguardFilters/issues/108243
 @@||cdn.ebayclassifieds.net/bff/static/*/MyAds.$domain=2dehands.be|marktplaats.nl
 ! 2022-01-05
