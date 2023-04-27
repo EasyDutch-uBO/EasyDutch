@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 15:01:15 +0000
+! Last updated: Thu, 27 Apr 2023 15:06:11 +0000
 !
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -17,6 +17,8 @@ klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Webcamsex/i)
 loemedia.nl##.widgettitle:has-text(/advert|banner/i):upward(.widget)
 nedporno.com##.publ11s-b0ttom
 nedporno.com##[class^="r11ght-pl4yer"]
+noordernieuws.nl##.g
+noordernieuws.nl##.sidebar-block:has-text(/Advert/i)
 messianieuws.nl##.sb-widget:has(a[href][target="_blank"][rel="noopener"] > img[width="300"])
 messianieuws.nl##.widget-title:has-text(Sponsors):upward(.sb-widget)
 motorrijder.be##.elementor-widget-container > a:not([href*="https://motorrijder.be"]) > img:upward(.elementor-widget-image)
@@ -1299,7 +1301,6 @@ omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_ima
 geileverhalen.nl##[id^="menu-item-"] > [href^="https://go2.go2cloud.org/aff_ad"]
 rtvkrimpenerwaard.nl##[id^="pg-1407"]:has-text(Vrienden):has([class^="sp-logo-carousel"] .sp-lcp-logo-wrapper):has(img[src])
 top40.nl##[id^="sky"]:has(script:has-text(AdvertSlot))
-noordernieuws.nl##[id^="slideshowwidget"]:has(img[src$=".gif"])
 sciencelink.net##[id^="sponsored-content_"]
 itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
 watchfaces.be##[id^="text"]:has(.adsbygoogle)
