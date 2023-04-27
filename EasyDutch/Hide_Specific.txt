@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 15:53:44 +0000
+! Last updated: Thu, 27 Apr 2023 16:06:30 +0000
 !
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -390,7 +390,7 @@ vitesse.nl##.row [id^="form"] + .box > .box-body:has(img)
 vives.nl##[class*="right"] .wpb_wrapper:has(img[height="520"][src])
 vnexplorer.net###ads_right_scroll_single_sidebar
 voetbalnederland.nl###submenubanner
-voetbalrotterdam##div[class^="r89-desktop"]
+voetbalrotterdam.nl##div[class^="r89-desktop"]
 willem-ii.nl##.advert
 ! 2022-06-28
 groningerkrant.nl##.widget:has(.widget-title:has-text(Vrienden))
