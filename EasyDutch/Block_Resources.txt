@@ -209,7 +209,6 @@
 ! 2022-05-04
 ||onsoranje.nl/sites/*/images/sponsorlogos/
 ||proshop.nl/Images/*Top-Banner$image
-||zoekhulp.nl/img/bnr-
 ! 2022-04-26
 ||radioeenhoorn.nl/images/banners$image
 ||kechtube.com^$popunder
