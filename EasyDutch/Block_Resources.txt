@@ -7,6 +7,7 @@
 ||dailypic.nl/banners/$image
 ||kinkymedia.nl/wp-content/uploads/kousenenpanties-lingerie*.jpg$image
 ||milfdatingnederland.nl/banner$image
+||motokicx.com/wp-content/uploads/*/Motokicx*.gif$image
 ||msa.paginabanner.nl/banners/$image
 ! 2023-04-26
 ||402automotive.com/files/*/files/images/banners/*.$image,domain=402online.com
