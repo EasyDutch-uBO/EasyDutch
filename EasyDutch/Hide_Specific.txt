@@ -1373,7 +1373,6 @@ vagina.nl##div[id^=video-fish-hook]
 meerradio.nl##div[id="pristineslider.12"]
 waldnet.nl##div[style$="0px;"]:has(.adsbygoogle)
 apintie.sr##div[style*="width:300px; height:250px;"]
-routenet.nl##div[style*="width:730px; height:90px;"]
 kinderspelletjes.be,kinderspelletjes.nl##div[style*="width:970px"]:has-text(Reclame)
 landbouwgrond.nu##div[style]:has(.adsbygoogle)
 apintie.sr##div[style^="width:300px; height:180px;"]
