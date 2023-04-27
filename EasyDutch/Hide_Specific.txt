@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 14:34:04 +0000
+! Last updated: Thu, 27 Apr 2023 14:52:49 +0000
 !
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -12,6 +12,8 @@ id.nl##.adunitContainer:upward(div[class^="flex items-center"])
 id.nl##.rounded-md:has(p[class^="call-to-action"])
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
 kicxstart.nl##.elementor-widget-container > a:not([href*="https://kicxstart.nl/"]) > img:upward(.elementor-widget-image)
+klapjes.nl##a[href*="/adverteren"]:upward(2)
+klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Webcamsex/i)
 loemedia.nl##.widgettitle:has-text(/advert|banner/i):upward(.widget)
 nedporno.com##.publ11s-b0ttom
 nedporno.com##[class^="r11ght-pl4yer"]
@@ -582,7 +584,6 @@ thatsgaming.nl##[id^="menu-item"]:has-text(/gokken|casino/i)
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
 yourlittleblackbook.me##[id*="banner"]
 ! 2022-04-26
-pornopower.nl##[id^="block"]:has([src$="/jads.js"])
 sexcam-mokkels.nl##[id^="custom_html-"]:has(iframe[data-src*="jygotubvpyguak.com"])
 sexcontact-xxx.be##.moduletable:has([src*="2k19.nl"])
 sexcontact-xxx.be##.moduletable:has([src*="affilaxy.com/promos/"])
@@ -715,9 +716,6 @@ hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
 helpmij.nl##[id^="navbar_notice"]:has(.adsbygoogle)
 ! 2022-01-19
-klapjes.nl##a[href*="/adverteren"]:upward(2)
-klapjes.nl##div[class*="Sidebar"] > [class]:has-text(webcamsex)
-klapjes.nl##div[class*="Sidebar"] img[src*="/hoomezaz"][src*=".gif"]:upward(3)
 wettelijke-feestdagen.nl##.advertentieBanner
 wettelijke-feestdagen.nl###reclame
 kalender-365.nl###dish-top-desktop
@@ -768,14 +766,12 @@ kranenwebsite.nl###bannerdiv
 autowereld.nl###banner-lister-top
 brandweerspotters.nl,coc.nl,fanclubbarcelona.nl###banners
 almere-nieuws.nl###banner-text2
-qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
 willem-ii.nl###block-views-block-view-business-partners
 willem-ii.nl###block-views-block-view-main-sponsor
 willem-ii.nl###block-views-block-view-shirt-sponsor
 asex.nl###bottum_ad
 takecare4.eu###branding > .clearfix
 indiexl.nl###carousel-indiexl_partners_carousel_widget
-girlpics.nl###cato_top:has-text(Ads)
 almere-nieuws.nl###containerx
 vnexplorer.net###div_the_mgid
 oops.nl###dropinboxv2cover
@@ -800,11 +796,9 @@ eindexamens.nu###leaderboard
 made-in.be###leaderboard_row
 autosport.nl###liggende-banner
 greenkeeper.nl###lijst_logos
-vlaanderen-sexdate.be###linkpartners > :has(.homebanner)
 autowereld.nl###mainbanner
 schiedamsnieuws.nl###media_image-3
 schiedamsnieuws.nl###media_image-4
-gratiscams.nl###menuinner > ul#menuinner > .cat
 surinameview.com###nav_menu-2
 dutchitchannel.nl###news li:has-text(Adv)
 pokeren.nl###onetime-popup
@@ -838,7 +832,7 @@ starnieuws.com###topstory > div:has-text(Advertentie)
 hotradiohits.nl###tpl_banners
 pornozot.com###video-right
 nlsexfilmpjes.com###videos_div_v > .clear_line
-dominant.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
+dominant.be,sextoons.be###video-sidebar-wrap
 petities.com###visible_ad_1
 rtl.be###w-leaderboard
 tijd.be##.ac_paragraph:has(.bb_wrapper)
@@ -951,8 +945,6 @@ srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
 rkcwaalwijk.nl##.carousel
 tijd.be##.c-articlelistitem:has([id="adhese_sponsoredstory"])
 tijd.be##.c-articleteaser--sponsored
-girlpics.nl##.cato_content:nth-of-type(2)
-girlpics.nl##.cato_footer:nth-of-type(3)
 motorfietsblog.nl##.cbcontent
 srnieuws.com##.centered.card-view:has([id^="taboola"])
 ngf.nl##.c-footer-sponsors
@@ -961,7 +953,6 @@ leerlingen.com##.clearfix.widget > :has(.sponsors)
 nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 financialinvestigator.nl##.c-newsList__story--partnernews
 rd.nl##.codalt-container
-pornopower.nl##.code-block-1
 proximus.be##.col.pix-sidebar
 tvgids.tv##.col-left
 tvgids.tv##.col-right
