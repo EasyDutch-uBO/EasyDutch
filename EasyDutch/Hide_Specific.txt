@@ -1203,7 +1203,6 @@ mo.be##.view-id-banners_top
 nnieuws.be##.view-vw-banners.view
 rubenweytjens.be##.view-weather-ads-view
 barneveldsekrant.nl,edestad.nl##.w-300x.RM5
-osuradio.nl##.wdslider
 telegraaf.nl##.WebpushOptin__main
 neukengratis.be,sexdate-xxx.be##.well:has(.bannergroup)
 transfermarkt.nl##.werbung
