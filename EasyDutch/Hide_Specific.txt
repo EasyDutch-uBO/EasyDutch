@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 06:26:23 +0000
+! Last updated: Thu, 27 Apr 2023 06:29:24 +0000
 !
 ! 2023-04-27
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
@@ -1068,7 +1068,6 @@ scholieren.com##.min-h-90
 !#if env_mobile
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
-video18.nl##.modal
 radioeenhoorn.nl##.module_round_box
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
 financialinvestigator.nl##.mpu
