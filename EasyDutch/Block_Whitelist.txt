@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Thu, 27 Apr 2023 18:50:39 +0000
+! Last updated: Thu, 27 Apr 2023 18:53:28 +0000
 !
 ! 2023-04-27
 @@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|sexdatingholland.com|zinomteneuken.nl
@@ -63,7 +63,6 @@
 @@||lexozfldkklgvc.com/cp/webcam_gallery/index.php$subdocument,domain=sexmeid.nl
 @@||lexozfldkklgvc.com/assets/cp/js/webcam_gallery/iframe_handler.js$script,domain=sexmeid.nl
 ! 2021-05-19
-@@||aweprt.com/embed/$script,domain=cumcams.nl
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=cumcams.nl
 ! 2021-05-07
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
