@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 12:02:57 +0000
+! Last updated: Thu, 27 Apr 2023 12:22:42 +0000
 !
 ! 2023-04-27
 erotischemassages.com##.widget:has(iframe[data-src*="banner"]):upward(.footer-widget-zone)
@@ -1394,9 +1394,7 @@ basketball.nl##div[data-component="partner"]
 !#if env_mobile
 nu.nl##div[data-type="tealium"]
 !#endif
-motokicx.com##div[id^="adtemplate"]
 sexjobs.nl##div[id^="banner-"]
-motokicx.com##div[id^="bannerhome"]
 dutchcryptotalk.com##div[id^="dutch-"]:has(a[href^="https://bitvavo.com/"])
 handbalinside.nl##div[id^="handb-"]
 voetbalbelgie.be##div[id^="voetb-"]
