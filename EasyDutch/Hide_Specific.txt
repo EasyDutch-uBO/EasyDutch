@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-04-27
+apintie.sr###left-inside > div[style$="px;"]:not(:has(a[href]))
 erotischemassages.com##.widget:has(iframe[data-src*="banner"]):upward(.footer-widget-zone)
 id.nl##.adunitContainer:upward(div[class^="flex items-center"])
 id.nl##.rounded-md:has(p[class^="call-to-action"])
