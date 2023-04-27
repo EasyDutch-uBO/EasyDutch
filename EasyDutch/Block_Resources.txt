@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 27 Apr 2023 06:20:13 +0000
+! Last updated: Thu, 27 Apr 2023 06:56:27 +0000
 !
 ! 2023-04-27
 ||dailypic.nl/banners/$image
@@ -68,6 +68,7 @@
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
 ||lustmagazine.nl/mediafiles/*.gif$domain=wraaksex.nl
 ||tiener-sexverhalen.nl/wp-content/*.gif$image
+||tiener-sexverhalen.nl/wp-content/uploads/*/sm-speeltjes-nl.webm
 ||tussenonstwee.nl/wp-content/uploads/*/tu_banner*$image
 ||xmissy.nl/skins/_customplayers/*footer.jpg$image
 ! 2023-04-24 https://github.com/uBlockOrigin/uAssets/issues/17747
