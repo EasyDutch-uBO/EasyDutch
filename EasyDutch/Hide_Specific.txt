@@ -1068,7 +1068,6 @@ scholieren.com##.min-h-90
 !#if env_mobile
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
-video18.nl##.modal
 radioeenhoorn.nl##.module_round_box
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
 financialinvestigator.nl##.mpu
