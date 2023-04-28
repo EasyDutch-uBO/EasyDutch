@@ -3,6 +3,8 @@
 ! Description: Filters to block general URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-04-28
+/aff_ad?$frame
 ! https://github.com/easylist/easylistdutch/commit/95d1b75372ec4f93b15cc420717bac47dfc87486
 /tekst_advertentie_
 ! 2021-06-29
