@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 27 Apr 2023 18:58:21 +0000
+! Last updated: Fri, 28 Apr 2023 06:46:11 +0000
 !
+! 2023-04-28
+crypto-insiders.nl##article.ci-ad-card
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
 amateursexstart.nl##.g
@@ -1331,7 +1333,6 @@ nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 ajax1.nl##a[href^="https://www.awin1.com/cread.php?"]
 bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
 gostreaming.nl##a[rel*="sponsored"]
-crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
 racexpress.nl##article-side-block:has(a[href][target="_blank"] > img[width="310"][height="200"])
 autozine.nl##aside > .ad
 romagazine.nl##aside > .textwidget [src*="wp.com/romagazine.nl/"][src*="/wp-content/uploads/"][src$="?w=665"]
