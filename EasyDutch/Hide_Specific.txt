@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 28 Apr 2023 06:57:36 +0000
+! Last updated: Fri, 28 Apr 2023 07:00:56 +0000
 !
 ! 2023-04-28
 crypto-insiders.nl##article.ci-ad-card
@@ -1043,7 +1043,6 @@ funnygames.nl,funnygames.be,spele.be,spele.nl##.is-billboard
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-skyscraper
 startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
 almere-nieuws.nl##.jeg_container > .jeg_container:has(.jeg_ad)
-guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
 iex.nl##.js-banner
 eurocampings.nl##.js-mock-banner
 waldnet.nl##.kolom_haad > div[style="height: 300px;"]
