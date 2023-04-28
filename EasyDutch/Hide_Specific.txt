@@ -1298,7 +1298,6 @@ tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Webcamsex|Sex contact/)
 dutchporntube.nl##[id^="custom_html"]:has-text(Werelds Beste)
 geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
 aafm.nl##[id^="loaBlock"]:has-text(Advertentie)
-dutchcryptotalk.com##[id^="media_image"]:has([href*="/bitvavo"])
 kanaancourant.nl##[id^="media_image-"]:has(a[href][target="_blank"][rel="noopener"])
 omroeprsh.nl##[id^="media_image-"]:has(img[width="300"]):not(:has([href*="youtube"]))
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
@@ -1369,7 +1368,6 @@ basketball.nl##div[data-component="partner"]
 nu.nl##div[data-type="tealium"]
 !#endif
 sexjobs.nl##div[id^="banner-"]
-dutchcryptotalk.com##div[id^="dutch-"]:has(a[href^="https://bitvavo.com/"])
 handbalinside.nl##div[id^="handb-"]
 voetbalbelgie.be##div[id^="voetb-"]
 vagina.nl##div[id^=video-fish-hook]
