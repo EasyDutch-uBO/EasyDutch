@@ -5,6 +5,7 @@
 !
 ! 2023-04-28
 crypto-insiders.nl##article.ci-ad-card
+nieuwsfiets.nu##.adv-link:upward(.wpb_wrapper)
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
 amateursexstart.nl##.g
@@ -292,7 +293,6 @@ hollywoodhuizen.nl##.a-widget
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:not(.sharedaddy):not(:has(img))
 radiomonique.am##.qt-sponsors
 nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
-nieuwsfiets.nu##.ult-content-box > a[href]:not([href*="nieuwsfiets.nu"]):not([href*="questionpro.com"])
 nl.motorsport.com##.ms-side-items--with-banner
 mr-online.nl##a[href="/partner/profielpartner/"]:upward(.elementor-widget-wrap)
 gooieneembode.nl##[advobject]:upward(.bg-gray-100)
@@ -1245,7 +1245,6 @@ voetbal4u.com##.widget-container:has([id^="text-"]> h4)
 indebuurt.nl##.widget-tabs--partner
 telegraaf.nl##.withBanners
 eindtijdklok.org##.wpa
-nieuwsfiets.nu##.wpb_raw_html[class*="us_custom_"]:has(.wpb_wrapper)
 dekrantnieuws.nl,destreekkrant.nu##.wpb_wrapper > .a-single
 bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
