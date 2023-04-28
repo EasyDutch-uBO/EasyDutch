@@ -6,6 +6,7 @@
 ! 2023-04-28
 /https\:\/\/nieuwsfiets\.nu\/wp-content\/uploads\/.*\/.*(?:banner-(?!mis|tip).*|\.gif)/
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
+||top40.nl/*/widget/uploads/ankeiler/$image
 ! 2023-04-27
 ||cdn.amateursexstart.nl/wp-content/uploads/*/*.gif$image
 ||cdn77.org/*/banners/crimesite/$image,domain=crimesite.nl
