@@ -1071,9 +1071,6 @@ mediacourant.nl##.mc-adv
 eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.menubanner:has([src^="ads"])
 mijn-tv-gids.be##.midzone
 scholieren.com##.min-h-90
-!#if env_mobile
-nudeviste.be,nudevista.nl##.mob_adv
-!#endif
 radioeenhoorn.nl##.module_round_box
 financialinvestigator.nl##.mpu
 wintersport.nl##.mq-banner:not(:has-text(Reisverzekering))
