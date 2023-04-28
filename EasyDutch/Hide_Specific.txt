@@ -1,10 +1,12 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 28 Apr 2023 07:32:09 +0000
+! Last updated: Fri, 28 Apr 2023 07:46:18 +0000
 !
 ! 2023-04-28
 crypto-insiders.nl##article.ci-ad-card
+leiderdorpsweekblad.nl##[advobject]:upward(.bg-gray-100)
+leiderdorpsweekblad.nl##.content-start > .items-center:has([advobject])
 nieuwsfiets.nu##.adv-link:upward(.wpb_wrapper)
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -866,7 +868,6 @@ dissident.one##.adsbygoogle
 parool.nl,trouw.nl##.ad--section
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 dorpsklanken.online##.ads-mobiel
-leiderdorpsweekblad.nl##.adUnderArticle
 adodenhaag.nl,spelletje.nl##.adv
 folderz.nl,intermediair.nl,spel.nl,spelletjes.nl##.advert
 deoudrotterdammer.nl##.advertentie
