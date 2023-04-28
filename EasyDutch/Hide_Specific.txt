@@ -1331,7 +1331,6 @@ nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 ajax1.nl##a[href^="https://www.awin1.com/cread.php?"]
 bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
 gostreaming.nl##a[rel*="sponsored"]
-racexpress.nl##article-side-block:has(a[href][target="_blank"] > img[width="310"][height="200"])
 autozine.nl##aside > .ad
 romagazine.nl##aside > .textwidget [src*="wp.com/romagazine.nl/"][src*="/wp-content/uploads/"][src$="?w=665"]
 handbalstartpunt.nl##aside.widget-banner
