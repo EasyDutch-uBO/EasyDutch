@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Third-Party Server
 ! Description: Filters for blocking only general third-party servers on Dutch websites
-! Last updated: Thu, 27 Apr 2023 05:42:58 +0000
+! Last updated: Fri, 28 Apr 2023 06:11:08 +0000
 !
 ! 2023-04-27
 ! https://www.rd.nl/
@@ -104,6 +104,7 @@
 ||maakmedia.nl^$3p
 ||midhold.nl^$3p
 ||mt67.net^$3p
+||ndt5.net^$3p
 ||nonstoppartner.net^$3p
 ||online-banners.nl^$3p
 ||partner.bol.com^$3p
