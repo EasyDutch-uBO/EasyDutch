@@ -5,8 +5,7 @@
 !
 ! 2023-04-28
 crypto-insiders.nl##article.ci-ad-card
-leiderdorpsweekblad.nl##[advobject]:upward(.bg-gray-100)
-leiderdorpsweekblad.nl##.content-start > .items-center:has([advobject])
+laardercourant.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject])
 nieuwsfiets.nu##.adv-link:upward(.wpb_wrapper)
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -351,7 +350,6 @@ mijn-tv-gids.be##[id^="ads-row"]
 mijnserie.nl##.sponsors-billboard:upward(.fullWidthWhite)
 limburger.nl##.widget-grid--partnerbox
 leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
-laardercourant.nl##[advobject]:upward(2)
 midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
 motocrossplanet.nl##.background_link
 oisterwijknieuws.nl##.sidebar
