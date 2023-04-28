@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 28 Apr 2023 07:23:37 +0000
+! Last updated: Fri, 28 Apr 2023 07:32:09 +0000
 !
 ! 2023-04-28
 crypto-insiders.nl##article.ci-ad-card
@@ -18,8 +18,8 @@ kicxstart.nl##.elementor-widget-container > a:not([href*="https://kicxstart.nl/"
 klapjes.nl##a[href*="/adverteren"]:upward(2)
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Webcamsex/i)
 loemedia.nl##.widgettitle:has-text(/advert|banner/i):upward(.widget)
-nedporno.com##.publ11s-b0ttom
-nedporno.com##[class^="r11ght-pl4yer"]
+nedporno.com##[class^="pub"][class$="ttom"]
+nedporno.com##[class^="r"][class*="ght-pl"][class*="yer"]
 noordernieuws.nl##.g
 noordernieuws.nl##.sidebar-block:has-text(/Advert/i)
 messianieuws.nl##.sb-widget:has(a[href][target="_blank"][rel="noopener"] > img[width="300"])
