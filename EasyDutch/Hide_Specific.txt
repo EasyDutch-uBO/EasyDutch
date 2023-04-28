@@ -1,11 +1,12 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 28 Apr 2023 07:52:41 +0000
+! Last updated: Fri, 28 Apr 2023 08:04:20 +0000
 !
 ! 2023-04-28
 crypto-insiders.nl##article.ci-ad-card
-laardercourant.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject])
+arenalokaal.nl,gooieneembode.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl##.component__pubble-banner:has([advobject])
+arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
 nieuwsfiets.nu##.adv-link:upward(.wpb_wrapper)
 ! 2023-04-27
 amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
@@ -206,8 +207,6 @@ wijkkrantzuid.nl##.widget_media_image:not(:has(a[href^="https://wijkkrantzuid.nl
 rodi.nl##[id^="gtm-article-lb"]
 rodi.nl##[id^="gtm-article-mpu"]
 drimble.nl##.ASTAGQ_Billboard
-dehavenloods.nl##[advobject]:upward(.bg-gray-100)
-dehavenloods.nl##.content-start > .items-center:has([advobject])
 ! 2022-12-08
 accountancyvanmorgen.nl##.rc-banner-inner-wrapper
 accountancyvanmorgen.nl,salarisvanmorgen.nl##.rc-banner-leaderboard
@@ -260,7 +259,6 @@ woorden.org##div[style] [id*="728x90"]:upward(3)
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,capelsdagblad.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
 ! 2022-09-09
 gooieneembode.nl##[href^="/nieuws/advert"]:upward(2)
-gooieneembode.nl##.content-start > :has([advobject]):has-text(Uit de krant)
 ! 2022-09-01
 minimumloon.nl##.header-widget-region > .col-full
 ! 2022-08-29
@@ -296,9 +294,6 @@ radiomonique.am##.qt-sponsors
 nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
 nl.motorsport.com##.ms-side-items--with-banner
 mr-online.nl##a[href="/partner/profielpartner/"]:upward(.elementor-widget-wrap)
-gooieneembode.nl##[advobject]:upward(.bg-gray-100)
-weespernieuws.nl##[advobject]:upward(.bg-gray-100)
-weespernieuws.nl##.content-start > :has([advobject])
 tippelpagina.nl##.widget:has-text(/advertentie|aanraders/i)
 immo.vlan.be##.partners_immo
 vakantieweb.be##.partners-immo
@@ -383,8 +378,6 @@ hollywoodhuizen.nl##rssapp-carousel
 tennisvlaanderen.be##.commercial-banner
 hoekschnieuws.nl##.td-a-rec.td-a-rec-id-content_bottom > a[href]
 historiek.net##.ablok
-hetkrantje-online.nl##[advobject]:upward(.bg-gray-100)
-hetkrantje-online.nl##.content-start > .items-center:has([advobject])
 h2owaternetwerk.nl##.bannergroup:upward(.module)
 h2owaternetwerk.nl##.ja-banner
 gva.be##main .widgetgroup > .grid
@@ -461,8 +454,6 @@ aavisie.nl##[id^="loaBlock"]:has-text(Advertentie)
 247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/) + section
 a1mediagroep.nl##.reclame
 apintie.sr##div[style*="width:300px; height:200px;"]
-arenalokaal.nl##.content-start > .items-center:has([advobject])
-arenalokaal.nl##[advobject]:upward(.bg-gray-100)
 ! 2022-06-23
 knack.be##.js-partner-content
 ! 2022-06-22
@@ -917,7 +908,6 @@ radiomonique.am##.bannerswidget
 sexjobs.nl##.banner-wrapper
 dutchitchannel.nl##.bannner
 feyenoordpings.nl##.betcity-intro-wrapper
-nnp.nl##.bg-gray-100:has([advobject])
 berekenhet.nl##.bh-ads
 bieos-omroep.nl##.bieos-widget
 autosport.nl##.bigbanner
