@@ -8,12 +8,12 @@
 ||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_CoverOBlente-1.jpg$image
 ||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_LekkerDoenLente.jpg$image
 ||admin.ditjesendatjes.nl/wp-content/uploads/*-footer-DenD.png$image
-||admin.ditjesendatjes.nl/wp-content/uploads/dirk.png$image
+||admin.ditjesendatjes.nl/wp-content/uploads/dirk$image
 ||admin.ditjesendatjes.nl/wp-content/uploads/Logo_Dirck$image
 ! 2023-04-28
 /https\:\/\/nieuwsfiets\.nu\/wp-content\/uploads\/.*\/.*(?:banner-(?!mis|tip).*|\.gif)/
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
-||top40.nl/*/widget/uploads/ankeiler/$image
+||top40.nl/*/widget/uploads/ankeiler/$imaege
 ! 2023-04-27
 ||cdn.amateursexstart.nl/wp-content/uploads/*/*.gif$image
 ||cdn77.org/*/banners/crimesite/$image,domain=crimesite.nl
