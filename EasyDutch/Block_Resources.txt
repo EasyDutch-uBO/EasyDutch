@@ -3,6 +3,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-05-01
+||culturescope.nl/wp-content/uploads/2016/11/FAIRY-*.png$image
 ! 2023-04-28
 /https\:\/\/nieuwsfiets\.nu\/wp-content\/uploads\/.*\/.*(?:banner-(?!mis|tip).*|\.gif)/
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
