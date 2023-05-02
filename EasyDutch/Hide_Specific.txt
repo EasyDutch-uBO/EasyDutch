@@ -4,6 +4,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-05-02
+alphens.nl##[href^="/banner-click.html"]:upward(1)
 sexguide.nl##div.PREMEscorts:has-text(Sponsors)
 sexguide.nl##div.vipEscortModel:has-text(Sponsors)
 sexguide.nl##.moreEscortM:has-text(Sponsors)
