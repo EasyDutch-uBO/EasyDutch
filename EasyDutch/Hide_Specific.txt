@@ -1,11 +1,20 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 02 May 2023 07:00:07 +0000
+! Last updated: Tue, 02 May 2023 17:40:53 +0000
 !
 ! 2023-05-02
 alphens.nl##[href^="/banner-click.html"]:upward(1)
+diecourant.co.za##section[id^=smartslider]
+diecourant.co.za###secondary
+overstrandherald.co.za##.wpb_widgetised_column .widget_text
 pen.nl##aside #rclm_block:has-text(advert)
+pretoriafm.co.za##.bannerswidget
+republikein.com.na##.articleBody > aside
+republikein.com.na##.topBanner
+republikein.com.na##.hidden-xs.az-adverts h2:has-text(/Advert/i)
+republikein.com.na##.hidden-xs.az-adverts > aside:has(a[href*="//nmh.my.na/advert"])
+republikein.com.na##aside[style] ~ aside:not([style])
 sexguide.nl##div.PREMEscorts:has-text(Sponsors)
 sexguide.nl##div.vipEscortModel:has-text(Sponsors)
 sexguide.nl##.moreEscortM:has-text(Sponsors)
