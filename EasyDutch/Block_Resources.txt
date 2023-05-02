@@ -12,6 +12,8 @@
 ||pen.nl/wp-content/uploads/*/cityplaza360x96.jpg$image
 ||pen.nl/wp-content/uploads/*/banner*$image
 ||pen.nl/wp-content/uploads/*/*adv$image
+||racesport.nl/wp-content/uploads/*/*Banner$image
+||racesport.nl/wp-content/uploads/*/*.gif$image
 ||cdn.citytourgirls.com/static/bn/$image,domain=sexguide.nl
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ||wegdamnieuws.nl/wp-content/uploads/*/*/*.gif$image
@@ -267,8 +269,6 @@
 /images/*.gif$image,domain=123video.nl|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexdatingholland.com|sexfun.nl|sexverhalencams.com|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 ! 2022-03-11
 ||maarkelsnieuws.nl/banners/$image
-! 2022-02-25
-||racesport.nl/wp-content/uploads/*/TK_Kickoff.jpg$image
 ! 2022-02-14
 ||123inkt.nl/images/oren/*$image
 ! 2022-02-08
