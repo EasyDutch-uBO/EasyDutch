@@ -10,6 +10,7 @@
 ||alphens.nl/resize/upload/*/Leaderbord$image
 ||alphens.nl/upload/*/*banner$image
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
+||diecourant.co.za/wp-content/uploads/*/*-banner
 ||pen.nl/wp-content/uploads/*/cityplaza360x96.jpg$image
 ||pen.nl/wp-content/uploads/*/banner*$image
 ||pen.nl/wp-content/uploads/*/*adv$image
