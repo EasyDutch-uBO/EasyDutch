@@ -11,6 +11,7 @@ sexguide.nl##div.vipEscortModel:has-text(Sponsors)
 sexguide.nl##.moreEscortM:has-text(Sponsors)
 sexguide.nl##.topBanners
 sexguide.nl##.blogBanners
+wegdamnieuws.nl##.ads-stack
 ! 2023-05-01
 belgiancycling.be##.logo-slider
 cryptosjop.nl##iframe[src^="https://bitvavo.com/assets/static/widget/trade.html"]:upward(.td_block_wrap)
