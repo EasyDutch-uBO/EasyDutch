@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 02 May 2023 05:44:06 +0000
+! Last updated: Tue, 02 May 2023 07:00:07 +0000
 !
 ! 2023-05-02
 alphens.nl##[href^="/banner-click.html"]:upward(1)
@@ -11,6 +11,7 @@ sexguide.nl##div.vipEscortModel:has-text(Sponsors)
 sexguide.nl##.moreEscortM:has-text(Sponsors)
 sexguide.nl##.topBanners
 sexguide.nl##.blogBanners
+wegdamnieuws.nl##.ads-stack
 ! 2023-05-01
 belgiancycling.be##.logo-slider
 cryptosjop.nl##iframe[src^="https://bitvavo.com/assets/static/widget/trade.html"]:upward(.td_block_wrap)
