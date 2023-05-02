@@ -249,9 +249,6 @@
 ! 2022-04-12
 ||farmaline.be/assets/banners/
 ! 2022-04-02
-||binnenvaartkrant.nl/wp-content/uploads/*/BVK.jpg$image
-||binnenvaartkrant.nl/wp-content/uploads/*/viking_river_cruises_728x90px.jpg$image
-||binnenvaartkrant.nl/wp-content/uploads/*/*_lb_abato_*.jpg$image
 ||tools-affil2.com/rtb/index.php$domain=1001erotiekverhalen.nl
 ||vlootschouw.nl/wp-content/uploads/*/bottom-banner*
 ! 2022-03-31
