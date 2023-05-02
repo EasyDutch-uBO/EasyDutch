@@ -1,8 +1,14 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 01 May 2023 17:29:55 +0000
+! Last updated: Tue, 02 May 2023 04:01:08 +0000
 !
+! 2023-05-02
+sexguide.nl##div.PREMEscorts:has-text(Sponsors)
+sexguide.nl##div.vipEscortModel:has-text(Sponsors)
+sexguide.nl##.moreEscortM:has-text(Sponsors)
+sexguide.nl##.topBanners
+sexguide.nl##.blogBanners
 ! 2023-05-01
 belgiancycling.be##.logo-slider
 cryptosjop.nl##iframe[src^="https://bitvavo.com/assets/static/widget/trade.html"]:upward(.td_block_wrap)
@@ -188,7 +194,6 @@ nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 stopdebankiers.com##.adsbygoogle:upward([id^="custom_html"])
 ! 2023-01-06
 androidplanet.nl,iphoned.nl##div[data-name="dynamic-content-injected"]:upward(2)
-sexguide.nl##.moreEscortM:has-text(Sponsors)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
 ! 2023-01-04
@@ -612,9 +617,6 @@ ninefornews.nl##.mag-box:has(.gofollow)
 ! 2022-04-19
 skoften.net##.promoted-entry-in-content
 ! 2022-04-15
-sexguide.nl##.topBanners
-sexguide.nl##.blogBanners
-sexguide.nl##div.vipEscortModel:has-text(Sponsors)
 kieskeurig.nl##div[id*="gpt-ad"]
 ! 2022-04-14
 camjam.nl##.banner
