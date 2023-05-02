@@ -9,6 +9,7 @@ diecourant.co.za##section[id^=smartslider]
 diecourant.co.za###secondary
 overstrandherald.co.za##.wpb_widgetised_column .widget_text
 pen.nl##aside #rclm_block:has-text(advert)
+pretoriafm.co.za##.bannerswidget
 republikein.com.na##.articleBody > aside
 republikein.com.na##.topBanner
 republikein.com.na##.hidden-xs.az-adverts h2:has-text(/Advert/i)
