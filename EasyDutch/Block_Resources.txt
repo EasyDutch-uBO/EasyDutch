@@ -3,6 +3,9 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-05-02
+||cdn.citytourgirls.com/static/bn/$image,domain=sexguide.nl
+||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ! 2023-05-01
 ||culturescope.nl/wp-content/uploads/2016/11/FAIRY-*.png$image
 ||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_CoverOBlente-1.jpg$image
@@ -237,8 +240,6 @@
 ! 2022-04-21
 ||dagelijksestandaard.nl/wp-content/uploads/*/DDS-banner.$image
 ||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
-! 2022-04-15
-||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ! 2022-04-14
 ||camjam.nl/customs/*/assets/images/*.gif$image
 ||camjam.nl/customs/*/assets/images/flirtmee.jpg$image
