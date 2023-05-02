@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 02 May 2023 05:40:40 +0000
+! Last updated: Tue, 02 May 2023 06:21:02 +0000
 !
 ! 2023-05-02
 ||cmtt.nl/Advertisement/$image,domain=advocatie.nl
@@ -301,7 +301,6 @@
 ! 2022-01-13
 .nl/adurl/$xhr,domain=start-player.npo.nl
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
-||123video.nl^*/300x100_
 ||18plussexdating.nl/images/twero.$image
 ||2link.be/banners/
 ||abcsuriname.com/templates/abc/assets/gfx/header_banner$image,1p
