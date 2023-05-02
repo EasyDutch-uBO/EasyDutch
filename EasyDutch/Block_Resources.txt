@@ -1,9 +1,11 @@
 [uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 02 May 2023 03:58:34 +0000
+! Last updated: Tue, 02 May 2023 04:14:38 +0000
 !
 ! 2023-05-02
+||cmtt.nl/Advertisement/$image,domain=advocatie.nl
+||advocatie.nl/content/uploads//Mediation-Basis$image
 ||cdn.citytourgirls.com/static/bn/$image,domain=sexguide.nl
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ! 2023-05-01
@@ -243,8 +245,6 @@
 ! 2022-04-14
 ||camjam.nl/customs/*/assets/images/*.gif$image
 ||camjam.nl/customs/*/assets/images/flirtmee.jpg$image
-||advocatie.nl/content/uploads/*Rectangle-Advocatie
-||advocatie.nl/content/uploads/*whitepaper_336x280
 ||fonkmagazine.nl/adds/
 ! 2022-04-12
 ||farmaline.be/assets/banners/
