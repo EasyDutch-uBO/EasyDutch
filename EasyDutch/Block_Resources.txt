@@ -6,6 +6,9 @@
 ! 2023-05-02
 ||cmtt.nl/Advertisement/$image,domain=advocatie.nl
 ||advocatie.nl/content/uploads//Mediation-Basis$image
+||alphens.nl/resize/upload/*/*banner$image
+||alphens.nl/resize/upload/*/Leaderbord$image
+||alphens.nl/upload/*/*banner$image
 ||cdn.citytourgirls.com/static/bn/$image,domain=sexguide.nl
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ! 2023-05-01
@@ -254,8 +257,6 @@
 ! 2022-03-31
 ||schuttevaer.nl/partnersites/
 ||static.promedia.nl/logos/$image,domain=automobielmanagement.nl|carwashpro.nl|infrasite.nl|ovpro.nl|rijschoolpro.nl|spoorpro.nl|tankpro.nl|taxipro.nl|verkeersnet.nl
-! 2022-03-23
-||alphens.nl/resize/upload/*/*banner
 ! 2022-03-22
 ||pen.nl/wp-content/uploads/*/banner*$image
 ||pen.nl/wp-content/uploads/*/*adv$image
