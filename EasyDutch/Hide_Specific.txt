@@ -10,7 +10,8 @@ diecourant.co.za###secondary
 pen.nl##aside #rclm_block:has-text(advert)
 republikein.com.na##.articleBody > aside
 republikein.com.na##.topBanner
-republikein.com.na##.hidden-xs > aside:has(a[href*="//nmh.my.na/advert"])
+republikein.com.na##.hidden-xs.az-adverts h2:has-text(/Advert/i)
+republikein.com.na##.hidden-xs.az-adverts > aside:has(a[href*="//nmh.my.na/advert"])
 republikein.com.na##aside[style] ~ aside:not([style])
 sexguide.nl##div.PREMEscorts:has-text(Sponsors)
 sexguide.nl##div.vipEscortModel:has-text(Sponsors)
