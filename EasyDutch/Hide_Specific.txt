@@ -20,6 +20,9 @@ sexguide.nl##div.vipEscortModel:has-text(Sponsors)
 sexguide.nl##.moreEscortM:has-text(Sponsors)
 sexguide.nl##.topBanners
 sexguide.nl##.blogBanners
+waarzo.nl##.contentbox:has-text(Advertentie)
+waarzo.nl##.smallbox:has-text(Advertentie)
+waarzo.nl##.smallbox:has-text(Adds By Google)
 wegdamnieuws.nl##.ads-stack
 ! 2023-05-01
 belgiancycling.be##.logo-slider
@@ -973,7 +976,6 @@ secretcircle.com##.column:has(.advert)
 freesoccer.nl##.container-fluid.site-header
 xmissy.nl##.container-linkpartners
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
-waarzo.nl##.contentbox:has-text(Advertentie)
 iex.nl##.ContentPartner
 ditjesendatjes.nl##.c-partners
 gratispornofilm.nl##.cp-webcam-gallery-container
@@ -1144,7 +1146,6 @@ velt.be##.simpleads
 pcmweb.nl##.site__sidebar > .block:has(div.banner)
 geenstijl.nl##.slajeslag
 omroepwest.nl##.slider-wrapper
-waarzo.nl##.smallbox:has-text(Advertentie)
 solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
 az.nl,cambuur.nl,ga-eagles.nl,niburu.co##.sponsers
