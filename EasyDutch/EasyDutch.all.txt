@@ -2,7 +2,7 @@
 ! Title: EasyDutch
 ! Description: Dutch supplement for the Easylist filters to use with uBlock Origin
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
-! Last modified: %timestamp%
+! Last updated: Wed, 03 May 2023 18:59:41 +0000
 ! Expires: 3 days (update frequency)
 !
 ! Alleen voor advertenties of anti-adblock op Nederlandstalige sites!  /  Only for ads or anti-adblock on Dutch sites!
@@ -14,7 +14,7 @@
 [uBlock Origin]
 ! Title: Block General
 ! Description: Filters to block general URLs on Dutch websites
-! Last updated: Wed, 03 May 2023 18:35:34 +0000
+! Last updated: %timestamp%
 !
 ! 2023-04-28
 /aff_ad?$frame
