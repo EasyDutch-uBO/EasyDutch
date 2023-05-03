@@ -9,7 +9,7 @@
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
 ! Mailto: easydutch.adblock@gmail.com
-
+!
 
 %include EasyDutch:EasyDutch/Block_General.txt%
 
