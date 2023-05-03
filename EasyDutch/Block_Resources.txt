@@ -3,6 +3,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-05-03
+||cvandaag.nl/resources/uploads/banner/$image
 ! 2023-05-02
 ||cmtt.nl/Advertisement/$image,domain=advocatie.nl
 ||advocatie.nl/content/uploads//Mediation-Basis$image
