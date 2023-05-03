@@ -1,7 +1,6 @@
-[uBlock Origin]
 ! Title: Block General
 ! Description: Filters to block general URLs on Dutch websites
-! Last updated: Fri, 28 Apr 2023 05:58:27 +0000
+! Last updated: Wed, 03 May 2023 19:40:20 +0000
 !
 ! 2023-04-28
 /aff_ad?$frame
