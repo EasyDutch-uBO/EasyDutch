@@ -1,4 +1,3 @@
-[uBlock Origin]
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
 ! Last updated: %timestamp%
