@@ -28,13 +28,13 @@ jobs:
         with:
             ref: gh-pages
       - name: Change permissions
-        run: chmod +x ./tools/easydutch.sh
+        run: chmod +x ./.github/make-easydutch.sh
       - name: Copy filter lists to gh-pages
         run: |
              TMPDIR=$(mktemp -d)
              git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPDIR
              pushd $TMPDIR > /dev/null
-             ./tools/easydutch.sh
+             ./.github/make-easydutch.sh
              popd > /dev/null
              cp $TMPDIR/EasyDutch/*.txt EasyDutch/
              cp $TMPDIR/EasyDutch.txt EasyDutch.txt
