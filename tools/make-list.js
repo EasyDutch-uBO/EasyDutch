@@ -81,6 +81,14 @@ function removeIncludeDirectives(text) {
 
 /******************************************************************************/
 
+function minify(text) {
+    // remove empty lines
+    text = text.replace(/^[\n\r]+/gm, '');
+    return text;
+}
+
+/******************************************************************************/
+
 async function main() {
     const workingDir = commandLineArgs.get('dir') || '.';
     const inFile = commandLineArgs.get('in');
@@ -104,6 +112,10 @@ async function main() {
 
     let afterText = parts.join('\n') + '\n';
     afterText = removeIncludeDirectives(afterText);
+
+    if ( commandLineArgs.get('minify') !== undefined ) {
+        afterText = minify(afterText);
+    }
 
     console.info(`  Creating ${outFile}`);
 
