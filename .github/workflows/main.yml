@@ -39,7 +39,7 @@ jobs:
           node ./tools/make-list.js in=./tools/easydutch-filters.template out=./EasyDutch/EasyDutch.all.txt
           popd > /dev/null
           cp $TMPFILE/EasyDutch/*.txt EasyDutch/
-          cp $TMPFILE/EasyDutch/EasyDutch.txt EasyDutch.txt
+          cp $TMPFILE/EasyDutch.txt EasyDutch.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
@@ -56,7 +56,8 @@ jobs:
           if [[ -n $(git diff) ]]; then
             git config user.name "GitHub-Actions"
             git config user.email "<>"
-            git add -u EasyDutch/ EasyDutch.txt
+            git add -u EasyDutch/ 
+            git add -u EasyDutch.txt
             git commit -m "Update modified filter lists"
             git push origin gh-pages
           fi
