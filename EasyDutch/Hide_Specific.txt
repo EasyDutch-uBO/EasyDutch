@@ -9,6 +9,7 @@ cvandaag.nl##[class^="news"] [href^="https://cvandaag.nl/ad/click"]:upward(div)
 noordkopcentraal.nl##.home .koptitel:has-text(Advert)
 noordkopcentraal.nl##.home .koptitel:has-text(Advert) ~ div
 noordkopcentraal.nl##.home .koptitel:has-text(Advert) ~ hr
+noordkopcentraal.nl##.widgettitle:has-text(partners)
 oisterwijknieuws.nl##.sidebar > .widget a[href]:not(a[href^="https://www.oisterwijknieuws.nl"])
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 velt.nu##.region-sponsors
