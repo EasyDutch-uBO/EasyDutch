@@ -6,6 +6,9 @@
 ! 2023-05-03
 cvandaag.nl##.article-view [href^="https://cvandaag.nl/ad/click"]:upward(.d-none)
 cvandaag.nl##[class^="news"] [href^="https://cvandaag.nl/ad/click"]:upward(div)
+noordkopcentraal.nl##.home .koptitel:has-text(Advert)
+noordkopcentraal.nl##.home .koptitel:has-text(Advert) ~ div
+noordkopcentraal.nl##.home .koptitel:has-text(Advert) ~ hr
 oisterwijknieuws.nl##.sidebar > .widget a[href]:not(a[href^="https://www.oisterwijknieuws.nl"])
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 velt.nu##.region-sponsors
