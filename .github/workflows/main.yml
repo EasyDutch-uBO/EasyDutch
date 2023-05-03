@@ -36,7 +36,7 @@ jobs:
           pushd $TMPDIR > /dev/null
           # ./tools/make-easydutch.sh
           echo "*** EasyDutch: Assembling EasyDutch.txt"
-          node ./tools/make-list.js in=./tools/easydutch-filters.template out=EasyDutch.out.txt
+          node ./tools/make-list.js in=./tools/easydutch-filters.template out=EasyDutch.all.txt
           popd > /dev/null
           cp $TMPDIR/EasyDutch/*.txt EasyDutch/
           cp $TMPDIR/EasyDutch.txt EasyDutch.txt
