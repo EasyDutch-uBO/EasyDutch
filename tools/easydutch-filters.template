@@ -9,7 +9,7 @@
 ! Rapporteer gevonden advertenties of fouten hier:  /  Report found ads or errors here:
 ! https://github.com/EasyDutch-uBO/EasyDutch/issues
 ! mailto: easydutch.adblock@gmail.com
-
+!
 %include EasyDutch:EasyDutch/Block_General.txt%
 
 %include EasyDutch:EasyDutch/Block_first_party_Server.txt%
