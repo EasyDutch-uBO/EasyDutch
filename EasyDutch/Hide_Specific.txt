@@ -1,8 +1,11 @@
 [uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 02 May 2023 18:39:20 +0000
+! Last updated: Wed, 03 May 2023 05:33:20 +0000
 !
+! 2023-05-03
+cvandaag.nl##.article-view [href^="https://cvandaag.nl/ad/click"]:upward(.d-none)
+cvandaag.nl##[class^="news"] [href^="https://cvandaag.nl/ad/click"]:upward(div)
 ! 2023-05-02
 alphens.nl##[href^="/banner-click.html"]:upward(1)
 diecourant.co.za##section[id^=smartslider]
@@ -224,9 +227,6 @@ soccernews.nl##.ad-container
 soccernews.nl##.bcb-atts:upward(1)
 soccernews.nl##.bcb-sport-block-data
 npo3fm.nl,nporadio4.nl##ul > li:has(script[src*="ster"]):has-text(/advert/i)
-! 2022-12-12
-cvandaag.nl##[class*="anativead"][href*="/ad/"]:upward(1)
-cvandaag.nl##.vacation-big-widget
 ! 2022-12-10
 voetbalprimeur.nl##[href^="https://ads.jacks.nl/redirect.aspx"]
 vi.nl##.c-tag:has-text(/advert/i):upward(.c-articles-list__link)
