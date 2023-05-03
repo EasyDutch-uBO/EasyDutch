@@ -1,4 +1,3 @@
-[uBlock Origin]
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
