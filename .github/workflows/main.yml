@@ -31,10 +31,10 @@ jobs:
         run: |
              # git update-index --chmod=+x ./tools/easydutch.sh
              TMPDIR=$(mktemp -d)
-             # git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPDIR
+             git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPDIR
              # pushd $TMPDIR > /dev/null
              # ./tools/easydutch.sh
-             popd > /dev/null
+             # popd > /dev/null
              cp $TMPDIR/EasyDutch/*.txt EasyDutch/
              cp $TMPDIR/EasyDutch.txt EasyDutch.txt
       - name: Patch last-updated field
