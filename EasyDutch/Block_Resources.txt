@@ -1,4 +1,3 @@
-[uBlock Origin]
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
