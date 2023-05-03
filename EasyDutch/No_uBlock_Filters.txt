@@ -1,4 +1,3 @@
-[uBlock Origin]
 ! Title: No uBO Filters
 ! Description: Filters for Dutch websites in case you don't use the uBlock Filters, but AdGuard Base
 ! Last updated: %timestamp%
