@@ -1,8 +1,10 @@
 [uBlock Origin]
 ! Title: Hide Whitelist
 ! Description: Whitelist for hidden elements on Dutch websites
-! Last updated: Thu, 27 Apr 2023 13:14:03 +0000
+! Last updated: Wed, 03 May 2023 18:04:29 +0000
 !
+! 2023-05-03
+noordkopcentraal.nl#@#.category-advertorial
 ! 2023-04-27
 gratis.nl#@#a[href^="https://ndt5.net/"]
 ! 2023-04-26
