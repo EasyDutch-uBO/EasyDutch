@@ -1,4 +1,3 @@
-[uBlock Origin]
 ! Title: Block Third-Party Server
 ! Description: Filters for blocking only general third-party servers on Dutch websites
 ! Last updated: %timestamp%
