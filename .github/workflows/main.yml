@@ -24,10 +24,13 @@ jobs:
             ref: gh-pages
       - name: Copy filter lists to gh-pages
         run: |
-             TMPFILE=$(mktemp -d)
-             git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPFILE
-             cp $TMPFILE/EasyDutch/*.txt EasyDutch/
-             cp $TMPFILE/EasyDutch.txt EasyDutch.txt
+             TMPDIR=$(mktemp -d)
+             git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPDIR
+             pushd $TMPDIR > /dev/null
+             ./tools/make-easydutch.sh
+             popd > /dev/null
+             cp $TMPDIR/EasyDutch/*.txt EasyDutch/
+             cp $TMPDIR/EasyDutch.txt EasyDutch.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
@@ -44,7 +47,7 @@ jobs:
           if [[ -n $(git diff) ]]; then
             git config user.name "GitHub-Actions"
             git config user.email "<>"
-            git add -u EasyDutch/ EasyDutch.txt
+            git add -u EasyDutch/
             git commit -m "Update modified filter lists"
             git push origin gh-pages
           fi
