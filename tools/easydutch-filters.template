@@ -11,12 +11,21 @@
 ! mailto: easydutch.adblock@gmail.com
 !
 %include EasyDutch:EasyDutch/Block_General.txt%
+!
 %include EasyDutch:EasyDutch/Block_first_party_Server.txt%
+!
 %include EasyDutch:EasyDutch/Block_third_party_Server.txt%
+!
 %include EasyDutch:EasyDutch/Block_Resources.txt%
+!
 %include EasyDutch:EasyDutch/Block_Whitelist.txt%
+!
 %include EasyDutch:EasyDutch/Hide_General.txt%
+!
 %include EasyDutch:EasyDutch/Hide_Specific.txt%
+!
 %include EasyDutch:EasyDutch/Hide_Whitelist.txt%
+!
 %include EasyDutch:EasyDutch/Anti-Adblock.txt%
+!
 %include EasyDutch:EasyDutch/No_uBlock_Filters.txt%
