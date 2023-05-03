@@ -29,11 +29,11 @@ jobs:
             ref: gh-pages
       - name: Copy filter lists to gh-pages
         run: |
-             git update-index --chmod=+x ./tools/make-easydutch.sh
+             git update-index --chmod=+x ./tools/easydutch.sh
              TMPDIR=$(mktemp -d)
              git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPDIR
              pushd $TMPDIR > /dev/null
-             ./tools/make-easydutch.sh
+             ./tools/easydutch.sh
              popd > /dev/null
              cp $TMPDIR/EasyDutch/*.txt EasyDutch/
              cp $TMPDIR/EasyDutch.txt EasyDutch.txt
