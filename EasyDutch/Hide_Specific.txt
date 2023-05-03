@@ -6,6 +6,7 @@
 ! 2023-05-03
 cvandaag.nl##.article-view [href^="https://cvandaag.nl/ad/click"]:upward(.d-none)
 cvandaag.nl##[class^="news"] [href^="https://cvandaag.nl/ad/click"]:upward(div)
+velt.nu##.region-sponsors
 ! 2023-05-02
 alphens.nl##[href^="/banner-click.html"]:upward(1)
 diecourant.co.za##section[id^=smartslider]
@@ -1142,7 +1143,6 @@ nederlandsextube.nl##.side
 nederlandsmedianieuws.nl##.sidebar:has-text(Advert)
 fcgroningen.nl##.sidebar__item--banner
 alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
-velt.be##.simpleads
 pcmweb.nl##.site__sidebar > .block:has(div.banner)
 geenstijl.nl##.slajeslag
 omroepwest.nl##.slider-wrapper
