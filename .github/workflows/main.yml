@@ -28,7 +28,7 @@ jobs:
         with:
             ref: gh-pages
       - name: Change permissions
-        run: chmod +x ./tools/make-easydutch.sh
+        run: chmod +x tools/make-easydutch.sh
       - name: Copy filter lists to gh-pages
         run: |
              TMPDIR=$(mktemp -d)
