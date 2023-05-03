@@ -27,12 +27,13 @@ jobs:
         uses: actions/checkout@v3
         with:
             ref: gh-pages
+      - name: Change permissions
+        run: git update-index --chmod=+x ./tools/make-easydutch.sh
       - name: Copy filter lists to gh-pages
         run: |
              TMPDIR=$(mktemp -d)
              git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPDIR
              pushd $TMPDIR > /dev/null
-             git update-index --chmod=+x ./tools/make-easydutch.sh
              ./tools/make-easydutch.sh
              popd > /dev/null
              cp $TMPDIR/EasyDutch/*.txt EasyDutch/
