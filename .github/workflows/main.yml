@@ -24,12 +24,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone EasyDutch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
             ref: gh-pages
       - name: Copy filter lists to gh-pages
         run: |
-             git update-index --chmod=+x tools/make-easydutch.sh
+             git update-index --chmod=+x ./../tools/make-easydutch.sh
              TMPDIR=$(mktemp -d)
              git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPDIR
              pushd $TMPDIR > /dev/null
