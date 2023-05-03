@@ -10,6 +10,7 @@
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
 ! Mailto: easydutch.adblock@gmail.com
 
+
 %include EasyDutch:EasyDutch/Block_General.txt%
 
 %include EasyDutch:EasyDutch/Block_first_party_Server.txt%
