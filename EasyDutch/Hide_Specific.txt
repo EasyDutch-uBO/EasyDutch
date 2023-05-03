@@ -6,6 +6,8 @@
 ! 2023-05-03
 cvandaag.nl##.article-view [href^="https://cvandaag.nl/ad/click"]:upward(.d-none)
 cvandaag.nl##[class^="news"] [href^="https://cvandaag.nl/ad/click"]:upward(div)
+oisterwijknieuws.nl##.sidebar > .widget a[href]:not(a[href^="https://www.oisterwijknieuws.nl"])
+oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 velt.nu##.region-sponsors
 ! 2023-05-02
 alphens.nl##[href^="/banner-click.html"]:upward(1)
@@ -376,8 +378,6 @@ limburger.nl##.widget-grid--partnerbox
 leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
 midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
 motocrossplanet.nl##.background_link
-oisterwijknieuws.nl##.sidebar
-oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
 ! 2022-06-29
 onderwijsland.com##.col-md-16:has([style*="greystripe"])
