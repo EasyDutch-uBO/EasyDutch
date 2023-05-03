@@ -1,7 +1,6 @@
-[uBlock Origin]
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Thu, 27 Apr 2023 18:12:56 +0000
+! Last updated: Wed, 03 May 2023 19:40:01 +0000
 !
 ! 2023-04-27
 routenet.nl,trafficnet.nl##+js(set, canRunAds, true)
