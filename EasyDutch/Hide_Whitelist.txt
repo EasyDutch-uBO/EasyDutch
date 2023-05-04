@@ -2,6 +2,8 @@
 ! Description: Whitelist for hidden elements on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-05-04
+rotterdam-nesselande.nl#@#ins.adsbygoogle
 ! 2023-05-03
 noordkopcentraal.nl#@#.category-advertorial
 ! 2023-04-27
