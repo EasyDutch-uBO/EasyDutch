@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-05-04
+duurzaam-actueel.nl##footer > section:has(.logo_showcase):has-text(partners)
 radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
 recreatief.nl##.widget-a-wrap
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
