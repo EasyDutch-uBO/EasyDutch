@@ -2,6 +2,8 @@
 ! Description: Whitelist for specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-05-04 
+@@||pagead2.googlesyndication.com/pagead/$script,domain=rotterdam-nesselande.nl
 ! 2023-05-03 https://github.com/uBlockOrigin/uAssets/issues/13800
 !#if env_firefox
 @@||welingelichtekringen.nl^$ghide
