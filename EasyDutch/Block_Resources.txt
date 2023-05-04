@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 04 May 2023 06:55:47 +0000
+! Last updated: Thu, 04 May 2023 14:23:34 +0000
 !
 ! 2023-05-03
 ||cvandaag.nl/resources/uploads/banner/$image
@@ -243,7 +243,6 @@
 ||onsoranje.nl/sites/*/images/sponsorlogos/
 ||proshop.nl/Images/*Top-Banner$image
 ! 2022-04-26
-||radioeenhoorn.nl/images/banners$image
 ||kechtube.com^$popunder
 ||nieuwsuitnijmegen.nl/uploads/banners/
 ||onderwegonline.nl/app/uploads/*/Banner$image
