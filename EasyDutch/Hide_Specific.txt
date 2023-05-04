@@ -7,6 +7,8 @@ duurzaam-actueel.nl##footer > section:has(.logo_showcase):has-text(partners)
 radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
 recreatief.nl##.widget-a-wrap
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
+srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
+srnieuws.com##div.card-view:has([id^="taboola"])
 waterkant.net##div.td-all-devices
 ! 2023-05-03
 cvandaag.nl##.article-view [href^="https://cvandaag.nl/ad/click"]:upward(.d-none)
@@ -962,12 +964,10 @@ geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos/"])
 volleybal.nl##.card-banner
 volleybal.nl##.card-banner-large
 nederlandsexdate.nl##.card-header:has-text(Advertentie)
-srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
 rkcwaalwijk.nl##.carousel
 tijd.be##.c-articlelistitem:has([id="adhese_sponsoredstory"])
 tijd.be##.c-articleteaser--sponsored
 motorfietsblog.nl##.cbcontent
-srnieuws.com##.centered.card-view:has([id^="taboola"])
 ngf.nl##.c-footer-sponsors
 online-omzetten.nl##.clearfix.entry > small
 leerlingen.com##.clearfix.widget > :has(.sponsors)
