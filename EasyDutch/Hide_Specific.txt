@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-05-04
+recreatief.nl##.widget-a-wrap
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
 ! 2023-05-03
 cvandaag.nl##.article-view [href^="https://cvandaag.nl/ad/click"]:upward(.d-none)
