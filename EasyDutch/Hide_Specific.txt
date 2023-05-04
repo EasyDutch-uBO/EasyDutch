@@ -6,6 +6,7 @@
 radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
 recreatief.nl##.widget-a-wrap
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
+waterkant.net##div.td-all-devices
 ! 2023-05-03
 cvandaag.nl##.article-view [href^="https://cvandaag.nl/ad/click"]:upward(.d-none)
 cvandaag.nl##[class^="news"] [href^="https://cvandaag.nl/ad/click"]:upward(div)
@@ -430,7 +431,6 @@ willem-ii.nl##.advert
 groningerkrant.nl##.widget:has(.widget-title:has-text(Vrienden))
 gratisepub.nl##.widget:has(.adsbygoogle)
 golf.be##[class*="-ad-banner-box"]
-waterkant.net##[href^="https://www.eventbrite.nl/e/tickets"]
 gids.tv##.advertisement:upward(1)
 gic.nl##.katernbanners
 geelfm.be##a[href="/adverteren/"]:upward(1)
@@ -1171,7 +1171,6 @@ nieuwsopbeeld.nl##.td_module_wrap:has(.td-post-category:has-text(Gesponsord))
 dissident.one##.td-adspot-title
 regioonline.nl##.td-a-rec
 techpulse.be##.td-banner-wrap-full
-waterkant.net##.td-fix-index > center
 netonline.be##.tekstboldwit:has-text(ADVERT)
 gaynews.nl##.telefoon_verberg
 nos.nl##.teletekst__banner
