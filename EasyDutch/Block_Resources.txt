@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-05-05
+||proshop.nl/Images/Topbanner$image
 ! 2023-05-03
 ||cvandaag.nl/resources/uploads/banner/$image
 ! 2023-05-02
@@ -241,7 +243,6 @@
 ||pubble.nl/Content.svc/getAdCollection?
 ! 2022-05-04
 ||onsoranje.nl/sites/*/images/sponsorlogos/
-||proshop.nl/Images/*Top-Banner$image
 ! 2022-04-26
 ||kechtube.com^$popunder
 ||nieuwsuitnijmegen.nl/uploads/banners/
