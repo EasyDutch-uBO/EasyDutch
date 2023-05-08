@@ -17,7 +17,7 @@ routenet.nl,trafficnet.nl##+js(set, canRunAds, true)
 ! https://github.com/EasyDutch-uBO/EasyDutch/issues/22
 ! https://github.com/uBlockOrigin/uAssets/issues/15963
 *$image,redirect-rule=2x2.png,domain=tweakers.net
-! @@||tweakers.nl^$xhr,domain=tweakers.net
+@@||tweakers.nl^$xhr,domain=tweakers.net
 ! tweakers.net##+js(no-fetch-if, /a[ab]\.tweakers\.nl/)
 ! tweakers.net##+js(set, BannerManager.bannersBlocked, false)
 ! tweakers.net##+js(set, BannerManager.enableTags, noopFunc)
