@@ -5,6 +5,7 @@
 ! 2023-04-27
 routenet.nl,trafficnet.nl##+js(set, canRunAds, true)
 ! 2023-04-22
+! https://github.com/AdguardTeam/AdguardFilters/commit/25e1c5f39ef9f3ff937db3d72ce1f05c599158c4
 ! https://github.com/AdguardTeam/AdguardFilters/issues/148866
 ! https://github.com/AdguardTeam/AdguardFilters/commit/307002a2486b1e3e0276fa8b975def66ad69539b
 ! https://github.com/AdguardTeam/AdguardFilters/commit/9cb5e79b171898e85a8968fb918ed3c12bf51d2f
@@ -17,16 +18,17 @@ routenet.nl,trafficnet.nl##+js(set, canRunAds, true)
 ! https://github.com/uBlockOrigin/uAssets/issues/15963
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 ! @@||tweakers.nl^$xhr,domain=tweakers.net
-tweakers.net##+js(no-fetch-if, ab.tweakers.nl)
-tweakers.net##+js(set, BannerManager.bannersBlocked, false)
-tweakers.net##+js(set, BannerManager.sendAdRequest, noopFunc)
+! tweakers.net##+js(no-fetch-if, /a[ab]\.tweakers\.nl/)
+! tweakers.net##+js(set, BannerManager.bannersBlocked, false)
+! tweakers.net##+js(set, BannerManager.enableTags, noopFunc)
+! tweakers.net##+js(set, BannerManager.sendAdRequest, noopFunc)
 ! tweakers.net##+js(aeld, , /^e=>.*\(e\)$/)
 ! tweakers.net##+js(aeld, , handleAdblockDetect)
 @@||tweakers.net^$ghide
-tweakers.net###b_re:style(visibility: collapse !important; min-height: 1px !important;)
+tweakers.net###b_re:style(visibility: collapse !important; min-height: 1.5px !important;)
 tweakers.net##.headline:has([title^=".Adv"])
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
-tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1px !important;)
+tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1.5px !important;)
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
 tweakers.net###true
 ! 2023-04-17
