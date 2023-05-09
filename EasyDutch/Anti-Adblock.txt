@@ -12,7 +12,7 @@
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 ! @@||tweakers.nl^$xhr,domain=tweakers.net
 tweakers.net##+js(no-fetch-if, /a[ab]\.tweakers\.nl/)
-tweakers.net##+js(aeld, nTabXZkTGnrzHDkv, /^e=>.*\(e\)$/)
+tweakers.net##+js(aeld, /[\w]{16}/, /^e=>.*\(e\)$/)
 @@||tweakers.net^$ghide
 tweakers.net###b_re:style(visibility: collapse !important; min-height: 1.5px !important;)
 tweakers.net##.headline:has([title^=".Adv"])
