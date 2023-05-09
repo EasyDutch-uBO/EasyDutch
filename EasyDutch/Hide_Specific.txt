@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 05 May 2023 05:44:12 +0000
+! Last updated: Tue, 09 May 2023 12:41:57 +0000
 !
+! 2023-05-09
+buienradar.be##[class^="AdSlot_AdContainer"]
 ! 2023-05-05
 gpblog.com##.ad
 gpblog.com##.articles > li.article:has(.betting)
