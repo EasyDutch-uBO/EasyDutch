@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-05-09
+buienradar.be##[class^="AdSlot_AdContainer"]
 ! 2023-05-05
 gpblog.com##.ad
 gpblog.com##.articles > li.article:has(.betting)
