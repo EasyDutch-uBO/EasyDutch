@@ -1,6 +1,6 @@
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Tue, 09 May 2023 06:46:08 +0000
+! Last updated: Tue, 09 May 2023 06:59:49 +0000
 !
 ! 2023-05-09
 ! https://github.com/AdguardTeam/AdguardFilters/commit/25e1c5f39ef9f3ff937db3d72ce1f05c599158c4
@@ -12,7 +12,7 @@
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 ! @@||tweakers.nl^$xhr,domain=tweakers.net
 tweakers.net##+js(no-fetch-if, /a[ab]\.tweakers\.nl/)
-tweakers.net##+js(aeld, nTabXZkTGnrzHDkv, /^e=>.*\(e\)$/)
+tweakers.net##+js(aeld, /[\w]{16}/, /^e=>.*\(e\)$/)
 @@||tweakers.net^$ghide
 tweakers.net###b_re:style(visibility: collapse !important; min-height: 1.5px !important;)
 tweakers.net##.headline:has([title^=".Adv"])
