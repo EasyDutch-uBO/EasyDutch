@@ -2,6 +2,9 @@
 ! Description: Whitelist for specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-05-13
+@@||fundingchoicesmessages.google.com/*/$script,domain=racingnews365.nl
+@@||mmcdn.nl/tags/racingnews365.nl/artikel.js$script,domain=racingnews365.nl
 ! 2023-05-04 
 @@||pagead2.googlesyndication.com/pagead/$script,domain=rotterdam-nesselande.nl
 ! 2023-05-03 https://github.com/uBlockOrigin/uAssets/issues/13800
