@@ -1,7 +1,21 @@
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Tue, 09 May 2023 06:59:49 +0000
+! Last updated: Mon, 15 May 2023 13:39:32 +0000
 !
+! 2023-05-15
+! https://github.com/uBlockOrigin/uAssets/issues/18013
+! https://github.com/uBlockOrigin/uAssets/issues/17627
+! https://github.com/uBlockOrigin/uAssets/issues/16881
+! https://github.com/AdguardTeam/AdguardFilters/commit/a36ebed2232a093a07686e27783d695286b368e6
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,domain=goplay.be
+goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doubleclick.net/ondemand)
+goplay.be##+js(json-prune, ads)
+||goplay.be/js/sourcepoint/msg?v=
+@@||goplay.be^$ghide
+@@||doubleclick.net^$xhr,domain=goplay.be
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=goplay.be
+@@||sdk.privacy-center.org^$script,domain=goplay.be
+goplay.be##.theoplayer div > div > div > div[class][style^="left"][style*="width"][style$="px;"]
 ! 2023-05-09
 ! https://github.com/AdguardTeam/AdguardFilters/commit/25e1c5f39ef9f3ff937db3d72ce1f05c599158c4
 ! https://github.com/AdguardTeam/AdguardFilters/commit/695532f6ed3a31648b16dcd9e680a04eb22e5c5d
@@ -22,17 +36,6 @@ tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
 tweakers.net###true
 ! 2023-04-27
 routenet.nl,trafficnet.nl##+js(set, canRunAds, true)
-! 2023-04-17
-! https://github.com/uBlockOrigin/uAssets/issues/17627
-! https://github.com/uBlockOrigin/uAssets/issues/16881
-! https://github.com/AdguardTeam/AdguardFilters/commit/a36ebed2232a093a07686e27783d695286b368e6
-||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,domain=goplay.be
-goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doubleclick.net/ondemand)
-||goplay.be/js/sourcepoint/msg?v=
-@@||goplay.be^$ghide
-@@||doubleclick.net^$xhr,domain=goplay.be
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=goplay.be
-@@||sdk.privacy-center.org^$script,domain=goplay.be
 ! 2023-03-01 https://github.com/uBlockOrigin/uAssets/issues/16839
 112amsterdam.nl##+js(aost, document.querySelectorAll, /(?=.*inlineScript)(?=^(?!.*(https)))/)
 ! 2023-01-06
