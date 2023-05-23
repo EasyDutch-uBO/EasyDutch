@@ -6,7 +6,6 @@
 looopings.nl##.contentBillboard
 looopings.nl##[class*="r89"][style="min-height:250px;"]
 looopings.nl##[class*="r89"][style="min-height:90px;"]
-looopings.nl
 ! 2023-05-15
 bright.nl##.ad
 ! 2023-05-09
