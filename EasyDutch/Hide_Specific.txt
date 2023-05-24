@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 23 May 2023 04:32:52 +0000
+! Last updated: Wed, 24 May 2023 07:18:44 +0000
 !
+! 2023-05-25
+gamer.nl##.adunitContainer:upward(.items-center)
 ! 2023-05-23
 looopings.nl##.contentBillboard
 looopings.nl##[class*="r89"][style="min-height:250px;"]
