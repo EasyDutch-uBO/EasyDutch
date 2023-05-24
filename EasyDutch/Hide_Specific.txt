@@ -3,7 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-05-25
-gamer.nl##.adunitContainer:upward(.items-center)
+gamer.nl,id.nl##.adunitContainer:upward(.items-center)
+id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en door naar/i))
 ! 2023-05-23
 looopings.nl##.contentBillboard
 looopings.nl##[class*="r89"][style="min-height:250px;"]
@@ -75,8 +76,6 @@ amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
 amateursexstart.nl##.g
 apintie.sr###left-inside > div[style$="px;"]:not(:has(a[href]))
 erotischemassages.com##.widget:has(iframe[data-src*="banner"]):upward(.footer-widget-zone)
-id.nl##.adunitContainer:upward(div[class^="flex items-center"])
-id.nl##.rounded-md:has(p[class^="call-to-action"])
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
 kicxstart.nl##.elementor-widget-container > a:not([href*="https://kicxstart.nl/"]) > img:upward(.elementor-widget-image)
 klapjes.nl##a[href*="/adverteren"]:upward(2)
