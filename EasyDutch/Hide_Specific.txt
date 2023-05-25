@@ -1,8 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 24 May 2023 17:46:51 +0000
+! Last updated: Thu, 25 May 2023 05:01:13 +0000
 !
 ! 2023-05-25
+deondernemer.nl##.section-branded
+deondernemer.nl##.tile-advert:upward(.tile-wrapper)
 gamer.nl,id.nl##.adunitContainer:upward(.items-center)
 id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en door naar/i))
 ! 2023-05-23
