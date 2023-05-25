@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-05-25
+deondernemer.nl##.section-branded
+deondernemer.nl##.tile-advert:upward(.tile-wrapper)
 gamer.nl,id.nl##.adunitContainer:upward(.items-center)
 id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en door naar/i))
 ! 2023-05-23
