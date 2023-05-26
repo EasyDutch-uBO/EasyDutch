@@ -1,7 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 25 May 2023 05:01:13 +0000
+! Last updated: Fri, 26 May 2023 06:29:37 +0000
 !
+! 2025-05-26
+gocar.be##.pub-imu:upward(2)
+gocar.be##.pub-leaderboard:upward(py-3)
 ! 2023-05-25
 deondernemer.nl##.section-branded
 deondernemer.nl##.tile-advert:upward(.tile-wrapper)
@@ -1140,7 +1143,6 @@ synoniemen.net##.promoblok
 oneworld.nl##.promotion-block
 openingsurengids.be##.promSB
 hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
-gocar.be##.pub-leaderboard-top
 oozo.nl##.rcntctr
 motocrossplanet.nl##.rcol-titel:has-text(Advert)
 rd.nl##.rdnl__adds
