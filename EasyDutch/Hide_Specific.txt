@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2025-05-26
+daemesenheeren.nl##.widget_media_image
 gocar.be##.container-leaderboard
 gocar.be##.pub-imu:upward(2)
 gocar.be##.pub-text:upward(2)
