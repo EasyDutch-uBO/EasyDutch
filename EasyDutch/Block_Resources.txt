@@ -5,6 +5,7 @@
 ! 2023-05-26
 ||boottesten.nl/wp-content/uploads/*/*Ad.gif
 ||boottesten.nl/wp-content/uploads/*/banner$image
+||dehavengids.nl/wordpress/wp-content/uploads/*/*Banner$image
 ! 2023-05-05
 ||proshop.nl/Images/Topbanner$image
 ! 2023-05-03
