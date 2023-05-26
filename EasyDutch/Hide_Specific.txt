@@ -1,9 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 26 May 2023 14:19:03 +0000
+! Last updated: Fri, 26 May 2023 15:23:01 +0000
 !
 ! 2025-05-26
 daemesenheeren.nl##.widget_media_image
+dehavengids.nl##.g
 gocar.be##.container-leaderboard
 gocar.be##.pub-imu:upward(2)
 gocar.be##.pub-text:upward(2)
