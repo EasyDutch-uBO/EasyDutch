@@ -4,6 +4,7 @@
 !
 ! 2025-05-26
 daemesenheeren.nl##.widget_media_image
+dehavengids.nl##.elementor-widget-container:has(.g)
 dehavengids.nl##.g
 gocar.be##.container-leaderboard
 gocar.be##.pub-imu:upward(2)
