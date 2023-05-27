@@ -8,6 +8,7 @@
 ||dehavengids.nl/wordpress/wp-content/uploads/*/*Banner$image
 ||motorboot.com/wp-content/uploads/*/*banner
 ||motorboot.com/wp-content/uploads/*/ad-logo
+||watersport-tv.nl/content/*/pages/clnt/*_org$image
 ||yachtfocus.com/wp-content/*/images/bnr/
 ||zeilwereld.nl/wp-content/uploads/*/*banner
 ! 2023-05-05
