@@ -6,6 +6,8 @@
 ||boottesten.nl/wp-content/uploads/*/*Ad.gif
 ||boottesten.nl/wp-content/uploads/*/banner$image
 ||dehavengids.nl/wordpress/wp-content/uploads/*/*Banner$image
+||motorboot.com/wp-content/uploads/*/*banner
+||motorboot.com/wp-content/uploads/*/ad-logo
 ||yachtfocus.com/wp-content/*/images/bnr/
 ! 2023-05-05
 ||proshop.nl/Images/Topbanner$image
