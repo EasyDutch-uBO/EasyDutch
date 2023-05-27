@@ -10,6 +10,8 @@ gocar.be##.container-leaderboard
 gocar.be##.pub-imu:upward(2)
 gocar.be##.pub-text:upward(2)
 motorboot.com##.logo
+nauticlink.com##.adv-link
+nauticlink.com##.elementor-section:has-text(partners)
 yachtfocus.com##.av
 zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
 ! 2023-05-25
