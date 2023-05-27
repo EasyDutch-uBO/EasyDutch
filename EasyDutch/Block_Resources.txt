@@ -9,6 +9,7 @@
 ||motorboot.com/wp-content/uploads/*/*banner
 ||motorboot.com/wp-content/uploads/*/ad-logo
 ||yachtfocus.com/wp-content/*/images/bnr/
+||zeilwereld.nl/wp-content/uploads/*/*banner
 ! 2023-05-05
 ||proshop.nl/Images/Topbanner$image
 ! 2023-05-03
