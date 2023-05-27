@@ -6,6 +6,7 @@
 daemesenheeren.nl##.widget_media_image
 dehavengids.nl##.elementor-widget-container:has(.g)
 dehavengids.nl##.g
+duurzaamnieuws.nl##.adv-link:not(a[href$="aanmelden-gratis-nieuwsbrief/"])
 gocar.be##.container-leaderboard
 gocar.be##.pub-imu:upward(2)
 gocar.be##.pub-text:upward(2)
@@ -1021,7 +1022,6 @@ menttv.be##.cta-container
 touretappe.nl##.desktopad
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp-space
 autobahn.eu##.d-none.mb-3:has(a[target="_blank"][rel="noopener"])
-duurzaamnieuws.nl##.duurz-content:has([data-advadstrackid])
 turksemedia.nl##.easingslider
 decibel.nl##.edgtf-carousel-holder
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
