@@ -2,6 +2,8 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-05-30 https://github.com/uBlockOrigin/uAssets/issues/16839
+112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112nijkerk.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl##+js(noeval-if, /chp_?ad/)
 ! 2023-05-15
 ! https://github.com/uBlockOrigin/uAssets/issues/18013
 ! https://github.com/uBlockOrigin/uAssets/issues/17627
@@ -36,8 +38,6 @@ tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
 tweakers.net###true
 ! 2023-04-27
 routenet.nl,trafficnet.nl##+js(set, canRunAds, true)
-! 2023-03-01 https://github.com/uBlockOrigin/uAssets/issues/16839
-112amsterdam.nl##+js(aost, document.querySelectorAll, /(?=.*inlineScript)(?=^(?!.*(https)))/)
 ! 2023-01-06
 @@/wp-content/*/scripts/adb.min.js$script,1p,domain=androidplanet.nl|iphoned.nl
 ! 2022-11-14
