@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-06-09
+scientias.nl##.r89-desktop-takeover
 ! 2023-05-27
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
 ! 2023-05-26
