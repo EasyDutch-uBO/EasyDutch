@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 30 May 2023 09:09:39 +0000
+! Last updated: Fri, 09 Jun 2023 06:27:12 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -2401,22 +2401,23 @@ klusidee.nl#@#.header-ad
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2023-05-30 https://github.com/uBlockOrigin/uAssets/issues/16839
-112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112nijkerk.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl##+js(noeval-if, /chp_?ad/)
-! 2023-05-15
+! 2023-06-09
+! https://github.com/uBlockOrigin/uAssets/issues/18432
 ! https://github.com/uBlockOrigin/uAssets/issues/18013
 ! https://github.com/uBlockOrigin/uAssets/issues/17627
 ! https://github.com/uBlockOrigin/uAssets/issues/16881
 ! https://github.com/AdguardTeam/AdguardFilters/commit/a36ebed2232a093a07686e27783d695286b368e6
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,domain=goplay.be
 goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doubleclick.net/ondemand)
-goplay.be##+js(json-prune, ads)
+goplay.be##+js(json-prune, ads time_events_url)
 ||goplay.be/js/sourcepoint/msg?v=
 @@||goplay.be^$ghide
 @@||doubleclick.net^$xhr,domain=goplay.be
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=goplay.be
 @@||sdk.privacy-center.org^$script,domain=goplay.be
 goplay.be##.theoplayer div > div > div > div[class][style^="left"][style*="width"][style$="px;"]
+! 2023-05-30 https://github.com/uBlockOrigin/uAssets/issues/16839
+112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112nijkerk.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl##+js(noeval-if, /chp_?ad/)
 ! 2023-05-09
 ! https://github.com/AdguardTeam/AdguardFilters/commit/25e1c5f39ef9f3ff937db3d72ce1f05c599158c4
 ! https://github.com/AdguardTeam/AdguardFilters/commit/695532f6ed3a31648b16dcd9e680a04eb22e5c5d
