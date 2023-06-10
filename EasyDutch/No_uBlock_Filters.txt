@@ -1,6 +1,6 @@
 ! Title: No uBO Filters
 ! Description: Filters for Dutch websites in case you don't use the uBlock Filters, but AdGuard Base
-! Last updated: Wed, 03 May 2023 19:42:04 +0000
+! Last updated: Sat, 10 Jun 2023 06:59:44 +0000
 !
 ! uBlock Filters
 ||7mb.nl^$3p
@@ -16,7 +16,6 @@ radiowereld.nl##+js(nosiif, adb)
 @@||ah.nl^$ghide
 @@||cdn.vuplay.co.uk/*/comscore.$script,domain=vrt.be|sporza.be
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$xhr,script,domain=vtm.be
-@@||quantcast.mgr.consensu.org/*/cmp2.js$script,domain=vi.nl
 @@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
 @@||whiskyprijzen.*^$ghide
 @@||whiskyprix.*^$ghide
