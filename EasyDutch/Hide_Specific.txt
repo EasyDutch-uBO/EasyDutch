@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-06-29
+appletips.nl##.ph_appelhoes
 ! 2023-06-16
 insideflyer.nl##.adsbymanatee
 ! 2023-06-09
