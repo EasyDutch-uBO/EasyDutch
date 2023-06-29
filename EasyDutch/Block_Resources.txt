@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-06-29
+||i0.wp.com/www.appletips.nl/wp-content/uploads/hm.jpg$image
 ! 2023-06-09
 ||onlinecorrectie.nl/cnc/$image
 ! 2023-05-26
