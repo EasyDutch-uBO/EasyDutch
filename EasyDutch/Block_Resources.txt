@@ -1,7 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 29 Jun 2023 05:36:58 +0000
+! Last updated: Sat, 01 Jul 2023 09:17:50 +0000
 !
+! 2023-07-01
+||webstick.nl/images/images-ads/
 ! 2023-06-29
 ||i0.wp.com/www.appletips.nl/wp-content/uploads/hm.jpg$image
 ! 2023-06-09
