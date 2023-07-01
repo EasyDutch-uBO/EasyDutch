@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 29 Jun 2023 05:37:38 +0000
+! Last updated: Sat, 01 Jul 2023 09:18:21 +0000
 !
+! 2023-07-01
+webstick.nl##p.center2:has-text(Advert)
 ! 2023-06-29
 appletips.nl##.ph_appelhoes
 ! 2023-06-16
