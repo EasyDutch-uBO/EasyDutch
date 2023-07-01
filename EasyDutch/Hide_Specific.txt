@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-07-01
+webstick.nl##p.center2:has-text(Advert)
 ! 2023-06-29
 appletips.nl##.ph_appelhoes
 ! 2023-06-16
