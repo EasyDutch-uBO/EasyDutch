@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-07-03
+gebruikershandleiding.com##[class^="adserver-container"]
 ! 2023-07-01
 webstick.nl##p.center2:has-text(Advert)
 webstick.nl##p > a[href][rel$="sponsored"]:upward(aside > section)
