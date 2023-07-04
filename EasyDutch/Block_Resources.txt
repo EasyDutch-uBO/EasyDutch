@@ -2,6 +2,13 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-07-04
+||autonieuws.be/templates/yootheme/cache/*/1MG_Banni%C3%A8re_Autonieuws_V1-*$image
+||autonieuws.be/templates/yootheme/cache/*/325_x_325_NL-*$image
+||autonieuws.be/templates/yootheme/cache/*/800_x_172_px_NL-*$image
+||autonieuws.be/templates/yootheme/cache/*/Athlon_logo-*$image
+||autonieuws.be/templates/yootheme/cache/*/Athlon_Banner$image
+||autonieuws.be/templates/yootheme/cache/*/BEL_March23_B2C_XCEED_800x172_nl-*$image
 ! 2023-07-01
 ||webstick.nl/images/images-ads/
 ! 2023-06-29
