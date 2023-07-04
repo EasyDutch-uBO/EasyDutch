@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-07-04
+autonieuws.be##.uk-width-1-2\@m:has(.uk-slider-items [target="_blank"] picture)
 ! 2023-07-03
 gebruikershandleiding.com##[class^="adserver-container"]
 ! 2023-07-01
