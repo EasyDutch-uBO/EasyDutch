@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 04 Jul 2023 11:31:32 +0000
+! Last updated: Wed, 05 Jul 2023 07:32:45 +0000
 !
+! 2023-07-05
+vriendin.nl##[id^="adf-autonative"]
 ! 2023-07-04
 autonieuws.be##.uk-width-1-2\@m:has(.uk-slider-items [target="_blank"] picture)
 ! 2023-07-03
