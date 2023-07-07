@@ -1,7 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 05 Jul 2023 07:32:45 +0000
+! Last updated: Fri, 07 Jul 2023 07:00:31 +0000
 !
+! 2023-07-07
+beursduivel.be##.Billboard-wrapper
+beursduivel.be##.Rectangle-wrapper
 ! 2023-07-05
 vriendin.nl##[id^="adf-autonative"]
 ! 2023-07-04
