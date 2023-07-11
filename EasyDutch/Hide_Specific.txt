@@ -2,6 +2,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-07-11
+fcupdate.nl##.betting_partner
+fcupdate.nl##[id*="web_billboard"]
 ! 2023-07-07
 beursduivel.be##.Billboard-wrapper
 beursduivel.be##.Rectangle-wrapper
@@ -607,7 +610,6 @@ radioviainternet.be##.banner-size-leaderbord
 rbsradio.be##.qt-sponsors
 wradio.be##.c-advertiser-logos
 ! 2022-05-25
-fcupdate.nl##.bet365
 feijenoordnieuws.nl##li:has(div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i):not(:has(a[href^="https://feijenoordnieuws.nl/"])))
 gpfans.com##.leaderboardbg
 gpfans.com##a[href^="https://casinoscout.nl/"]
