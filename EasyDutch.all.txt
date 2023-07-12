@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 11 Jul 2023 17:15:26 +0000
+! Last updated: Wed, 12 Jul 2023 04:49:27 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -931,6 +931,22 @@ _advertentieleaderboardhome.
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-07-12
+telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
+telegraaf.nl##.ArticlePageWrapper__banner
+telegraaf.nl##.Banner
+telegraaf.nl##.ComponentRotation
+telegraaf.nl##.MainCuratedTeasersLayout__banner
+telegraaf.nl##.OutbrainWrapper
+telegraaf.nl##.SectionPage__bannerWrapper
+telegraaf.nl##.Section__topBanner
+telegraaf.nl##.SportScoreboardPage__banner
+telegraaf.nl##.TextArticlePage__bannerWrapper
+telegraaf.nl##.VideoArticlePage__banner
+telegraaf.nl##.VideoPage__banner
+telegraaf.nl##.WebpushOptin__main
+telegraaf.nl##.withBanners
+telegraaf.nl##.withBanners + .ComponentRotation
 ! 2023-07-11
 fcupdate.nl##.betting_partner
 fcupdate.nl##[id*="web_billboard"]
@@ -1166,7 +1182,6 @@ alarmeringen.nl##.ad
 ! 2023-02-28
 televizier.nl##.interstitial_banner
 ! 2023-02-18
-telegraaf.nl##.OutbrainWrapper
 reclamefolder.nl##[class*="folderRowAd"]
 redbot.frl##.slider.container:has(.twelvecol:has-text(partners))
 ! 2023-02-10 https://github.com/uBlockOrigin/uAssets/issues/9705
@@ -1240,13 +1255,10 @@ jndkgrf.nl##.wp-block-image:has([href^="https://partner.bol.com/click/"])
 ! 2022-12-07
 flashscore.nl##.adsenvelope
 flashscore.nl##.oddsPlacement
-telegraaf.nl##.ComponentRotation
 ! 2022-12-01
 rtlnieuws.nl##.article-sidebar__ad
 ! 2022-11-29
 dissident.one##[id^="custom_html-"]:has-text(/advert/i)
-! 2022-11-17
-telegraaf.nl##.Banner
 ! 2022-11-14
 voetbalnieuws.be##.header-banner
 ! 2022-11-10
@@ -1710,7 +1722,6 @@ studylibnl.com##.sidebar-top-content
 startlinken.nl##td[class]:has(a[href*="robohost.nl/clients/aff.php"]):upward(2)
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
-telegraaf.nl##.withBanners + .ComponentRotation
 ! 2022-02-03
 minecrafttoplist.nl##.fancy-wrap
 ! 2022-02-02
@@ -1884,10 +1895,8 @@ alblasserdamsnieuws.nl##.albla-zijkant:has(.adv-link)
 notebookcheck.nl##.amaz_el
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 zeelandnet.nl##.article-bnr-first
-telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
 duic.nl##.article-excerpt--ad
 nieuwnieuws.nl##.article-page__bumper
-telegraaf.nl##.ArticlePageWrapper__banner
 geenstijl.nl##.article-premium-promotion-block
 motocrossplanet.nl##.artikel-banners
 rtvkrimpenerwaard.nl##.art-positioncontrol
@@ -2053,7 +2062,6 @@ sparta-rotterdam.nl##.logo_slider_logos
 greenkeeper.nl##.logoblok
 dvhn.nl,lc.nl##.main__ad
 deblueskrant.nl##.main-banner
-telegraaf.nl##.MainCuratedTeasersLayout__banner
 adultwebmaster.nl##.main-promo-bn-responsive
 radiozenders.fm##.marqueeItem:has(a[href^="https://partner.bol.com/"])
 live-voetbal.com##.match-bet
@@ -2117,7 +2125,6 @@ schaefer-shop.nl##.row > [class]:has(.sfr-pdp-section[id$="crossseller"])
 rtlboulevard.nl##.rtldart
 softonic.nl##.sam-slot
 scholieren.com##.searchvertorial
-telegraaf.nl##.SectionPage__bannerWrapper
 uitzendinggemist.net##.serie_info_adbox
 baanwacht.nl##.shailan_banner_widget
 nederlandsextube.nl##.side
@@ -2135,7 +2142,6 @@ knvb.nl##.SponsorBar-list
 omroephouten.nl##.sponsor-carousel
 computable.nl##.sponsored
 volleybelgium.be##.sponsors
-telegraaf.nl##.SportScoreboardPage__banner
 gratispittigesexfilms.nl,hetegangbang.nl##.spot-on
 detelefoongids.nl##.static-map
 nos.nl##.ster-banner
@@ -2155,7 +2161,6 @@ gaynews.nl##.telefoon_verberg
 nos.nl##.teletekst__banner
 netonline.be##.text_12_jobs_only
 beursonline.nl,debeurs.nl##.Textads
-telegraaf.nl##.TextArticlePage__bannerWrapper
 nedporno.com##.text-center:has-text(/Reclame/i)
 nederlandsewebcambabes.nl##.textwidget:has(.model)
 ans-online.nl##.theiaStickySidebar > .widget:has-text(Advertentie)
@@ -2184,15 +2189,12 @@ dekrantnieuws.nl,destreekkrant.nu##.vc_carousel-inner > .vc_carousel-slideline >
 intikkertje.nl##.vc_cta3-container
 dekrantnieuws.nl,destreekkrant.nu##.vc_inner:has([src$="324x484.jpg"])
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
-telegraaf.nl##.VideoArticlePage__banner
 12milf.com##.video-description > .under-video-block
 sex-kamer.nl##.videoOverAdBig
-telegraaf.nl##.VideoPage__banner
 mo.be##.view-id-banners_top
 nnieuws.be##.view-vw-banners.view
 rubenweytjens.be##.view-weather-ads-view
 barneveldsekrant.nl,edestad.nl##.w-300x.RM5
-telegraaf.nl##.WebpushOptin__main
 neukengratis.be,sexdate-xxx.be##.well:has(.bannergroup)
 transfermarkt.nl##.werbung
 baarsclassicrock.nl##.widebanner
@@ -2227,7 +2229,6 @@ onderwijsland.com##.widgetbar > div.row > :has-text(Advert)
 voetbal4u.be##.widget-container:has([id^="text-"]:has(script[src*="/ad"]))
 voetbal4u.com##.widget-container:has([id^="text-"]> h4)
 indebuurt.nl##.widget-tabs--partner
-telegraaf.nl##.withBanners
 eindtijdklok.org##.wpa
 dekrantnieuws.nl,destreekkrant.nu##.wpb_wrapper > .a-single
 bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
