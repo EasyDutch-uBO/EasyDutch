@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-07-12
+buttkicken.nl##a[href] > img[src*="wp.com"]:upward(.wp-block-image):not(:has(a[href*="backme.org"]))
+buttkicken.nl##p.has-small-font-size:has-text(Advertentie)
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
 telegraaf.nl##.ArticlePageWrapper__banner
 telegraaf.nl##.Banner
@@ -562,7 +564,6 @@ apintie.sr##div[style*="width:300px; height:200px;"]
 knack.be##.js-partner-content
 ! 2022-06-22
 binnenvaartkrant.nl,dartfreakz.nl,dbsuriname.com,regioinbedrijf.nl,westerwoldeactueel.nl##.g
-briefjevanjan.nl##[href^="https://partner.bol.com/"]
 investmentofficer.nl##.region-banner
 investmentofficer.nl##[id*="dfptaghomeadvertorial"]:upward(.views-rows > .row > .col)
 investmentofficer.nl##.io-tape-card[href^="/partner"]
@@ -1390,7 +1391,6 @@ newspower.nu##aside[class^="td_block"]:has(.gofollow)
 digitaalburg.com##aside[class^="widget widget_text"]
 hoekschnieuws.nl##body > center:has(img)
 dekrantvantoen.nl##body:style(margin-top:-20px!important)
-briefjevanjan.nl##center:has([src^="https://partner.bol.com/"])
 nu.nl##div.articlelist[data-section^="advertorial"][data-section$="-adverteerder"]
 pcmweb.nl##div.block:has([id^="div-gpt-ad"])
 pcmweb.nl##div.block:has-text(Vacatures)
