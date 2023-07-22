@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 12 Jul 2023 08:12:40 +0000
+! Last updated: Sat, 22 Jul 2023 06:38:55 +0000
 !
+! 2023-07-22 https://github.com/EasyDutch-uBO/EasyDutch/issues/46
+fok.nl##[class$="billboard-atf"]
 ! 2023-07-12
 buttkicken.nl##a[href] > img[src*="wp.com"]:upward(.wp-block-image):not(:has(a[href*="backme.org"]))
 buttkicken.nl##p.has-small-font-size:has-text(Advertentie)
