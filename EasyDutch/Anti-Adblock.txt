@@ -2,6 +2,25 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-07-26
+! https://github.com/AdguardTeam/AdguardFilters/commit/25e1c5f39ef9f3ff937db3d72ce1f05c599158c4
+! https://github.com/AdguardTeam/AdguardFilters/commit/695532f6ed3a31648b16dcd9e680a04eb22e5c5d
+! https://github.com/EasyDutch-uBO/EasyDutch/issues/34
+! https://github.com/uBlockOrigin/uAssets/issues/16782
+! https://github.com/EasyDutch-uBO/EasyDutch/issues/22
+! https://github.com/uBlockOrigin/uAssets/issues/15963
+*$image,redirect-rule=2x2.png,domain=tweakers.net
+! @@||tweakers.nl^$xhr,domain=tweakers.net
+tweakers.net##+js(no-fetch-if, /a[ab]\.tweakers\.nl/)
+tweakers.net##+js(aeld, /[\w]{16}/, /^e=>.*/)
+! tweakers.net##+js(aeld, /[\w]{16}/, /^e=>.*\(e\)$/)
+@@||tweakers.net^$ghide
+tweakers.net###b_re:style(visibility: collapse !important; min-height: 1.5px !important;)
+tweakers.net##.headline:has([title^=".Adv"])
+tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
+tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1.5px !important;)
+tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
+tweakers.net###true
 ! 2023-06-12
 aimsolutions.nl##+js(noeval-if, adsBlocked)
 ! 2023-06-10 https://github.com/uBlockOrigin/uAssets/issues/16839
@@ -21,24 +40,6 @@ goplay.be##+js(json-prune, ads time_events_url)
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=goplay.be
 @@||sdk.privacy-center.org^$script,domain=goplay.be
 goplay.be##.theoplayer div > div > div > div[class][style^="left"][style*="width"][style$="px;"]
-! 2023-05-09
-! https://github.com/AdguardTeam/AdguardFilters/commit/25e1c5f39ef9f3ff937db3d72ce1f05c599158c4
-! https://github.com/AdguardTeam/AdguardFilters/commit/695532f6ed3a31648b16dcd9e680a04eb22e5c5d
-! https://github.com/EasyDutch-uBO/EasyDutch/issues/34
-! https://github.com/uBlockOrigin/uAssets/issues/16782
-! https://github.com/EasyDutch-uBO/EasyDutch/issues/22
-! https://github.com/uBlockOrigin/uAssets/issues/15963
-*$image,redirect-rule=2x2.png,domain=tweakers.net
-! @@||tweakers.nl^$xhr,domain=tweakers.net
-tweakers.net##+js(no-fetch-if, /a[ab]\.tweakers\.nl/)
-tweakers.net##+js(aeld, /[\w]{16}/, /^e=>.*\(e\)$/)
-@@||tweakers.net^$ghide
-tweakers.net###b_re:style(visibility: collapse !important; min-height: 1.5px !important;)
-tweakers.net##.headline:has([title^=".Adv"])
-tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
-tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1.5px !important;)
-tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
-tweakers.net###true
 ! 2023-04-27
 routenet.nl,trafficnet.nl##+js(set, canRunAds, true)
 ! 2023-01-06
