@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 08:00:20 +0000
+! Last updated: Tue, 01 Aug 2023 08:12:29 +0000
 !
 ! 2023-08-01
 willem-ii.nl##.sponsors-block
@@ -1227,7 +1227,6 @@ marktnet.nl##.tab4
 glutenvrij.nl##.t-banner
 nieuwsopbeeld.nl##.td_module_wrap:has(.td-post-category:has-text(Gesponsord))
 dissident.one##.td-adspot-title
-regioonline.nl##.td-a-rec
 techpulse.be##.td-banner-wrap-full
 netonline.be##.tekstboldwit:has-text(ADVERT)
 gaynews.nl##.telefoon_verberg
