@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 01 Aug 2023 09:15:57 +0000
+! Last updated: Tue, 01 Aug 2023 09:17:14 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -1836,7 +1836,6 @@ eredivisie.nl###partner-bar
 vagina.nl###partner-links
 coastline945fm.nl,elfvoetbal.nl###partners
 forum.scholieren.com###posts .thead:has-text(Advert)
-sexpower.nl###pre-footer-banners
 soccernews.nl###r89-mobile-rectangle-mid
 soccernews.nl###r89-takeover
 stubru.be###reclameblok-wrapper
@@ -1853,7 +1852,6 @@ petitie24.nl###tekstpetitie > :has-text(advert) + div
 sexpunt.nl###top:has(.banner)
 online-radio.nl###top_ad-360
 doorbraak.be###top-advertisement-area
-sexpower.nl###top-banner
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gaming-nieuws.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,hotstreams.nl,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
 starnieuws.com###topstory > div:has-text(Advertentie)
 hotradiohits.nl###tpl_banners
