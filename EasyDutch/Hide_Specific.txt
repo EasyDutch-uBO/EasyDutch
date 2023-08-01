@@ -8,6 +8,9 @@ cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
 roulettefm.nl##.list-sponsors:upward(.content)
 riskcompliance.nl##.banner-container
 retaildetail.be,retaildetail.nl##.ad-web.ad-page
+techpulse.be###page-content > section.wpb_row.height_medium:has(.wpb_wrapper div[id^="gpt-ad"])
+techpulse.be##.wpb_wrapper > div[id^="techp"]:upward(.g-cols.wpb_row)
+techpulse.be##.wpb_wrapper:has( > div[class^="g"]):upward(section[class$="wpb_row height_small"]):not(:nth-of-type(1))
 telefoonboek.nl###tbresult-top
 telefoonboek.nl##[class^="detail-leaderbord"]:has(.adsbygoogle)
 topgear.nl##div:has( > div[style]:has-text(/advert/i):has(div[id]))
@@ -1228,7 +1231,6 @@ marktnet.nl##.tab4
 glutenvrij.nl##.t-banner
 nieuwsopbeeld.nl##.td_module_wrap:has(.td-post-category:has-text(Gesponsord))
 dissident.one##.td-adspot-title
-techpulse.be##.td-banner-wrap-full
 netonline.be##.tekstboldwit:has-text(ADVERT)
 gaynews.nl##.telefoon_verberg
 nos.nl##.teletekst__banner
