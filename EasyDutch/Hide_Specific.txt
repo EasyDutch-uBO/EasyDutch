@@ -910,7 +910,6 @@ sexpower.nl###pre-footer-banners
 soccernews.nl###r89-mobile-rectangle-mid
 soccernews.nl###r89-takeover
 stubru.be###reclameblok-wrapper
-xxxdump.nl###reclame-eroads
 rtvdrenthe.nl###recommendations-above-ad
 sexfun.nl###recommendBlock
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
