@@ -7,7 +7,7 @@ willem-ii.nl##.sponsors-block
 wintersport.nl##.wintersport-banner
 metrotime.be##.r-pub
 zakenreisnieuws.nl##[id*="rectangle"]:upward(.block)
-zakenreisnieuws.nl##[id*="web_billboard"]:upward(.block)
+zakenreisnieuws.nl##[id*="web_billboard"]:upward(article > .field)
 zakenreisnieuws.nl##[id*="web_halfpage"]:upward(.block)
 zakenreisnieuws.nl##[id*="web_hpa"]:upward(.block)
 zakenreisnieuws.nl##[id*="web_partners"]:upward(.block)
