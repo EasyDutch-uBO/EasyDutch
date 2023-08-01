@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 09:17:14 +0000
+! Last updated: Tue, 01 Aug 2023 09:28:22 +0000
 !
 ! 2023-08-01
 roulettefm.nl##.list-sponsors:upward(.content)
@@ -1092,7 +1092,6 @@ arenalokaal.nl,sexverhalen.com##.header_banner
 koopplein.nl,televizier.nl,tvblik.nl##.header-banner
 eromarkt.nl##.headerlinks:has(iframe[src="linkframe.php"])
 wos.nl##.header-right
-vivocyclo.com##.herald-sticky > [id^="media_image-"]
 weerplaza.nl##.hf-widget
 farm-date.com##.hide-for-small-only:has-text(Sponsors)
 slam.nl##.holder-ads
