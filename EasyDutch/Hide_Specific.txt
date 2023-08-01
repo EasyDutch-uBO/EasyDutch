@@ -1,9 +1,14 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 07:20:39 +0000
+! Last updated: Tue, 01 Aug 2023 07:37:06 +0000
 !
 ! 2023-08-01
 metrotime.be##.r-pub
+zakenreisnieuws.nl##[id*="rectangle"]:upward(.block)
+zakenreisnieuws.nl##[id*="web_billboard"]:upward(.block)
+zakenreisnieuws.nl##[id*="web_halfpage"]:upward(.block)
+zakenreisnieuws.nl##[id*="web_hpa"]:upward(.block)
+zakenreisnieuws.nl##[id*="web_partners"]:upward(.block)
 zita.be##[id^="rossel-leaderboard"]:upward(.tdc-row)
 zuidenvelder.info##.component__pubble-banner
 ! 2023-07-22 https://github.com/EasyDutch-uBO/EasyDutch/issues/46
@@ -585,9 +590,6 @@ wielerflits.be,wielerflits.nl##.list-group-item:has(span:has-text(Ad))
 wielerflits.be,wielerflits.nl##.mm_container
 wielerflits.be,wielerflits.nl##.row [class^="widget"]:has(.mm_container)
 wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
-zakenreisnieuws.nl##[id^="block-block"]:has([id^="div-gpt-ad"])
-zakenreisnieuws.nl##div[class*="block-block"]:has(.adsbygoogle)
-zakenreisnieuws.nl##div[style*="padding:10px"]:has(div[id^="div-gpt-ad"])
 ! 2022-06-21
 deoudrotterdammer.nl##[id^="deoud-"]
 ! 2022-06-16
