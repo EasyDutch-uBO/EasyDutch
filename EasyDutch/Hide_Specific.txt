@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 09:12:42 +0000
+! Last updated: Tue, 01 Aug 2023 09:15:57 +0000
 !
 ! 2023-08-01
 roulettefm.nl##.list-sponsors:upward(.content)
@@ -1257,7 +1257,6 @@ intikkertje.nl##.vc_cta3-container
 dekrantnieuws.nl,destreekkrant.nu##.vc_inner:has([src$="324x484.jpg"])
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
 12milf.com##.video-description > .under-video-block
-sex-kamer.nl##.videoOverAdBig
 mo.be##.view-id-banners_top
 nnieuws.be##.view-vw-banners.view
 rubenweytjens.be##.view-weather-ads-view
