@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 01 Aug 2023 07:50:05 +0000
+! Last updated: Tue, 01 Aug 2023 07:54:49 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -933,6 +933,7 @@ _advertentieleaderboardhome.
 ! Last updated: %timestamp%
 !
 ! 2023-08-01
+willem-ii.nl##.sponsors-block
 wintersport.nl##.wintersport-banner
 metrotime.be##.r-pub
 zakenreisnieuws.nl##[id*="rectangle"]:upward(.block)
@@ -1439,7 +1440,6 @@ vives.nl##[class*="right"] .wpb_wrapper:has(img[height="520"][src])
 vnexplorer.net###ads_right_scroll_single_sidebar
 voetbalnederland.nl###submenubanner
 voetbalrotterdam.nl##div[class^="r89-desktop"]
-willem-ii.nl##.advert
 ! 2022-06-28
 groningerkrant.nl##.widget:has(.widget-title:has-text(Vrienden))
 gratisepub.nl##.widget:has(.adsbygoogle)
@@ -1797,9 +1797,6 @@ kranenwebsite.nl###bannerdiv
 autowereld.nl###banner-lister-top
 brandweerspotters.nl,coc.nl,fanclubbarcelona.nl###banners
 almere-nieuws.nl###banner-text2
-willem-ii.nl###block-views-block-view-business-partners
-willem-ii.nl###block-views-block-view-main-sponsor
-willem-ii.nl###block-views-block-view-shirt-sponsor
 asex.nl###bottum_ad
 takecare4.eu###branding > .clearfix
 indiexl.nl###carousel-indiexl_partners_carousel_widget
@@ -2179,7 +2176,6 @@ fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
 dvhn.nl,lc.nl,meppelercourant.nl##.top__ad
 startpagina.nl##.top-banner
-willem-ii.nl##.top-bar-logos
 live-voetbal.com##.top-match
 feyenoord.nl##.totoOdds
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
