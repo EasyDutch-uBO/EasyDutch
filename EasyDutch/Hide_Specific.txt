@@ -1099,7 +1099,6 @@ slam.nl##.holder-ads
 oogtv.nl##.home-banner
 racingnews365.nl##.homepage-casino-wrapper
 jan-magazine.nl##.homepage-marquee
-sexylingerie-winkel.be##.homepage-seo-footer
 radiofm.nl##.hoofdAd2
 tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
 turkinfo.nl##.img_position_left:has(.adsbygoogle)
