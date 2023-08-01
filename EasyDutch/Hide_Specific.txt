@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 08:48:27 +0000
+! Last updated: Tue, 01 Aug 2023 08:55:28 +0000
 !
 ! 2023-08-01
 roulettefm.nl##.list-sponsors:upward(.content)
@@ -1043,7 +1043,6 @@ rd.nl##.codalt-container
 proximus.be##.col.pix-sidebar
 tvgids.tv##.col-left
 tvgids.tv##.col-right
-secretcircle.com##.column:has(.advert)
 freesoccer.nl##.container-fluid.site-header
 xmissy.nl##.container-linkpartners
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
