@@ -5,6 +5,7 @@
 ! 2023-08-01
 ||riskcompliance.nl/wp-content/uploads/*/*banner.gif
 ||reformatorischeomroep.nl/*/*banner$image
+||villamedia.nl/images/banners/
 ! 2023-07-04
 ||autonieuws.be/templates/yootheme/cache/*/1MG_Banni%C3%A8re_Autonieuws_V1-*$image
 ||autonieuws.be/templates/yootheme/cache/*/325_x_325_NL-*$image
