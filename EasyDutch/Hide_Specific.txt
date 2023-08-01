@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-08-01
+metrotime.be##.r-pub
 zita.be##[id^="rossel-leaderboard"]:upward(.tdc-row)
 zuidenvelder.info##.component__pubble-banner
 ! 2023-07-22 https://github.com/EasyDutch-uBO/EasyDutch/issues/46
