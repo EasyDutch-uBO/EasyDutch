@@ -1309,7 +1309,6 @@ twentefm.nl##[class^="bannerzone_"]:has([href])
 ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
 schie.nu##[class^="my-"]:has(img[src*="/images/banner/"])
 appletips.nl##[class^="ph_block"]
-visserijnieuws.nl##[class^="row advertentie-"]:not([class*="advertentie-1"])
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 gaynews.nl##[class^="va"]:has([class*="banner"])
 kinkysexcontactonline.nl,neukplaza.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"])
