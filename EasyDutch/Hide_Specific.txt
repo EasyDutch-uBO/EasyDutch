@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 07:39:46 +0000
+! Last updated: Tue, 01 Aug 2023 07:40:53 +0000
 !
 ! 2023-08-01
 metrotime.be##.r-pub
@@ -9,6 +9,7 @@ zakenreisnieuws.nl##[id*="web_billboard"]:upward(.block)
 zakenreisnieuws.nl##[id*="web_halfpage"]:upward(.block)
 zakenreisnieuws.nl##[id*="web_hpa"]:upward(.block)
 zakenreisnieuws.nl##[id*="web_partners"]:upward(.block)
+zita.be###shopsuiteApplication
 zita.be##[id^="rossel-leaderboard"]:upward(.tdc-row)
 zuidenvelder.info##.component__pubble-banner
 ! 2023-07-22 https://github.com/EasyDutch-uBO/EasyDutch/issues/46
