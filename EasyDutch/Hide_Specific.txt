@@ -805,9 +805,6 @@ spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
 ! 2022-02-03
 minecrafttoplist.nl##.fancy-wrap
-! 2022-02-02
-wildfm.nl##[class*="avia-image-container"]:has(a[href])
-wildfm.nl##[id*="after_section"] > .container:has([class*="av-content"])
 ! 2022-01-31
 autoweek.nl##.advertisement
 ! 2022-01-26
@@ -1437,7 +1434,6 @@ prewarcar.nl##img[width="160"][height="92"]
 regio-voetbal.nl##img[width="300"][height="100"]
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 decibel.nl##img[width="640"][height="180"]
-wildfm.nl##img[width="699"][height="90"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 stubru.be##li:has-text(/advert/i)
 rtveen.nl##li:has-text(reclame)
