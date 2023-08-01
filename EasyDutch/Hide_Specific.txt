@@ -1092,7 +1092,6 @@ arenalokaal.nl,sexverhalen.com##.header_banner
 koopplein.nl,televizier.nl,tvblik.nl##.header-banner
 eromarkt.nl##.headerlinks:has(iframe[src="linkframe.php"])
 wos.nl##.header-right
-vivocyclo.com##.herald-sticky > [id^="media_image-"]
 weerplaza.nl##.hf-widget
 farm-date.com##.hide-for-small-only:has-text(Sponsors)
 slam.nl##.holder-ads
