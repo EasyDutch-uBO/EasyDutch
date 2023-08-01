@@ -1,13 +1,13 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 07:57:33 +0000
+! Last updated: Tue, 01 Aug 2023 08:00:20 +0000
 !
 ! 2023-08-01
 willem-ii.nl##.sponsors-block
 wintersport.nl##.wintersport-banner
 metrotime.be##.r-pub
 zakenreisnieuws.nl##[id*="rectangle"]:upward(.block)
-zakenreisnieuws.nl##[id*="web_billboard"]:upward(.block)
+zakenreisnieuws.nl##[id*="web_billboard"]:upward(article > .field)
 zakenreisnieuws.nl##[id*="web_halfpage"]:upward(.block)
 zakenreisnieuws.nl##[id*="web_hpa"]:upward(.block)
 zakenreisnieuws.nl##[id*="web_partners"]:upward(.block)
