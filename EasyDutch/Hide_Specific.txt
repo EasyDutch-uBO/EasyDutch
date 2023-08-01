@@ -1129,7 +1129,7 @@ atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant
 rendez-vous.be##.leaderBoard
 iexgeld.nl##.LeaderboardContainer
 webwereld.nl##.leaderBoardHolder
-atv.be,robtv.be,tvl.be,tvoost.be##.leaderboardWrap
+atv.be,tvl.be,tvoost.be##.leaderboardWrap
 blikopnieuws.nl##.ligatus-sidebar-block
 vagina.nl##.list-item:has(script[src*=realsrv])
 roulettefm.nl,rtvstichtsevecht.nl##.list-sponsors
