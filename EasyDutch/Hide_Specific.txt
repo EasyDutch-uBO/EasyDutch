@@ -932,7 +932,6 @@ pornozot.com###video-right
 nlsexfilmpjes.com###videos_div_v > .clear_line
 dominant.be,sextoons.be###video-sidebar-wrap
 petities.com###visible_ad_1
-rtl.be###w-leaderboard
 tijd.be##.ac_paragraph:has(.bb_wrapper)
 beleggersbelangen.nl,bestereistijd.be,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,xgn.nl##.ad
 bestereistijd.be##.ad + .card-divider
