@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 01 Aug 2023 08:24:57 +0000
+! Last updated: Tue, 01 Aug 2023 08:27:21 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -933,6 +933,7 @@ _advertentieleaderboardhome.
 ! Last updated: %timestamp%
 !
 ! 2023-08-01
+riskcompliance.nl##.banner-container
 retaildetail.be,retaildetail.nl##.ad-web.ad-page
 willem-ii.nl##.sponsors-block
 wintersport.nl##.wintersport-banner
@@ -2213,7 +2214,6 @@ omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
 sexmeid.nl##.widget_custom_html:has([src*="affilaxy.com"])
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
 mannenstyle.nl##.widget_execphp
-riskcompliance.nl##.widget_itarget_banners
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
 ero-meiden.nl,geilverlangen.nl##.widget_media_image > a[href]:has(.size-full.attachment-full)
 sexmeid.nl##.widget_media_image:has(img[src*="sexmeid.nl/wp-content/uploads/"][src$=".gif"])
