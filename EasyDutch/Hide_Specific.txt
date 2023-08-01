@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 08:21:10 +0000
+! Last updated: Tue, 01 Aug 2023 08:24:57 +0000
 !
 ! 2023-08-01
 retaildetail.be,retaildetail.nl##.ad-web.ad-page
@@ -1430,7 +1430,6 @@ tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 rotterdambasketbal.nl##img[title^="roba_sponosor_"]
 prewarcar.nl##img[width="160"][height="92"]
-regio-voetbal.nl##img[width="300"][height="100"]
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 decibel.nl##img[width="640"][height="180"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
