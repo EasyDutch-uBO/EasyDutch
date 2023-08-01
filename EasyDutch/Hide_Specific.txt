@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 22 Jul 2023 06:38:55 +0000
+! Last updated: Tue, 01 Aug 2023 07:04:35 +0000
 !
+! 2023-08-01
+zuidenvelder.info##.component__pubble-banner
 ! 2023-07-22 https://github.com/EasyDutch-uBO/EasyDutch/issues/46
 fok.nl##[class$="billboard-atf"]
 ! 2023-07-12
