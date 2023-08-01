@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 01 Aug 2023 08:32:59 +0000
+! Last updated: Tue, 01 Aug 2023 08:34:49 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -936,6 +936,7 @@ _advertentieleaderboardhome.
 ! 2023-08-01
 riskcompliance.nl##.banner-container
 retaildetail.be,retaildetail.nl##.ad-web.ad-page
+wasmachines.nl##.adunitContainer:upward(.items-center)
 watchfaces.be##[id^="custom_html"]:has(.adsbygoogle)
 willem-ii.nl##.sponsors-block
 wintersport.nl##.wintersport-banner
@@ -2121,7 +2122,6 @@ oozo.nl##.rcntctr
 motocrossplanet.nl##.rcol-titel:has-text(Advert)
 rd.nl##.rdnl__adds
 iexgeld.nl##.Rectangle
-wasmachines.nl##.rectangle
 iex.nl##.rectanglewrap
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 nnieuws.be##.region-banner-diamond

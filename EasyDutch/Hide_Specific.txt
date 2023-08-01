@@ -1,10 +1,11 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 08:32:59 +0000
+! Last updated: Tue, 01 Aug 2023 08:34:49 +0000
 !
 ! 2023-08-01
 riskcompliance.nl##.banner-container
 retaildetail.be,retaildetail.nl##.ad-web.ad-page
+wasmachines.nl##.adunitContainer:upward(.items-center)
 watchfaces.be##[id^="custom_html"]:has(.adsbygoogle)
 willem-ii.nl##.sponsors-block
 wintersport.nl##.wintersport-banner
@@ -1190,7 +1191,6 @@ oozo.nl##.rcntctr
 motocrossplanet.nl##.rcol-titel:has-text(Advert)
 rd.nl##.rdnl__adds
 iexgeld.nl##.Rectangle
-wasmachines.nl##.rectangle
 iex.nl##.rectanglewrap
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 nnieuws.be##.region-banner-diamond
