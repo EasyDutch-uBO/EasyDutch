@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 07:04:35 +0000
+! Last updated: Tue, 01 Aug 2023 07:19:01 +0000
 !
 ! 2023-08-01
+zita.be##[id^="rossel-leaderboard"]:upward(.tdc-row)
 zuidenvelder.info##.component__pubble-banner
 ! 2023-07-22 https://github.com/EasyDutch-uBO/EasyDutch/issues/46
 fok.nl##[class$="billboard-atf"]
@@ -655,7 +656,6 @@ tijd.be##[class$="sponsored"]
 ! 2022-05-11
 crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
 ! 2022-05-09
-zita.be##[id^="custom_html-"]:has-text(Ad)
 welklidwoord.nl###ad-takeover
 ! 2022-05-05
 ijshockeynederland.nl##footer > .container > div:nth-of-type(1)
