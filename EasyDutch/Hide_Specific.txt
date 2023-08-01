@@ -9,6 +9,7 @@ zakenreisnieuws.nl##[id*="web_billboard"]:upward(.block)
 zakenreisnieuws.nl##[id*="web_halfpage"]:upward(.block)
 zakenreisnieuws.nl##[id*="web_hpa"]:upward(.block)
 zakenreisnieuws.nl##[id*="web_partners"]:upward(.block)
+zita.be###shopsuiteApplication
 zita.be##[id^="rossel-leaderboard"]:upward(.tdc-row)
 zuidenvelder.info##.component__pubble-banner
 ! 2023-07-22 https://github.com/EasyDutch-uBO/EasyDutch/issues/46
