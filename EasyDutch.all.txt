@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 01 Aug 2023 09:42:13 +0000
+! Last updated: Tue, 01 Aug 2023 09:44:09 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -2032,7 +2032,6 @@ slam.nl##.holder-ads
 oogtv.nl##.home-banner
 racingnews365.nl##.homepage-casino-wrapper
 jan-magazine.nl##.homepage-marquee
-sexylingerie-winkel.be##.homepage-seo-footer
 radiofm.nl##.hoofdAd2
 tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
 turkinfo.nl##.img_position_left:has(.adsbygoogle)
