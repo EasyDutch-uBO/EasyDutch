@@ -1051,7 +1051,6 @@ tameteo.nl##.creatividad
 knltb.nl,tennis.nl##.c-site-footer__partners
 tijd.be##.c-sitenavPlaceholder__ad
 golf.nl##.c-sponsors
-voetbaluitslagen.com##.cta
 menttv.be##.cta-container
 touretappe.nl##.desktopad
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp-space
