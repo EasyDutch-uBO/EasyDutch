@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 08:44:28 +0000
+! Last updated: Tue, 01 Aug 2023 08:48:27 +0000
 !
 ! 2023-08-01
 roulettefm.nl##.list-sponsors:upward(.content)
@@ -987,7 +987,7 @@ vlietnieuws.nl##.banner_wrapper
 402online.com##.bannerblock
 speeleiland.nl##.banner-btf-side-rectangle
 feyenoord.nl##.banner-carousel
-funnygames.be,funnygames.nl,rtvdordrecht.nl##.bannerContainer
+funnygames.be,funnygames.nl##.bannerContainer
 refoweb.nl##.bannercontainer
 elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
 tvblik.nl##.banner-fluid
