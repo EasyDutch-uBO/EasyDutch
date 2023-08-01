@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-08-01
+retaildetail.be,retaildetail.nl##.ad-web.ad-page
 willem-ii.nl##.sponsors-block
 wintersport.nl##.wintersport-banner
 metrotime.be##.r-pub
@@ -208,7 +209,6 @@ gratissexverhalen.nu##[id^="block-"]:has([href^="https://www.dql2clk.com/"])
 neuk-sexcontact.be##.moduletable:has(.bannergroup)
 nuneuken.nl##.module:has(img[src^="https://www.2k19.nl/b/"])
 poldersexverhalen.nl##[id^="custom_html-"]:has(img[src$=".gif"])
-retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
 sexmetvrouwen.nl##[id^="custom_html-"]:has-text(/Rijpe dames|Webcamsex/)
 voetbalnieuws.be##[class*="r89-desktop"][class*="-btf"]
 wraaksex.nl###meerfilms
