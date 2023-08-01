@@ -8,6 +8,8 @@ cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
 roulettefm.nl##.list-sponsors:upward(.content)
 riskcompliance.nl##.banner-container
 retaildetail.be,retaildetail.nl##.ad-web.ad-page
+telefoonboek.nl###tbresult-top
+telefoonboek.nl##[class^="detail-leaderbord"]:has(.adsbygoogle)
 topgear.nl##div:has( > div[style]:has-text(/advert/i):has(div[id]))
 touretappe.nl###right .desktopad[id*="TOURETAPPE_300"]:upward(1)
 trucks.nl##.highlighted-advertisers:upward(.row)
@@ -1304,7 +1306,6 @@ camping-frankrijk.nl##[class$="container"]:has([id*="HyperLinkBanner"])
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
 domstadradio.nl##[class*="elementor-element-"]:has-text(/onze sponsors/i)
 hardnieuws.nl##[class*="mb-"]:has([id$="ros-970x250"])
-telefoonboek.nl##[class*="organic-"]:has-text(Advertentie)
 infonu.nl##[class^="a"][id^="a"]:has(.adsbygoogle)
 linda.nl##[class^="article-"][class$="_article"]:has(.category-label_label:has-text(Advertorial))
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,motocrossplanet.nl,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##[class^="banner"]
