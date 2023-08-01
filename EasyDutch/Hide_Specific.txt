@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 09:07:42 +0000
+! Last updated: Tue, 01 Aug 2023 09:11:51 +0000
 !
 ! 2023-08-01
 roulettefm.nl##.list-sponsors:upward(.content)
@@ -910,7 +910,6 @@ soccernews.nl###r89-mobile-rectangle-mid
 soccernews.nl###r89-takeover
 stubru.be###reclameblok-wrapper
 rtvdrenthe.nl###recommendations-above-ad
-sexfun.nl###recommendBlock
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl###right-sidebar > :has(.mb-3:has-text(Advert))
 audiobookbay.nl###rsidebar > ul > li > h2:has-text(/ad/i)
@@ -1320,7 +1319,6 @@ gaynews.nl##[class^="va"]:has([class*="banner"])
 kinkysexcontactonline.nl,neukplaza.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"])
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 pornokartel.nl##[href*="pornokartel.nl/adverteren"]
-sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
 beeldbelsex.com##[href^="https://islive.com/"]
 villamedia.nl##[href^="https://www.anp.nl/start"]
 totaaltv.nl##[href^="https://www.totaaltv.nl/plugins/banner/"]
