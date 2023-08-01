@@ -987,7 +987,7 @@ vlietnieuws.nl##.banner_wrapper
 402online.com##.bannerblock
 speeleiland.nl##.banner-btf-side-rectangle
 feyenoord.nl##.banner-carousel
-funnygames.be,funnygames.nl,rtvdordrecht.nl##.bannerContainer
+funnygames.be,funnygames.nl##.bannerContainer
 refoweb.nl##.bannercontainer
 elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
 tvblik.nl##.banner-fluid
