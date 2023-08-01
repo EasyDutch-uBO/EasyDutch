@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 10:31:57 +0000
+! Last updated: Tue, 01 Aug 2023 10:38:07 +0000
 !
 ! 2023-08-01
 schaamlip.net,tienersextube.com,tubeclips.nl##.adHomePage
@@ -8,6 +8,7 @@ cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
 roulettefm.nl##.list-sponsors:upward(.content)
 riskcompliance.nl##.banner-container
 retaildetail.be,retaildetail.nl##.ad-web.ad-page
+trucks.nl##.highlighted-advertisers:upward(.row)
 tvgids24.nl###shortads
 ucl-voetbal.nl,uecl-voetbal.nl,uel-voetbal.nl##.uitgelichtbox
 villamedia.nl##.header-intro
