@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 01 Aug 2023 08:55:28 +0000
+! Last updated: Tue, 01 Aug 2023 08:57:45 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -904,7 +904,7 @@ _advertentieleaderboardhome.
 ! 2021-12-06
 ! amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv
 ##.adv-tekst
-! amateursextube.eu,anaaltube.be,incesttube.eu,opasextube.nl,plassextube.com,schaamlip.net,seksfilmstube.be,smsextube.com,tienersextube.com,tubeclips.nl
+! amateursextube.eu,anaaltube.be,incesttube.eu,opasextube.nl,plassextube.com,schaamlip.net,smsextube.com,tienersextube.com,tubeclips.nl
 ##.adHomePage
 ! fucking-tube.com,pornokartel.nl,seks-tube.be
 ##.video-block-happy
