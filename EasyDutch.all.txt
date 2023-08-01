@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 01 Aug 2023 09:03:36 +0000
+! Last updated: Tue, 01 Aug 2023 09:03:56 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -816,8 +816,8 @@ _advertentieleaderboardhome.
 @@||pagead2.googlesyndication.com/pagead/$script,domain=rotterdam-nesselande.nl
 ! 2023-05-03 https://github.com/uBlockOrigin/uAssets/issues/13800
 ! 2023-04-27
-@@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|sexdatingholland.com|zinomteneuken.nl
-@@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|sexdatingholland.com|zinomteneuken.nl
+@@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
+@@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
 @@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument
 @@/https\:\/\/pt\.[\w]{6}\.com\/embed\/tbplyr\//$script
 @@/https\:\/\/pt\.[\w]{6}\.com\/api\/video-promotion\/v1\/get-content-url\//$xhr,domain=/pt\.[\w]{6}\.com/

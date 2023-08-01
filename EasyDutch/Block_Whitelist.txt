@@ -1,6 +1,6 @@
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Sat, 13 May 2023 07:13:06 +0000
+! Last updated: Tue, 01 Aug 2023 09:03:56 +0000
 !
 ! 2023-05-13
 @@||fundingchoicesmessages.google.com/*/$script,domain=racingnews365.nl
@@ -9,8 +9,8 @@
 @@||pagead2.googlesyndication.com/pagead/$script,domain=rotterdam-nesselande.nl
 ! 2023-05-03 https://github.com/uBlockOrigin/uAssets/issues/13800
 ! 2023-04-27
-@@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|sexdatingholland.com|zinomteneuken.nl
-@@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|sexdatingholland.com|zinomteneuken.nl
+@@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
+@@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
 @@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument
 @@/https\:\/\/pt\.[\w]{6}\.com\/embed\/tbplyr\//$script
 @@/https\:\/\/pt\.[\w]{6}\.com\/api\/video-promotion\/v1\/get-content-url\//$xhr,domain=/pt\.[\w]{6}\.com/
