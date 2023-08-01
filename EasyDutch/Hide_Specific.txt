@@ -166,7 +166,6 @@ motorrijder.be##.elementor-widget-container > a:not([href*="https://motorrijder.
 oops.nl##td[background="http://www.oops.nl/sexverhalen/oopslogo.jpg"]:style(height:50px !important;)
 pornozot.com##.abbcn-footer
 pu.nl##.ad-container
-sexdatingholland.com##.homebanner
 sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
 sexvoorgeldadvertenties.nl##.widget:has(iframe[src*="banner"])
 sliedrecht24.nl##[id$="random_ads"]
@@ -1319,7 +1318,7 @@ appletips.nl##[class^="ph_block"]
 visserijnieuws.nl##[class^="row advertentie-"]:not([class*="advertentie-1"])
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 gaynews.nl##[class^="va"]:has([class*="banner"])
-kinkysexcontactonline.nl,neukplaza.nl,sexdatingholland.com,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"])
+kinkysexcontactonline.nl,neukplaza.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"])
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 pornokartel.nl##[href*="pornokartel.nl/adverteren"]
 sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
