@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 01 Aug 2023 10:14:40 +0000
+! Last updated: Tue, 01 Aug 2023 10:21:42 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -907,8 +907,6 @@ _advertentieleaderboardhome.
 ! 2021-12-06
 ! amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv
 ##.adv-tekst
-! amateursextube.eu,anaaltube.be,incesttube.eu,opasextube.nl,plassextube.com,schaamlip.net,tienersextube.com,tubeclips.nl
-##.adHomePage
 ! fucking-tube.com,pornokartel.nl,seks-tube.be
 ##.video-block-happy
 ! 2021-10-19
@@ -941,6 +939,7 @@ cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
 roulettefm.nl##.list-sponsors:upward(.content)
 riskcompliance.nl##.banner-container
 retaildetail.be,retaildetail.nl##.ad-web.ad-page
+ucl-voetbal.nl,uecl-voetbal.nl,uel-voetbal.nl##.uitgelichtbox
 villamedia.nl##.header-intro
 voetbalvandaag.be##.embed-responsive:has(iframe[src*="banners"])
 wasmachines.nl##.adunitContainer:upward(.items-center)
@@ -2179,7 +2178,6 @@ computable.be,computable.nl##.true-logo
 fok.nl##.trueTop
 buzzbie.nl##.TS_Banner_Spot
 gratisepub.nl##.type-post:has-text(advert)
-uecl-voetbal.nl,uel-voetbal.nl##.uitgelichtbox
 buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
 beursgorilla.nl##.ut--billboard
 beursgorilla.nl##.ut--rectangle
@@ -2291,7 +2289,6 @@ kledingmaten.nl##[id^="text-"]:has-text(Advert)
 senseigaming.be##[id^="text-"]:has-text(sponsors)
 peoplesphere.be##[id^="text-"]:not(:has(a[href^="https://peoplesphere.be/"])):not(:has(.twitter-timeline))
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
-ucl-voetbal.nl##[src^="/derden/betcity-"]
 oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
 online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
 geenstijl.nl##a[data-ga-event^="link-tip"]

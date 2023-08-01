@@ -1,12 +1,13 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 01 Aug 2023 09:45:55 +0000
+! Last updated: Tue, 01 Aug 2023 10:21:42 +0000
 !
 ! 2023-08-01
 cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
 roulettefm.nl##.list-sponsors:upward(.content)
 riskcompliance.nl##.banner-container
 retaildetail.be,retaildetail.nl##.ad-web.ad-page
+ucl-voetbal.nl,uecl-voetbal.nl,uel-voetbal.nl##.uitgelichtbox
 villamedia.nl##.header-intro
 voetbalvandaag.be##.embed-responsive:has(iframe[src*="banners"])
 wasmachines.nl##.adunitContainer:upward(.items-center)
@@ -1245,7 +1246,6 @@ computable.be,computable.nl##.true-logo
 fok.nl##.trueTop
 buzzbie.nl##.TS_Banner_Spot
 gratisepub.nl##.type-post:has-text(advert)
-uecl-voetbal.nl,uel-voetbal.nl##.uitgelichtbox
 buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
 beursgorilla.nl##.ut--billboard
 beursgorilla.nl##.ut--rectangle
@@ -1357,7 +1357,6 @@ kledingmaten.nl##[id^="text-"]:has-text(Advert)
 senseigaming.be##[id^="text-"]:has-text(sponsors)
 peoplesphere.be##[id^="text-"]:not(:has(a[href^="https://peoplesphere.be/"])):not(:has(.twitter-timeline))
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
-ucl-voetbal.nl##[src^="/derden/betcity-"]
 oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
 online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
 geenstijl.nl##a[data-ga-event^="link-tip"]
