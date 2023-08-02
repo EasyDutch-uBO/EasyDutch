@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 02 Aug 2023 05:14:19 +0000
+! Last updated: Wed, 02 Aug 2023 05:21:19 +0000
 !
 ! 2023-08-02
 gpblog.com##aside[class^="Ad_"]:style(position: absolute !important; left: -3000px !important;)
@@ -106,9 +106,6 @@ bright.nl##.ad
 buienradar.be##[class^="AdSlot_AdContainer"]
 ! 2023-05-05
 gpblog.com##.ad
-gpblog.com##.articles > li.article:has(.betting)
-gpblog.com##.betting.dossier-module
-gpblog.com##.promo-element
 ! 2023-05-04
 duurzaam-actueel.nl##footer > section:has(.logo_showcase):has-text(partners)
 leerlingen.com##.sponsors
