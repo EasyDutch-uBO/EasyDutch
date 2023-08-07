@@ -10,7 +10,6 @@
 fok.nl##+js(aeld, , DAB)
 fok.nl###wa_web_headertofloor
 gratisaftehalen.nl##+js(acis, fuckAdBlock, undefined)
-gsurl.be##+js(nowoif)
 icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
 radiowereld.nl##+js(nosiif, adb)
 @@||ah.nl^$ghide
