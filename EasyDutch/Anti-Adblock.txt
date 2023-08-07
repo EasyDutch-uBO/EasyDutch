@@ -2,6 +2,9 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-08-07
+fok.nl##+js(aeld, , DAB)
+fok.nl###wa_web_headertofloor
 ! 2023-07-26
 ! https://github.com/AdguardTeam/AdguardFilters/commit/25e1c5f39ef9f3ff937db3d72ce1f05c599158c4
 ! https://github.com/AdguardTeam/AdguardFilters/commit/695532f6ed3a31648b16dcd9e680a04eb22e5c5d
