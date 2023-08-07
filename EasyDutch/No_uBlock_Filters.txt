@@ -7,8 +7,6 @@
 ||mmcdn.nl^$3p
 ||pornokartel.nl^$3p
 ||googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=spel.nl
-fok.nl##+js(aeld, , DAB)
-fok.nl###wa_web_headertofloor
 gratisaftehalen.nl##+js(acis, fuckAdBlock, undefined)
 icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
 radiowereld.nl##+js(nosiif, adb)
