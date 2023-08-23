@@ -2,8 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
-! 2023-08-21
-bnr.nl##.bnr-message
+! 2023-08-23
+bnr.nl##div[class*="BNRAd_ad_"]
 ! 2023-08-02
 gpblog.com##aside[class^="Ad_"]:style(position: absolute !important; left: -3000px !important;)
 ! 2023-08-01
