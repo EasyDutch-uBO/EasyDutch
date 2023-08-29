@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-08-029
+wibnet.nl##.default-banner-size
 ! 2023-08-23
 bnr.nl##div[class*="BNRAd_ad_"]
 ! 2023-08-02
