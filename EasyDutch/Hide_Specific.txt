@@ -1,9 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 02 Sep 2023 04:47:16 +0000
+! Last updated: Sat, 02 Sep 2023 04:55:54 +0000
 !
 ! 2023-09-01
 security.nl##.banner_leaderboard
+sportinnederland.com##.menu-item > [href="https://www.onlinecasinos-nederland.nl/"]
 ! 2023-08-29
 wibnet.nl##.default-banner-size
 ! 2023-08-23
@@ -977,7 +978,6 @@ autoweek.nl##.advertise
 7sur7.be,ad.nl,bd.nl,bnnvara.nl,destentor.nl,ed.nl,elektormagazine.nl,gelderlander.nl,hln.be,hpdetijd.nl,kieskeurig.nl,modekoninginmaxima.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
 goodbye.be,sporza.be##.advertising
 dagblad010.nl,voorburgsdagblad.nl##.advrow
-sportinnederland.com##.af-main-header-container
 gfcnieuws.com##.ai-viewport-1
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.albla-zijkant:has(.adv-link)
@@ -1295,7 +1295,6 @@ rtvideaal.nl##.widget_random_banner_widget
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 radioreflex.be##.widget_sponsors_widget
 emerce.nl##.widget_text:has(img[src*="/hosted-by-true-"])
-sportinnederland.com##.widget-area:has([id^="custom_html-"]:has(.adsbygoogle))
 digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 onderwijsland.com##.widgetbar > div.row > :has(.widget-partners)
 onderwijsland.com##.widgetbar > div.row > :has-text(Advert)
