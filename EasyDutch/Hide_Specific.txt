@@ -962,7 +962,6 @@ nieuwsmotor.nl##.add-background
 voetbalvandaag.be##.adds
 kinkymedia.nl##.adguru-ad-banner
 kinkymedia.nl##.adguru-zone-wrap
-standaard.be##.ad--halfpageskyscraper
 koopplein.nl##.ad-item-container
 westerwoldeactueel.nl##.adr-wrapper
 androidworld.nl,cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com##.ads
