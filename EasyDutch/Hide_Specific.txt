@@ -118,7 +118,6 @@ leerlingen.com##.sponsors
 radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
 recreatief.nl##.widget-a-wrap
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
-srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
 srnieuws.com##div.card-view:has([id^="taboola"])
 waterkant.net##div.td-all-devices
 ! 2023-05-03
