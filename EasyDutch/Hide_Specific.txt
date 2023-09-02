@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 01 Sep 2023 19:15:05 +0000
+! Last updated: Sat, 02 Sep 2023 04:39:03 +0000
 !
 ! 2023-09-01
 security.nl##.banner_leaderboard
@@ -962,7 +962,6 @@ nieuwsmotor.nl##.add-background
 voetbalvandaag.be##.adds
 kinkymedia.nl##.adguru-ad-banner
 kinkymedia.nl##.adguru-zone-wrap
-standaard.be##.ad--halfpageskyscraper
 koopplein.nl##.ad-item-container
 westerwoldeactueel.nl##.adr-wrapper
 androidworld.nl,cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com##.ads
