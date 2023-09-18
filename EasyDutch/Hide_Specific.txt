@@ -2,6 +2,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-09-18
+ecobioliving.eu##.ezoic-adpicker-ad:upward(.section)
+ecobioliving.eu##.ezoic-adpicker-ad:upward(section[id^="custom_html"])
 ! 2023-09-08
 cryptobenelux.com##.clickout-banner-regular_native_box
 ! 2023-09-01
