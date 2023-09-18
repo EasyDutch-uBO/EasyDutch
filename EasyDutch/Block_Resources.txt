@@ -1,7 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Fri, 08 Sep 2023 15:19:50 +0000
+! Last updated: Mon, 18 Sep 2023 18:14:33 +0000
 !
+! 2023-09-18
+||ecobioliving.eu/*bol.com/nl/upload/partnerprogramma/$image
 ! 2023-09-08
 ||cryptobenelux.com/wp-content/uploads/*/728x90.gif
 ! 2023-08-01
