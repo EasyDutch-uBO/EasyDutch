@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 18 Sep 2023 18:13:35 +0000
+! Last updated: Sat, 23 Sep 2023 12:44:35 +0000
 !
+! 2023-09-23
+racingnews365.nl##.card[href$="-adv"]
 ! 2023-09-18
 ecobioliving.eu##.ezoic-adpicker-ad:upward(.section)
 ecobioliving.eu##.ezoic-adpicker-ad:upward(section[id^="custom_html"])
