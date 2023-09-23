@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-09-23
+gewoonvoorhem.nl##[id^="below-article-rectangle"]
 racingnews365.nl##.card[href$="-adv"]
 ! 2023-09-18
 ecobioliving.eu##.ezoic-adpicker-ad:upward(.section)
