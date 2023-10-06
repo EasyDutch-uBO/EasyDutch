@@ -1,7 +1,9 @@
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Mon, 21 Aug 2023 09:52:53 +0000
+! Last updated: Fri, 06 Oct 2023 04:54:28 +0000
 !
+! 2023-10-06 https://github.com/AdguardTeam/AdguardFilters/issues/163031
+looopings.nl##+js(remove-node-text, script, if(!document.getElementById)
 ! 2023-08-21 https://github.com/uBlockOrigin/uAssets/issues/19295
 @@||v.fwmrm.net/ad/$xhr,domain=vtmgo.be
 ||gabe.hit.gemius.pl/gplayer.js$script,domain=vtmgo.be,redirect=noopjs,important
@@ -83,8 +85,6 @@ notebookcheck.nl##+js(acis, document.getElementById, AAdsspaCe)
 meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;)
 ! 2022-01-29
 autoweek.nl##+js(set, isAdBlockActive, false)
-! 2021-11-09
-looopings.nl##+js(acis, document.getElementById, .style.display=)
 ! 2021-10-29
 dumpert.nl##+js(setTimeout-defuser, AdBlockerCheck)
 dumpert.nl#@#.ads_box

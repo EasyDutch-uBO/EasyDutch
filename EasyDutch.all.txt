@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Sat, 23 Sep 2023 19:09:05 +0000
+! Last updated: Fri, 06 Oct 2023 04:54:28 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -2446,6 +2446,8 @@ klusidee.nl#@#.header-ad
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-06 https://github.com/AdguardTeam/AdguardFilters/issues/163031
+looopings.nl##+js(remove-node-text, script, if(!document.getElementById)
 ! 2023-08-21 https://github.com/uBlockOrigin/uAssets/issues/19295
 @@||v.fwmrm.net/ad/$xhr,domain=vtmgo.be
 ||gabe.hit.gemius.pl/gplayer.js$script,domain=vtmgo.be,redirect=noopjs,important
@@ -2527,8 +2529,6 @@ notebookcheck.nl##+js(acis, document.getElementById, AAdsspaCe)
 meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;)
 ! 2022-01-29
 autoweek.nl##+js(set, isAdBlockActive, false)
-! 2021-11-09
-looopings.nl##+js(acis, document.getElementById, .style.display=)
 ! 2021-10-29
 dumpert.nl##+js(setTimeout-defuser, AdBlockerCheck)
 dumpert.nl#@#.ads_box
