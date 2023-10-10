@@ -1,8 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 10 Oct 2023 18:37:30 +0000
+! Last updated: Tue, 10 Oct 2023 18:55:29 +0000
 !
 ! 2023-10-10
+webwoordenboek.nl##.layout__main-ads
 wielerflits.be,wielerflits.nl###mm_hpa
 wielerflits.be,wielerflits.nl##.advertisement
 wegdamnieuws.nl##.fixed-ad
