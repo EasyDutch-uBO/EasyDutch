@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-10-10
+wielerflits.be,wielerflits.nl###mm_hpa
+wielerflits.be,wielerflits.nl##.advertisement
 wegdamnieuws.nl##.fixed-ad
 ! 2023-09-23
 gewoonvoorhem.nl##[id^="below-article-rectangle"]
@@ -298,7 +300,6 @@ seksfilms.eu##[id^="custom_html-"]:has([src*="pt.pctlwm.com/embed/"])
 agraaf.nl##.partners-carousel
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[id^="div-gpt-ad"]:upward(.component__plugin)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
-wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 ! 2023-03-09
 alarmeringen.nl##.ad
 ! 2023-02-28
@@ -621,12 +622,6 @@ noordkopcentraal.nl##.widgettitle:has-text(Advert)
 rtlboulevard.nl###dfp-billboard-wrapper
 streekstadcentraal.nl##[class$="-banners-wrapper"]
 techradar.com###article-body > aside.hawk-nest:has([class^="hawk-affiliate"])
-wielerflits.be,wielerflits.nl###mm_hpa
-wielerflits.be,wielerflits.nl##.affiliate_links
-wielerflits.be,wielerflits.nl##.list-group-item:has(span:has-text(Ad))
-wielerflits.be,wielerflits.nl##.mm_container
-wielerflits.be,wielerflits.nl##.row [class^="widget"]:has(.mm_container)
-wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
 ! 2022-06-21
 deoudrotterdammer.nl##[id^="deoud-"]
 ! 2022-06-16
