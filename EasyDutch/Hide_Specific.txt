@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-10-10
+webwoordenboek.nl##.layout__main-ads
 wielerflits.be,wielerflits.nl###mm_hpa
 wielerflits.be,wielerflits.nl##.advertisement
 wegdamnieuws.nl##.fixed-ad
