@@ -1,17 +1,12 @@
 ! Title: No uBO Filters
 ! Description: Filters for Dutch websites in case you don't use the uBlock Filters, but AdGuard Base
-! Last updated: Fri, 13 Oct 2023 14:21:34 +0000
+! Last updated: Fri, 13 Oct 2023 14:21:56 +0000
 !
 ! uBlock Filters
 @@||cdn.vuplay.co.uk/*/comscore.$script,domain=vrt.be|sporza.be
 @@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
 girlscene.nl##.ad-container
 ! uBlock Filters - Unbreak
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dagelijksekost.een.be
-@@||shared.mediahuis.be/ka-ching/prebid.js$script,domain=dagelijksekost.een.be
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=dagelijksekost.een.be
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=dagelijksekost.een.be
-@@||assets.adobedtm.com/*-source.min.js$script,domain=dagelijksekost.een.be
 !#if env_firefox
 @@||markup.nieuwsblad.be/extra/assets/advertising/prebid.js$script,1p
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=nieuwsblad.be
