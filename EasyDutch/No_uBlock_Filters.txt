@@ -1,7 +1,6 @@
 ! Title: No uBO Filters
 ! Description: Filters for Dutch websites in case you don't use the uBlock Filters, but AdGuard Base
-! Last updated: Fri, 13 Oct 2023 14:42:36 +0000
+! Last updated: Fri, 13 Oct 2023 14:50:29 +0000
 !
 ! uBlock Filters
-@@||cdn.vuplay.co.uk/*/comscore.$script,domain=vrt.be|sporza.be
 @@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
