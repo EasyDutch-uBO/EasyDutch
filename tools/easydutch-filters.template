@@ -28,5 +28,3 @@
 %include EasyDutch:EasyDutch/Hide_Whitelist.txt%
 
 %include EasyDutch:EasyDutch/Anti-Adblock.txt%
-
-%include EasyDutch:EasyDutch/No_uBlock_Filters.txt%
