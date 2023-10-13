@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Fri, 13 Oct 2023 15:55:23 +0000
+! Last updated: Fri, 13 Oct 2023 16:47:24 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -2456,6 +2456,10 @@ klusidee.nl#@#.header-ad
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-13 https://github.com/easylist/easylistdutch/issues/47
+! meerdangewenst.nl##.sponsoren:upward(1)
+! meerdangewenst.nl##+js(aopw, gtag)
+meerdangewenst.nl##.sponsoren:upward(1):style(visibility: collapse !important; position: fixed;)
 ! 2023-10-13
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59606
 ! https://github.com/uBlockOrigin/uAssets/issues/11691
@@ -2544,8 +2548,6 @@ notebookcheck.nl##+js(acis, document.getElementById, AAdsspaCe)
 @@&ad$xhr,domain=kijk.nl
 @@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
 *$image,domain=kijk.nl,redirect-rule=1x1.gif
-! 2022-04-16 https://github.com/easylist/easylistdutch/issues/47
-meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;)
 ! 2022-01-29
 autoweek.nl##+js(set, isAdBlockActive, false)
 ! 2021-10-29
