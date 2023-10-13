@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-10-13
+citaten.net##.adsense
+citaten.net##.googleinpage
 nieuwsblad.be##.ad--cba[data-ad="cba"]:upward(.widget):has-text(partners)
 ! 2023-10-10
 webwoordenboek.nl##.layout__main-ads
