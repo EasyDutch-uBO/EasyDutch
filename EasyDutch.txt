@@ -18,4 +18,3 @@
 !#include EasyDutch/Hide_Specific.txt
 !#include EasyDutch/Hide_Whitelist.txt
 !#include EasyDutch/Anti-Adblock.txt
-!#include EasyDutch/No_uBlock_Filters.txt
