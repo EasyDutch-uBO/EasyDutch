@@ -5,9 +5,3 @@
 ! uBlock Filters
 @@||cdn.vuplay.co.uk/*/comscore.$script,domain=vrt.be|sporza.be
 @@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
-! uBlock Filters - Unbreak
-!#if env_firefox
-@@||markup.nieuwsblad.be/extra/assets/advertising/prebid.js$script,1p
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=nieuwsblad.be
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=nieuwsblad.be
-!#endif
