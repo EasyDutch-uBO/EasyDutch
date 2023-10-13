@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Fri, 13 Oct 2023 14:12:59 +0000
+! Last updated: Fri, 13 Oct 2023 14:21:34 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -2569,13 +2569,6 @@ girlscene.nl##+js(set, adblock, 0)
 ! Last updated: %timestamp%
 !
 ! uBlock Filters
-||7mb.nl^$3p
-||mmcdn.nl^$3p
-||pornokartel.nl^$3p
-gratisaftehalen.nl##+js(acis, fuckAdBlock, undefined)
-icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
-radiowereld.nl##+js(nosiif, adb)
-@@||ah.nl^$ghide
 @@||cdn.vuplay.co.uk/*/comscore.$script,domain=vrt.be|sporza.be
 @@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
 girlscene.nl##.ad-container
