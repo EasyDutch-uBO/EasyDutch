@@ -3,5 +3,4 @@
 ! Last updated: %timestamp%
 !
 ! uBlock Filters
-@@||cdn.vuplay.co.uk/*/comscore.$script,domain=vrt.be|sporza.be
 @@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
