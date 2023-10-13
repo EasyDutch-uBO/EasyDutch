@@ -2,6 +2,10 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-13 https://github.com/easylist/easylistdutch/issues/47
+! meerdangewenst.nl##.sponsoren:upward(1)
+! meerdangewenst.nl##+js(aopw, gtag)
+meerdangewenst.nl##.sponsoren:upward(1):style(visibility: collapse !important; position: fixed;)
 ! 2023-10-13
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59606
 ! https://github.com/uBlockOrigin/uAssets/issues/11691
@@ -90,8 +94,6 @@ notebookcheck.nl##+js(acis, document.getElementById, AAdsspaCe)
 @@&ad$xhr,domain=kijk.nl
 @@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
 *$image,domain=kijk.nl,redirect-rule=1x1.gif
-! 2022-04-16 https://github.com/easylist/easylistdutch/issues/47
-meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;)
 ! 2022-01-29
 autoweek.nl##+js(set, isAdBlockActive, false)
 ! 2021-10-29
