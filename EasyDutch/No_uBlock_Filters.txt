@@ -1,6 +1,0 @@
-! Title: No uBO Filters
-! Description: Filters for Dutch websites in case you don't use the uBlock Filters, but AdGuard Base
-! Last updated: %timestamp%
-!
-! uBlock Filters
-@@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
