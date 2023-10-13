@@ -5,7 +5,6 @@
 ! uBlock Filters
 @@||cdn.vuplay.co.uk/*/comscore.$script,domain=vrt.be|sporza.be
 @@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
-girlscene.nl##.ad-container
 ! uBlock Filters - Unbreak
 !#if env_firefox
 @@||markup.nieuwsblad.be/extra/assets/advertising/prebid.js$script,1p
