@@ -1338,7 +1338,6 @@ knhs.nl##div.row:has(:scope > section > .cycler:has(img[src*="banner"]))
 rtlnieuws.nl##div[class$=_with_ad__ad]
 meteovista.be##div[class*="AdWrapper"]
 biflatie.nl##div[class*="elementor-widget-button"]:has-text(Advert)
-omroepbrabant.nl##div[class^="ad-"]
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
 rtvdrenthe.nl##div[class^="col"]:has([class*="adcontainer"])
 zoom.nl##div[class^="display-ad_container"]
