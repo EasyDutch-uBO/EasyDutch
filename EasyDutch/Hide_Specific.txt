@@ -1,10 +1,11 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sun, 15 Oct 2023 07:18:58 +0000
+! Last updated: Sun, 15 Oct 2023 10:40:35 +0000
 !
 ! 2023-10-15
 rotterdam-nesselande.nl##aside .adsbygoogle:style(height:1px !important;)
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
+rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-posts))
 rtvgo.nl##.thanksto
 rubenweytjens.be##.block-ad-banner:not(:has([href*="weerpush.be/"])):not(:has(iframe[src*="meteo-be.net"]))
 rubenweytjens.be##.view-weather-ads-view
@@ -228,7 +229,6 @@ kinkymedia.nl##[href^="https://mt67.net/c/"]
 kookboekennieuws.nl##.cb-sidebar-widget:has-text(Kijk ook eens op:)
 qmusic.be##.inline-partners
 rtvmaastricht.nl##.prom
-rtveen.nl##.widget[id^="block-"]
 sexervaringendelen.nl##iframe[data-src^="https://ads."]
 tameteo.nl###bannerDerPC
 tameteo.nl##.megabanner
@@ -888,8 +888,6 @@ kinderspelletjes.nl###adRechts2
 apintie.sr###ads
 m.radioluisteren.fm###adsense
 openingstijden.com###adsense_CSA
-rtveen.nl###advertenties
-rtveen.nl###advertentiesOnder
 rickfm.nl###advertisement
 alle-tests.nl###advertising
 bloovi.be###advertising
@@ -1403,7 +1401,6 @@ nu.nl##div.articlelist[data-section^="advertorial"][data-section$="-adverteerder
 pcmweb.nl##div.block:has([id^="div-gpt-ad"])
 pcmweb.nl##div.block:has-text(Vacatures)
 classic.nl##div.brievenbus
-rtveen.nl##div.category:has-text(Advert)
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
 knhs.nl##div.row:has(:scope > section > .cycler:has(img[src*="banner"]))
@@ -1442,7 +1439,6 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 decibel.nl##img[width="640"][height="180"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 stubru.be##li:has-text(/advert/i)
-rtveen.nl##li:has-text(reclame)
 leerzaam.com##p:has(.adsbygoogle)
 creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"]))
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
