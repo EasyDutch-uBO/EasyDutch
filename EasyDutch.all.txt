@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Sun, 15 Oct 2023 16:00:06 +0000
+! Last updated: Sun, 15 Oct 2023 16:01:28 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -822,19 +822,9 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 @@||nextday.media^$3p,domain=vi.nl
 ! 2021-08-12
 @@||naaktkrant.nl/media/*/*-gifs-*.gif$image,1p
-! 2021-08-11
-@@||tools.vpscash.nl/proxy/tools.islive.nl/cam_ms/*/_default/index.html$subdocument,domain=sexoverzicht.nl
-! 2021-08-09
-@@||lexozfldkklgvc.com/cp/webcam_gallery/index.php$subdocument,domain=sexmeid.nl
-@@||lexozfldkklgvc.com/assets/cp/js/webcam_gallery/iframe_handler.js$script,domain=sexmeid.nl
-! 2021-05-19
-@@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=cumcams.nl
-! 2021-05-07
-@@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
 ! 2021-04-27
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
-! @@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=flirtmee.nl
 
 
 ! *** EasyDutch:EasyDutch/Hide_General.txt ***
