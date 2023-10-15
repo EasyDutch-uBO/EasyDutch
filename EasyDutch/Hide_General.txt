@@ -19,7 +19,6 @@
 ##.video-block-happy
 ! 2021-10-19
 ! 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be
-##.advertising-container-top
 ##.ankeiler--advertisement
 ##.sixpack__advertisement-tile
 ! 2021-09-06
