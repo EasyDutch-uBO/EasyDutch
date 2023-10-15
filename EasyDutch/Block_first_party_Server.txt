@@ -1,6 +1,6 @@
 ! Title: Block First-Party Server
 ! Description: Filters for blocking first-party servers on Dutch websites
-! Last updated: Wed, 03 May 2023 19:41:06 +0000
+! Last updated: Sun, 15 Oct 2023 10:31:05 +0000
 !
 ! 2023-01-16 https://github.com/EasyDutch-uBO/EasyDutch/issues/34
 ! 2022-06-02 https://github.com/EasyDutch-uBO/EasyDutch/issues/22
@@ -23,7 +23,7 @@
 ||a.scholieren.com^
 ! 2021-11-04
 ||a2.tijd.be^
-! https://github.com/BPower0036/AdBlockFilters/issues/16
+! https://github.com/Nomes77/AdBlockFilters/issues/16
 ||content2.nrc.nl^
 ! 2021-04-27
 ||mooieplaatjes.bierdopje.com^
