@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-10-15
+osurtv.nl##.wdslider:has-text(/Sponsor|partners/i)
 parool.nl,trouw.nl##.oortje-wrapper
 radiozenders.fm##[id^="div-gpt-rectangle"]:upward(.banner-rectangle)
 riskcompliance.nl##a[onclick*="Banner"]:not(a[href*="riskcompliance.nl"]):upward(article)
