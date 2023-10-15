@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Sun, 15 Oct 2023 15:26:12 +0000
+! Last updated: Sun, 15 Oct 2023 15:30:47 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -732,13 +732,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||cdn.seksmet.nl/wp-content/uploads/*/brazzers-pornovideo-netwerk.*
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ||clubxmissy.nl/banners/*$image,3p
-||farm-date.com/slides/banner-$image,1p
-||flirtmee.nl/profiel/banners/$image
-||geile-adressen.nl/images/overspel.gif
 ||go2.go2cloud.org/aff_ad?$domain=sextube.nl
-||images.islive.nl/snapshot/*/200x150$image,domain=nederlandsextube.nl
 ||images.islive.nl/snapshot/*/99x84.jpg$image,domain=sexverhalen.com
-||ishotmyself.nl/include/*/promo/footer/
 ||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,1p
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
 ||kinkymedia.nl/wp-content/uploads/kousenenpanties-lingerie*.jpg$image
@@ -753,15 +748,11 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||pornoexpert.nl/img/950x250_*.gif$image
 ||seks.com/img/*.gif
 ||seks.com/snacc.jpg
-||seksmet.nl/wp-content/uploads/*/*xplezier*.jpg
 ||seksverhalen.org/telefoonsex.png
 ||seksverhalen.org/vluggertjes.png
 ||sexamateurtjes.nl/banners/
-||sexcam-mokkels.nl/wp-content/uploads/*/sexafspraakje-$image
 ||sexchatlounge.nl/bannerlinks.html
 ||sexchatlounge.nl/bannerrechts.html
-||sexcontactadressen.nl/assets/img/*.gif$image
-||sexcontact-xxx.be/images/banners/$image
 ||sexervaringendelen.nl/porno/$image
 ||sexverhalen.com/vriendschap/
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
@@ -770,9 +761,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||srv69.eu/smartlink/banner/$3p
 ||thekinkyweb.nl/wp-content/uploads/*/banner$image
 ||thekinkyweb.nl/wp-content/uploads/*/Logo-RedRopes-Erotische-verhale$image
-||tiener-sexverhalen.nl/wp-content/*.gif$image
-||tiener-sexverhalen.nl/wp-content/uploads/*/sm-speeltjes-nl.webm
-||tussenonstwee.nl/wp-content/uploads/*/tu_banner*$image
 ||vagina.nl/fish-hooks/fetch.json
 ||xmissy.nl/skins/_customplayers/*/*overlay$image
 ||xmissy.nl/skins/_customplayers/*/*top$image
