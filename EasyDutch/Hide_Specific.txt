@@ -5,6 +5,7 @@
 ! 2023-10-15
 rotterdam-nesselande.nl##aside .adsbygoogle:style(height:1px !important;)
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
+rtvgo.nl##.thanksto
 rubenweytjens.be##.block-ad-banner:not(:has([href*="weerpush.be/"])):not(:has(iframe[src*="meteo-be.net"]))
 rubenweytjens.be##.view-weather-ads-view
 ! 2023-10-13
@@ -1098,7 +1099,6 @@ motorrijdenexpert.nl##.flat-theme-content:has(a[href][rel^="noopener"])
 wanttoknow.nl##.float-right
 ajax1.nl##.footer__footer-fat
 feyenoordpings.nl##.footer__partners
-rtvgo.nl##.footeradd
 heracles.nl##.footer-blocks
 fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
