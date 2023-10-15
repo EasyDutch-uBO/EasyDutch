@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Sun, 15 Oct 2023 15:05:32 +0000
+! Last updated: Sun, 15 Oct 2023 15:26:12 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -235,6 +235,7 @@ _advertentieleaderboardhome.
 ! Last updated: %timestamp%
 !
 ! 2023-10-15
+||rushcommerce.com/banners*$3p
 omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmere.nl
 ||rtvideaal.nl/wp-content/uploads/*/banner$image
 ! 2023-10-10
@@ -619,6 +620,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||itnijs.frl/wp-content/uploads/*/bannerItNijs
 ||jobat.be/extra/trackuityhn/ticker_new.html$3p
 ||kavelplatform.nl/assets/uploads/banners/
+||kicxstart.nl/wp-content/uploads/*/*1300x150$image
 ||kranenwebsite.nl/banners/$image
 ||landenweb.nl/imgBoeking/$image
 ||linqmedia.nl/cwm/fm/userfiles/banner/$image
@@ -723,70 +725,34 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 /voicebericht/assets/images/videochat277x$image,domain=geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl
 /wp-content/uploads/*.gif$image,domain=bekijkporno.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|nieuws.xxx|onderdanigeman.nl|onschuldigemeiden.nl|poldersexverhalen.nl|pornokartel.nl|seksmet.nl|sexmeid.nl|sexmetvrouwen.nl|shespot.nl|sproeiendekutjes.nl|tippelpagina.nl|tubelight.nl|wraaksex.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
-||18plussexdating.nl/images/twero.$image
-||bdsmleven.nl/wp-content/uploads/*/*banner$image
-||beeldbelsex.com/wp-content/uploads/*/*islive*.gif$image
-||beeldbelsex.com/wp-content/uploads/*/beeldbellesex$image
-||belgie-sexcontact.be/images/banners/$image
 ||camjam.nl/customs/*/assets/images/*.gif$image
 ||camjam.nl/customs/*/assets/images/flirtmee.jpg$image
-||cdn.amateursexstart.nl/wp-content/uploads/*/*.gif$image
 ||cdn.citytourgirls.com/static/bn/$image,domain=sexguide.nl
 ||cdn.seksmet.nl/wp-content/uploads/*/all-over-40-handjob$image
 ||cdn.seksmet.nl/wp-content/uploads/*/brazzers-pornovideo-netwerk.*
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
-||chatmetvreemden.be/static/html/
-||chatmetvreemden.nl/static/html/
 ||clubxmissy.nl/banners/*$image,3p
-||custom.islive.nl/_respo/*.gif$image,domain=camsex.nl
-||dailypic.nl/banners/$image
-||date-sex.nl/banner$domain=privesexgids.nl
-||dutchporner.com/wp-content/uploads/*/*Account-Promo$image
 ||farm-date.com/slides/banner-$image,1p
 ||flirtmee.nl/profiel/banners/$image
 ||geile-adressen.nl/images/overspel.gif
 ||go2.go2cloud.org/aff_ad?$domain=sextube.nl
-||huisvrouwenvoorsex.nl/banner*.gif$image
-||ikwilneuken.*/assets/img/*.gif$image
 ||images.islive.nl/snapshot/*/200x150$image,domain=nederlandsextube.nl
 ||images.islive.nl/snapshot/*/99x84.jpg$image,domain=sexverhalen.com
-||images.islive.nl/snapshot/*/snapshot.jpg$image,domain=12milf.com
-||index4sex.com/global/asset/image/partner$image,domain=omejoop.be
-||inviteonly.nl/banner/*$image,domain=kutscheetje.nl
 ||ishotmyself.nl/include/*/promo/footer/
-||islive.nl/splash1/banners/
-||kechtube.com^$popunder
-||kicxstart.nl/wp-content/uploads/*/*1300x150$image
-||kinkydatingnederland.nl/banner$image
 ||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,1p
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
 ||kinkymedia.nl/wp-content/uploads/kousenenpanties-lingerie*.jpg$image
-||kinkysexcontactonline.nl/images/*.gif
 ||klapjes.nl/hoomezaz/*/*.gif
 ||klapjes.nl/hoomezaz/*/*970x90$image
-||lustmagazine.nl/mediafiles/*.gif$domain=wraaksex.nl
-||milfdatingnederland.nl/banner$image
-||mygaydate.nl/banner$image
-||mygaydate.nl/images/shemales.gif
-||mysecretdate.nl/phpThumb/thumbnails/350x350/$domain=opwindend.net
 ||naaktkrant.nl/media/*/*.gif$image,1p
-||nederlandsextube.nl/images/amateurwebcams$image
-||nederlandsextube.nl/images/sextubewebcams$image
-||nederlandsextube.nl/images/stijlvolsexybanner$image
-||nederlandsextube.nl/images/webned$image
 ||nltube.com/b?z=A*$subdocument
 ||oops.nl/banner/$subdocument
-||opwindend.net/Promotie*.php?$subdocument
-||opwindend.net/Promotie_Content/*.gif
-||outdoor-sex.nl/wp-content/uploads/*/buitenseks.$image
-||outdoor-sex.nl/wp-content/uploads/*/Sexindeprovincie-$image
+||opwindend.net/Promotie*
 ||poepsexfilmstube.nl/sexdating/sexdating.php$subdocument
 ||poldertube.nl/banners/*/small_banner
 ||pornoexpert.nl/img/950x250_*.gif$image
-||privesexgids.nl/images/eroshop.jpg
 ||seks.com/img/*.gif
 ||seks.com/snacc.jpg
-||seksdatemet-milfs.be//images/*.gif
 ||seksmet.nl/wp-content/uploads/*/*xplezier*.jpg
 ||seksverhalen.org/telefoonsex.png
 ||seksverhalen.org/vluggertjes.png
@@ -798,21 +764,15 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||sexcontact-xxx.be/images/banners/$image
 ||sexervaringendelen.nl/porno/$image
 ||sexverhalen.com/vriendschap/
-||shemaledaten.net/img/banners/
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
 ||sproeiendekutjes.nl/wp-content/uploads/*/spannende-afspraakjes.webm$media,1p
 ||srv69.eu/b/$image,3p
 ||srv69.eu/smartlink/banner/$3p
-||teen-sex.nl/wp-content/uploads/*/900x250$image
-||teen-sex.nl/wp-content/uploads/*/SP1600x150.jpg$image
 ||thekinkyweb.nl/wp-content/uploads/*/banner$image
 ||thekinkyweb.nl/wp-content/uploads/*/Logo-RedRopes-Erotische-verhale$image
-||thisislive.com/promo/
 ||tiener-sexverhalen.nl/wp-content/*.gif$image
 ||tiener-sexverhalen.nl/wp-content/uploads/*/sm-speeltjes-nl.webm
-||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
 ||tussenonstwee.nl/wp-content/uploads/*/tu_banner*$image
-||usercontent.one/wp/*/wp-content/uploads/*/*banner$image,domain=bdsmleven.nl
 ||vagina.nl/fish-hooks/fetch.json
 ||xmissy.nl/skins/_customplayers/*/*overlay$image
 ||xmissy.nl/skins/_customplayers/*/*top$image
