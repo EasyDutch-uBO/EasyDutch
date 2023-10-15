@@ -6,21 +6,17 @@
 ! barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,extreemneuken.com,hdtienersexfilms.nl,partytieners.nl,pornomilf.nl,poepsexfilmstube.nl,sexmetdikkewijven.nl,strandmokkels.nl,studentesneuken.nl,teen-sex.nl
 ###tracking-url
 ! 2022-10-04
-! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl
+! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl,hln.be
+##.ankeiler--advertisement
 ##.article__component--temptation-article-inline
 ##.article__component--outstream-advertisement
-! 2022-06-22
-! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl
+##.sixpack__advertisement-tile
 ##[data-temptation-position="OORTJE"]
 ! 2021-12-06
 ! amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv
 ##.adv-tekst
 ! fucking-tube.com,pornokartel.nl,seks-tube.be
 ##.video-block-happy
-! 2021-10-19
-! 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be
-##.ankeiler--advertisement
-##.sixpack__advertisement-tile
 ! 2021-09-06
 ! gld.nl,rijnmond.nl,rtvnoord.nl,omroepwest.nl
 ##.groei-ad
