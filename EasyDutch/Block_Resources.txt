@@ -500,7 +500,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||cdn.seksmet.nl/wp-content/uploads/*/brazzers-pornovideo-netwerk.*
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ||clubxmissy.nl/banners/*$image,3p
-||go2.go2cloud.org/aff_ad?$domain=sextube.nl
 ||images.islive.nl/snapshot/*/99x84.jpg$image,domain=sexverhalen.com
 ||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,1p
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
@@ -512,15 +511,10 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||oops.nl/banner/$subdocument
 ||opwindend.net/Promotie*
 ||poepsexfilmstube.nl/sexdating/sexdating.php$subdocument
-||poldertube.nl/banners/*/small_banner
 ||pornoexpert.nl/img/950x250_*.gif$image
 ||seks.com/img/*.gif
 ||seks.com/snacc.jpg
-||seksverhalen.org/telefoonsex.png
-||seksverhalen.org/vluggertjes.png
 ||sexamateurtjes.nl/banners/
-||sexchatlounge.nl/bannerlinks.html
-||sexchatlounge.nl/bannerrechts.html
 ||sexervaringendelen.nl/porno/$image
 ||sexverhalen.com/vriendschap/
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
