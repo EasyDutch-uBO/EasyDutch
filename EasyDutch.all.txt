@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Sun, 15 Oct 2023 15:49:03 +0000
+! Last updated: Sun, 15 Oct 2023 16:00:06 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -719,12 +719,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! NSFW Sites
 *$3p,image,domain=kinkymedia.nl
 /images/*.gif$image,domain=123video.nl|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
-/images/banners/*$image,domain=neukengratis.be|sexdate-xxx.be
-/images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
-/js/popup.js$script,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|shemaledaten.net|zoekertjesbelgie.be
-/voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
-/voicebericht/assets/images/videochat277x$image,domain=geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl
 /wp-content/uploads/*.gif$image,domain=bekijkporno.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|nieuws.xxx|onderdanigeman.nl|onschuldigemeiden.nl|poldersexverhalen.nl|pornokartel.nl|seksmet.nl|sexmeid.nl|sexmetvrouwen.nl|shespot.nl|sproeiendekutjes.nl|tippelpagina.nl|tubelight.nl|wraaksex.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
 ||camjam.nl/customs/*/assets/images/*.gif$image
