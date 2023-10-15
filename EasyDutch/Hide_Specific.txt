@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-10-15
+parool.nl,trouw.nl##.oortje-wrapper
 radiozenders.fm##[id^="div-gpt-rectangle"]:upward(.banner-rectangle)
 riskcompliance.nl##a[onclick*="Banner"]:not(a[href*="riskcompliance.nl"]):upward(article)
 rotterdam-nesselande.nl##aside .adsbygoogle:style(height:1px !important;)
@@ -950,7 +951,6 @@ koopplein.nl##.ad-item-container
 westerwoldeactueel.nl##.adr-wrapper
 androidworld.nl,cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com##.ads
 dissident.one##.adsbygoogle
-parool.nl,trouw.nl##.ad--section
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 dorpsklanken.online##.ads-mobiel
 adodenhaag.nl,spelletje.nl##.adv
