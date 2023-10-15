@@ -1178,7 +1178,6 @@ baanwacht.nl##.shailan_banner_widget
 nederlandsmedianieuws.nl##.sidebar:has-text(Advert)
 fcgroningen.nl##.sidebar__item--banner
 alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
-pcmweb.nl##.site__sidebar > .block:has(div.banner)
 geenstijl.nl##.slajeslag
 omroepwest.nl##.slider-wrapper
 solarmagazine.nl##.sols
@@ -1331,8 +1330,6 @@ digitaalburg.com##aside[class^="widget widget_text"]
 hoekschnieuws.nl##body > center:has(img)
 dekrantvantoen.nl##body:style(margin-top:-20px!important)
 nu.nl##div.articlelist[data-section^="advertorial"][data-section$="-adverteerder"]
-pcmweb.nl##div.block:has([id^="div-gpt-ad"])
-pcmweb.nl##div.block:has-text(Vacatures)
 classic.nl##div.brievenbus
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
