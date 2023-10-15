@@ -70,21 +70,13 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||top40.nl/*/widget/uploads/ankeiler/$image
 ! 2023-04-27
 ||cdn77.org/*/banners/crimesite/$image,domain=crimesite.nl
-||dailypic.nl/banners/$image
-||kicxstart.nl/wp-content/uploads/*/*1300x150$image
-||kinkymedia.nl/wp-content/uploads/kousenenpanties-lingerie*.jpg$image
-||milfdatingnederland.nl/banner$image
 ||motokicx.com/wp-content/uploads/*/Motokicx*.gif$image
 ||motorrijder.be/wp-content/uploads/*/*1300x150$image
 ||msa.paginabanner.nl/banners/$image
 ||wp.com/noordernieuws.nl/wp-content/uploads/*/*.gif$image,domain=noordernieuws.nl
 ||partyflock.nl/images/*/*_i*_$image
-||thekinkyweb.nl/wp-content/uploads/*/banner$image
-||thekinkyweb.nl/wp-content/uploads/*/Logo-RedRopes-Erotische-verhale$image
 ||vives.nl/wp-content/uploads/*banner$image
 ||wp.com/gostreaming.nl/wp-content/uploads/*.gif$image
-||xmissy.nl/skins/_customplayers/*/*overlay$image
-||xmissy.nl/skins/_customplayers/*/*top$image
 ||zwartewaterfm.nl/wp-content/uploads/*/SponsorenZwarteWaterFM
 ! 2023-04-26
 ||402automotive.com/files/*/files/images/banners/*.$image,domain=402online.com
@@ -515,6 +507,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||chatmetvreemden.nl/static/html/
 ||clubxmissy.nl/banners/*$image,3p
 ||custom.islive.nl/_respo/*.gif$image,domain=camsex.nl
+||dailypic.nl/banners/$image
 ||date-sex.nl/banner$domain=privesexgids.nl
 ||dutchporner.com/wp-content/uploads/*/*Account-Promo$image
 ||farm-date.com/slides/banner-$image,1p
@@ -531,13 +524,16 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ishotmyself.nl/include/*/promo/footer/
 ||islive.nl/splash1/banners/
 ||kechtube.com^$popunder
+||kicxstart.nl/wp-content/uploads/*/*1300x150$image
 ||kinkydatingnederland.nl/banner$image
 ||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,1p
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
+||kinkymedia.nl/wp-content/uploads/kousenenpanties-lingerie*.jpg$image
 ||kinkysexcontactonline.nl/images/*.gif
 ||klapjes.nl/hoomezaz/*/*.gif
 ||klapjes.nl/hoomezaz/*/*970x90$image
 ||lustmagazine.nl/mediafiles/*.gif$domain=wraaksex.nl
+||milfdatingnederland.nl/banner$image
 ||mygaydate.nl/banner$image
 ||mygaydate.nl/images/shemales.gif
 ||mysecretdate.nl/phpThumb/thumbnails/350x350/$domain=opwindend.net
@@ -577,6 +573,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||srv69.eu/smartlink/banner/$3p
 ||teen-sex.nl/wp-content/uploads/*/900x250$image
 ||teen-sex.nl/wp-content/uploads/*/SP1600x150.jpg$image
+||thekinkyweb.nl/wp-content/uploads/*/banner$image
+||thekinkyweb.nl/wp-content/uploads/*/Logo-RedRopes-Erotische-verhale$image
 ||thisislive.com/promo/
 ||tiener-sexverhalen.nl/wp-content/*.gif$image
 ||tiener-sexverhalen.nl/wp-content/uploads/*/sm-speeltjes-nl.webm
@@ -584,4 +582,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tussenonstwee.nl/wp-content/uploads/*/tu_banner*$image
 ||usercontent.one/wp/*/wp-content/uploads/*/*banner$image,domain=bdsmleven.nl
 ||vagina.nl/fish-hooks/fetch.json
+||xmissy.nl/skins/_customplayers/*/*overlay$image
+||xmissy.nl/skins/_customplayers/*/*top$image
 ||xmissy.nl/skins/_customplayers/*footer.jpg$image
