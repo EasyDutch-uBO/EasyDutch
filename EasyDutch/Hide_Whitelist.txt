@@ -22,7 +22,6 @@ radiozuidrand.be#@#.advertisement_728x90
 radiozuidrand.be#@#.advertisement-content
 radiozuidrand.be#@#.single_ad_300x250
 radiozuidrand.be#@#.widget_300x250_advertisement
-radiozuidrand.be#@#.widget_728x90_advertisement
 ! 2022-06-28
 palnws.be#@#.adlink
 palnws.be#@#.ads-wrapper
