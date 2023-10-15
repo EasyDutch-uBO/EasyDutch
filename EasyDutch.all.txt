@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Sun, 15 Oct 2023 10:31:05 +0000
+! Last updated: Sun, 15 Oct 2023 10:37:07 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -899,8 +899,6 @@ _advertentieleaderboardhome.
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=cumcams.nl
 ! 2021-05-07
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
-! https://github.com/uBlockOrigin/uAssets/issues/8974
-@@||securepubads.g.doubleclick.net/gpt/pubads_$script,domain=allestoringen.*
 ! 2021-04-27
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
