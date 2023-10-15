@@ -1,6 +1,6 @@
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Fri, 13 Oct 2023 15:00:07 +0000
+! Last updated: Sun, 15 Oct 2023 06:57:22 +0000
 !
 ! 2023-10-13
 @@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
@@ -9,7 +9,8 @@
 ! 2023-05-13
 @@||fundingchoicesmessages.google.com/*/$script,domain=racingnews365.nl
 @@||mmcdn.nl/tags/racingnews365.nl/artikel.js$script,domain=racingnews365.nl
-! 2023-05-04 
+! 2023-05-04
+@@||fundingchoicesmessages.google.com/i/*$script,domain=rotterdam-nesselande.nl
 @@||pagead2.googlesyndication.com/pagead/$script,domain=rotterdam-nesselande.nl
 ! 2023-05-03 https://github.com/uBlockOrigin/uAssets/issues/13800
 ! 2023-04-27
