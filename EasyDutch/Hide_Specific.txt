@@ -16,6 +16,7 @@ vagina.nl##.list-item:has(.card > script)
 vagina.nl##[id$="fish-hooks"]
 vagina.nl##[href^="https://xltube.nl/click/"]
 vagina.nl##div[id^=video-fish-hook]
+voetbalbelgie.be##div[class$="-atf"]
 ! 2023-10-13
 citaten.net##.adsense
 citaten.net##.googleinpage
@@ -1422,7 +1423,6 @@ nu.nl##div[data-type="tealium"]
 !#endif
 sexjobs.nl##div[id^="banner-"]
 handbalinside.nl##div[id^="handb-"]
-voetbalbelgie.be##div[id^="voetb-"]
 meerradio.nl##div[id="pristineslider.12"]
 apintie.sr##div[style*="width:300px; height:250px;"]
 kinderspelletjes.be,kinderspelletjes.nl##div[style*="width:970px"]:has-text(Reclame)
