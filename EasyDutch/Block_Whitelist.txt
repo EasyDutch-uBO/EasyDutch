@@ -24,10 +24,6 @@
 @@||truck1.be/_BANNERS_/client/redefiner/
 @@||truck1.nl/_BANNERS_/client/redefiner/
 @@||truck1-nl.be/_BANNERS_/client/redefiner/
-! 2023-04-24
-@@||cdn.spotxcdn.com/integration/easi/$script,domain=radioluisteren.fm
-@@||js.spotx.tv/ados/$script,domain=radioluisteren.fm 
-@@||search.spotxchange.com/$image,script,xhr,domain=radioluisteren.fm
 ! 2023-03-21 https://github.com/uBlockOrigin/uAssets/issues/17233
 @@||cdn.bluebillywig.com/scripts/prebid/$script,domain=geenstijl.nl
 ! 2023-01-14
