@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Sun, 15 Oct 2023 12:11:00 +0000
+! Last updated: Sun, 15 Oct 2023 12:20:11 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -939,6 +939,7 @@ _advertentieleaderboardhome.
 ! Last updated: %timestamp%
 !
 ! 2023-10-15
+radiozenders.fm##[id^="div-gpt-rectangle"]:upward(.banner-rectangle)
 riskcompliance.nl##a[onclick*="Banner"]:not(a[href*="riskcompliance.nl"]):upward(article)
 rotterdam-nesselande.nl##aside .adsbygoogle:style(height:1px !important;)
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
@@ -1960,7 +1961,6 @@ antilliaansdagblad.com,dolcevia.com,lokaleomroepzeewolde.nl,radiolelystad.nl##.b
 prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
 seks.com##.bannermid
-radiozenders.fm##.banner-rectangle:not(:nth-of-type(3))
 weertdegekste.nl##.banner-right
 gic.nl,kbradio.nl##.banners
 nnieuws.be##.banner-silver
@@ -2097,7 +2097,6 @@ greenkeeper.nl##.logoblok
 dvhn.nl,lc.nl##.main__ad
 deblueskrant.nl##.main-banner
 adultwebmaster.nl##.main-promo-bn-responsive
-radiozenders.fm##.marqueeItem:has(a[href^="https://partner.bol.com/"])
 live-voetbal.com##.match-bet
 ga-eagles.nl##.match-sponsor
 wanttoknow.nl##.mb-3:has-text(Advert)
