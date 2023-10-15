@@ -1441,7 +1441,6 @@ decibel.nl##img[width="640"][height="180"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 stubru.be##li:has-text(/advert/i)
 leerzaam.com##p:has(.adsbygoogle)
-creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"]))
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
 oops.nl##table[cellspacing="30"]
