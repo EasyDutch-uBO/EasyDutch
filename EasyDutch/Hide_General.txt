@@ -1,6 +1,6 @@
 ! Title: Hide General
 ! Description: Filters for hiding general elements on Dutch websites
-! Last updated: Tue, 01 Aug 2023 10:21:42 +0000
+! Last updated: Sun, 15 Oct 2023 07:10:51 +0000
 !
 ! 2023-03-16
 ! barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,extreemneuken.com,hdtienersexfilms.nl,partytieners.nl,pornomilf.nl,poepsexfilmstube.nl,sexmetdikkewijven.nl,strandmokkels.nl,studentesneuken.nl,teen-sex.nl
@@ -19,7 +19,6 @@
 ##.video-block-happy
 ! 2021-10-19
 ! 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be
-##.advertising-container-top
 ##.ankeiler--advertisement
 ##.sixpack__advertisement-tile
 ! 2021-09-06
