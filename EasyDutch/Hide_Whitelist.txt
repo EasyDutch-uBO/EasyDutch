@@ -1,6 +1,6 @@
 ! Title: Hide Whitelist
 ! Description: Whitelist for hidden elements on Dutch websites
-! Last updated: Sun, 15 Oct 2023 06:37:29 +0000
+! Last updated: Sun, 15 Oct 2023 06:44:44 +0000
 !
 ! 2023-10-13
 gratisaftehalen.nl#@#.ads-image
@@ -26,8 +26,6 @@ radiozuidrand.be#@#.widget_728x90_advertisement
 ! 2022-06-28
 palnws.be#@#.adlink
 palnws.be#@#.ads-wrapper
-palnws.be#@#.jeg_ad
-palnws.be#@#.jeg_ad_top
 ! 2022-06-14
 marktnet.nl#@#.ad-description
 ! 2022-05-27
