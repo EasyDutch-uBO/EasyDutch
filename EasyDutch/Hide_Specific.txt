@@ -11,6 +11,11 @@ rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-
 rtvgo.nl##.thanksto
 rubenweytjens.be##.block-ad-banner:not(:has([href*="weerpush.be/"])):not(:has(iframe[src*="meteo-be.net"]))
 rubenweytjens.be##.view-weather-ads-view
+vagina.nl###partner-links
+vagina.nl##.list-item:has(.card > script)
+vagina.nl##[id$="fish-hooks"]
+vagina.nl##[href^="https://xltube.nl/click/"]
+vagina.nl##div[id^=video-fish-hook]
 ! 2023-10-13
 citaten.net##.adsense
 citaten.net##.googleinpage
@@ -938,7 +943,6 @@ dutchitchannel.nl###news li:has-text(Adv)
 pokeren.nl###onetime-popup
 autoreview.nl###parentgpt
 eredivisie.nl###partner-bar
-vagina.nl###partner-links
 coastline945fm.nl,elfvoetbal.nl###partners
 forum.scholieren.com###posts .thead:has-text(Advert)
 soccernews.nl###r89-mobile-rectangle-mid
@@ -1153,7 +1157,6 @@ iexgeld.nl##.LeaderboardContainer
 webwereld.nl##.leaderBoardHolder
 atv.be,tvl.be,tvoost.be##.leaderboardWrap
 blikopnieuws.nl##.ligatus-sidebar-block
-vagina.nl##.list-item:has(script[src*=realsrv])
 rtvstichtsevecht.nl##.list-sponsors
 sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
@@ -1338,9 +1341,7 @@ pornokartel.nl##[href*="pornokartel.nl/adverteren"]
 beeldbelsex.com##[href^="https://islive.com/"]
 totaaltv.nl##[href^="https://www.totaaltv.nl/plugins/banner/"]
 beeldbelsex.com##[href^="https://www.twero.com/"]
-vagina.nl##[href^="https://xltube.nl/click/"]
 audiobookbay.nl##[href="/dl-14-days-trial"]
-vagina.nl##[id$="fish-hooks"]
 gaynews.nl##[id^="abri"]
 besteproduct.nl##[id^="ad-block"]
 kinkymedia.nl##[id^="adguru-zone-widget"]
@@ -1422,7 +1423,6 @@ nu.nl##div[data-type="tealium"]
 sexjobs.nl##div[id^="banner-"]
 handbalinside.nl##div[id^="handb-"]
 voetbalbelgie.be##div[id^="voetb-"]
-vagina.nl##div[id^=video-fish-hook]
 meerradio.nl##div[id="pristineslider.12"]
 apintie.sr##div[style*="width:300px; height:250px;"]
 kinderspelletjes.be,kinderspelletjes.nl##div[style*="width:970px"]:has-text(Reclame)
