@@ -1058,7 +1058,6 @@ bodylifebenelux.nl##.bnrrow
 autoreview.nl##.bottom-bannuring
 nltube.com##.bottom-bns-block
 bnr.nl##.branded
-racingnews365.nl##.branded-countdown__content__partner-wrapper
 geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos/"])
 volleybal.nl##.card-banner
 volleybal.nl##.card-banner-large
@@ -1131,7 +1130,6 @@ weerplaza.nl##.hf-widget
 farm-date.com##.hide-for-small-only:has-text(Sponsors)
 slam.nl##.holder-ads
 oogtv.nl##.home-banner
-racingnews365.nl##.homepage-casino-wrapper
 jan-magazine.nl##.homepage-marquee
 radiofm.nl##.hoofdAd2
 tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
