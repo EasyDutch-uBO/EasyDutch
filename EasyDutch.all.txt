@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Sun, 15 Oct 2023 07:04:54 +0000
+! Last updated: Sun, 15 Oct 2023 07:07:41 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -950,6 +950,9 @@ _advertentieleaderboardhome.
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-15
+rubenweytjens.be##.block-ad-banner:not(:has([href*="weerpush.be/"])):not(:has(iframe[src*="meteo-be.net"]))
+rubenweytjens.be##.view-weather-ads-view
 ! 2023-10-13
 citaten.net##.adsense
 citaten.net##.googleinpage
@@ -1987,7 +1990,6 @@ belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 azerty.nl##.block.mod_article:has(.flexslider)
 veto.be##.block.spacer:has(#advert-campaign)
 besteoverzicht.nl##.block:has-text(Gesponsorde)
-rubenweytjens.be##.block-ad-banner
 agconnect.nl##.block-adfo-blocks:has(img[src*="/partner"])
 livios.be##.block-leaderboard
 psv.nl##.block-sponsors-desktop
@@ -2228,7 +2230,6 @@ gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
 12milf.com##.video-description > .under-video-block
 mo.be##.view-id-banners_top
 nnieuws.be##.view-vw-banners.view
-rubenweytjens.be##.view-weather-ads-view
 barneveldsekrant.nl,edestad.nl##.w-300x.RM5
 neukengratis.be,sexdate-xxx.be##.well:has(.bannergroup)
 transfermarkt.nl##.werbung
