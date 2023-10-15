@@ -1439,7 +1439,6 @@ prewarcar.nl##img[width="160"][height="92"]
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 decibel.nl##img[width="640"][height="180"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
-stubru.be##li:has-text(/advert/i)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
