@@ -76,8 +76,6 @@
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=cumcams.nl
 ! 2021-05-07
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
-! https://github.com/uBlockOrigin/uAssets/issues/8974
-@@||securepubads.g.doubleclick.net/gpt/pubads_$script,domain=allestoringen.*
 ! 2021-04-27
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
