@@ -2,7 +2,7 @@
 ! Description: Filters to block general URLs on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2023-10-15
+! 2023-10-16
 /reclame/*.gif$image,3p
 ! 2023-04-28
 /aff_ad?$frame

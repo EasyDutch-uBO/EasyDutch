@@ -2,7 +2,7 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2023-10-15
+! 2023-10-16
 ||rushcommerce.com/banners*$3p
 omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmere.nl
 ||rtvideaal.nl/wp-content/uploads/*/banner$image
