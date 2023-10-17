@@ -2,13 +2,14 @@
 ! Description: Filters for blocking only general third-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-17
+! bitcoinmagazine.nl, cryptobenelux.com
+||cryptosplash.care^$3p
+||cryptobeneluxbanner.care^$3p
 ! 2023-10-13
 ||7mb.nl^$3p
 ||mmcdn.nl^$3p
 ||pornokartel.nl^$3p
-! 2023-09-08
-! cryptobenelux.com
-||cryptobeneluxbanner.care^$3p
 ! 2023-04-27
 ! https://www.rd.nl/
 ||adverteren.rd.nl^$strict3p
