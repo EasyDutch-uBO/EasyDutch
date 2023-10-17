@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 16 Oct 2023 05:52:19 +0000
+! Last updated: Tue, 17 Oct 2023 04:18:25 +0000
 !
+! 2023-10-17
+moppen.nl##.banner
 ! 2023-10-16
 omroepalmere.nl##aside.widget_block[id^="block"]:not(:has([href*="omroepalmere.nl"])):not(:has-text(/Informatie/i))
 omroepzilt.nl##[id^="custom_html"]:has-text(/advert/i)
