@@ -2,6 +2,8 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-17
+moppen.nl#@#ins.adsbygoogle
 ! 2023-10-13
 dumpert.nl##+js(nostif, AdBlockerCheck)
 ! dumpert.nl##+js(nostif, adBlockChecker)
