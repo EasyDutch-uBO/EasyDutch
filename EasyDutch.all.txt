@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 17 Oct 2023 06:25:34 +0000
+! Last updated: Tue, 17 Oct 2023 17:38:03 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -103,13 +103,14 @@ _advertentieleaderboardhome.
 ! Description: Filters for blocking only general third-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-17
+! bitcoinmagazine.nl, cryptobenelux.com
+||cryptosplash.care^$3p
+||cryptobeneluxbanner.care^$3p
 ! 2023-10-13
 ||7mb.nl^$3p
 ||mmcdn.nl^$3p
 ||pornokartel.nl^$3p
-! 2023-09-08
-! cryptobenelux.com
-||cryptobeneluxbanner.care^$3p
 ! 2023-04-27
 ! https://www.rd.nl/
 ||adverteren.rd.nl^$strict3p
@@ -865,6 +866,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! Last updated: %timestamp%
 !
 ! 2023-10-17
+bitcoinmagazine.nl,cryptobenelux.com##.clickout-banner-regular_native_box
+cryptobenelux.com##iframe[src*="Bitcoin_Kopen"]:upward(.elementor-widget[data-element_type="widget"])
 moppen.nl##.banner
 ! 2023-10-16
 omroepalmere.nl##aside.widget_block[id^="block"]:not(:has([href*="omroepalmere.nl"])):not(:has-text(/Informatie/i))
@@ -899,8 +902,6 @@ racingnews365.nl##.card[href$="-adv"]
 ! 2023-09-18
 ecobioliving.eu##.ezoic-adpicker-ad:upward(.section)
 ecobioliving.eu##.ezoic-adpicker-ad:upward(section[id^="custom_html"])
-! 2023-09-08
-cryptobenelux.com##.clickout-banner-regular_native_box
 ! 2023-09-01
 security.nl##.banner_leaderboard
 sportinnederland.com##.menu-item > [href="https://www.onlinecasinos-nederland.nl/"]
@@ -1091,7 +1092,6 @@ ecommercenews.nl##.sidebar > .widget-image-content-button:not(:has(a[href*="ecom
 ecommercenews.nl##.widget-partners
 ! 2023-04-24
 alblasserdamsnieuws.nl##[class^="albla-top-slider"]
-cryptobenelux.com##.elementor-widget-image:has(img[src*="banner"])
 dknieuws.nl##[id^="dknie-grid-"]:has(.adv-link)
 dknieuws.nl##.dknie-widget:has(.adv-link)
 dordtcentraal.nl##.g
@@ -1633,8 +1633,6 @@ tvgids.nl##.square-item:has( > .banner)
 ! 2022-02-25
 racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
-! 2022-02-15
-cryptobenelux.com##.elementor-element iframe[data-ezsrc*="Bitcoin_Kopen"]
 ! 2022-02-14
 studylibnl.com##.above-content
 studylibnl.com##.below-content
