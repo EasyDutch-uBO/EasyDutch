@@ -1300,24 +1300,14 @@ radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
 
 ! NSFW Site
-1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
-1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
 123video.nl##.page-load-switch
-12milf.com##.video-description > .under-video-block
-bdsmleven.nl##.widget_random_banner_widget
 camjam.nl##.banner
-eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.menubanner:has([src^="ads"])
-erotischemassages.com##.widget:has(iframe[data-src*="banner"]):upward(.footer-widget-zone)
-escort46.nl###top_image_div
 gaynews.nl##[class^="va"]:has([class*="banner"])
 gaynews.nl##[id^="abri"]
 gaynews.nl##[id^="fp"]
 gaynews.nl##a[href^="/_global/leesmeer.php?"]
-geilefotoverhalen.nl##.widget:has(iframe[src*="/aff_ad?"])
-geile-sexverhalen.be,geile-sexverhalen.nl##.adverten
-geile-sexverhalen.be,geile-sexverhalen.nl##.card-header:has-text(/Advert|Spons/):upward(div.card)
+geile-sexverhalen.be,geile-sexverhalen.nl##.bannergroup:upward(.card)
 geileverhalen.nl##[id^="menu-item-"] > [href^="https://go2.go2cloud.org/aff_ad"]
-geilverlangen.nl##a[href] > img.size-full.aligncenter
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
 gratissexverhalen.nu##[id^="block-"]:has([href^="https://www.dql2clk.com/"])
@@ -1329,9 +1319,7 @@ kinkymedia.nl##[id^="adguru-zone-widget"]
 kinkymedia.nl##aside > .widget:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
 klapjes.nl##a[href*="/adverteren"]:upward(2)
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Webcamsex/i)
-netxxx.nl##hr:nth-of-type(1)
 nltube.com##.player-right
-omejoop.be##.widget:has-text(/Schijnwerpers|Partners/)
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
 onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
 oops.nl###dropinboxv2cover
@@ -1343,9 +1331,7 @@ opwindend.net##.popup
 opwindend.net##div.Tab:has(img[src^="Promotie_Content/"])
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
 pornozot.com##.abbcn-footer
-seks.com##.bannermid
 seksmet.nl##.et_pb_text:has(* > .g):not(:has(.heading-more))
-seksmet.nl##.g
 sexervaringendelen.nl##iframe[data-src^="https://ads."]
 sexguide.nl##.blogBanners
 sexguide.nl##.moreEscortM:has-text(Sponsors)
@@ -1360,8 +1346,6 @@ spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie
 sproeiendekutjes.nl##aside.widget:has(a[href*="trff9links.com/"])
 thekinkyweb.nl##.widget_media_image:not(:has(a[href^="https://www.thekinkyweb.nl/"]))
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"])
-tippelpagina.nl##.widget:has-text(/advertentie|aanraders/i)
-tubeseks.be##.site-footer
 vagina.nl###partner-links
 vagina.nl##.list-item:has(.card > script)
 vagina.nl##[href^="https://xltube.nl/click/"]
