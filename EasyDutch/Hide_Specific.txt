@@ -1,9 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 17 Oct 2023 17:38:03 +0000
+! Last updated: Tue, 17 Oct 2023 18:45:19 +0000
 !
 ! 2023-10-17
 bitcoinmagazine.nl,cryptobenelux.com##.clickout-banner-regular_native_box
+cryptobenelux.com##a[href*="banner"] > img:upward(.elementor-widget-image)
 cryptobenelux.com##iframe[src*="Bitcoin_Kopen"]:upward(.elementor-widget[data-element_type="widget"])
 moppen.nl##.banner
 ! 2023-10-16
