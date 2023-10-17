@@ -4,6 +4,7 @@
 !
 ! 2023-10-17
 bitcoinmagazine.nl,cryptobenelux.com##.clickout-banner-regular_native_box
+cryptobenelux.com##a[href*="banner"] > img:upward(.elementor-widget-image)
 cryptobenelux.com##iframe[src*="Bitcoin_Kopen"]:upward(.elementor-widget[data-element_type="widget"])
 moppen.nl##.banner
 ! 2023-10-16
