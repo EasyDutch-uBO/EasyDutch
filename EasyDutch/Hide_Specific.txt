@@ -2,6 +2,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-23
+serietotaal.nl##div[id^="ad"]
+serietotaal.nl##.rect-in-headlines
 ! 2023-10-17
 bitcoinmagazine.nl,cryptobenelux.com##.clickout-banner-regular_native_box
 cryptobenelux.com##a[href*="banner"] > img:upward(.elementor-widget-image)
@@ -258,8 +261,8 @@ dutchitleaders.nl##a[target]:not(a[href*="dutchitleaders.nl"]):not(a[href*="link
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad010.nl,dagblad070.nl,goudsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,voorburgsdagblad.nl,zoetermeersdagblad.nl##.ddbad_wrapper
 freeones.nl##.banner-placeholder
 ! 2023-04-14
-serietotaal.nl##[class^="banner"]
-serietotaal.nl###adf-autonative
+##[class^="banner"]
+###adf-autonative
 ! 2023-04-04
 zozwanger.nl##.a-single
 zozwanger.nl##.g-single
