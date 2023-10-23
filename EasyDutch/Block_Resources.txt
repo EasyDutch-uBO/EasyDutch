@@ -1,7 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 17 Oct 2023 06:25:34 +0000
+! Last updated: Mon, 23 Oct 2023 09:57:42 +0000
 !
+! 2023-10-23
+/production/uploads/partners/*$image,domain=dutchitchannel.nl
 ! 2023-10-16
 ||rushcommerce.com/banners*$3p
 omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmere.nl
@@ -180,8 +182,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||nljug.org/wp-content/uploads/*/300*250*Inline-Rectangle$image
 ||nljug.org/wp-content/uploads/2020/04/300x200-1.jpg
 ||nieuwsfiets.nu/wp-content/uploads/2021/03/Hulphond*.jpg
-/^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
-||dutchitchannel.nl/6*?field=binary1$image
 ||floranews.com/img/banner/Floranews
 ||gigantfm.nl/assets/images/autoonderdelen$image
 ||gigantfm.nl/assets/images/onderdelenshop$image
@@ -285,7 +285,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||digitaalburg.com/rn02/wp-content/uploads/*/Vacature-
 ||digitaalburg.com/rn02/wp-content/uploads/*/verti*
 ||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
-||nexclic.com/pics/image*.gif$domain=dutchleader.nl
 ! 2022-01-13
 .nl/adurl/$xhr,domain=start-player.npo.nl
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
@@ -351,9 +350,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||dorpsklanken.online/wp-content/uploads/*/Knap-IT_Paterswolde.png$image
 ||dorpsklanken.online/wp-content/uploads/*/polling_basis.jpg$image
 ||dutchcryptotalk.com/wp-content/uploads/*/bitvavo
-||dutchitchannel.nl/media/6*/*.jpg$3p
-||dutchleader.nl/php/banex/$3p
-||dutchleader.nl/php/popex/
 ||duurzaam-actueel.nl^*banner
 ||edelmetaal-info.nl/cdfund-336x280.html
 ||edelmetaal-info.nl/images/$domain=zilverengoudkopen.nl

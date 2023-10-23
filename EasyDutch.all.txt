@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 17 Oct 2023 18:45:19 +0000
+! Last updated: Mon, 23 Oct 2023 09:57:42 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -237,6 +237,8 @@ _advertentieleaderboardhome.
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-23
+/production/uploads/partners/*$image,domain=dutchitchannel.nl
 ! 2023-10-16
 ||rushcommerce.com/banners*$3p
 omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmere.nl
@@ -415,8 +417,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||nljug.org/wp-content/uploads/*/300*250*Inline-Rectangle$image
 ||nljug.org/wp-content/uploads/2020/04/300x200-1.jpg
 ||nieuwsfiets.nu/wp-content/uploads/2021/03/Hulphond*.jpg
-/^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
-||dutchitchannel.nl/6*?field=binary1$image
 ||floranews.com/img/banner/Floranews
 ||gigantfm.nl/assets/images/autoonderdelen$image
 ||gigantfm.nl/assets/images/onderdelenshop$image
@@ -520,7 +520,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||digitaalburg.com/rn02/wp-content/uploads/*/Vacature-
 ||digitaalburg.com/rn02/wp-content/uploads/*/verti*
 ||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
-||nexclic.com/pics/image*.gif$domain=dutchleader.nl
 ! 2022-01-13
 .nl/adurl/$xhr,domain=start-player.npo.nl
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
@@ -586,9 +585,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||dorpsklanken.online/wp-content/uploads/*/Knap-IT_Paterswolde.png$image
 ||dorpsklanken.online/wp-content/uploads/*/polling_basis.jpg$image
 ||dutchcryptotalk.com/wp-content/uploads/*/bitvavo
-||dutchitchannel.nl/media/6*/*.jpg$3p
-||dutchleader.nl/php/banex/$3p
-||dutchleader.nl/php/popex/
 ||duurzaam-actueel.nl^*banner
 ||edelmetaal-info.nl/cdfund-336x280.html
 ||edelmetaal-info.nl/images/$domain=zilverengoudkopen.nl
@@ -865,6 +861,13 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-23
+dutchleader.nl##td[background]:has-text(Advert):upward(tbody)
+dutchitchannel.nl##.partners-swiper
+dutchitchannel.nl##a[href][target][onclick*="trackBannerClick"]:not(a[href*="dutchitchannel.nl"]) > img:upward(a)
+dutchitleaders.nl##a[href][target][onclick*="trackBannerClick"]:not(a[href*="dutchitchannel.nl"]) > img:upward(a)
+serietotaal.nl##div[id^="ad"]
+serietotaal.nl##.rect-in-headlines
 ! 2023-10-17
 bitcoinmagazine.nl,cryptobenelux.com##.clickout-banner-regular_native_box
 cryptobenelux.com##a[href*="banner"] > img:upward(.elementor-widget-image)
@@ -1115,14 +1118,12 @@ marktplaats.nl,2dehands.be##.hz-Page-content:style(max-width: 1300px!important;)
 marktplaats.nl,2dehands.be##.right-banner-root-container
 marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
 marktplaats.nl,2dehands.be##div[class*="admarktTitle"]:upward(1)
-! 2023-04-20
-dutchitleaders.nl##a[target]:not(a[href*="dutchitleaders.nl"]):not(a[href*="linkedin.com"]):has(img[src*=".assets-servd.host/"])
 ! 2023-04-18
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad010.nl,dagblad070.nl,goudsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,voorburgsdagblad.nl,zoetermeersdagblad.nl##.ddbad_wrapper
 freeones.nl##.banner-placeholder
 ! 2023-04-14
-serietotaal.nl##[class^="banner"]
-serietotaal.nl###adf-autonative
+##[class^="banner"]
+###adf-autonative
 ! 2023-04-04
 zozwanger.nl##.a-single
 zozwanger.nl##.g-single
@@ -1668,7 +1669,6 @@ wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
 ! 2022-01-14
 biernet.nl###BJA2
 biernet.nl###BJA3
-dutchleader.nl##td[align="CENTER"]:has(td[background*="pics"]:has-text(/sponsor/i))
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
 forum.spaarinformatie.nl##table:has-text(/advert/i)
@@ -1726,7 +1726,6 @@ autowereld.nl###mainbanner
 schiedamsnieuws.nl###media_image-3
 schiedamsnieuws.nl###media_image-4
 surinameview.com###nav_menu-2
-dutchitchannel.nl###news li:has-text(Adv)
 pokeren.nl###onetime-popup
 autoreview.nl###parentgpt
 eredivisie.nl###partner-bar
@@ -1796,7 +1795,6 @@ nailtalk.nl##.ashe-widget
 klimaatinfo.nl##.aside__add
 salvora.nl##.avia-content-slider1
 afkortingen.nu,allradio.nl,elkspel.nl,erotracks.nl,filmladder.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,unity.nu,waldnet.nl##.banner
-dutchitchannel.nl##.banner:has([href*="/bannerclick.html&banner"])
 vlietnieuws.nl##.banner_wrapper
 402online.com##.bannerblock
 speeleiland.nl##.banner-btf-side-rectangle
@@ -1814,7 +1812,6 @@ nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
 knhs.nl##.banners-right
 radiomonique.am##.bannerswidget
-dutchitchannel.nl##.bannner
 feyenoordpings.nl##.betcity-intro-wrapper
 berekenhet.nl##.bh-ads
 bieos-omroep.nl##.bieos-widget
