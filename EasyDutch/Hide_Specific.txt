@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-10-23
+dutchleader.nl##td[background]:has-text(Advert):upward(tbody)
 dutchitchannel.nl##.partners-swiper
 dutchitchannel.nl##a[href][target][onclick*="trackBannerClick"]:not(a[href*="dutchitchannel.nl"]) > img:upward(a)
 dutchitleaders.nl##a[href][target][onclick*="trackBannerClick"]:not(a[href*="dutchitchannel.nl"]) > img:upward(a)
@@ -809,7 +810,6 @@ wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
 ! 2022-01-14
 biernet.nl###BJA2
 biernet.nl###BJA3
-dutchleader.nl##td[align="CENTER"]:has(td[background*="pics"]:has-text(/sponsor/i))
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
 forum.spaarinformatie.nl##table:has-text(/advert/i)
