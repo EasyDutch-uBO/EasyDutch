@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-10-23
+dutchitchannel.nl##.partners-swiper
+dutchitchannel.nl##a[href][target][onclick*="trackBannerClick"]:not(a[href*="dutchitchannel.nl"]) > img:upward(a)
 serietotaal.nl##div[id^="ad"]
 serietotaal.nl##.rect-in-headlines
 ! 2023-10-17
@@ -866,7 +868,6 @@ autowereld.nl###mainbanner
 schiedamsnieuws.nl###media_image-3
 schiedamsnieuws.nl###media_image-4
 surinameview.com###nav_menu-2
-dutchitchannel.nl###news li:has-text(Adv)
 pokeren.nl###onetime-popup
 autoreview.nl###parentgpt
 eredivisie.nl###partner-bar
@@ -936,7 +937,6 @@ nailtalk.nl##.ashe-widget
 klimaatinfo.nl##.aside__add
 salvora.nl##.avia-content-slider1
 afkortingen.nu,allradio.nl,elkspel.nl,erotracks.nl,filmladder.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,unity.nu,waldnet.nl##.banner
-dutchitchannel.nl##.banner:has([href*="/bannerclick.html&banner"])
 vlietnieuws.nl##.banner_wrapper
 402online.com##.bannerblock
 speeleiland.nl##.banner-btf-side-rectangle
@@ -954,7 +954,6 @@ nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
 knhs.nl##.banners-right
 radiomonique.am##.bannerswidget
-dutchitchannel.nl##.bannner
 feyenoordpings.nl##.betcity-intro-wrapper
 berekenhet.nl##.bh-ads
 bieos-omroep.nl##.bieos-widget
