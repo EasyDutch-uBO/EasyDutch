@@ -2,6 +2,8 @@
 ! Description: Whitelist for specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-23
+@@||vandale.*/*/images/*_300x250.$image,1p
 ! 2023-10-13
 @@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
 ! 2023-08-01
