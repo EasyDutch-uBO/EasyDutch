@@ -1,6 +1,6 @@
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Tue, 24 Oct 2023 07:32:52 +0000
+! Last updated: Tue, 24 Oct 2023 08:21:17 +0000
 !
 ! 2023-10-23
 @@||vandale.*/*/images/*_300x250.$image,1p
@@ -10,9 +10,6 @@
 @@||cijfers.spikker.nl/js/plausible.js$script,domain=visserijnieuws.nl
 ! 2023-05-13
 @@||fundingchoicesmessages.google.com/*/$script,domain=racingnews365.nl
-! 2023-05-04
-! @@||fundingchoicesmessages.google.com/i/*$script,domain=rotterdam-nesselande.nl
-! @@||pagead2.googlesyndication.com/pagead/$script,domain=rotterdam-nesselande.nl
 ! 2023-05-03 https://github.com/uBlockOrigin/uAssets/issues/13800
 ! 2023-04-27
 @@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
