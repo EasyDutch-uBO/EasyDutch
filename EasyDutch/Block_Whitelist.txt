@@ -1,7 +1,9 @@
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Mon, 23 Oct 2023 19:20:04 +0000
+! Last updated: Tue, 24 Oct 2023 04:33:47 +0000
 !
+! 2023-10-24 https://github.com/EasyDutch-uBO/EasyDutch/issues/61
+@@||mmcdn.nl/tags/vkmag.com/pagina.js$script,domain=vkmag.com
 ! 2023-10-23
 @@||vandale.*/*/images/*_300x250.$image,1p
 ! 2023-10-13
