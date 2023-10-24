@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 24 Oct 2023 05:52:09 +0000
+! Last updated: Tue, 24 Oct 2023 06:16:21 +0000
 !
 ! 2023-10-23
 ||b-cdn.net/w_/*-banner-$image,domain=dtvnieuws.nl|omroephorstaandemaas.nl|omroepvenlo.nl|roulettefm.nl|rtvstichtsevecht.nl|wos.nl
@@ -495,7 +495,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ||clubxmissy.nl/banners/*$image,3p
 ||images.islive.nl/snapshot/*/99x84.jpg$image,domain=sexverhalen.com
-||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,1p
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
 ||kinkymedia.nl/wp-content/uploads/kousenenpanties-lingerie*.jpg$image
 ||klapjes.nl/hoomezaz/*/*.gif
