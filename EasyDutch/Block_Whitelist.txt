@@ -2,8 +2,6 @@
 ! Description: Whitelist for specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2023-10-24 https://github.com/EasyDutch-uBO/EasyDutch/issues/61
-@@||mmcdn.nl/tags/vkmag.com/pagina.js$script,domain=vkmag.com
 ! 2023-10-23
 @@||vandale.*/*/images/*_300x250.$image,1p
 ! 2023-10-13
@@ -12,7 +10,6 @@
 @@||cijfers.spikker.nl/js/plausible.js$script,domain=visserijnieuws.nl
 ! 2023-05-13
 @@||fundingchoicesmessages.google.com/*/$script,domain=racingnews365.nl
-@@||mmcdn.nl/tags/racingnews365.nl/artikel.js$script,domain=racingnews365.nl
 ! 2023-05-04
 @@||fundingchoicesmessages.google.com/i/*$script,domain=rotterdam-nesselande.nl
 @@||pagead2.googlesyndication.com/pagead/$script,domain=rotterdam-nesselande.nl
