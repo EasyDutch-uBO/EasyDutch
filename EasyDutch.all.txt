@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 24 Oct 2023 05:52:09 +0000
+! Last updated: Tue, 24 Oct 2023 06:15:23 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -2198,10 +2198,8 @@ sexguide.nl##div.vipEscortModel:has-text(Sponsors)
 sexjobs.nl##.banner-wrapper
 sexjobs.nl##div[id^="banner-"]
 sexverhalen.com##.story_suffix:has([href^="//tools.vpscash.nl/"])
-shespot.nl##[id^="text"]:has([src^="https://www.shespot.nl/wp-content/uploads/"])
 spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
 sproeiendekutjes.nl##aside.widget:has(a[href*="trff9links.com/"])
-thekinkyweb.nl##.widget_media_image:not(:has(a[href^="https://www.thekinkyweb.nl/"]))
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"])
 vagina.nl###partner-links
 vagina.nl##.list-item:has(.card > script)
