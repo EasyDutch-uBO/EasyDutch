@@ -2,6 +2,11 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2024-10-24
+geenstijl.nl##.pgAdWrapper
+geenstijl.nl##.article-premium-promotion-block
+geenstijl.nl##a[data-ga-event^="link-tip"]
+geenstijl.nl##.slajeslag
 ! 2023-10-23
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##span:has-text(advert):upward(div)
 dutchleader.nl##td[background]:has-text(Advert):upward(tbody)
@@ -925,7 +930,6 @@ glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 zeelandnet.nl##.article-bnr-first
 duic.nl##.article-excerpt--ad
 nieuwnieuws.nl##.article-page__bumper
-geenstijl.nl##.article-premium-promotion-block
 motocrossplanet.nl##.artikel-banners
 rtvkrimpenerwaard.nl##.art-positioncontrol
 zeelandnet.nl##.as__bottom-banner
@@ -1121,7 +1125,6 @@ baanwacht.nl##.shailan_banner_widget
 nederlandsmedianieuws.nl##.sidebar:has-text(Advert)
 fcgroningen.nl##.sidebar__item--banner
 alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
-geenstijl.nl##.slajeslag
 omroepwest.nl##.slider-wrapper
 solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
@@ -1240,7 +1243,6 @@ senseigaming.be##[id^="text-"]:has-text(sponsors)
 peoplesphere.be##[id^="text-"]:not(:has(a[href^="https://peoplesphere.be/"])):not(:has(.twitter-timeline))
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
 online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
-geenstijl.nl##a[data-ga-event^="link-tip"]
 nu.nl##a[href*="/advertorial-"]
 appletips.nl##a[href^="/adverteren-"]
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
