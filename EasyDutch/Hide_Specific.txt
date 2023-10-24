@@ -1,12 +1,14 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 24 Oct 2023 09:39:27 +0000
+! Last updated: Tue, 24 Oct 2023 09:54:21 +0000
 !
 ! 2024-10-24
 geenstijl.nl##.pgAdWrapper
 geenstijl.nl##.article-premium-promotion-block
 geenstijl.nl##a[data-ga-event^="link-tip"]
 geenstijl.nl##.slajeslag
+top40.nl##.in-house-ad
+top40.nl##[id^="sky"]:has(script:has-text(AdvertSlot))
 ! 2023-10-23
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##span:has-text(advert):upward(div)
 dutchleader.nl##td[background]:has-text(Advert):upward(tbody)
@@ -1230,7 +1232,6 @@ geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-typ
 aafm.nl##[id^="loaBlock"]:has-text(Advertentie)
 kanaancourant.nl##[id^="media_image-"]:has(a[href][target="_blank"][rel="noopener"])
 rtvkrimpenerwaard.nl##[id^="pg-1407"]:has-text(Vrienden):has([class^="sp-logo-carousel"] .sp-lcp-logo-wrapper):has(img[src])
-top40.nl##[id^="sky"]:has(script:has-text(AdvertSlot))
 itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
 ninefornews.nl##[id^="text-"]:has(.nfn-target[data-advadsredirect])
 radiozuidrand.be##[id^="text-"]:has(.widget-title:has-text(ADVERTEERDERS))
