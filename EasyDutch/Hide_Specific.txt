@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 24 Oct 2023 06:15:23 +0000
+! Last updated: Tue, 24 Oct 2023 07:24:11 +0000
 !
 ! 2023-10-23
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##span:has-text(advert):upward(div)
@@ -23,8 +23,7 @@ osurtv.nl##.wdslider:has-text(/Sponsor|partners/i)
 parool.nl,trouw.nl##.oortje-wrapper
 radiozenders.fm##[id^="div-gpt-rectangle"]:upward(.banner-rectangle)
 riskcompliance.nl##a[onclick*="Banner"]:not(a[href*="riskcompliance.nl"]):upward(article)
-rotterdam-nesselande.nl##aside .adsbygoogle:style(height:1px !important;)
-rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
+rotterdam-nesselande.nl##.adsbygoogle:upward(1)
 rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-posts))
 rtvgo.nl##.thanksto
 rubenweytjens.be##.block-ad-banner:not(:has([href*="weerpush.be/"])):not(:has(iframe[src*="meteo-be.net"]))
