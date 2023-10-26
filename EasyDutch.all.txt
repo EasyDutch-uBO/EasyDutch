@@ -4,7 +4,7 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Tue, 24 Oct 2023 09:54:21 +0000
+! Last updated: Thu, 26 Oct 2023 09:15:10 +0000
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
@@ -761,6 +761,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! Description: Whitelist for specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-26
+@@||ads.nextday.media/prebid/jw-video/7.43.0.min.js$script,domain=bright.nl
 ! 2023-10-23
 @@||vandale.*/*/images/*_300x250.$image,1p
 ! 2023-10-13
