@@ -13,8 +13,6 @@
 ! 2021-05-31
 /gaslicht/header300x20.png$image
 /gaslicht/gaslicht*$subdocument
-! https://github.com/easylist/easylistdutch/commit/4b28b8e2fb72c7008bc77fbcfd252c7835c1fcb
--Ad-360.
 ! https://github.com/Nomes77/AdBlockFilters/issues/13
 /css/branding.css$3p
 ! 2021-04-27
