@@ -4,9 +4,9 @@
 
 set -e
 
-# To be executed at the root of uAssetsCDN repo
+# To be executed at the root of EasyDutchCDN repo
 #
-# It's not being hosted at uAssetsCDN because that
+# It's not being hosted at EasyDutchCDN because that
 # repo is also used as a website
 
 
