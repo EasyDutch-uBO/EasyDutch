@@ -2,6 +2,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2024-10-30
+wijwedden.net##.bookies.stream-preview
+wijwedden.net##.top-bookmaker-widget
 ! 2024-10-24
 geenstijl.nl##.pgAdWrapper
 geenstijl.nl##.article-premium-promotion-block
