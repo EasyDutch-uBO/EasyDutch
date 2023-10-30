@@ -18,9 +18,6 @@
 ! 2022-10-12
 ||spott.ai^$domain=vtm.be
 ||gemius.pl^$important,domain=vtm.be
-! 2022-10-04
-! barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,hdtienersexfilms.nl,jongetienersex.nl,partytieners.nl,poepsexfilmstube.nl,strandmokkels.nl,studentesneuken.nl
-||dronkenmokkels.nl^$3p
 ! 2022-05-27
 ! trosfm.be
 ||believe-the-hype.be^$3p
