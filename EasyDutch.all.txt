@@ -7,7 +7,7 @@
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
 ! Mailto: easydutch.adblock@gmail.com
-! Last updated: Mon, 30 Oct 2023 19:12:54 +0000
+! Last updated: Mon, 30 Oct 2023 19:53:23 +0000
 ! Expires: 7 days (update frequency)
 ! Diff-Path: %diffpath%
 ! Diff-Name: easydutch
@@ -863,6 +863,10 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2024-10-30
+gpfans.com##.taboonews
+wijwedden.net##.bookies.stream-preview
+wijwedden.net##.top-bookmaker-widget
 ! 2024-10-24
 geenstijl.nl##.pgAdWrapper
 geenstijl.nl##.article-premium-promotion-block
