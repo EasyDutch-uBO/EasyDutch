@@ -1,7 +1,6 @@
-[uBlock Origin]
 ! Title: EasyDutch
-! Last updated: Tue, 31 Oct 2023 10:43:17 +0000
-! Expires: 3 days (update frequency)
+! Last updated: Tue, 31 Oct 2023 11:03:20 +0000
+! Expires: 7 days (update frequency)
 ! Diff-Path: %diffpath%
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
