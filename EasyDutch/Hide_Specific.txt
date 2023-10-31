@@ -2,6 +2,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-31
+cvandaag.nl##a[href^="https://cvandaag.nl/api/advertise-deliver/click/"]:upward(app-article-presentation)
+cvandaag.nl##div.sponsored:has-text(Gerelateerd)
 ! 2024-10-30
 gpfans.com##.taboonews
 wijwedden.net##.bookies.stream-preview
@@ -176,8 +179,6 @@ recreatief.nl##.widget-a-wrap
 srnieuws.com##div.card-view:has([id^="taboola"])
 waterkant.net##div.td-all-devices
 ! 2023-05-03
-cvandaag.nl##.article-view [href^="https://cvandaag.nl/ad/click"]:upward(.d-none)
-cvandaag.nl##[class^="news"] [href^="https://cvandaag.nl/ad/click"]:upward(div)
 noordkopcentraal.nl##.home .koptitel:has-text(Advert)
 noordkopcentraal.nl##.home .koptitel:has-text(Advert) ~ div
 noordkopcentraal.nl##.home .koptitel:has-text(Advert) ~ hr
