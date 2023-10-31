@@ -32,7 +32,7 @@ This list also handles anti-adblock, which isn't done by EasyList Dutch. See the
 If you see ads on dutch websites please [report](https://github.com/EasyDutch-uBO/EasyDutch/issues/new/choose) it to me or sent me an email to easydutch.adblock@gmail.com <br>
 
 uBlock Origin uses four links to update our list in their add-on/extension.  <br>
-The [`contentURL`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L753) is instantly updated after a commit, our own [`EasyDutchCDN`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L757) is updated twice a day, the other two [`cdnURLs`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L595-L596) are updated less.  <br>
+The [`contentURL`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L753) is instantly updated after a commit, our own [`EasyDutchCDN`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L757) is updated every two hours, the other two [`cdnURLs`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L595-L596) are updated less.  <br>
 If there is a fix you need immediately, I can update the [`jsDelivr cdnURL`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L756) by going to https://www.jsdelivr.com/tools/purge, and our [`EasyDutchCDN`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L757).
 
 
@@ -41,7 +41,7 @@ If there is a fix you need immediately, I can update the [`jsDelivr cdnURL`](htt
 <summary>Contributing</summary>
 
 > Important note: </br>
-> I, @BPower0036 owner of EasyDutch, prefer simplicity over complexity. So instead of `123geldzaken.nl##[class*="widget_sponsor"]` use `123geldzaken.nl##.widget_sponsor` and `123geldzaken.nl##.widget_sponsorlinks`. And instead of `arenalokaal.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)` just use `arenalokaal.nl##[advobject]:upward(.bg-gray-100)`
+> I, @Nomes77 owner of EasyDutch, prefer simplicity over complexity. So instead of `123geldzaken.nl##[class*="widget_sponsor"]` use `123geldzaken.nl##.widget_sponsor` and `123geldzaken.nl##.widget_sponsorlinks`. And instead of `arenalokaal.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)` just use `arenalokaal.nl##[advobject]:upward(.bg-gray-100)`
 > 
 > ##### Ordering of filters
 > 
