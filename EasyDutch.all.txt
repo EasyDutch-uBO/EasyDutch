@@ -7,7 +7,7 @@
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
 ! Mailto: easydutch.adblock@gmail.com
-! Last updated: Tue, 31 Oct 2023 05:56:14 +0000
+! Last updated: Tue, 31 Oct 2023 06:21:25 +0000
 ! Expires: 3 days (update frequency)
 ! Diff-Path: %diffpath%
 ! Diff-Name: easydutch
@@ -206,6 +206,8 @@ _advertentieleaderboardhome.
 ||xpartners.nl^$3p
 
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
+cvandaag.nl/api/advertise-deliver/deliver$xhr
+! 2023-10-23
 ||b-cdn.net/w_/*-banner-$image,domain=dtvnieuws.nl|omroephorstaandemaas.nl|omroepvenlo.nl|roulettefm.nl|rtvstichtsevecht.nl|wos.nl
 ||ecdn.menselijklichaam.nl/banners/$image
 /production/uploads/partners/*$image,domain=dutchitchannel.nl
@@ -250,8 +252,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||zeilwereld.nl/wp-content/uploads/*/*banner
 ! 2023-05-05
 ||proshop.nl/Images/Topbanner$image
-! 2023-05-03
-||cvandaag.nl/resources/uploads/banner/$image
 ! 2023-05-02
 ||cmtt.nl/Advertisement/$image,domain=advocatie.nl
 ||advocatie.nl/content/uploads//Mediation-Basis$image
