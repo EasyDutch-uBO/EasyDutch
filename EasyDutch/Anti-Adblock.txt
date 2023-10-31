@@ -1,6 +1,6 @@
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Tue, 17 Oct 2023 04:18:25 +0000
+! Last updated: Tue, 31 Oct 2023 05:36:44 +0000
 !
 ! 2023-10-17
 moppen.nl#@#ins.adsbygoogle
@@ -70,8 +70,6 @@ goplay.be##+js(json-prune, ads time_events_url)
 goplay.be##.theoplayer div > div > div > div[class][style^="left"][style*="width"][style$="px;"]
 ! 2023-04-27
 routenet.nl,trafficnet.nl##+js(set, canRunAds, true)
-! 2023-01-06
-@@/wp-content/*/scripts/adb.min.js$script,1p,domain=androidplanet.nl|iphoned.nl
 ! 2022-11-14
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,3p,redirect-rule,domain=vrt.be
 ! 2022-10-12
