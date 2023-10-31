@@ -14,6 +14,7 @@
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=natives,advertorials$xhr,urltransform=/api/advertise-deliver/deliver?adtypes=natives
 ||startlinken.nl/oud/images/banner-$image,1p
 ||startlinken.nl/oud/javascript/BannerRotation*$script,1p
+||uitslagen.nl/banner/img$image
 ! 2023-10-23
 ||b-cdn.net/w_/*-banner-$image,domain=dtvnieuws.nl|omroephorstaandemaas.nl|omroepvenlo.nl|roulettefm.nl|rtvstichtsevecht.nl|wos.nl
 ||ecdn.menselijklichaam.nl/banners/$image
