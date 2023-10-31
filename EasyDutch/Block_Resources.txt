@@ -476,7 +476,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
-||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
