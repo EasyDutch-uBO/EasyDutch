@@ -1,5 +1,5 @@
 ! Title: EasyDutch
-! Last updated: Tue, 31 Oct 2023 11:03:20 +0000
+! Last updated: Tue, 31 Oct 2023 13:35:27 +0000
 ! Expires: 7 days (update frequency)
 ! Diff-Path: %diffpath%
 ! Diff-Name: easydutch
@@ -151,6 +151,10 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
+||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_Cover$image
+||admin.ditjesendatjes.nl/wp-content/uploads/*-footer-DenD.png$image
+||admin.ditjesendatjes.nl/wp-content/uploads/dirk$image
+||admin.ditjesendatjes.nl/wp-content/uploads/Logo_Dirck$image
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=natives,advertorials$xhr,urltransform=/api/advertise-deliver/deliver?adtypes=natives
 ||startlinken.nl/oud/images/banner-$image,1p
@@ -202,11 +206,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||racesport.nl/wp-content/uploads/*/*.gif$image
 ||wegdamnieuws.nl/wp-content/uploads/*/*/*.gif$image
 ||culturescope.nl/wp-content/uploads/2016/11/FAIRY-*.png$image
-||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_CoverOBlente-1.jpg$image
-||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_LekkerDoenLente.jpg$image
-||admin.ditjesendatjes.nl/wp-content/uploads/*-footer-DenD.png$image
-||admin.ditjesendatjes.nl/wp-content/uploads/dirk$image
-||admin.ditjesendatjes.nl/wp-content/uploads/Logo_Dirck$image
 /https\:\/\/nieuwsfiets\.nu\/wp-content\/uploads\/.*\/.*(?:banner-(?!mis|tip).*|\.gif)/
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
 ||top40.nl/*/widget/uploads/ankeiler/$image
@@ -369,7 +368,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
 ||wettelijke-feestdagen.nl/Images/advertentie$image
 ||wettelijke-feestdagen.nl/Images/banner$image
-||cip.nl/resources/uploads/vakantie/*$image,1p
 ||biernet.nl/bja/$subdocument
 ||biernet.nl/images/extra-bja_camp-bnr/$image
 ||biernet.nl/site/widgets/huidig_aanbieding.php
@@ -662,8 +660,13 @@ beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
 cvandaag.nl##a[href^="https://cvandaag.nl/api/advertise-deliver/click/"]:upward(app-article-presentation)
 cvandaag.nl##div.sponsored:has-text(Gerelateerd)
+ditjesendatjes.nl##aside h2:has-text(DenD Promoties),
+ditjesendatjes.nl##aside h2:has-text(DenD Promoties) + [class]
+ditjesendatjes.nl##h2:has-text(DenD Partners):upward(section)
 tostrams.nl##[class*="banner"]
 tostrams.nl##[id*="banner"]
+zeilwereld.nl##.adv-link:upward([id^="zeilw"])
+zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
 gpfans.com##.taboonews
 iexprofs.nl##.tagwrapper:upward(.row__item)
 iexprofs.nl##[class*="banner"]:not(.banner)
@@ -789,7 +792,6 @@ motorboot.com##.logo
 nauticlink.com##.adv-link
 nauticlink.com##.elementor-section:has-text(partners)
 yachtfocus.com##.av
-zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
 deondernemer.nl##.section-branded
 deondernemer.nl##.tile-advert:upward(.tile-wrapper)
 gamer.nl,id.nl##.adunitContainer:upward(.items-center)
@@ -830,8 +832,6 @@ waarzo.nl##.smallbox:has-text(Adds By Google)
 wegdamnieuws.nl##.ads-stack
 belgiancycling.be##.logo-slider
 cryptosjop.nl##iframe[src^="https://bitvavo.com/assets/static/widget/trade.html"]:upward(.td_block_wrap)
-ditjesendatjes.nl##h2:has-text(DenD Promoties):upward(aside)
-ditjesendatjes.nl##h2:has-text(DenD Partners):upward(section)
 luchtvaartnieuws.nl##[id^="luchtvaartnieuws.nl_mob_mobilerectangle"]:upward(div[style])
 luchtvaartnieuws.nl##.content > [id^="luchtvaartnieuws.nl_web_"]:upward(.block)
 poki.be##.sc-tbf0fc-2:has-text(/Advert/i):upward(div[class])

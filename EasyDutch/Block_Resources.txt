@@ -1,8 +1,12 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 31 Oct 2023 09:10:05 +0000
+! Last updated: Tue, 31 Oct 2023 13:35:27 +0000
 !
 ! 2023-10-31
+||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_Cover$image
+||admin.ditjesendatjes.nl/wp-content/uploads/*-footer-DenD.png$image
+||admin.ditjesendatjes.nl/wp-content/uploads/dirk$image
+||admin.ditjesendatjes.nl/wp-content/uploads/Logo_Dirck$image
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=natives,advertorials$xhr,urltransform=/api/advertise-deliver/deliver?adtypes=natives
 ||startlinken.nl/oud/images/banner-$image,1p
@@ -68,11 +72,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||wegdamnieuws.nl/wp-content/uploads/*/*/*.gif$image
 ! 2023-05-01
 ||culturescope.nl/wp-content/uploads/2016/11/FAIRY-*.png$image
-||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_CoverOBlente-1.jpg$image
-||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_LekkerDoenLente.jpg$image
-||admin.ditjesendatjes.nl/wp-content/uploads/*-footer-DenD.png$image
-||admin.ditjesendatjes.nl/wp-content/uploads/dirk$image
-||admin.ditjesendatjes.nl/wp-content/uploads/Logo_Dirck$image
 ! 2023-04-28
 /https\:\/\/nieuwsfiets\.nu\/wp-content\/uploads\/.*\/.*(?:banner-(?!mis|tip).*|\.gif)/
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
@@ -278,8 +277,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! 2022-01-18
 ||wettelijke-feestdagen.nl/Images/advertentie$image
 ||wettelijke-feestdagen.nl/Images/banner$image
-! 2022-01-17
-||cip.nl/resources/uploads/vakantie/*$image,1p
 ! 2022-01-14
 ||biernet.nl/bja/$subdocument
 ||biernet.nl/images/extra-bja_camp-bnr/$image
