@@ -1,5 +1,5 @@
 ! Title: EasyDutch
-! Last updated: Tue, 31 Oct 2023 16:11:08 +0000
+! Last updated: Tue, 31 Oct 2023 16:16:01 +0000
 ! Expires: 7 days (update frequency)
 ! Diff-Path: %diffpath%
 ! Diff-Name: easydutch
@@ -735,7 +735,7 @@ telefoonboek.nl###tbresult-top
 telefoonboek.nl##[class^="detail-leaderbord"]:has(.adsbygoogle)
 topgear.nl##div:has( > div[style]:has-text(/advert/i):has(div[id]))
 touretappe.nl###right .desktopad[id*="TOURETAPPE_300"]:upward(1)
-s.nl##.highlighted-advertisers:upward(.row)
+trucks.nl##.highlighted-advertisers:upward(.row)
 tvgids24.nl###shortads
 ucl-voetbal.nl,uecl-voetbal.nl,uel-voetbal.nl##.uitgelichtbox
 villamedia.nl##.header-intro
