@@ -7,7 +7,7 @@
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
 ! Mailto: easydutch.adblock@gmail.com
-! Last updated: Tue, 31 Oct 2023 09:16:07 +0000
+! Last updated: Tue, 31 Oct 2023 09:28:05 +0000
 ! Expires: 3 days (update frequency)
 ! Diff-Path: %diffpath%
 ! Diff-Name: easydutch
@@ -53,7 +53,6 @@
 ://promotie.$3p
 _advertentie300x250_
 _advertentieleaderboardhome.
-
 ! *** EasyDutch:EasyDutch/Block_first_party_Server.txt ***
 ||aa.tweakers.nl^
 ||ab.tweakers.nl^
@@ -71,7 +70,6 @@ _advertentieleaderboardhome.
 ||a2.tijd.be^
 ||content2.nrc.nl^
 ||mooieplaatjes.bierdopje.com^
-
 ! *** EasyDutch:EasyDutch/Block_third_party_Server.txt ***
 ||cryptosplash.care^$3p
 ||cryptobeneluxbanner.care^$3p
@@ -153,7 +151,6 @@ _advertentieleaderboardhome.
 ||views.affiliate4you.nl^$3p
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
-
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=natives,advertorials$xhr,urltransform=/api/advertise-deliver/deliver?adtypes=natives
@@ -571,7 +568,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
-
 *$3p,image,domain=kinkymedia.nl
 /images/*.gif$image,domain=123video.nl|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
@@ -610,7 +606,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xmissy.nl/skins/_customplayers/*/*overlay$image
 ||xmissy.nl/skins/_customplayers/*/*top$image
 ||xmissy.nl/skins/_customplayers/*footer.jpg$image
-
 ! *** EasyDutch:EasyDutch/Block_Whitelist.txt ***
 @@||ads.nextday.media/prebid/jw-video/7.43.0.min.js$script,domain=bright.nl
 @@||vandale.*/*/images/*_300x250.$image,1p
@@ -649,7 +644,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 @@||naaktkrant.nl/media/*/*-gifs-*.gif$image,1p
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
-
 ! *** EasyDutch:EasyDutch/Hide_General.txt ***
 ##.ankeiler--advertisement
 ##.article__component--temptation-article-inline
@@ -664,7 +658,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.happy-footer
 ##.video-block-happy
 ###tracking-url
-
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
 beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
@@ -1815,7 +1808,6 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
-
 123video.nl##.page-load-switch
 camjam.nl##.banner
 gaynews.nl##[class^="va"]:has([class*="banner"])
@@ -1866,7 +1858,6 @@ vagina.nl##[href^="https://xltube.nl/click/"]
 vagina.nl##[id$="fish-hooks"]
 vagina.nl##div[id^=video-fish-hook]
 xmissy.nl##.rightbar > :has([src^="https://ads."])
-
 ! *** EasyDutch:EasyDutch/Hide_Whitelist.txt ***
 gratisaftehalen.nl#@#.ads-image
 rotterdam-nesselande.nl#@#ins.adsbygoogle
@@ -1894,7 +1885,6 @@ marktplaats.nl#@#.adSummary
 !#if env_mobile
 klusidee.nl#@#.header-ad
 !#endif
-
 ! *** EasyDutch:EasyDutch/Anti-Adblock.txt ***
 moppen.nl#@#ins.adsbygoogle
 dumpert.nl##+js(nostif, AdBlockerCheck)
