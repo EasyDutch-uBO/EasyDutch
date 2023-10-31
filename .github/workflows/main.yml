@@ -37,7 +37,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: pre-gh-pages
-      - name: Copy filter lists to pre-gh-pages
+      - name: Copy filter lists to gh-pages
         run: |
           TMPFILE=$(mktemp -d)
           git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPFILE
@@ -66,5 +66,5 @@ jobs:
             git config user.email "<>"
             git add -u EasyDutch/ EasyDutch.txt EasyDutch.all.txt
             git commit -m "Update modified filter lists"
-            git push origin pre-gh-pages
+            git push origin gh-pages
           fi
