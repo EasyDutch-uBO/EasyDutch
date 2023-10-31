@@ -142,9 +142,9 @@ function minify(text) {
     // remove issue-related comments
     text = text.replace(/^! .*?[\n\r]+/gm, '');
     // remove empty lines
-    text = text.replace(/^[\n\r]+/gm, '');
+    // text = text.replace(/^[\n\r]+/gm, '');
     // convert potentially present Windows-style newlines
-    text = text.replace(/\r\n/g, '\n');
+    // text = text.replace(/\r\n/g, '\n');
     return text;
 }
 
