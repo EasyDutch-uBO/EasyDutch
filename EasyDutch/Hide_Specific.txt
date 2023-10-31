@@ -5,6 +5,8 @@
 ! 2023-10-31
 cvandaag.nl##a[href^="https://cvandaag.nl/api/advertise-deliver/click/"]:upward(app-article-presentation)
 cvandaag.nl##div.sponsored:has-text(Gerelateerd)
+tostrams.nl##[class*="banner"]
+tostrams.nl##[id*="banner"]
 ! 2024-10-30
 gpfans.com##.taboonews
 iexprofs.nl##.tagwrapper:upward(.row__item)
