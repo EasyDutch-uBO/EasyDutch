@@ -7,6 +7,9 @@
 ||admin.ditjesendatjes.nl/wp-content/uploads/*-footer-DenD.png$image
 ||admin.ditjesendatjes.nl/wp-content/uploads/dirk$image
 ||admin.ditjesendatjes.nl/wp-content/uploads/Logo_Dirck$image
+||alphens.nl/resize/upload/*/*banner$image
+||alphens.nl/resize/upload/*/*Leaderbord$image
+||alphens.nl/upload/*/*banner$image
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=natives,advertorials$xhr,urltransform=/api/advertise-deliver/deliver?adtypes=natives
 ||startlinken.nl/oud/images/banner-$image,1p
@@ -59,9 +62,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! 2023-05-02
 ||cmtt.nl/Advertisement/$image,domain=advocatie.nl
 ||advocatie.nl/content/uploads//Mediation-Basis$image
-||alphens.nl/resize/upload/*/*banner$image
-||alphens.nl/resize/upload/*/Leaderbord$image
-||alphens.nl/upload/*/*banner$image
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
 ||diecourant.co.za/wp-content/uploads/*/*-banner
 ||pen.nl/wp-content/uploads/*/cityplaza360x96.jpg$image
