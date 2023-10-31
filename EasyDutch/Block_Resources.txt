@@ -1,10 +1,12 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 31 Oct 2023 07:30:53 +0000
+! Last updated: Tue, 31 Oct 2023 09:10:05 +0000
 !
 ! 2023-10-31
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=natives,advertorials$xhr,urltransform=/api/advertise-deliver/deliver?adtypes=natives
+||startlinken.nl/oud/images/banner-$image,1p
+||startlinken.nl/oud/javascript/BannerRotation*$script,1p
 ! 2023-10-23
 ||b-cdn.net/w_/*-banner-$image,domain=dtvnieuws.nl|omroephorstaandemaas.nl|omroepvenlo.nl|roulettefm.nl|rtvstichtsevecht.nl|wos.nl
 ||ecdn.menselijklichaam.nl/banners/$image
@@ -270,8 +272,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! 2022-02-14
 ||123inkt.nl/images/oren/*$image
 ! 2022-02-08
-||startlinken.nl/images/banner-$image,1p
-||startlinken.nl/javascript/BannerRotation*$script,1p
 ||waarzo.nl/imagestore/site-banners/
 ! 2022-01-26
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
