@@ -7,7 +7,7 @@
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
 ! Mailto: easydutch.adblock@gmail.com
-! Last updated: Tue, 31 Oct 2023 05:36:44 +0000
+! Last updated: Tue, 31 Oct 2023 05:56:14 +0000
 ! Expires: 3 days (update frequency)
 ! Diff-Path: %diffpath%
 ! Diff-Name: easydutch
@@ -105,9 +105,6 @@ _advertentieleaderboardhome.
 ||believe-the-hype.be^$3p
 ! 2022-04-08 frontpage.fok.nl
 ||nojazz.eu^$3p
-! 2022-04-05
-! npostart.nl
-||crnsgngrpj.nl^$3p
 ! 2022-02-15
 ! startpagina.nl
 ||optoutadvertising.com^$3p
