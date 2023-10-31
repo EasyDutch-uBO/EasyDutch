@@ -1,9 +1,10 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 31 Oct 2023 06:21:52 +0000
+! Last updated: Tue, 31 Oct 2023 06:56:06 +0000
 !
 ! 2023-10-31
-||cvandaag.nl/api/advertise-deliver/deliver$xhr
+||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
+||cvandaag.nl/api/advertise-deliver/deliver?adtypes=natives,advertorials$xhr,urltransform=/api/advertise-deliver/deliver?adtypes=natives
 ! 2023-10-23
 ||b-cdn.net/w_/*-banner-$image,domain=dtvnieuws.nl|omroephorstaandemaas.nl|omroepvenlo.nl|roulettefm.nl|rtvstichtsevecht.nl|wos.nl
 ||ecdn.menselijklichaam.nl/banners/$image
