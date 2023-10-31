@@ -1,8 +1,19 @@
 [uBlock Origin]
+! Title: EasyDutch
+! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
+! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
+! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
+! Mailto: easydutch.adblock@gmail.com
+! Last updated: Tue, 31 Oct 2023 08:12:31 +0000
+! Expires: 3 days (update frequency)
+! Diff-Path: %diffpath%
+! Diff-Name: easydutch
+! Diff-Expires: 6 hours
 !
+! *** EasyDutch:EasyDutch/Block_General.txt ***
 /reclame/*.gif$image,3p
 /aff_ad?$frame
 /tekst_advertentie_
@@ -43,6 +54,7 @@
 _advertentie300x250_
 _advertentieleaderboardhome.
 
+! *** EasyDutch:EasyDutch/Block_first_party_Server.txt ***
 ||aa.tweakers.nl^
 ||ab.tweakers.nl^
 ||freewheel-jitt.dpgmedia.be^
@@ -60,6 +72,7 @@ _advertentieleaderboardhome.
 ||content2.nrc.nl^
 ||mooieplaatjes.bierdopje.com^
 
+! *** EasyDutch:EasyDutch/Block_third_party_Server.txt ***
 ||cryptosplash.care^$3p
 ||cryptobeneluxbanner.care^$3p
 ||7mb.nl^$3p
@@ -141,6 +154,7 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 
+! *** EasyDutch:EasyDutch/Block_Resources.txt ***
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=natives,advertorials$xhr,urltransform=/api/advertise-deliver/deliver?adtypes=natives
 ||b-cdn.net/w_/*-banner-$image,domain=dtvnieuws.nl|omroephorstaandemaas.nl|omroepvenlo.nl|roulettefm.nl|rtvstichtsevecht.nl|wos.nl
@@ -558,6 +572,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
 
+! NSFW Sites
 *$3p,image,domain=kinkymedia.nl
 /images/*.gif$image,domain=123video.nl|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
@@ -597,6 +612,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xmissy.nl/skins/_customplayers/*/*top$image
 ||xmissy.nl/skins/_customplayers/*footer.jpg$image
 
+! *** EasyDutch:EasyDutch/Block_Whitelist.txt ***
 @@||ads.nextday.media/prebid/jw-video/7.43.0.min.js$script,domain=bright.nl
 @@||vandale.*/*/images/*_300x250.$image,1p
 @@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
@@ -635,6 +651,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
 
+! *** EasyDutch:EasyDutch/Hide_General.txt ***
 ##.ankeiler--advertisement
 ##.article__component--temptation-article-inline
 ##.article__component--outstream-advertisement
@@ -649,6 +666,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.video-block-happy
 ###tracking-url
 
+! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
 beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
 cvandaag.nl##a[href^="https://cvandaag.nl/api/advertise-deliver/click/"]:upward(app-article-presentation)
@@ -1799,6 +1817,7 @@ leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
 
+! NSFW Site
 123video.nl##.page-load-switch
 camjam.nl##.banner
 gaynews.nl##[class^="va"]:has([class*="banner"])
@@ -1850,12 +1869,15 @@ vagina.nl##[id$="fish-hooks"]
 vagina.nl##div[id^=video-fish-hook]
 xmissy.nl##.rightbar > :has([src^="https://ads."])
 
+! *** EasyDutch:EasyDutch/Hide_Whitelist.txt ***
 gratisaftehalen.nl#@#.ads-image
 rotterdam-nesselande.nl#@#ins.adsbygoogle
 noordkopcentraal.nl#@#.category-advertorial
 gratis.nl#@#a[href^="https://ndt5.net/"]
 wereldklokken.nl#@#ins.adsbygoogle
+! Uitzonderingen voor AdGuard
 embed.kijk.nl#@#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links:style(display: block !important;)
+! Uitzonderingen voor EasyList
 radiozuidrand.be#@#.advertisement_300x250
 radiozuidrand.be#@#.advertisement_728x90
 radiozuidrand.be#@#.advertisement-content
@@ -1877,6 +1899,7 @@ marktplaats.nl#@#.adSummary
 klusidee.nl#@#.header-ad
 !#endif
 
+! *** EasyDutch:EasyDutch/Anti-Adblock.txt ***
 moppen.nl#@#ins.adsbygoogle
 dumpert.nl##+js(nostif, AdBlockerCheck)
 dumpert.nl#@#.ads_box
@@ -1892,6 +1915,7 @@ looopings.nl##+js(remove-node-text, script, if(!document.getElementById)
 fok.nl##+js(aeld, , DAB)
 fok.nl###wa_web_headertofloor
 *$image,redirect-rule=2x2.png,domain=tweakers.net
+! @@||tweakers.nl^$xhr,domain=tweakers.net
 tweakers.net##+js(no-fetch-if, /a[ab]\.tweakers\.nl/)
 tweakers.net##+js(aeld, /[\w]{16}/, /^e=>.*/)
 @@||tweakers.net^$ghide
