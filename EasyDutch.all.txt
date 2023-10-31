@@ -7,7 +7,7 @@
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
 ! Mailto: easydutch.adblock@gmail.com
-! Last updated: Tue, 31 Oct 2023 06:21:52 +0000
+! Last updated: Tue, 31 Oct 2023 06:44:49 +0000
 ! Expires: 3 days (update frequency)
 ! Diff-Path: %diffpath%
 ! Diff-Name: easydutch
@@ -813,6 +813,9 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ###tracking-url
 
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+cvandaag.nl##a[href^="https://cvandaag.nl/api/advertise-deliver/click/"]:upward(app-article-presentation)
+cvandaag.nl##div.sponsored:has-text(Gerelateerd)
+! 2024-10-30
 gpfans.com##.taboonews
 wijwedden.net##.bookies.stream-preview
 wijwedden.net##.top-bookmaker-widget
@@ -986,8 +989,6 @@ recreatief.nl##.widget-a-wrap
 srnieuws.com##div.card-view:has([id^="taboola"])
 waterkant.net##div.td-all-devices
 ! 2023-05-03
-cvandaag.nl##.article-view [href^="https://cvandaag.nl/ad/click"]:upward(.d-none)
-cvandaag.nl##[class^="news"] [href^="https://cvandaag.nl/ad/click"]:upward(div)
 noordkopcentraal.nl##.home .koptitel:has-text(Advert)
 noordkopcentraal.nl##.home .koptitel:has-text(Advert) ~ div
 noordkopcentraal.nl##.home .koptitel:has-text(Advert) ~ hr
