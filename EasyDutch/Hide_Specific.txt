@@ -1,12 +1,18 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 31 Oct 2023 06:44:49 +0000
+! Last updated: Tue, 31 Oct 2023 07:30:53 +0000
 !
 ! 2023-10-31
+beurs.nl##.addslot
+beurs.nl##.wrapper--topbanner
 cvandaag.nl##a[href^="https://cvandaag.nl/api/advertise-deliver/click/"]:upward(app-article-presentation)
 cvandaag.nl##div.sponsored:has-text(Gerelateerd)
+tostrams.nl##[class*="banner"]
+tostrams.nl##[id*="banner"]
 ! 2024-10-30
 gpfans.com##.taboonews
+iexprofs.nl##.tagwrapper:upward(.row__item)
+iexprofs.nl##[class*="banner"]:not(.banner)
 wijwedden.net##.bookies.stream-preview
 wijwedden.net##.top-bookmaker-widget
 ! 2024-10-24
@@ -416,9 +422,6 @@ lekkercryptisch.nl##.p-footer__randomPartner
 iex.nl##.strossle-widget
 iex.nl##.publisher-sh-spot
 iex.nl##.rectanglemid
-iexprofs.nl##.banner__side
-iexprofs.nl##.banner__wrap
-iexprofs.nl##.tagwrapper:upward(.row__item)
 ! 2022-07-13
 uw-folder.nl##.banner
 webcam-binnenvaart.nl##.d-md-block.d-none:has-text(Met dank aan)

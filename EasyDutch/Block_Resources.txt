@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 31 Oct 2023 06:56:06 +0000
+! Last updated: Tue, 31 Oct 2023 07:30:53 +0000
 !
 ! 2023-10-31
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
@@ -476,11 +476,9 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
-||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
-||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-$image
 
 ! NSFW Sites
 *$3p,image,domain=kinkymedia.nl
