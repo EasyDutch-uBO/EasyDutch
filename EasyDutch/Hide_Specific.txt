@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-10-31
+beurs.nl##.addslot
+beurs.nl##.wrapper--topbanner
 cvandaag.nl##a[href^="https://cvandaag.nl/api/advertise-deliver/click/"]:upward(app-article-presentation)
 cvandaag.nl##div.sponsored:has-text(Gerelateerd)
 tostrams.nl##[class*="banner"]
