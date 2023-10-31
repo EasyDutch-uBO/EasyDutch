@@ -10,6 +10,7 @@ cvandaag.nl##div.sponsored:has-text(Gerelateerd)
 ditjesendatjes.nl##aside h2:has-text(DenD Promoties),
 ditjesendatjes.nl##aside h2:has-text(DenD Promoties) + [class]
 ditjesendatjes.nl##h2:has-text(DenD Partners):upward(section)
+hockey.nl##[class^="advertisement"]:upward(li.card)
 tostrams.nl##[class*="banner"]
 tostrams.nl##[id*="banner"]
 truck1.be,truck1.nl,truck1-nl.be##.top-banner-container:upward(1)
