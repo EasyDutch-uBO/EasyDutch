@@ -1,40 +1,17 @@
 This branch is to be used as reference content for the published [EasyDutch's filter list](https://github.com/EasyDutch-uBO/EasyDutch/tree/main/EasyDutch).
 
-### Note on Data usage
+### Notes on `contentURL` and `cdnURLS`
+Our [`contentURL`](https://github.com/gorhill/uBlock/blob/2f0132c414f5b7aedb15c89964745e586ff18e04/assets/assets.json#L735) is updated after every commit, the last [`cdnURL`](https://github.com/gorhill/uBlock/blob/2f0132c414f5b7aedb15c89964745e586ff18e04/assets/assets.json#L739) is updated every two hours, the other [`cdnURLs`](https://github.com/gorhill/uBlock/blob/2f0132c414f5b7aedb15c89964745e586ff18e04/assets/assets.json#L737-L738) are updated less.
+
+Good to know, uBO uses one of those four links. If there is a fix you need immediately, I can update mannualy two of the three CDN's:  the second [`jsDelivr cdnURL`](https://github.com/gorhill/uBlock/blob/2f0132c414f5b7aedb15c89964745e586ff18e04/assets/assets.json#L738) by going to https://www.jsdelivr.com/tools/purge and the last [`cdnURL, which is our own EasyDutchCDN`](https://github.com/gorhill/uBlock/blob/2f0132c414f5b7aedb15c89964745e586ff18e04/assets/assets.json#L739).
+
+#### uBO Dev Build 
+The dev build of uBO use the following `cdnURLs`: [`easydutchcdn.pages.dev`](https://github.com/gorhill/uBlock/blob/c5fa273723e86e1cae81b016bd65b3fbbc3a85e9/assets/assets.dev.json#L757), [`jsdelivr.net`](https://github.com/gorhill/uBlock/blob/c5fa273723e86e1cae81b016bd65b3fbbc3a85e9/assets/assets.dev.json#L758), [`statically.io`](https://github.com/gorhill/uBlock/blob/c5fa273723e86e1cae81b016bd65b3fbbc3a85e9/assets/assets.dev.json#L759), which are all minified. The [`contentURL`](https://github.com/gorhill/uBlock/blob/c5fa273723e86e1cae81b016bd65b3fbbc3a85e9/assets/assets.dev.json#L755) is still the same.
+
+### Data usage
 [![](https://data.jsdelivr.com/v1/package/gh/EasyDutch-uBO/EasyDutch/badge)](https://www.jsdelivr.com/package/gh/EasyDutch-uBO/EasyDutch?tab=stats) [![](https://data.jsdelivr.com/v1/package/gh/EasyDutch-uBO/EasyDutchCDN/badge?style=rounded)](https://www.jsdelivr.com/package/gh/EasyDutch-uBO/EasyDutchCDN?tab=stats) <br>
 The first are the jsDelivr stats from `EasyDutch.txt`: [EasyDutch](https://www.jsdelivr.com/package/gh/EasyDutch-uBO/EasyDutch?tab=stats) <br>
 The second are the jsDelivr stats from `EasyDutch.all.txt`: [EasyDutchCDN](https://www.jsdelivr.com/package/gh/EasyDutch-uBO/EasyDutchCDN?tab=stats) <br>
-
-Due to the following [commit](https://github.com/gorhill/uBlock/commit/d05ff8ffeb) <br>
-<details><summary>Add support for diff-patching filter lists </summary>
-
-> Related discussion: <br>
-https://github.com/ameshkov/diffupdates <br>
->
-> The benefits of diff-patching filter lists is much shorter update <br>
-schedule and significantly less bandwidth consumed. <br>
->
-> At the moment, only default filter lists are subject to be <br>
-diff-patched. <br>
->
-> External filter lists can make their lists diff-patchable by <br>
-following the specification link above. <br>
->
-> Only filter lists fetched by the auto-updater are candidate for <br>
-diff-patching. <br>
->
-> Forcing a manual update of the filter lists will prevent the <br>
-diff-patcher from kicking in until one or more lists are <br>
-auto-updated. <br>
-</details>
-
- I recommand the following order of usage, whereby '0' is the `contentURL` and '1-3' are `cdnURLs`:
- 
-0. https://easydutch-ubo.github.io/EasyDutch/EasyDutch.txt <br>
-1. https://easydutchcdn.pages.dev/EasyDutch.all.txt <br>
-2. https://cdn.jsdelivr.net/gh/EasyDutch-uBO/EasyDutchCDN@main/EasyDutch.all.txt <br>
-3. https://cdn.statically.io/gh/EasyDutch-uBO/EasyDutchCDN/main/EasyDutch.all.txt <br>
-
 So the normal list in website as default and the `.all.txt` lists as primairy CDN's, where it is preferred to use `pages.dev` and `github.io` over `cdn.jsdelivr.net`, `cdn.statically.io` and `raw.githubusercontent.com`.
 
 ------
