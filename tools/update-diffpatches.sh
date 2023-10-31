@@ -37,7 +37,7 @@ for PATCH_FILE in "${PATCH_FILES[@]}"; do
 
     > "$NEW_PATCH_FILE"
 
-    FILTER_LISTS=( $(ls -1 filters/*.min.txt) $(ls -1 thirdparties/*) )
+    FILTER_LISTS=( $(ls -1 EasyDutch/*.txt) $(ls -1 EasyDutch.all.txt) )
     for FILTER_LIST in "${FILTER_LISTS[@]}"; do
 
         if [ ! -f $OLD_REPO/$FILTER_LIST ]; then continue; fi
