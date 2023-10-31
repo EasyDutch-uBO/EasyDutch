@@ -1,5 +1,5 @@
 ! Title: EasyDutch
-! Last updated: Tue, 31 Oct 2023 18:04:56 +0000
+! Last updated: Tue, 31 Oct 2023 18:39:55 +0000
 ! Expires: 7 days (update frequency)
 ! Diff-Path: %diffpath%
 ! Diff-Name: easydutch
@@ -160,7 +160,7 @@ _advertentieleaderboardhome.
 ||alphens.nl/upload/*/*banner$image
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=natives,advertorials$xhr,urltransform=/api/advertise-deliver/deliver?adtypes=natives
-||hockey.be/wp-content/uploads/Banners/$images
+||hockey.be/wp-content/uploads/Banners/$image
 ||startlinken.nl/oud/images/banner-$image,1p
 ||startlinken.nl/oud/javascript/BannerRotation*$script,1p
 ||uitslagen.nl/banner/img$image
