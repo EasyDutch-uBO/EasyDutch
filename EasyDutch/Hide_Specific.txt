@@ -15,6 +15,11 @@ tostrams.nl##[id*="banner"]
 truck1.be,truck1.nl,truck1-nl.be##.top-banner-container:upward(1)
 truck1.be,truck1.nl,truck1-nl.be##div.banners-container
 truck1.be,truck1.nl,truck1-nl.be###aside-banners
+wielerflits.be,wielerflits.nl###mm_hpa
+wielerflits.be,wielerflits.nl##.advertisement
+wielerflits.nl##.widget-container:has(.h3:has-text(Wielerdeals))
+wielerflits.nl##li.list-item.list-item-aside:has(.badge:has-text(Ad))
+wielerflits.nl##li.list-item.list-item-default:has(span:has-text(Ad))
 zeilwereld.nl##.adv-link:upward([id^="zeilw"])
 zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
 ! 2024-10-30
@@ -63,8 +68,6 @@ citaten.net##.googleinpage
 nieuwsblad.be##.ad--cba[data-ad="cba"]:upward(.widget):has-text(partners)
 ! 2023-10-10
 webwoordenboek.nl##.layout__main-ads
-wielerflits.be,wielerflits.nl###mm_hpa
-wielerflits.be,wielerflits.nl##.advertisement
 wegdamnieuws.nl##.fixed-ad
 ! 2023-09-23
 gewoonvoorhem.nl##[id^="below-article-rectangle"]
