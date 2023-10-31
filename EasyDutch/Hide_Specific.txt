@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 31 Oct 2023 13:35:27 +0000
+! Last updated: Tue, 31 Oct 2023 16:11:08 +0000
 !
 ! 2023-10-31
 beurs.nl##.addslot
@@ -12,6 +12,9 @@ ditjesendatjes.nl##aside h2:has-text(DenD Promoties) + [class]
 ditjesendatjes.nl##h2:has-text(DenD Partners):upward(section)
 tostrams.nl##[class*="banner"]
 tostrams.nl##[id*="banner"]
+truck1.be,truck1.nl,truck1-nl.be##.top-banner-container:upward(1)
+truck1.be,truck1.nl,truck1-nl.be##div.banners-container
+truck1.be,truck1.nl,truck1-nl.be###aside-banners
 zeilwereld.nl##.adv-link:upward([id^="zeilw"])
 zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
 ! 2024-10-30
@@ -93,7 +96,7 @@ telefoonboek.nl###tbresult-top
 telefoonboek.nl##[class^="detail-leaderbord"]:has(.adsbygoogle)
 topgear.nl##div:has( > div[style]:has-text(/advert/i):has(div[id]))
 touretappe.nl###right .desktopad[id*="TOURETAPPE_300"]:upward(1)
-trucks.nl##.highlighted-advertisers:upward(.row)
+s.nl##.highlighted-advertisers:upward(.row)
 tvgids24.nl###shortads
 ucl-voetbal.nl,uecl-voetbal.nl,uel-voetbal.nl##.uitgelichtbox
 villamedia.nl##.header-intro
@@ -248,8 +251,6 @@ tameteo.nl###bannerDerPC
 tameteo.nl##.megabanner
 nuus.be##.adv-link:upward(.sidebar)
 nuus.be###masthead:style(height:90px!important;)
-truck1.be,truck1.nl,truck1-nl.be##.banners
-truck1.be,truck1.nl,truck1-nl.be##.splitter-banner
 bierdopje.com##.content-rechts-ad
 ! 2023-04-25
 ecommercenews.nl##.ldrtop
