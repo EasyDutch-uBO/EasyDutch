@@ -1,4 +1,25 @@
-// jshint node:true, esversion:8
+/*******************************************************************************
+
+    uBlock Origin - a browser extension to block requests.
+    Copyright (C) 2022-present Raymond Hill
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see {http://www.gnu.org/licenses/}.
+
+    Home: https://github.com/gorhill/uBlock
+*/
+
+// jshint node:true, esversion:9
 
 'use strict';
 
@@ -33,26 +54,32 @@ const commandLineArgs = (( ) => {
 
 /******************************************************************************/
 
-function expandIncludes(dirname, parts) {
+function expandTemplate(wd, parts) {
     const out = [];
     const reInclude = /^%include +(.+):(.+)%\s+/gm;
+    const trim = text => trimSublist(text);
     for ( const part of parts ) {
+        if ( typeof part !== 'string' ) {
+            out.push(part);
+            continue;
+        }
         let lastIndex = 0;
         for (;;) {
             const match = reInclude.exec(part);
             if ( match === null ) { break; }
+            out.push(part.slice(lastIndex, match.index).trim());
             const repo = match[1].trim();
-            const fpath = match[2].trim();
-            const basename = path.basename(fpath);
-            expandedParts.add(basename);
-            console.info(`  Inserting ${basename}`);
-            out.push(
-                part.slice(lastIndex, match.index).trim(),
-                '',
-                `! *** ${repo}:${fpath} ***`,
-                fs.readFile(`${dirname}/${fpath}`, { encoding: 'utf8' })
-                    .then(text => text.trim()),
-            );
+            const fpath = `${match[2].trim()}`;
+            if ( expandedParts.has(fpath) === false ) {
+                console.info(`  Inserting ${fpath}`);
+                out.push(
+                    out.push({ file: `${fpath}` }),
+                    `! *** ${repo}:${fpath} ***`,
+                    fs.readFile(`${wd}/${fpath}`, { encoding: 'utf8' })
+                        .then(text => trim(text)),
+                );
+                expandedParts.add(fpath);
+            }
             lastIndex = reInclude.lastIndex;
         }
         out.push(part.slice(lastIndex).trim());
@@ -62,29 +89,74 @@ function expandIncludes(dirname, parts) {
 
 /******************************************************************************/
 
-function removeIncludeDirectives(text) {
-    const excludedParts = Array.from(expandedParts)
-        .map(s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
-        .join('|');
-    const re = new RegExp(`^!#include +(${excludedParts}).*$`, 'm');
+function expandIncludeDirectives(wd, parts) {
     const out = [];
-    for (;;) {
-        const match = re.exec(text);
-        if ( match === null ) { break; }
-        console.info(`  Removing "!#include ${match[1]}"`);
-        out.push(text.slice(0, match.index).trim());
-        text = text.slice(match.index + match[0].length).trim();
+    const reInclude = /^!#include (.+)\s*/gm;
+    const trim = text => trimSublist(text);
+    let parentPath = '';
+    for ( const part of parts ) {
+        if ( typeof part !== 'string' ) {
+            if ( typeof part === 'object' && part.file !== undefined ) {
+                parentPath = part.file;
+            }
+            out.push(part);
+            continue;
+        }
+        let lastIndex = 0;
+        for (;;) {
+            const match = reInclude.exec(part);
+            if ( match === null ) { break; }
+            out.push(part.slice(lastIndex, match.index).trim());
+            const fpath = `${path.dirname(parentPath)}/${match[1].trim()}`;
+            if ( expandedParts.has(fpath) === false ) {
+                console.info(`  Inserting ${fpath}`);
+                out.push(
+                    { file: fpath },
+                    `! *** ${fpath} ***`,
+                    fs.readFile(`${wd}/${fpath}`, { encoding: 'utf8' })
+                        .then(text => trim(text)),
+                );
+                expandedParts.add(fpath);
+            }
+            lastIndex = reInclude.lastIndex;
+        }
+        out.push(part.slice(lastIndex).trim());
     }
-    out.push(text.trim(), '\n');
-    return out.join('\n');
+    return out;
+}
+
+/******************************************************************************/
+
+function trimSublist(text) {
+    // Remove empty comment lines
+    text = text.replace(/^!\s*$(?:\r\n|\n)/gm, '');
+    // Remove sublist header information: the importing list will provide its
+    // own header.
+    text = text.trim().replace(/^(?:!\s+[^\r\n]+?(?:\r\n|\n))+/s, '');
+    return text;
 }
 
 /******************************************************************************/
 
 function minify(text) {
+    // remove issue-related comments
+    text = text.replace(/^! https:\/\/.*?[\n\r]+/gm, '');
     // remove empty lines
     text = text.replace(/^[\n\r]+/gm, '');
+    // convert potentially present Windows-style newlines
+    text = text.replace(/\r\n/g, '\n');
     return text;
+}
+
+/******************************************************************************/
+
+function assemble(parts) {
+    const out = [];
+    for ( const part of parts ) {
+        if ( typeof part !== 'string' ) { continue; }
+        out.push(part);
+    }
+    return out.join('\n').trim() + '\n';
 }
 
 /******************************************************************************/
@@ -107,11 +179,15 @@ async function main() {
     let parts = [ inText ];
     do {
         parts = await Promise.all(parts);
-        parts = expandIncludes(workingDir, parts);
-    } while ( parts.some(v => typeof v !== 'string'));
+        parts = expandTemplate(workingDir, parts);
+    } while ( parts.some(v => v instanceof Promise) );
 
-    let afterText = parts.join('\n') + '\n';
-    afterText = removeIncludeDirectives(afterText);
+    do {
+        parts = await Promise.all(parts);
+        parts = expandIncludeDirectives(workingDir, parts);
+    } while ( parts.some(v => v instanceof Promise));
+
+    let afterText = assemble(parts);
 
     if ( commandLineArgs.get('minify') !== undefined ) {
         afterText = minify(afterText);
