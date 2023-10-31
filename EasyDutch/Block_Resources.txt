@@ -480,7 +480,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
-||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-$image
 
 ! NSFW Sites
 *$3p,image,domain=kinkymedia.nl
