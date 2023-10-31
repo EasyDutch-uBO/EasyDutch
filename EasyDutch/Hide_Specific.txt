@@ -10,6 +10,8 @@ cvandaag.nl##div.sponsored:has-text(Gerelateerd)
 ditjesendatjes.nl##aside h2:has-text(DenD Promoties),
 ditjesendatjes.nl##aside h2:has-text(DenD Promoties) + [class]
 ditjesendatjes.nl##h2:has-text(DenD Partners):upward(section)
+footballtransfers.com##div[id*="leaderboard-billboard"]
+footballtransfers.com##[id*="rectangle-halfpage"]:upward(1)
 hockey.nl##[class^="advertisement"]:upward(li.card)
 tostrams.nl##[class*="banner"]
 tostrams.nl##[id*="banner"]
@@ -398,8 +400,6 @@ ensie.nl##.top-banner:style(min-height: 0px !important)
 ! 2022-10-14
 vastgoedjournaal.nl##[href]:has([src*="media.prdn.nl"])
 vastgoedjournaal.nl##aside:has([class]:has-text(/advert/i)):has([href]:has([src*="media.prdn.nl"]))
-! 2022-10-13
-footballtransfers.com##div[id*="leaderboard-billboard"]
 ! 2022-10-12 https://github.com/uBlockOrigin/uAssets/issues/11038
 vtm.be##+js(rc, pui__root--no-seekbar, .pui__root--no-seekbar, stay)
 vtm.be##.pe__container__ads
