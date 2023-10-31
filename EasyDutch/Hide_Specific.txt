@@ -4,6 +4,8 @@
 !
 ! 2024-10-30
 gpfans.com##.taboonews
+iexprofs.nl##.tagwrapper:upward(.row__item)
+iexprofs.nl##[class*="banner"]:not(.banner)
 wijwedden.net##.bookies.stream-preview
 wijwedden.net##.top-bookmaker-widget
 ! 2024-10-24
@@ -415,9 +417,6 @@ lekkercryptisch.nl##.p-footer__randomPartner
 iex.nl##.strossle-widget
 iex.nl##.publisher-sh-spot
 iex.nl##.rectanglemid
-iexprofs.nl##.banner__side
-iexprofs.nl##.banner__wrap
-iexprofs.nl##.tagwrapper:upward(.row__item)
 ! 2022-07-13
 uw-folder.nl##.banner
 webcam-binnenvaart.nl##.d-md-block.d-none:has-text(Met dank aan)
