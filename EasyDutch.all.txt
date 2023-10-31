@@ -1,5 +1,10 @@
 [uBlock Origin]
 ! Title: EasyDutch
+! Last updated: Tue, 31 Oct 2023 10:43:17 +0000
+! Expires: 3 days (update frequency)
+! Diff-Path: %diffpath%
+! Diff-Name: easydutch
+! Diff-Expires: 6 hours
 ! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
@@ -7,11 +12,6 @@
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
 ! Mailto: easydutch.adblock@gmail.com
-! Last updated: Tue, 31 Oct 2023 09:28:05 +0000
-! Expires: 3 days (update frequency)
-! Diff-Path: %diffpath%
-! Diff-Name: easydutch
-! Diff-Expires: 6 hours
 !
 ! *** EasyDutch:EasyDutch/Block_General.txt ***
 /reclame/*.gif$image,3p
