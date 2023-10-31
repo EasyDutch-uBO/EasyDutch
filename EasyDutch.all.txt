@@ -4,19 +4,16 @@
     Dutch supplement for the Easylist filters to use with uBlock Origin
     Only for ads or anti-adblock on Dutch sites!
     Does also support Afrikaans, since it is a sort of Dutch
-! Last updated: Mon, 30 Oct 2023 20:51:46 +0000
-! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
 ! Mailto: easydutch.adblock@gmail.com
+! Last updated: Tue, 31 Oct 2023 05:18:26 +0000
+! Expires: 3 days (update frequency)
+! Diff-Path: %diffpath%
+! Diff-Name: easydutch
+! Diff-Expires: 6 hours
 !
-
 ! *** EasyDutch:EasyDutch/Block_General.txt ***
-! Title: Block General
-! Description: Filters to block general URLs on Dutch websites
-! Last updated: %timestamp%
-!
-! 2023-10-16
 /reclame/*.gif$image,3p
 ! 2023-04-28
 /aff_ad?$frame
@@ -63,14 +60,7 @@
 _advertentie300x250_
 _advertentieleaderboardhome.
 
-
 ! *** EasyDutch:EasyDutch/Block_first_party_Server.txt ***
-! Title: Block First-Party Server
-! Description: Filters for blocking first-party servers on Dutch websites
-! Last updated: %timestamp%
-!
-! 2023-01-16 https://github.com/EasyDutch-uBO/EasyDutch/issues/34
-! 2022-06-02 https://github.com/EasyDutch-uBO/EasyDutch/issues/22
 ||aa.tweakers.nl^
 ||ab.tweakers.nl^
 ! 2022-10-12
@@ -95,14 +85,7 @@ _advertentieleaderboardhome.
 ! 2021-04-27
 ||mooieplaatjes.bierdopje.com^
 
-
 ! *** EasyDutch:EasyDutch/Block_third_party_Server.txt ***
-! Title: Block Third-Party Server
-! Description: Filters for blocking only general third-party servers on Dutch websites
-! Last updated: %timestamp%
-!
-! 2023-10-17
-! bitcoinmagazine.nl, cryptobenelux.com
 ||cryptosplash.care^$3p
 ||cryptobeneluxbanner.care^$3p
 ! 2023-10-13
@@ -225,13 +208,7 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 
-
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
-! Title: Block Resources
-! Description: Filters to block specific URLs on Dutch websites
-! Last updated: %timestamp%
-!
-! 2023-10-23
 ||b-cdn.net/w_/*-banner-$image,domain=dtvnieuws.nl|omroephorstaandemaas.nl|omroepvenlo.nl|roulettefm.nl|rtvstichtsevecht.nl|wos.nl
 ||ecdn.menselijklichaam.nl/banners/$image
 /production/uploads/partners/*$image,domain=dutchitchannel.nl
@@ -750,13 +727,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xmissy.nl/skins/_customplayers/*/*top$image
 ||xmissy.nl/skins/_customplayers/*footer.jpg$image
 
-
 ! *** EasyDutch:EasyDutch/Block_Whitelist.txt ***
-! Title: Block Whitelist
-! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: %timestamp%
-!
-! 2023-10-26
 @@||ads.nextday.media/prebid/jw-video/7.43.0.min.js$script,domain=bright.nl
 ! 2023-10-23
 @@||vandale.*/*/images/*_300x250.$image,1p
@@ -819,14 +790,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
 
-
 ! *** EasyDutch:EasyDutch/Hide_General.txt ***
-! Title: Hide General
-! Description: Filters for hiding general elements on Dutch websites
-! Last updated: %timestamp%
-!
-! 2022-10-04
-! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl,hln.be
 ##.ankeiler--advertisement
 ##.article__component--temptation-article-inline
 ##.article__component--outstream-advertisement
@@ -851,13 +815,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,extreemneuken.com,hdtienersexfilms.nl,partytieners.nl,pornomilf.nl,poepsexfilmstube.nl,sexmetdikkewijven.nl,strandmokkels.nl,studentesneuken.nl,teen-sex.nl
 ###tracking-url
 
-
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
-! Title: Hide Specific
-! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: %timestamp%
-!
-! 2024-10-30
 gpfans.com##.taboonews
 wijwedden.net##.bookies.stream-preview
 wijwedden.net##.top-bookmaker-widget
@@ -2207,13 +2165,7 @@ vagina.nl##[id$="fish-hooks"]
 vagina.nl##div[id^=video-fish-hook]
 xmissy.nl##.rightbar > :has([src^="https://ads."])
 
-
 ! *** EasyDutch:EasyDutch/Hide_Whitelist.txt ***
-! Title: Hide Whitelist
-! Description: Whitelist for hidden elements on Dutch websites
-! Last updated: %timestamp%
-!
-! 2023-10-13
 gratisaftehalen.nl#@#.ads-image
 ! 2023-05-04
 rotterdam-nesselande.nl#@#ins.adsbygoogle
@@ -2258,13 +2210,7 @@ marktplaats.nl#@#.adSummary
 klusidee.nl#@#.header-ad
 !#endif
 
-
 ! *** EasyDutch:EasyDutch/Anti-Adblock.txt ***
-! Title: Anti-Adblock
-! Description: Filters for anti-adblock on Dutch websites
-! Last updated: %timestamp%
-!
-! 2023-10-17
 moppen.nl#@#ins.adsbygoogle
 ! 2023-10-13
 dumpert.nl##+js(nostif, AdBlockerCheck)
@@ -2380,4 +2326,3 @@ nu.nl##+js(set, isAdBlockEnabled, false)
 ! 2021-04-27
 directwonen.nl#@#.adsbox
 girlscene.nl##+js(set, adblock, 0)
-
