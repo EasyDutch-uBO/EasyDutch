@@ -7,7 +7,7 @@
 ! Homepage: https://github.com/EasyDutch-uBO/EasyDutch
 ! GitHub issues: https://github.com/EasyDutch-uBO/EasyDutch/issues
 ! Mailto: easydutch.adblock@gmail.com
-! Last updated: Tue, 31 Oct 2023 08:12:31 +0000
+! Last updated: Tue, 31 Oct 2023 08:28:25 +0000
 ! Expires: 3 days (update frequency)
 ! Diff-Path: %diffpath%
 ! Diff-Name: easydutch
@@ -572,7 +572,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
 
-! NSFW Sites
 *$3p,image,domain=kinkymedia.nl
 /images/*.gif$image,domain=123video.nl|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
@@ -1817,7 +1816,6 @@ leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
 
-! NSFW Site
 123video.nl##.page-load-switch
 camjam.nl##.banner
 gaynews.nl##[class^="va"]:has([class*="banner"])
@@ -1875,9 +1873,7 @@ rotterdam-nesselande.nl#@#ins.adsbygoogle
 noordkopcentraal.nl#@#.category-advertorial
 gratis.nl#@#a[href^="https://ndt5.net/"]
 wereldklokken.nl#@#ins.adsbygoogle
-! Uitzonderingen voor AdGuard
 embed.kijk.nl#@#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links:style(display: block !important;)
-! Uitzonderingen voor EasyList
 radiozuidrand.be#@#.advertisement_300x250
 radiozuidrand.be#@#.advertisement_728x90
 radiozuidrand.be#@#.advertisement-content
@@ -1915,7 +1911,6 @@ looopings.nl##+js(remove-node-text, script, if(!document.getElementById)
 fok.nl##+js(aeld, , DAB)
 fok.nl###wa_web_headertofloor
 *$image,redirect-rule=2x2.png,domain=tweakers.net
-! @@||tweakers.nl^$xhr,domain=tweakers.net
 tweakers.net##+js(no-fetch-if, /a[ab]\.tweakers\.nl/)
 tweakers.net##+js(aeld, /[\w]{16}/, /^e=>.*/)
 @@||tweakers.net^$ghide
