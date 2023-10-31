@@ -13,6 +13,7 @@ ditjesendatjes.nl##h2:has-text(DenD Partners):upward(section)
 footballtransfers.com##div[id*="leaderboard-billboard"]
 footballtransfers.com##[id*="rectangle-halfpage"]:upward(1)
 hockey.nl##[class^="advertisement"]:upward(li.card)
+racesport.nl##a[class*="image-wrapper"] img[src*="racesport.nl/wp-content/uploads/"][src*="1120x250"]:upward(.tdc-row)
 tostrams.nl##[class*="banner"]
 tostrams.nl##[id*="banner"]
 truck1.be,truck1.nl,truck1-nl.be##.top-banner-container:upward(1)
