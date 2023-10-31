@@ -7,6 +7,9 @@ beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
 cvandaag.nl##a[href^="https://cvandaag.nl/api/advertise-deliver/click/"]:upward(app-article-presentation)
 cvandaag.nl##div.sponsored:has-text(Gerelateerd)
+ditjesendatjes.nl##aside h2:has-text(DenD Promoties),
+ditjesendatjes.nl##aside h2:has-text(DenD Promoties) + [class]
+ditjesendatjes.nl##h2:has-text(DenD Partners):upward(section)
 tostrams.nl##[class*="banner"]
 tostrams.nl##[id*="banner"]
 zeilwereld.nl##.adv-link:upward([id^="zeilw"])
@@ -212,8 +215,6 @@ wegdamnieuws.nl##.ads-stack
 ! 2023-05-01
 belgiancycling.be##.logo-slider
 cryptosjop.nl##iframe[src^="https://bitvavo.com/assets/static/widget/trade.html"]:upward(.td_block_wrap)
-ditjesendatjes.nl##h2:has-text(DenD Promoties):upward(aside)
-ditjesendatjes.nl##h2:has-text(DenD Partners):upward(section)
 luchtvaartnieuws.nl##[id^="luchtvaartnieuws.nl_mob_mobilerectangle"]:upward(div[style])
 luchtvaartnieuws.nl##.content > [id^="luchtvaartnieuws.nl_web_"]:upward(.block)
 poki.be##.sc-tbf0fc-2:has-text(/Advert/i):upward(div[class])
