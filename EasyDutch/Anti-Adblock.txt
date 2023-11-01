@@ -84,7 +84,6 @@ routenet.nl,trafficnet.nl##+js(set, canRunAds, true)
 citaten.net#@##bottom-ad
 ! 2022-07-02
 notebookcheck.nl##+js(acis, document.getElementById, AAdsspaCe)
-@@||cmp.quantcast.com/choice/*/*vi.nl/choice.js$script,domain=vi.nl
 ! 2022-05-28 racingnews365.nl
 @@||fwmrm.net/ad/*$xhr,domain=embed.viaplay.com|racingnews365.nl
 @@||fwmrm.net/crossdomain.xml$xhr,domain=embed.viaplay.com|racingnews365.nl
