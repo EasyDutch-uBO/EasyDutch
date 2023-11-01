@@ -33,7 +33,7 @@ for PATCH_FILE in "${PATCH_FILES[@]}"; do
     # This will receive a clone of an old version of the current repo
     echo "Fetching repo at $PREVIOUS_VERSION version"
     OLD_REPO=$(mktemp -d)
-    git clone -q --single-branch --branch $PREVIOUS_VERSION --depth=1 https://github.com/EasyDutch-uBO/EasyDutchCDN.git "$OLD_REPO" 2>/dev/null
+    git clone -q --single-branch --branch=gh-pages $PREVIOUS_VERSION --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git "$OLD_REPO" 2>/dev/null
 
     > "$NEW_PATCH_FILE"
 
