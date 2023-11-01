@@ -2,6 +2,12 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-11-01
+ninefornews.nl##.gofollow
+ninefornews.nl##.mag-box.half-box
+ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
+ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3:has-text(Interessant))
+ninefornews.nl##div[class^="mag-box"] + #adskeeper
 ! 2023-10-31
 beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
@@ -657,7 +663,6 @@ infinance.nl##.widget:has-text(links)
 omrekenen.org##.widget:has-text(/Gesponsoord/i)
 omrekenen.org##a[href^="https://www.onlinebingokaart.nl/"]
 ! 2022-05-17
-ninefornews.nl##.mag-box.half-box
 vandaaginside.nl##div[class*="-bannerWrapper-"]
 ! 2022-05-16
 techradar.com###taboola-below-article-thumbnails
@@ -712,8 +717,6 @@ anoniem-surfen.nl##.header-widget-region
 ! 2022-04-21
 dagelijksestandaard.nl###TOP_ARTICLE
 dagelijksestandaard.nl##nav + div[style^="height:52px"]
-! 2022-04-20
-ninefornews.nl##.mag-box:has(.gofollow)
 ! 2022-04-19
 skoften.net##.promoted-entry-in-content
 ! 2022-04-15
@@ -778,12 +781,6 @@ nieuwsuitdelden.nl##.gesponsord_blokje
 ! 2022-03-09
 gezondheidsnet.nl##.banner
 lonelyplanet.nl##div[id*="adf-billboard"]
-! 2022-03-08
-ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
-ninefornews.nl##.mag-box:has(img[width="728"][height="90"])
-ninefornews.nl##.gofollow
-ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
-ninefornews.nl##div[class^="mag-box"] + #adskeeper
 ! 2022-03-04
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .list
 nu.nl##.temptation__aside
