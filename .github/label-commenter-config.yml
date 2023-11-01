@@ -16,11 +16,11 @@ labels:
   - name: unable to reproduce 
     labeled:
       issue:
-        body: I can\u0027t reproduce your {{ eventName }}. Please give more information (e.g. uBO logger output or screenshots)
+        body: I can't reproduce your {{ eventName }}. Please give more information (e.g. uBO logger output or screenshots)
   - name: in progress
     labeled:
       issue:
-        body: &progress_labeled_body It takes longer than expected to solve this issue. I\u0027m working on it. Please be patience
+        body: &progress_labeled_body It takes longer than expected to solve this issue. I'm working on it. Please be patience
       pr: 
         body: *progress_labeled_body
   - name: spam
