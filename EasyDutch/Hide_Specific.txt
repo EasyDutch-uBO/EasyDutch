@@ -11,6 +11,8 @@ ninefornews.nl##div[class^="mag-box"] + #adskeeper
 nuus.be##.adv-link:upward(.sidebar)
 nuus.be###masthead:style(height:90px!important;)
 nzbindex.nl##form + div a[href^="/"]:has(img)
+voetbalprimeur.nl##[class^="Ad_"]
+voetbalprimeur.nl##.ad
 ! 2023-10-31
 beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
@@ -370,7 +372,6 @@ soccernews.nl##.bcb-atts:upward(1)
 soccernews.nl##.bcb-sport-block-data
 npo3fm.nl,nporadio4.nl##ul > li:has(script[src*="ster"]):has-text(/advert/i)
 ! 2022-12-10
-voetbalprimeur.nl##[href^="https://ads.jacks.nl/redirect.aspx"]
 vi.nl##.c-tag:has-text(/advert/i):upward(.c-articles-list__link)
 ! 2022-12-09
 wijkkrantzuid.nl##.widget_media_image:not(:has(a[href^="https://wijkkrantzuid.nl"]))
@@ -654,7 +655,6 @@ gpfans.com##a[href^="https://casinoscout.nl/"]
 musicmeter.nl##.external
 twentefans.nl##.bn__wrapper
 twentefans.nl##.footer__partners
-voetbalprimeur.nl##.ad
 ! 2022-05-23
 ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 ewmagazine.nl##.section-partners
