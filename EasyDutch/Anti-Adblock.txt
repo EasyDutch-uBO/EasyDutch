@@ -108,7 +108,7 @@ doorbraak.be,gowiththevlo.nl##+js(aopw, advanced_ads_check_adblocker)
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-billboard
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-skyscraper
 marokko.nl##+js(set, ads_toegestaan, true)
-@@*$ghide,domain=modekoninginmaxima.nl|quickclaims.nl
+@@*$ghide,domain=modekoninginmaxima.nl
 ! 2021-05-04
 112midden-zeeland.nl##+js(aopr, anOptions)
 ! 2021-04-28
