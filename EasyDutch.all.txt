@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Wed, 01 Nov 2023 06:57:56 +0000
+! Last updated: Wed, 01 Nov 2023 08:04:43 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.11.1.417.patch
+! Diff-Path: patches/2023.11.1.484.patch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -151,6 +151,8 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
+||feyenoordpings.nl/*/js-betting.$script,1p
+||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p
 ||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_Cover$image
 ||admin.ditjesendatjes.nl/wp-content/uploads/*-footer-DenD.png$image
 ||admin.ditjesendatjes.nl/wp-content/uploads/dirk$image
@@ -288,7 +290,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||itnijs.frl/wp-content/uploads/*/adfertinsje
 ||handbalstartpunt.nl/*/banner$image
 ||racingnews365.nl/images/logos/odds/unibet/
-||pen.nl/wp-content/uploads/*/fitcity360x96.png
 ||beveiligingnieuws.nl/banners/$image
 ||beveiligingnieuws.nl/wp-content/uploads/*/*.gif$image
 ||beveiligingnieuws.nl/wp-content/uploads/*webbanner$image
@@ -658,6 +659,11 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.video-block-happy
 ###tracking-url
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+ninefornews.nl##.gofollow
+ninefornews.nl##.mag-box.half-box
+ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
+ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3:has-text(Interessant))
+ninefornews.nl##div[class^="mag-box"] + #adskeeper
 beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
 cvandaag.nl##a[href^="https://cvandaag.nl/api/advertise-deliver/click/"]:upward(app-article-presentation)
@@ -1202,7 +1208,6 @@ infinance.nl##.slickcarousel
 infinance.nl##.widget:has-text(links)
 omrekenen.org##.widget:has-text(/Gesponsoord/i)
 omrekenen.org##a[href^="https://www.onlinebingokaart.nl/"]
-ninefornews.nl##.mag-box.half-box
 vandaaginside.nl##div[class*="-bannerWrapper-"]
 techradar.com###taboola-below-article-thumbnails
 techradar.com##.dfp-leaderboard-container
@@ -1246,7 +1251,6 @@ anoniem-surfen.nl##.footer-widget-1
 anoniem-surfen.nl##.header-widget-region
 dagelijksestandaard.nl###TOP_ARTICLE
 dagelijksestandaard.nl##nav + div[style^="height:52px"]
-ninefornews.nl##.mag-box:has(.gofollow)
 skoften.net##.promoted-entry-in-content
 kieskeurig.nl##div[id*="gpt-ad"]
 finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
@@ -1298,11 +1302,6 @@ wegdamnieuws.nl##.ads
 nieuwsuitdelden.nl##.gesponsord_blokje
 gezondheidsnet.nl##.banner
 lonelyplanet.nl##div[id*="adf-billboard"]
-ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
-ninefornews.nl##.mag-box:has(img[width="728"][height="90"])
-ninefornews.nl##.gofollow
-ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
-ninefornews.nl##div[class^="mag-box"] + #adskeeper
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .list
 nu.nl##.temptation__aside
 funda.nl##.home-billboard
@@ -1607,7 +1606,6 @@ showbizzsite.be##.nieuws-detail-page-bottom-part > :has(.konvento)
 dekattensite.nl##.nxs-default-p > p:has-text(advert)
 inmemoriam.be##.o-news__add
 cabla.nl##.ontwerp_ads
-quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
 classicstogo.nl##.owl-carousel
 jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
 ajax.nl##.page-footer__partners-block
@@ -1949,7 +1947,7 @@ doorbraak.be,gowiththevlo.nl##+js(aopw, advanced_ads_check_adblocker)
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-billboard
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-skyscraper
 marokko.nl##+js(set, ads_toegestaan, true)
-@@*$ghide,domain=modekoninginmaxima.nl|quickclaims.nl
+@@*$ghide,domain=modekoninginmaxima.nl
 112midden-zeeland.nl##+js(aopr, anOptions)
 nu.nl##+js(set, isAdBlockEnabled, false)
 directwonen.nl#@#.adsbox

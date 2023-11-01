@@ -1,0 +1,24 @@
+diff name:easydutch lines:23 checksum:81262b6510
+d2 1
+a2 1
+! Last updated: Wed, 01 Nov 2023 08:04:43 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.11.1.484.patch
+a153 2
+||feyenoordpings.nl/*/js-betting.$script,1p
+||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p
+d291 1
+a660 5
+ninefornews.nl##.gofollow
+ninefornews.nl##.mag-box.half-box
+ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
+ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3:has-text(Interessant))
+ninefornews.nl##div[class^="mag-box"] + #adskeeper
+d1205 1
+d1249 1
+d1301 5
+d1610 1
+d1952 1
+a1952 1
+@@*$ghide,domain=modekoninginmaxima.nl

@@ -1,7 +1,10 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 31 Oct 2023 18:39:55 +0000
+! Last updated: Wed, 01 Nov 2023 08:04:43 +0000
 !
+! 2023-11-01
+||feyenoordpings.nl/*/js-betting.$script,1p
+||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p
 ! 2023-10-31
 ||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_Cover$image
 ||admin.ditjesendatjes.nl/wp-content/uploads/*-footer-DenD.png$image
@@ -172,7 +175,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! 2022-07-01
 ||handbalstartpunt.nl/*/banner$image
 ||racingnews365.nl/images/logos/odds/unibet/
-||pen.nl/wp-content/uploads/*/fitcity360x96.png
 ||beveiligingnieuws.nl/banners/$image
 ||beveiligingnieuws.nl/wp-content/uploads/*/*.gif$image
 ||beveiligingnieuws.nl/wp-content/uploads/*webbanner$image
