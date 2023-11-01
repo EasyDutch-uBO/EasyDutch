@@ -1,0 +1,13 @@
+excludeLabels:
+  - pinned
+custom:
+  - location: title
+    keywords:
+      - 'tweakers'
+    labels:
+      - duplicate
+  - location: body
+    keywords:
+      - 'Remove this line, if you thruthfully filled in the Prerequisites'
+    labels:
+      - invalid
