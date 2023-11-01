@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 31 Oct 2023 18:04:56 +0000
+! Last updated: Wed, 01 Nov 2023 06:57:56 +0000
 !
 ! 2023-10-31
 beurs.nl##.addslot
@@ -425,8 +425,6 @@ rtlnieuws.nl##.autoscalable-block-wrapper:has-text(/van onze partners/i)
 rtlnieuws.nl##.dfp-rectangle-wrapper
 rtlnieuws.nl##.dfp-billboard-wrapper
 ! 2022-07-15
-lekkercryptisch.nl##.c-sponsoredBy
-lekkercryptisch.nl##.p-footer__randomPartner
 iex.nl##.strossle-widget
 iex.nl##.publisher-sh-spot
 iex.nl##.rectanglemid

@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Tue, 31 Oct 2023 18:39:55 +0000
+! Last updated: Wed, 01 Nov 2023 06:57:56 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: %diffpath%
+! Diff-Path: patches/2023.11.1.417.patch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -990,8 +990,6 @@ minimumloon.nl##.header-widget-region > .col-full
 rtlnieuws.nl##.autoscalable-block-wrapper:has-text(/van onze partners/i)
 rtlnieuws.nl##.dfp-rectangle-wrapper
 rtlnieuws.nl##.dfp-billboard-wrapper
-lekkercryptisch.nl##.c-sponsoredBy
-lekkercryptisch.nl##.p-footer__randomPartner
 iex.nl##.strossle-widget
 iex.nl##.publisher-sh-spot
 iex.nl##.rectanglemid
