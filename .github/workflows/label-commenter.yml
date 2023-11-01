@@ -28,4 +28,4 @@ jobs:
           ref: main # Set your default branch
 
       - name: Label Commenter
-        uses: peaceiris/actions-label-commenter@main
+        uses: peaceiris/actions-label-commenter@latest
