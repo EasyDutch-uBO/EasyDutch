@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-11-01
+||feyenoord.nl/*/media/*partnerships/$image
 ||feyenoordpings.nl/*/js-betting.$script,1p
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p
@@ -331,7 +332,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ciaotutti.nl/wp-content/uploads/Banner_
 ||cinkeltrading.nl/pics/*.gif$domain=cumcams.nl
 ||classicstogo.nl/files/*/*-banner-*$image,1p
-||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
 ||cloudfront.net/Assets/images/partners/$domain=feyenoord.nl
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||clubbrugge.be^*/partner/$image
