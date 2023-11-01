@@ -1,0 +1,36 @@
+diff name:easydutch lines:35 checksum:f305e8e6af
+d2 1
+a2 1
+! Last updated: Wed, 01 Nov 2023 14:56:02 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.11.1.895.patch
+d97 1
+a153 1
+||feyenoord.nl/*/media/*partnerships/$image
+a154 2
+||nnieuws.be/sites/default/files/images/ads/
+||noordernieuws.nl/wp-content/uploads/*/casino$image
+d421 1
+d610 1
+a610 1
+||quantcast.com^$badfilter,domain=vi.nl
+d643 1
+a666 7
+nnieuws.be##[class*="blockpartners"]
+nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
+nuus.be##.adv-link:upward(.sidebar)
+nuus.be###masthead:style(height:90px!important;)
+nzbindex.nl##form + div a[href^="/"]:has(img)
+bright.nl,voetbalprimeur.nl##[class^="Ad_"]
+bright.nl,voetbalprimeur.nl##.ad
+d820 1
+d881 2
+d957 1
+d1158 1
+d1203 1
+d1473 1
+d1572 1
+d1636 1
+d1693 1
+d1936 1

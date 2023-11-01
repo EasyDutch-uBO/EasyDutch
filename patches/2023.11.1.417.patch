@@ -1,24 +1,50 @@
-diff name:easydutch lines:23 checksum:81262b6510
+diff name:easydutch lines:49 checksum:f305e8e6af
 d2 1
 a2 1
-! Last updated: Wed, 01 Nov 2023 08:04:43 +0000
+! Last updated: Wed, 01 Nov 2023 14:56:02 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.1.484.patch
-a153 2
+! Diff-Path: patches/2023.11.1.895.patch
+d97 1
+a153 5
+||feyenoord.nl/*/media/*partnerships/$image
 ||feyenoordpings.nl/*/js-betting.$script,1p
+||nnieuws.be/sites/default/files/images/ads/
+||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p
 d291 1
-a660 5
+d420 1
+d609 1
+a609 1
+||quantcast.com^$badfilter,domain=vi.nl
+d642 1
+a660 12
 ninefornews.nl##.gofollow
 ninefornews.nl##.mag-box.half-box
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3:has-text(Interessant))
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
+nnieuws.be##[class*="blockpartners"]
+nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
+nuus.be##.adv-link:upward(.sidebar)
+nuus.be###masthead:style(height:90px!important;)
+nzbindex.nl##form + div a[href^="/"]:has(img)
+bright.nl,voetbalprimeur.nl##[class^="Ad_"]
+bright.nl,voetbalprimeur.nl##.ad
+d814 1
+d875 2
+d951 1
+d1152 1
+d1197 1
 d1205 1
 d1249 1
 d1301 5
+d1474 1
+d1573 1
 d1610 1
+d1638 1
+d1695 1
+d1938 1
 d1952 1
 a1952 1
 @@*$ghide,domain=modekoninginmaxima.nl

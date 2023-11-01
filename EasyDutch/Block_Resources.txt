@@ -1,9 +1,12 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Wed, 01 Nov 2023 08:04:43 +0000
+! Last updated: Wed, 01 Nov 2023 14:56:02 +0000
 !
 ! 2023-11-01
+||feyenoord.nl/*/media/*partnerships/$image
 ||feyenoordpings.nl/*/js-betting.$script,1p
+||nnieuws.be/sites/default/files/images/ads/
+||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p
 ! 2023-10-31
 ||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_Cover$image
@@ -330,7 +333,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ciaotutti.nl/wp-content/uploads/Banner_
 ||cinkeltrading.nl/pics/*.gif$domain=cumcams.nl
 ||classicstogo.nl/files/*/*-banner-*$image,1p
-||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
 ||cloudfront.net/Assets/images/partners/$domain=feyenoord.nl
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||clubbrugge.be^*/partner/$image

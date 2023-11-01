@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 01 Nov 2023 08:04:43 +0000
+! Last updated: Wed, 01 Nov 2023 14:56:02 +0000
 !
 ! 2023-11-01
 ninefornews.nl##.gofollow
@@ -8,6 +8,13 @@ ninefornews.nl##.mag-box.half-box
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3:has-text(Interessant))
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
+nnieuws.be##[class*="blockpartners"]
+nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
+nuus.be##.adv-link:upward(.sidebar)
+nuus.be###masthead:style(height:90px!important;)
+nzbindex.nl##form + div a[href^="/"]:has(img)
+bright.nl,voetbalprimeur.nl##[class^="Ad_"]
+bright.nl,voetbalprimeur.nl##.ad
 ! 2023-10-31
 beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
@@ -191,8 +198,6 @@ id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en doo
 looopings.nl##.contentBillboard
 looopings.nl##[class*="r89"][style="min-height:250px;"]
 looopings.nl##[class*="r89"][style="min-height:90px;"]
-! 2023-05-15
-bright.nl##.ad
 ! 2023-05-09
 buienradar.be##[class^="AdSlot_AdContainer"]
 ! 2023-05-05
@@ -262,8 +267,6 @@ qmusic.be##.inline-partners
 rtvmaastricht.nl##.prom
 tameteo.nl###bannerDerPC
 tameteo.nl##.megabanner
-nuus.be##.adv-link:upward(.sidebar)
-nuus.be###masthead:style(height:90px!important;)
 bierdopje.com##.content-rechts-ad
 ! 2023-04-25
 ecommercenews.nl##.ldrtop
@@ -369,7 +372,6 @@ soccernews.nl##.bcb-atts:upward(1)
 soccernews.nl##.bcb-sport-block-data
 npo3fm.nl,nporadio4.nl##ul > li:has(script[src*="ster"]):has-text(/advert/i)
 ! 2022-12-10
-voetbalprimeur.nl##[href^="https://ads.jacks.nl/redirect.aspx"]
 vi.nl##.c-tag:has-text(/advert/i):upward(.c-articles-list__link)
 ! 2022-12-09
 wijkkrantzuid.nl##.widget_media_image:not(:has(a[href^="https://wijkkrantzuid.nl"]))
@@ -600,7 +602,6 @@ binnenvaartkrant.nl,dartfreakz.nl,dbsuriname.com,regioinbedrijf.nl,westerwoldeac
 investmentofficer.nl##.region-banner
 investmentofficer.nl##[id*="dfptaghomeadvertorial"]:upward(.views-rows > .row > .col)
 investmentofficer.nl##.io-tape-card[href^="/partner"]
-nnieuws.be##.content > .box:has(#partner-slider)
 noordkopcentraal.nl##.bannerListWidget
 noordkopcentraal.nl##.widgettitle:has-text(Advert)
 rtlboulevard.nl###dfp-billboard-wrapper
@@ -653,7 +654,6 @@ gpfans.com##a[href^="https://casinoscout.nl/"]
 musicmeter.nl##.external
 twentefans.nl##.bn__wrapper
 twentefans.nl##.footer__partners
-voetbalprimeur.nl##.ad
 ! 2022-05-23
 ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 ewmagazine.nl##.section-partners
@@ -963,7 +963,6 @@ prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
 weertdegekste.nl##.banner-right
 gic.nl,kbradio.nl##.banners
-nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
 knhs.nl##.banners-right
 radiomonique.am##.bannerswidget
@@ -1062,7 +1061,6 @@ weertdegekste.nl##.infeed-wrap
 rd.nl##.infotainment:has(a[href^="/advert"])
 ninefornews.nl##.in-house
 dansendeberen.be##.inhype-bb-block-header
-nzbindex.nl##.inner:has([href^="/"])
 radiopros.be##.inside-left-sidebar
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-billboard
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-skyscraper
@@ -1126,7 +1124,6 @@ rd.nl##.rdnl__adds
 iexgeld.nl##.Rectangle
 iex.nl##.rectanglewrap
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
-nnieuws.be##.region-banner-diamond
 regionoordkop.nl##.regio-widget
 schaefer-shop.nl##.row > [class]:has(.sfr-pdp-section[id$="crossseller"])
 rtlboulevard.nl##.rtldart
@@ -1183,7 +1180,6 @@ intikkertje.nl##.vc_cta3-container
 dekrantnieuws.nl,destreekkrant.nu##.vc_inner:has([src$="324x484.jpg"])
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
 mo.be##.view-id-banners_top
-nnieuws.be##.view-vw-banners.view
 barneveldsekrant.nl,edestad.nl##.w-300x.RM5
 transfermarkt.nl##.werbung
 baarsclassicrock.nl##.widebanner
