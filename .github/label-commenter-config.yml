@@ -20,7 +20,7 @@ labels:
   - name: in progress
     labeled:
       issue:
-        body: &progress_labeled_body It takes longer than expected to solve this issue. I'm working on it. Please be patience
+        body: &progress_labeled_body It takes longer than expected to solve this issue. I\u0027m working on it. Please be patience
       pr: 
         body: *progress_labeled_body
   - name: spam
