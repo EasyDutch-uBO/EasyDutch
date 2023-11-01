@@ -1,50 +1,67 @@
 labels:
   - name: invalid
     labeled:
-      issue: &invalid_labeled_issue
-        body: &invalid_labeled_body Thank you @{{ author }} for suggesting this. Please follow the {{ eventName }} templates.
+      issue:
+        body: Thank you @{{ issue.user.login }} for suggesting this. Please follow the issue templates.
         action: close
-      pr: *invalid_labeled_issue
+      pr:
+        body: Thank you @{{ pull_request.user.login }} for suggesting this. Please follow the pull request templates.
+        action: close
+  - name: wontfix
+    labeled:
+      issue:
+        body: This will not be worked on but I appreciate your contribution.
+        action: close
+    unlabeled:
+      issue:
+        body: This has become active again.
+        action: open
   - name: duplicate
     labeled:
       issue:
-        body: &duplicate_labeled_body This {{ eventName }} already exists.
+        body: This issue already exists.
         action: close
       pr:
-        body: *duplicate_labeled_body
+        body: This issue already exists.
         action: close
   - name: unable to reproduce 
     labeled:
       issue:
-        body: I can't reproduce your {{ eventName }}. Please give more information (e.g. uBO logger output or screenshots)
+        body: I can't reproduce your issue. Please give more information (e.g. uBO logger output or screenshots)
   - name: in progress
     labeled:
       issue:
-        body: &progress_labeled_body It takes longer than expected to solve this issue. I'm working on it. Please be patience
+        body: It takes longer than expected to solve this issue. I'm working on it. Please be patience
       pr: 
-        body: *progress_labeled_body
+        body: It takes longer than expected to solve this issue. I'm working on it. Please be patience
   - name: spam
     labeled:
-      issue: &spam_labeled_issue
-        body: &spam_body |
-          This {{ eventName }} has been **LOCKED** as {{ labelName }}!
-
-          Please do not spam messages on this project. You may get blocked from this repository for doing so.
+      issue:
+        body: |
+          This issue has been **LOCKED** because of spam!
+          Please do not spam messages and/or issues on the issue tracker. You may get blocked from this repository for doing so.
         action: close
         locking: lock
         lock_reason: spam
-      pr: *spam_labeled_issue
-      discussion:
-        body: *spam_body
+      pr:
+        body: |
+          This pull-request has been **LOCKED** because of spam!
+          Please do not spam messages and/or pull-requests on this project. You may get blocked from this repository for doing so.
+        action: close
         locking: lock
         lock_reason: spam
-        answer: true
+      discussion:
+        body: |
+          This discussion has been **LOCKED** because of spam!
+          Please do not spam messages and/or discussions on this project. You may get blocked from this repository for doing so.
+        action: close
+        locking: lock
+        lock_reason: spam
   - name: off-topic
     labeled:
       issue:
         body: |
-          This {{ eventName }} has been **LOCKED** because of off-topic conversations!
-
+          This issue has been **LOCKED** because of off-topic conversations!
           Please use our other means of communication for casual chats.
         action: close
         locking: lock
