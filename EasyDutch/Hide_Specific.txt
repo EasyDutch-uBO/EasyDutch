@@ -8,6 +8,9 @@ ninefornews.nl##.mag-box.half-box
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3:has-text(Interessant))
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
+nuus.be##.adv-link
+nuus.be##.adv-link:upward(.sidebar)
+nuus.be###masthead:style(height:90px!important;)
 nzbindex.nl##form + div a[href^="/"]:has(img)
 ! 2023-10-31
 beurs.nl##.addslot
@@ -263,8 +266,6 @@ qmusic.be##.inline-partners
 rtvmaastricht.nl##.prom
 tameteo.nl###bannerDerPC
 tameteo.nl##.megabanner
-nuus.be##.adv-link:upward(.sidebar)
-nuus.be###masthead:style(height:90px!important;)
 bierdopje.com##.content-rechts-ad
 ! 2023-04-25
 ecommercenews.nl##.ldrtop
