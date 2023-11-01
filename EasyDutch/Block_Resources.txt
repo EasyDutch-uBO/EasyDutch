@@ -4,6 +4,7 @@
 !
 ! 2023-11-01
 ||feyenoordpings.nl/*/js-betting.$script,1p
+||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p
 ! 2023-10-31
 ||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_Cover$image
 ||admin.ditjesendatjes.nl/wp-content/uploads/*-footer-DenD.png$image
