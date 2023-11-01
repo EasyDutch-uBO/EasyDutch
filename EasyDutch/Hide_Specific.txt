@@ -8,6 +8,8 @@ ninefornews.nl##.mag-box.half-box
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3:has-text(Interessant))
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
+nnieuws.be##[class*="blockpartners"]
+nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
 nuus.be##.adv-link:upward(.sidebar)
 nuus.be###masthead:style(height:90px!important;)
 nzbindex.nl##form + div a[href^="/"]:has(img)
@@ -600,7 +602,6 @@ binnenvaartkrant.nl,dartfreakz.nl,dbsuriname.com,regioinbedrijf.nl,westerwoldeac
 investmentofficer.nl##.region-banner
 investmentofficer.nl##[id*="dfptaghomeadvertorial"]:upward(.views-rows > .row > .col)
 investmentofficer.nl##.io-tape-card[href^="/partner"]
-nnieuws.be##.content > .box:has(#partner-slider)
 noordkopcentraal.nl##.bannerListWidget
 noordkopcentraal.nl##.widgettitle:has-text(Advert)
 rtlboulevard.nl###dfp-billboard-wrapper
@@ -962,7 +963,6 @@ prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
 weertdegekste.nl##.banner-right
 gic.nl,kbradio.nl##.banners
-nnieuws.be##.banner-silver
 speeleiland.nl##.banner-sky
 knhs.nl##.banners-right
 radiomonique.am##.bannerswidget
@@ -1124,7 +1124,6 @@ rd.nl##.rdnl__adds
 iexgeld.nl##.Rectangle
 iex.nl##.rectanglewrap
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
-nnieuws.be##.region-banner-diamond
 regionoordkop.nl##.regio-widget
 schaefer-shop.nl##.row > [class]:has(.sfr-pdp-section[id$="crossseller"])
 rtlboulevard.nl##.rtldart
@@ -1181,7 +1180,6 @@ intikkertje.nl##.vc_cta3-container
 dekrantnieuws.nl,destreekkrant.nu##.vc_inner:has([src$="324x484.jpg"])
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
 mo.be##.view-id-banners_top
-nnieuws.be##.view-vw-banners.view
 barneveldsekrant.nl,edestad.nl##.w-300x.RM5
 transfermarkt.nl##.werbung
 baarsclassicrock.nl##.widebanner
