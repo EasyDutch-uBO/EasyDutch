@@ -8,6 +8,7 @@ ninefornews.nl##.mag-box.half-box
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3:has-text(Interessant))
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
+nzbindex.nl##form + div a[href^="/"]:has(img)
 ! 2023-10-31
 beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
