@@ -425,8 +425,6 @@ rtlnieuws.nl##.autoscalable-block-wrapper:has-text(/van onze partners/i)
 rtlnieuws.nl##.dfp-rectangle-wrapper
 rtlnieuws.nl##.dfp-billboard-wrapper
 ! 2022-07-15
-lekkercryptisch.nl##.c-sponsoredBy
-lekkercryptisch.nl##.p-footer__randomPartner
 iex.nl##.strossle-widget
 iex.nl##.publisher-sh-spot
 iex.nl##.rectanglemid
