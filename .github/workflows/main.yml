@@ -33,6 +33,9 @@ jobs:
             exit 1
           fi
           exit 0
+      - name: Sleep for 2 minutes
+        run: sleep 120s
+        shell: bash
       - name: Clone EasyDutch
         uses: actions/checkout@v3
         with:
