@@ -3,7 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-10-26
-@@||ads.nextday.media/prebid/jw-video/7.43.0.min.js$script,domain=bright.nl
+@@||ads.nextday.media/prebid/jw-video/$script
 ! 2023-10-23
 @@||vandale.*/*/images/*_300x250.$image,1p
 ! 2023-10-13
