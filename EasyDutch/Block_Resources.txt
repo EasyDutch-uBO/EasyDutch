@@ -172,7 +172,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! 2022-07-01
 ||handbalstartpunt.nl/*/banner$image
 ||racingnews365.nl/images/logos/odds/unibet/
-||pen.nl/wp-content/uploads/*/fitcity360x96.png
 ||beveiligingnieuws.nl/banners/$image
 ||beveiligingnieuws.nl/wp-content/uploads/*/*.gif$image
 ||beveiligingnieuws.nl/wp-content/uploads/*webbanner$image
