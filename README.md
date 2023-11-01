@@ -121,7 +121,7 @@ If there is a fix you need immediately, I can update the [`jsDelivr cdnURL`](htt
 ### Explanation of used terms: 
 - <code>EasyDutch</code> means that it is from the <a target="_blank" rel="noreferrer nofollow" href="https://github.com/EasyDutch-uBO/EasyDutch/tree/gh-pages">original</a> GitHub-repro. <br>
 &nbsp;&nbsp;&nbsp; Changes that are made, are applied after 5 minutes except for the Mirrors. <br>
-&nbsp;&nbsp;&nbsp; I made a small delay, to not overload the diffpatcher in GitHub Actions. <br>
+&nbsp;&nbsp;&nbsp; I made a small delay to not overload the diffpatcher in GitHub Actions. <br>
 - <code>EasyDutchCDN</code> is from the <a target="_blank" rel="noreferrer nofollow" href="https://github.com/EasyDutch-uBO/EasyDutchCDN">EasyDutchCDN</a> GitHub-repro. <br>
 &nbsp;&nbsp;&nbsp; Changes that are made in EasyDutch's main branch, are applied every two hours. Mirrors follow later. <br>
 - <code>EasyDutch(ABF)</code> means that it is from <a target="_blank" rel="noreferrer nofollow" href="https://github.com/Nomes77/AdBlockFilters">Nomes77/AdBlockFilters</a> GitHub-repro. <br>
