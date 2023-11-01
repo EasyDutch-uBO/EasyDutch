@@ -11,8 +11,8 @@ ninefornews.nl##div[class^="mag-box"] + #adskeeper
 nuus.be##.adv-link:upward(.sidebar)
 nuus.be###masthead:style(height:90px!important;)
 nzbindex.nl##form + div a[href^="/"]:has(img)
-voetbalprimeur.nl##[class^="Ad_"]
-voetbalprimeur.nl##.ad
+bright.nl,voetbalprimeur.nl##[class^="Ad_"]
+bright.nl,voetbalprimeur.nl##.ad
 ! 2023-10-31
 beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
@@ -196,8 +196,6 @@ id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en doo
 looopings.nl##.contentBillboard
 looopings.nl##[class*="r89"][style="min-height:250px;"]
 looopings.nl##[class*="r89"][style="min-height:90px;"]
-! 2023-05-15
-bright.nl##.ad
 ! 2023-05-09
 buienradar.be##[class^="AdSlot_AdContainer"]
 ! 2023-05-05
