@@ -2,8 +2,6 @@
 ! Description: Whitelist for specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2023-11-01
-||quantcast.com^$badfilter,domain=vi.nl
 ! 2023-10-23
 @@||vandale.*/*/images/*_300x250.$image,1p
 ! 2023-10-13
