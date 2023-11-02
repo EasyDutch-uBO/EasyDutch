@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Wed, 01 Nov 2023 14:56:02 +0000
+! Last updated: Thu, 02 Nov 2023 14:32:09 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.11.1.895.patch
+! Diff-Path: patches/2023.11.2.872.patch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -109,7 +109,7 @@ _advertentieleaderboardhome.
 ||asp.unitedconsumers.com^$3p
 ||awin.com^$3p
 ||bva-auctions.com^$domain=telegraaf.nl
-||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~extremesexmatch.nl|~instasex.nl
+||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~instasex.nl
 ||cd.tnet.nl^$script,3p
 ||cleafs.nl^$3p
 ||conversive.nl^$3p
@@ -150,6 +150,10 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
+||beterbijbel.nl/afbeeldingen/banner$image
+||truck1.be/st2/banners/
+||truck1.nl/st2/banners/
+||truck1-nl.be/st2/banners/
 ||feyenoord.nl/*/media/*partnerships/$image
 ||feyenoordpings.nl/*/js-betting.$script,1p
 ||nnieuws.be/sites/default/files/images/ads/
@@ -255,12 +259,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||sedproductions.nl/ads/$image,3p
 ||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
 ||storage.googleapis.com/stateless-www-nuus-be/*/*-banner*$image,domain=nuus.be
-||truck1.be/_BANNERS_/$image
-||truck1.nl/_BANNERS_$image
-||truck1-nl.be/_BANNERS_/$image
-||truck1.be/st2/banners/$subdocument
-||truck1.nl/st2/banners/$subdocument
-||truck1-nl.be/st2/banners/$subdocument
 /wp-content/uploads/*/banner.jpg$image,domain=radiozuidrand.be
 /wp-content/uploads/*/banner_reclame$image,domain=radiozuidrand.be
 /wp-content/uploads/*/banner-sponsors$image,domain=radiozuidrand.be
@@ -608,7 +606,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xmissy.nl/skins/_customplayers/*/*top$image
 ||xmissy.nl/skins/_customplayers/*footer.jpg$image
 ! *** EasyDutch:EasyDutch/Block_Whitelist.txt ***
-||quantcast.com^$badfilter,domain=vi.nl
 @@||vandale.*/*/images/*_300x250.$image,1p
 @@||rambla.be/players/video-js/video-js-plugins/videojs.ads.min.js$script,1p
 @@||cijfers.spikker.nl/js/plausible.js$script,domain=visserijnieuws.nl
@@ -619,9 +616,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 @@/https\:\/\/pt\.[\w]{6}\.com\/embed\/tbplyr\//$script
 @@/https\:\/\/pt\.[\w]{6}\.com\/api\/video-promotion\/v1\/get-content-url\//$xhr,domain=/pt\.[\w]{6}\.com/
 @@||awemdia.com/*.mp4$media,domain=/pt\.[\w]{6}\.com/
-@@||truck1.be/_BANNERS_/client/redefiner/
-@@||truck1.nl/_BANNERS_/client/redefiner/
-@@||truck1-nl.be/_BANNERS_/client/redefiner/
 @@||cdn.bluebillywig.com/scripts/prebid/$script,domain=geenstijl.nl
 @@||2mdn.net/instream/html5/ima3.js$script,domain=geenstijl.nl
 @@||laredoute.com^$image,domain=laredoute.nl|laredoute.lu

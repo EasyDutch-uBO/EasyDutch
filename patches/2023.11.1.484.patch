@@ -1,20 +1,27 @@
-diff name:easydutch lines:35 checksum:f305e8e6af
+diff name:easydutch lines:42 checksum:13a3d9f5e6
 d2 1
 a2 1
-! Last updated: Wed, 01 Nov 2023 14:56:02 +0000
+! Last updated: Thu, 02 Nov 2023 14:32:09 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.1.895.patch
+! Diff-Path: patches/2023.11.2.872.patch
 d97 1
-a153 1
+d113 1
+a113 1
+||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~instasex.nl
+a153 5
+||beterbijbel.nl/afbeeldingen/banner$image
+||truck1.be/st2/banners/
+||truck1.nl/st2/banners/
+||truck1-nl.be/st2/banners/
 ||feyenoord.nl/*/media/*partnerships/$image
 a154 2
 ||nnieuws.be/sites/default/files/images/ads/
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
+d256 6
 d421 1
 d610 1
-a610 1
-||quantcast.com^$badfilter,domain=vi.nl
+d621 3
 d643 1
 a666 7
 nnieuws.be##[class*="blockpartners"]

@@ -1,9 +1,7 @@
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Wed, 01 Nov 2023 14:56:02 +0000
+! Last updated: Thu, 02 Nov 2023 14:32:09 +0000
 !
-! 2023-11-01
-||quantcast.com^$badfilter,domain=vi.nl
 ! 2023-10-23
 @@||vandale.*/*/images/*_300x250.$image,1p
 ! 2023-10-13
@@ -20,10 +18,6 @@
 @@/https\:\/\/pt\.[\w]{6}\.com\/embed\/tbplyr\//$script
 @@/https\:\/\/pt\.[\w]{6}\.com\/api\/video-promotion\/v1\/get-content-url\//$xhr,domain=/pt\.[\w]{6}\.com/
 @@||awemdia.com/*.mp4$media,domain=/pt\.[\w]{6}\.com/
-! 2023-04-26
-@@||truck1.be/_BANNERS_/client/redefiner/
-@@||truck1.nl/_BANNERS_/client/redefiner/
-@@||truck1-nl.be/_BANNERS_/client/redefiner/
 ! 2023-03-21 https://github.com/uBlockOrigin/uAssets/issues/17233
 @@||cdn.bluebillywig.com/scripts/prebid/$script,domain=geenstijl.nl
 ! 2023-01-14
