@@ -1,5 +1,6 @@
 excludeLabels:
   - ongoing
+  - question
 custom:
   - location: title
     keywords:
