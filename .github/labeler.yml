@@ -1,0 +1,8 @@
+excludeLabels:
+  - ongoing
+custom:
+  - location: title
+    keywords:
+      - 'tweakers'
+    labels:
+      - duplicate
