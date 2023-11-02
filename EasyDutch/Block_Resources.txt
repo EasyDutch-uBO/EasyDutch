@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-11-02
+||beterbijbel.nl/afbeeldingen/banner$image
 ||truck1.be/st2/banners/
 ||truck1.nl/st2/banners/
 ||truck1-nl.be/st2/banners/
