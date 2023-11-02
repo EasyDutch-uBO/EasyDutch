@@ -4,6 +4,7 @@ custom:
   - location: title
     keywords:
       - 'tweakers'
+      - 'test'
     labels:
       - duplicate
   - location: body
