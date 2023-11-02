@@ -1,5 +1,4 @@
 excludeLabels:
-  - pinned
   - ongoing
 custom:
   - location: title
