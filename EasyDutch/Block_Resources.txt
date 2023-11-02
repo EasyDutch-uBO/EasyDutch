@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-11-02
+||beterbijbel.nl/afbeeldingen/banner$image
 ! 2023-11-01
 ||feyenoord.nl/*/media/*partnerships/$image
 ||feyenoordpings.nl/*/js-betting.$script,1p
