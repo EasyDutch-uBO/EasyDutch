@@ -1,0 +1,26 @@
+name: Issue Labeler
+
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: github/issue-labeler@v3.2
+      with:
+        configuration-path: .github/labeler-title.yml
+        include-title: 1
+        include-body: 0
+    - uses: github/issue-labeler@v3.2
+      with:
+        configuration-path: .github/labeler-body.yml
+        include-title: 0
+        include-body: 1
