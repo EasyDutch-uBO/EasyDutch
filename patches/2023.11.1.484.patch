@@ -1,16 +1,22 @@
-diff name:easydutch lines:42 checksum:13a3d9f5e6
+diff name:easydutch lines:48 checksum:46cb1d255e
 d2 1
 a2 1
-! Last updated: Thu, 02 Nov 2023 14:32:09 +0000
+! Last updated: Thu, 02 Nov 2023 18:35:56 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.2.872.patch
+! Diff-Path: patches/2023.11.2.1115.patch
 d97 1
 d113 1
 a113 1
 ||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~instasex.nl
-a153 5
+a153 11
 ||beterbijbel.nl/afbeeldingen/banner$image
+||beterrekenen.nl/afbeeldingen/banner$image
+||beterspellen.nl/afbeeldingen/banner$image
+||nubeterengels.nl/afbeeldingen/banner$image
+||nubeterduits.nl/afbeeldingen/banner$image
+||nubeterfrans.nl/afbeeldingen/banner$image
+||nubeterspaans.nl/afbeeldingen/banner$image
 ||truck1.be/st2/banners/
 ||truck1.nl/st2/banners/
 ||truck1-nl.be/st2/banners/
