@@ -1,4 +1,4 @@
-name: Label Commenter
+name: Auto Commenter on Labels
 
 on:
   issues:
