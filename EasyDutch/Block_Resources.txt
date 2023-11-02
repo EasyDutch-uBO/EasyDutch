@@ -126,9 +126,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||sedproductions.nl/ads/$image,3p
 ||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
 ||storage.googleapis.com/stateless-www-nuus-be/*/*-banner*$image,domain=nuus.be
-||truck1.be/_BANNERS_/$image
-||truck1.nl/_BANNERS_$image
-||truck1-nl.be/_BANNERS_/$image
 ||truck1.be/st2/banners/$subdocument
 ||truck1.nl/st2/banners/$subdocument
 ||truck1-nl.be/st2/banners/$subdocument
