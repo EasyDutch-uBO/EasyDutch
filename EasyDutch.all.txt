@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Thu, 02 Nov 2023 18:35:56 +0000
+! Last updated: Fri, 03 Nov 2023 15:00:35 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.11.2.1115.patch
+! Diff-Path: patches/2023.11.3.900.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |

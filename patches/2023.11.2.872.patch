@@ -1,10 +1,10 @@
-diff name:easydutch lines:13 checksum:46cb1d255e
+diff name:easydutch lines:13 checksum:3bdf7067b2
 d2 1
 a2 1
-! Last updated: Thu, 02 Nov 2023 18:35:56 +0000
+! Last updated: Fri, 03 Nov 2023 15:00:35 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.2.1115.patch
+! Diff-Path: patches/2023.11.3.900.patch#easydutch
 a153 6
 ||beterrekenen.nl/afbeeldingen/banner$image
 ||beterspellen.nl/afbeeldingen/banner$image
