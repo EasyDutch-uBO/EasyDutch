@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-11-03
+gva.be##main > section.grid:has(.link-complex)
+gva.be##[id^="CBAWIDGET"]:has-text(partners):upward(1)
 knvb.nl,onsoranje.nl##.SponsorBar
 ticketing.knvb.nl###footer-sponsors-wrapper
 voetbal.nl##.Footer-sponsorList:upward(div.Footer-column)
@@ -532,8 +534,6 @@ hoekschnieuws.nl##.td-a-rec.td-a-rec-id-content_bottom > a[href]
 historiek.net##.ablok
 h2owaternetwerk.nl##.bannergroup:upward(.module)
 h2owaternetwerk.nl##.ja-banner
-gva.be##main .widgetgroup > .grid
-gva.be##main > section.grid:has(.link-complex)
 groningsnieuws.nl##aside.widget:has(figure img)
 unitednews.sr##.slider-container
 vitesse.nl##.row [id^="form"] + .box > .box-body:has(img)
