@@ -2,6 +2,11 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-11-03
+knvb.nl,onsoranje.nl##.SponsorBar
+ticketing.knvb.nl###footer-sponsors-wrapper
+voetbal.nl##.Footer-sponsorList:upward(div.Footer-column)
+vrouweneredivisie.nl###sponsors
 ! 2023-11-01
 ninefornews.nl##.gofollow
 ninefornews.nl##.mag-box.half-box
@@ -686,7 +691,6 @@ cryptoclan.nl,cryptonieuws.nl##div[data-elementor-type="popup"]
 fotografie.nl##.section-partners
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
 nummerzoeker.com##a[href^="/out/"]
-onsoranje.nl##.SponsorBar
 proshop.nl##.site-background-banner
 proshop.nl##.site-home-banner
 proshop.nl##.site-top-banner
@@ -1139,7 +1143,6 @@ solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
 az.nl,cambuur.nl,ga-eagles.nl,niburu.co##.sponsers
 computable.be##.sponsorartikelen
-knvb.nl##.SponsorBar-list
 omroephouten.nl##.sponsor-carousel
 computable.nl##.sponsored
 volleybelgium.be##.sponsors
