@@ -52,8 +52,8 @@ for FILE in "${FILES[@]}"; do
             # Compute relative patch path
             PATCH_PATH=$(realpath --relative-to=$(dirname $FILE) $NEXT_PATCH_FILE)
 
-            # Fill in patch path to next version
-            sed -Ei "1,10s;^! Diff-Path: .+$;! Diff-Path: $PATCH_PATH;" $FILE
+            # Fill in patch path to next version (do not clobber hash portion)
+            sed -Ei "1,10s;^! Diff-Path: [^#]+(#.+)?$;! Diff-Path: $PATCH_PATH\1;" $FILE
 
             # Compute the RCS diff between current version and new version
             git show HEAD:$FILE | diff -n - $FILE > $DIFF || true
