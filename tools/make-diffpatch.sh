@@ -37,8 +37,13 @@ for FILE in "${FILES[@]}"; do
     # Patches are for filter lists supporting differential updates
     if [[ -n $(grep '^! Diff-Path: ' <(head $FILE)) ]]; then
 
-        # Extract patch name
-        DIFF_NAME=$(grep -m 1 -oP '^! Diff-Name: \K.+' $FILE)
+        # Extract diff name from `! Diff-Path:` field
+        DIFF_NAME=$(grep -m 1 -oP '^! Diff-Path: [^#]+#?\K.*' $FILE)
+        # Fall back to `! Diff-Name:` field if no name found
+        # Remove once `! Diff-Name:` is no longer needed after transition
+        if [[ -z $DIFF_NAME ]]; then
+            DIFF_NAME=$(grep -m 1 -oP '^! Diff-Name: \K.+' $FILE)
+        fi
         echo "Info: Diff name for ${FILE} is ${DIFF_NAME}"
 
         # We need a patch name to generate a valid patch
