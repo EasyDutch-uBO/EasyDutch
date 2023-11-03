@@ -4,7 +4,7 @@
 !
 ! 2023-11-03
 /images/sponsors/*$image,domain=ticketing.knvb.nl
-/images/sponsorlogos/heineken_0_0_2022.png$image,domain=knvb.nl|onsoranje.nl|totoknvbbeker.nl
+/images/sponsorlogos/*$image,domain=knvb.nl|onsoranje.nl|totoknvbbeker.nl
 ||vrouweneredivisie.nl/*/vrouweneredivisie/img/*-ghost.png$image
 ! 2023-11-02
 ||beterbijbel.nl/afbeeldingen/banner$image
