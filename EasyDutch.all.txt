@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Fri, 03 Nov 2023 15:00:35 +0000
+! Last updated: Fri, 03 Nov 2023 16:35:38 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.11.3.900.patch#easydutch
+! Diff-Path: patches/2023.11.3.995.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -150,6 +150,9 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
+/images/sponsors/*$image,domain=ticketing.knvb.nl
+/images/sponsorlogos/*$image,domain=knvb.nl|onsoranje.nl|totoknvbbeker.nl
+||vrouweneredivisie.nl/*/vrouweneredivisie/img/*-ghost.png$image
 ||beterbijbel.nl/afbeeldingen/banner$image
 ||beterrekenen.nl/afbeeldingen/banner$image
 ||beterspellen.nl/afbeeldingen/banner$image
@@ -291,7 +294,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 .nl/remote/https/cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
 ||minimumloon.nl/wp-content/uploads/*/*.gif
 ||cdn-webcam-harlingen.nl/adv/
-||widgets.skyscanner.net^$domain=puuropreis.nl
 ||disqus.com/recommendations/$subdocument,domain=webmastersunited.com
 ||itnijs.frl/wp-content/uploads/*/adfertinsje
 ||handbalstartpunt.nl/*/banner$image
@@ -327,7 +329,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||sponsorlink.nl/js/snippet.js$script,domain=handbalstartpunt.nl
 ||h2owaternetwerk.nl/images/banners/$image
 ||h2owaternetwerk.nl/images/*/*Banner$image
-||jobat.be/extra/trackuityhn/ticker_new.html$domain=gva.be
+||jobat.be/extra/trackuityhn/ticker_new.html$3p
 ||tickers.zimmo.be/gva/$domain=gva.be
 ||widget.vroom.be/$domain=gva.be
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
@@ -356,10 +358,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||mandelnieuws.be^*/Sponsors/
 ||imagekit.io/ijnl*/uploads/other/*?tr=w-20$image,domain=ijshockeynederland.nl
 ||pubble.nl/Content.svc/getAdCollection?
-||onsoranje.nl/sites/*/images/sponsorlogos/
 ||nieuwsuitnijmegen.nl/uploads/banners/
 ||onderwegonline.nl/app/uploads/*/Banner$image
-||onsoranje.nl/sites/*/images/sponsorlogos/$image
 ||anoniem-surfen.nl/wp-content/uploads/*/aff3-*.png$image
 ||anoniem-surfen.nl/wp-content/uploads/*/Flavour-balls.gif$image
 ||dagelijksestandaard.nl/wp-content/uploads/*/DDS-banner.$image
@@ -480,7 +480,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||htforum.nl/yabbse/topframe_v3.php
 ||img.iex.nl/uploads/banners/$image
 ||itnijs.frl/wp-content/uploads/*/bannerItNijs
-||jobat.be/extra/trackuityhn/ticker_new.html$3p
 ||kavelplatform.nl/assets/uploads/banners/
 ||kicxstart.nl/wp-content/uploads/*/*1300x150$image
 ||kranenwebsite.nl/banners/$image
@@ -531,7 +530,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||resellers.viboshop.nl/promoimages/
 ||risallah.com/multimedia/images/banners/$image
 ||rtveen.nl/wp-content/plugins/advanced-advertising-system/js/*$script,1p
-||schie.nu/images/banner/$image
 ||search-result.com^*/klokad2.js
 ||sedproductions.nl/banners/$image,3p
 ||simone.nl/wp-content/uploads/*-onderdelenexpert.nl-
@@ -659,6 +657,13 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.video-block-happy
 ###tracking-url
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+gva.be##main > section.grid:has(.link-complex)
+gva.be##[id^="CBAWIDGET"]:has-text(partners):upward(1)
+schie.nu##h6:has-text(/advert/i):upward(1)
+knvb.nl,onsoranje.nl##.SponsorBar
+ticketing.knvb.nl###footer-sponsors-wrapper
+voetbal.nl##.Footer-sponsorList:upward(div.Footer-column)
+vrouweneredivisie.nl###sponsors
 ninefornews.nl##.gofollow
 ninefornews.nl##.mag-box.half-box
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
@@ -1087,8 +1092,6 @@ hoekschnieuws.nl##.td-a-rec.td-a-rec-id-content_bottom > a[href]
 historiek.net##.ablok
 h2owaternetwerk.nl##.bannergroup:upward(.module)
 h2owaternetwerk.nl##.ja-banner
-gva.be##main .widgetgroup > .grid
-gva.be##main > section.grid:has(.link-complex)
 groningsnieuws.nl##aside.widget:has(figure img)
 unitednews.sr##.slider-container
 vitesse.nl##.row [id^="form"] + .box > .box-body:has(img)
@@ -1103,7 +1106,6 @@ gids.tv##.advertisement:upward(1)
 gic.nl##.katernbanners
 geelfm.be##a[href="/adverteren/"]:upward(1)
 frontline.digital##p:has-text(,):not(:has-text(/[a-z]|[0-9]/i))
-schie.nu##.my-5:has-text(/advert/i)
 fleet-mobility.nl##.spotlight:has-text(Partners)
 flair##.c-commerical_banner
 risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
@@ -1226,7 +1228,6 @@ cryptoclan.nl,cryptonieuws.nl##div[data-elementor-type="popup"]
 fotografie.nl##.section-partners
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
 nummerzoeker.com##a[href^="/out/"]
-onsoranje.nl##.SponsorBar
 proshop.nl##.site-background-banner
 proshop.nl##.site-home-banner
 proshop.nl##.site-top-banner
@@ -1647,7 +1648,6 @@ solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
 az.nl,cambuur.nl,ga-eagles.nl,niburu.co##.sponsers
 computable.be##.sponsorartikelen
-knvb.nl##.SponsorBar-list
 omroephouten.nl##.sponsor-carousel
 computable.nl##.sponsored
 volleybelgium.be##.sponsors
@@ -1726,7 +1726,6 @@ linda.nl##[class^="article-"][class$="_article"]:has(.category-label_label:has-t
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,motocrossplanet.nl,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##[class^="banner"]
 twentefm.nl##[class^="bannerzone_"]:has([href])
 ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
-schie.nu##[class^="my-"]:has(img[src*="/images/banner/"])
 appletips.nl##[class^="ph_block"]
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]

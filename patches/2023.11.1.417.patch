@@ -1,15 +1,18 @@
-diff name:easydutch lines:62 checksum:3bdf7067b2
+diff name:easydutch lines:85 checksum:a849f63759
 d2 1
 a2 1
-! Last updated: Fri, 03 Nov 2023 15:00:35 +0000
+! Last updated: Fri, 03 Nov 2023 16:35:38 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.3.900.patch#easydutch
+! Diff-Path: patches/2023.11.3.995.patch#easydutch
 d97 1
 d113 1
 a113 1
 ||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~instasex.nl
-a153 15
+a153 18
+/images/sponsors/*$image,domain=ticketing.knvb.nl
+/images/sponsorlogos/*$image,domain=knvb.nl|onsoranje.nl|totoknvbbeker.nl
+||vrouweneredivisie.nl/*/vrouweneredivisie/img/*-ghost.png$image
 ||beterbijbel.nl/afbeeldingen/banner$image
 ||beterrekenen.nl/afbeeldingen/banner$image
 ||beterspellen.nl/afbeeldingen/banner$image
@@ -26,12 +29,27 @@ a153 15
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p
 d254 6
+d286 1
 d291 1
+d323 1
+a323 1
+||jobat.be/extra/trackuityhn/ticker_new.html$3p
+d352 1
+d355 1
 d420 1
+d477 1
+d528 1
 d609 1
 d620 3
 d642 1
-a660 12
+a660 19
+gva.be##main > section.grid:has(.link-complex)
+gva.be##[id^="CBAWIDGET"]:has-text(partners):upward(1)
+schie.nu##h6:has-text(/advert/i):upward(1)
+knvb.nl,onsoranje.nl##.SponsorBar
+ticketing.knvb.nl###footer-sponsors-wrapper
+voetbal.nl##.Footer-sponsorList:upward(div.Footer-column)
+vrouweneredivisie.nl###sponsors
 ninefornews.nl##.gofollow
 ninefornews.nl##.mag-box.half-box
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
@@ -47,16 +65,21 @@ bright.nl,voetbalprimeur.nl##.ad
 d814 1
 d875 2
 d951 1
+d1081 2
+d1097 1
 d1152 1
 d1197 1
 d1205 1
+d1223 1
 d1249 1
 d1301 5
 d1474 1
 d1573 1
 d1610 1
 d1638 1
+d1654 1
 d1695 1
+d1734 1
 d1938 1
 d1952 1
 a1952 1
