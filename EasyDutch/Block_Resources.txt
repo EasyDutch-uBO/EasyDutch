@@ -176,7 +176,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! 2022-07-13
 ||cdn-webcam-harlingen.nl/adv/
 ! 2022-07-06
-||widgets.skyscanner.net^$domain=puuropreis.nl
 ||disqus.com/recommendations/$subdocument,domain=webmastersunited.com
 ! 2022-07-05
 ||itnijs.frl/wp-content/uploads/*/adfertinsje
