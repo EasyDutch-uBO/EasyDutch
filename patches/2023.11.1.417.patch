@@ -1,15 +1,17 @@
-diff name:easydutch lines:85 checksum:a849f63759
+diff name:easydutch lines:92 checksum:3345f97a4f
 d2 1
 a2 1
-! Last updated: Fri, 03 Nov 2023 16:35:38 +0000
+! Last updated: Fri, 03 Nov 2023 19:49:00 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.3.995.patch#easydutch
+! Diff-Path: patches/2023.11.3.1188.patch#easydutch
 d97 1
 d113 1
 a113 1
 ||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~instasex.nl
-a153 18
+a153 19
+/js-betting.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
+/js/partner-bar.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 /images/sponsors/*$image,domain=ticketing.knvb.nl
 /images/sponsorlogos/*$image,domain=knvb.nl|onsoranje.nl|totoknvbbeker.nl
 ||vrouweneredivisie.nl/*/vrouweneredivisie/img/*-ghost.png$image
@@ -24,7 +26,6 @@ a153 18
 ||truck1.nl/st2/banners/
 ||truck1-nl.be/st2/banners/
 ||feyenoord.nl/*/media/*partnerships/$image
-||feyenoordpings.nl/*/js-betting.$script,1p
 ||nnieuws.be/sites/default/files/images/ads/
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p
@@ -42,10 +43,12 @@ d528 1
 d609 1
 d620 3
 d642 1
-a660 19
+a660 21
 gva.be##main > section.grid:has(.link-complex)
 gva.be##[id^="CBAWIDGET"]:has-text(partners):upward(1)
 schie.nu##h6:has-text(/advert/i):upward(1)
+ajaxfanatics.nl,cambuurfront.nl,feanonline.nl,feyenoordpings.nl,fcgfans.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
+ajaxfanatics.nl,cambuurfront.nl,feanonline.nl,feyenoordpings.nl,fcgfans.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.footer__partners-wrapper
 knvb.nl,onsoranje.nl##.SponsorBar
 ticketing.knvb.nl###footer-sponsors-wrapper
 voetbal.nl##.Footer-sponsorList:upward(div.Footer-column)
@@ -67,13 +70,17 @@ d875 2
 d951 1
 d1081 2
 d1097 1
+d1101 1
 d1152 1
-d1197 1
+d1195 3
 d1205 1
 d1223 1
 d1249 1
 d1301 5
 d1474 1
+d1478 1
+d1494 1
+d1536 1
 d1573 1
 d1610 1
 d1638 1

@@ -1,8 +1,10 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Fri, 03 Nov 2023 16:35:38 +0000
+! Last updated: Fri, 03 Nov 2023 19:49:00 +0000
 !
 ! 2023-11-03
+/js-betting.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
+/js/partner-bar.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 /images/sponsors/*$image,domain=ticketing.knvb.nl
 /images/sponsorlogos/*$image,domain=knvb.nl|onsoranje.nl|totoknvbbeker.nl
 ||vrouweneredivisie.nl/*/vrouweneredivisie/img/*-ghost.png$image
@@ -19,7 +21,6 @@
 ||truck1-nl.be/st2/banners/
 ! 2023-11-01
 ||feyenoord.nl/*/media/*partnerships/$image
-||feyenoordpings.nl/*/js-betting.$script,1p
 ||nnieuws.be/sites/default/files/images/ads/
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p

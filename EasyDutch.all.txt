@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Fri, 03 Nov 2023 16:35:38 +0000
+! Last updated: Fri, 03 Nov 2023 19:49:00 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.11.3.995.patch#easydutch
+! Diff-Path: patches/2023.11.3.1188.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -150,6 +150,8 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
+/js-betting.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
+/js/partner-bar.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 /images/sponsors/*$image,domain=ticketing.knvb.nl
 /images/sponsorlogos/*$image,domain=knvb.nl|onsoranje.nl|totoknvbbeker.nl
 ||vrouweneredivisie.nl/*/vrouweneredivisie/img/*-ghost.png$image
@@ -164,7 +166,6 @@ _advertentieleaderboardhome.
 ||truck1.nl/st2/banners/
 ||truck1-nl.be/st2/banners/
 ||feyenoord.nl/*/media/*partnerships/$image
-||feyenoordpings.nl/*/js-betting.$script,1p
 ||nnieuws.be/sites/default/files/images/ads/
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p
@@ -660,6 +661,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 gva.be##main > section.grid:has(.link-complex)
 gva.be##[id^="CBAWIDGET"]:has-text(partners):upward(1)
 schie.nu##h6:has-text(/advert/i):upward(1)
+ajaxfanatics.nl,cambuurfront.nl,feanonline.nl,feyenoordpings.nl,fcgfans.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
+ajaxfanatics.nl,cambuurfront.nl,feanonline.nl,feyenoordpings.nl,fcgfans.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.footer__partners-wrapper
 knvb.nl,onsoranje.nl##.SponsorBar
 ticketing.knvb.nl###footer-sponsors-wrapper
 voetbal.nl##.Footer-sponsorList:upward(div.Footer-column)
@@ -1109,7 +1112,6 @@ frontline.digital##p:has-text(,):not(:has-text(/[a-z]|[0-9]/i))
 fleet-mobility.nl##.spotlight:has-text(Partners)
 flair##.c-commerical_banner
 risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
-voetbalverslaafd.nl##.bn__wrapper
 fcgroningen.nl##.sponsors
 halstadcentraal.nl##div[class$="banners-wrapper"]
 fd.nl##.noAdBlockDetected .fd-message
@@ -1202,8 +1204,6 @@ feijenoordnieuws.nl##li:has(div[class$="left"]:has-text(/gokkasten|online casino
 gpfans.com##.leaderboardbg
 gpfans.com##a[href^="https://casinoscout.nl/"]
 musicmeter.nl##.external
-twentefans.nl##.bn__wrapper
-twentefans.nl##.footer__partners
 ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 ewmagazine.nl##.section-partners
 autoblog.nl##.widget:has-text(Links)
@@ -1475,7 +1475,6 @@ gic.nl,kbradio.nl##.banners
 speeleiland.nl##.banner-sky
 knhs.nl##.banners-right
 radiomonique.am##.bannerswidget
-feyenoordpings.nl##.betcity-intro-wrapper
 berekenhet.nl##.bh-ads
 bieos-omroep.nl##.bieos-widget
 autosport.nl##.bigbanner
@@ -1491,7 +1490,6 @@ psv.nl##.block-sponsors-desktop
 psv.nl##.block-sponsors--psv
 scholieren.com##.blockvertorial
 voetbalcentraal.nl##.blok:has(h3:has-text(Partners))
-feyenoordpings.nl##.bn__wrapper
 bodylifebenelux.nl##.bnrrow
 autoreview.nl##.bottom-bannuring
 nltube.com##.bottom-bns-block
@@ -1533,7 +1531,6 @@ heracles.nl##.fixed-ads
 motorrijdenexpert.nl##.flat-theme-content:has(a[href][rel^="noopener"])
 wanttoknow.nl##.float-right
 ajax1.nl##.footer__footer-fat
-feyenoordpings.nl##.footer__partners
 heracles.nl##.footer-blocks
 fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors

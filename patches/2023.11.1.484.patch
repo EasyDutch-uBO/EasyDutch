@@ -1,15 +1,18 @@
-diff name:easydutch lines:72 checksum:a849f63759
+diff name:easydutch lines:80 checksum:3345f97a4f
 d2 1
 a2 1
-! Last updated: Fri, 03 Nov 2023 16:35:38 +0000
+! Last updated: Fri, 03 Nov 2023 19:49:00 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.3.995.patch#easydutch
+! Diff-Path: patches/2023.11.3.1188.patch#easydutch
 d97 1
 d113 1
 a113 1
 ||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~instasex.nl
-a153 14
+d154 1
+a154 18
+/js-betting.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
+/js/partner-bar.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 /images/sponsors/*$image,domain=ticketing.knvb.nl
 /images/sponsorlogos/*$image,domain=knvb.nl|onsoranje.nl|totoknvbbeker.nl
 ||vrouweneredivisie.nl/*/vrouweneredivisie/img/*-ghost.png$image
@@ -24,7 +27,6 @@ a153 14
 ||truck1.nl/st2/banners/
 ||truck1-nl.be/st2/banners/
 ||feyenoord.nl/*/media/*partnerships/$image
-a154 2
 ||nnieuws.be/sites/default/files/images/ads/
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
 d256 6
@@ -40,10 +42,12 @@ d529 1
 d610 1
 d621 3
 d643 1
-a661 7
+a661 9
 gva.be##main > section.grid:has(.link-complex)
 gva.be##[id^="CBAWIDGET"]:has-text(partners):upward(1)
 schie.nu##h6:has-text(/advert/i):upward(1)
+ajaxfanatics.nl,cambuurfront.nl,feanonline.nl,feyenoordpings.nl,fcgfans.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
+ajaxfanatics.nl,cambuurfront.nl,feanonline.nl,feyenoordpings.nl,fcgfans.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.footer__partners-wrapper
 knvb.nl,onsoranje.nl##.SponsorBar
 ticketing.knvb.nl###footer-sponsors-wrapper
 voetbal.nl##.Footer-sponsorList:upward(div.Footer-column)
@@ -61,10 +65,14 @@ d881 2
 d957 1
 d1087 2
 d1103 1
+d1107 1
 d1158 1
-d1203 1
+d1201 3
 d1228 1
 d1473 1
+d1477 1
+d1493 1
+d1535 1
 d1572 1
 d1636 1
 d1652 1

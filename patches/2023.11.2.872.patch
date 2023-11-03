@@ -1,11 +1,13 @@
-diff name:easydutch lines:38 checksum:a849f63759
+diff name:easydutch lines:48 checksum:3345f97a4f
 d2 1
 a2 1
-! Last updated: Fri, 03 Nov 2023 16:35:38 +0000
+! Last updated: Fri, 03 Nov 2023 19:49:00 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.3.995.patch#easydutch
-a152 3
+! Diff-Path: patches/2023.11.3.1188.patch#easydutch
+a152 5
+/js-betting.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
+/js/partner-bar.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 /images/sponsors/*$image,domain=ticketing.knvb.nl
 /images/sponsorlogos/*$image,domain=knvb.nl|onsoranje.nl|totoknvbbeker.nl
 ||vrouweneredivisie.nl/*/vrouweneredivisie/img/*-ghost.png$image
@@ -16,6 +18,7 @@ a153 6
 ||nubeterduits.nl/afbeeldingen/banner$image
 ||nubeterfrans.nl/afbeeldingen/banner$image
 ||nubeterspaans.nl/afbeeldingen/banner$image
+d158 1
 d288 1
 d324 1
 a324 1
@@ -24,16 +27,23 @@ d353 1
 d356 1
 d477 1
 d528 1
-a655 7
+a655 9
 gva.be##main > section.grid:has(.link-complex)
 gva.be##[id^="CBAWIDGET"]:has-text(partners):upward(1)
 schie.nu##h6:has-text(/advert/i):upward(1)
+ajaxfanatics.nl,cambuurfront.nl,feanonline.nl,feyenoordpings.nl,fcgfans.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
+ajaxfanatics.nl,cambuurfront.nl,feanonline.nl,feyenoordpings.nl,fcgfans.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.footer__partners-wrapper
 knvb.nl,onsoranje.nl##.SponsorBar
 ticketing.knvb.nl###footer-sponsors-wrapper
 voetbal.nl##.Footer-sponsorList:upward(div.Footer-column)
 vrouweneredivisie.nl###sponsors
 d1084 2
 d1100 1
+d1104 1
+d1197 2
 d1223 1
+d1471 1
+d1487 1
+d1529 1
 d1644 1
 d1723 1
