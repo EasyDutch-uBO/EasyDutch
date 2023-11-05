@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Fri, 03 Nov 2023 19:49:00 +0000
+! Last updated: Sun, 05 Nov 2023 16:28:41 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.11.3.1188.patch#easydutch
+! Diff-Path: patches/2023.11.5.988.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -658,6 +658,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.video-block-happy
 ###tracking-url
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+racingnews365.nl###betting-prefs
 gva.be##main > section.grid:has(.link-complex)
 gva.be##[id^="CBAWIDGET"]:has-text(partners):upward(1)
 schie.nu##h6:has-text(/advert/i):upward(1)

@@ -1,10 +1,10 @@
-diff name:easydutch lines:48 checksum:3345f97a4f
+diff name:easydutch lines:49 checksum:fbf65ffa91
 d2 1
 a2 1
-! Last updated: Fri, 03 Nov 2023 19:49:00 +0000
+! Last updated: Sun, 05 Nov 2023 16:28:41 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.3.1188.patch#easydutch
+! Diff-Path: patches/2023.11.5.988.patch#easydutch
 a152 5
 /js-betting.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 /js/partner-bar.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
@@ -27,7 +27,8 @@ d353 1
 d356 1
 d477 1
 d528 1
-a655 9
+a655 10
+racingnews365.nl###betting-prefs
 gva.be##main > section.grid:has(.link-complex)
 gva.be##[id^="CBAWIDGET"]:has-text(partners):upward(1)
 schie.nu##h6:has-text(/advert/i):upward(1)

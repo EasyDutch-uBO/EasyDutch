@@ -1,10 +1,10 @@
-diff name:easydutch lines:80 checksum:3345f97a4f
+diff name:easydutch lines:81 checksum:fbf65ffa91
 d2 1
 a2 1
-! Last updated: Fri, 03 Nov 2023 19:49:00 +0000
+! Last updated: Sun, 05 Nov 2023 16:28:41 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.3.1188.patch#easydutch
+! Diff-Path: patches/2023.11.5.988.patch#easydutch
 d97 1
 d113 1
 a113 1
@@ -42,7 +42,8 @@ d529 1
 d610 1
 d621 3
 d643 1
-a661 9
+a661 10
+racingnews365.nl###betting-prefs
 gva.be##main > section.grid:has(.link-complex)
 gva.be##[id^="CBAWIDGET"]:has-text(partners):upward(1)
 schie.nu##h6:has-text(/advert/i):upward(1)
