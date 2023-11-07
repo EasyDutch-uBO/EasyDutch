@@ -1,4 +1,4 @@
-diff name:easydutch lines:14 checksum:d58b66f382
+diff name:easydutch lines:13 checksum:d58b66f382
 d2 1
 a2 1
 ! Last updated: Tue, 07 Nov 2023 16:34:55 +0000
@@ -8,8 +8,7 @@ a4 1
 a152 2
 /Images/*Ad$image,domain=sun.sr
 /Images/*Banner$image,domain=sun.sr
-a660 4
+a660 3
 sun.sr##app-money-exchange
 sun.sr##app-slider-add
 sun.sr##.bannerslid-add:upward(.container):has(app-topleft)
-racingnews365.nl###betting-prefs

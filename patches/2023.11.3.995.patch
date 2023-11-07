@@ -1,15 +1,20 @@
-diff name:easydutch lines:20 checksum:fbf65ffa91
+diff name:easydutch lines:25 checksum:d58b66f382
 d2 1
 a2 1
-! Last updated: Sun, 05 Nov 2023 16:28:41 +0000
+! Last updated: Tue, 07 Nov 2023 16:34:55 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.5.988.patch#easydutch
-a152 2
+! Diff-Path: patches/2023.11.7.994.patch#easydutch
+a152 4
+/Images/*Ad$image,domain=sun.sr
+/Images/*Banner$image,domain=sun.sr
 /js-betting.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 /js/partner-bar.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 d167 1
-a659 1
+a659 4
+sun.sr##app-money-exchange
+sun.sr##app-slider-add
+sun.sr##.bannerslid-add:upward(.container):has(app-topleft)
 racingnews365.nl###betting-prefs
 a662 2
 ajaxfanatics.nl,cambuurfront.nl,feanonline.nl,feyenoordpings.nl,fcgfans.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
