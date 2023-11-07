@@ -4,12 +4,6 @@
 
 set -e
 
-# To be executed at the root of uAssetsCDN repo
-#
-# It's not being hosted at uAssetsCDN because that
-# repo is also used as a website
-
-
 # Keep only the most recent (5-day x 4-per-day) patches
 OBSOLETE_PATCHES=( $(ls -1v patches/*.patch | head -n -20) )
 for FILE in "${OBSOLETE_PATCHES[@]}"; do
@@ -52,11 +46,6 @@ for PATCH_FILE in "${PATCH_FILES[@]}"; do
 
         # Extract diff name from `! Diff-Path:` field
         DIFF_NAME=$(grep -m 1 -oP '^! Diff-Path: [^#]+#?\K.*' $FILTER_LIST)
-        # Fall back to `! Diff-Name:` field if no name found
-        # Remove once `! Diff-Name:` is no longer needed after transition
-        if [[ -z $DIFF_NAME ]]; then
-            DIFF_NAME=$(grep -m 1 -oP '^! Diff-Name: \K.+' $FILTER_LIST)
-        fi
 
         # We need a patch name to generate a valid patch
         if [[ -z $DIFF_NAME ]]; then
