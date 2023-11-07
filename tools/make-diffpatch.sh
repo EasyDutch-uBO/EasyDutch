@@ -4,11 +4,6 @@
 
 set -e
 
-# To be executed at the root of uAssetsCDN repo
-#
-# It's not being hosted at uAssetsCDN because that
-# repo is also used as a website
-
 VERSION=$1
 if [[ -z $VERSION ]]; then
     echo "Error: No version provided, aborting"
@@ -39,11 +34,6 @@ for FILE in "${FILES[@]}"; do
 
         # Extract diff name from `! Diff-Path:` field
         DIFF_NAME=$(grep -m 1 -oP '^! Diff-Path: [^#]+#?\K.*' $FILE)
-        # Fall back to `! Diff-Name:` field if no name found
-        # Remove once `! Diff-Name:` is no longer needed after transition
-        if [[ -z $DIFF_NAME ]]; then
-            DIFF_NAME=$(grep -m 1 -oP '^! Diff-Name: \K.+' $FILE)
-        fi
         echo "Info: Diff name for ${FILE} is ${DIFF_NAME}"
 
         # We need a patch name to generate a valid patch
