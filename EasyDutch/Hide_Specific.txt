@@ -2,6 +2,10 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-11-07 https://github.com/EasyDutch-uBO/EasyDutch/issues/93
+sun.sr##app-money-exchange
+sun.sr##app-slider-add
+sun.sr##.bannerslid-add:upward(.container):has(app-topleft)
 ! 2023-10-05
 racingnews365.nl###betting-prefs
 ! 2023-11-03
