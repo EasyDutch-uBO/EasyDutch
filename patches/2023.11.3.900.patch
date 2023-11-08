@@ -1,10 +1,10 @@
-diff name:easydutch lines:47 checksum:d58b66f382
+diff name:easydutch lines:49 checksum:07afd1bbba
 d2 1
 a2 1
-! Last updated: Tue, 07 Nov 2023 16:34:55 +0000
+! Last updated: Wed, 08 Nov 2023 20:15:56 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.7.994.patch#easydutch
+! Diff-Path: patches/2023.11.8.1215.patch#easydutch
 a152 7
 /Images/*Ad$image,domain=sun.sr
 /Images/*Banner$image,domain=sun.sr
@@ -22,7 +22,9 @@ d359 1
 d362 1
 d483 1
 d534 1
-a661 13
+a661 15
+mannenzaken.nl##.axd-container.axd-widget
+mannenzaken.nl##[class^="r89-desktop-billboard-"]:upward(2)
 sun.sr##app-money-exchange
 sun.sr##app-slider-add
 sun.sr##.bannerslid-add:upward(.container):has(app-topleft)

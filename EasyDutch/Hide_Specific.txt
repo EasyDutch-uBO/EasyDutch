@@ -1,7 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 07 Nov 2023 16:34:55 +0000
+! Last updated: Wed, 08 Nov 2023 20:15:56 +0000
 !
+! 2023-11-08
+mannenzaken.nl##.axd-container.axd-widget
+mannenzaken.nl##[class^="r89-desktop-billboard-"]:upward(2)
 ! 2023-11-07 https://github.com/EasyDutch-uBO/EasyDutch/issues/93
 sun.sr##app-money-exchange
 sun.sr##app-slider-add

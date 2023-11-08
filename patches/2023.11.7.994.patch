@@ -1,0 +1,10 @@
+diff name:easydutch lines:9 checksum:07afd1bbba
+d2 1
+a2 1
+! Last updated: Wed, 08 Nov 2023 20:15:56 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.11.8.1215.patch#easydutch
+a662 2
+mannenzaken.nl##.axd-container.axd-widget
+mannenzaken.nl##[class^="r89-desktop-billboard-"]:upward(2)
