@@ -32,7 +32,7 @@ This list also handles anti-adblock, which isn't done by EasyList Dutch. See the
 If you see ads on dutch websites please [report](https://github.com/EasyDutch-uBO/EasyDutch/issues/new/choose) it to me or sent me an email to easydutch.adblock@gmail.com <br>
 
 uBlock Origin uses four links to update our list in their add-on/extension.  <br>
-The [`contentURL`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L753) is instantly updated after a commit, our own [`EasyDutchCDN`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L757) is updated every two hours, the other two [`cdnURLs`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L595-L596) are updated less.  <br>
+The [`contentURL`](https://github.com/gorhill/uBlock/blob/eb52d46afa7fc2c55e3c3555e7c7bee8f136473c/assets/assets.json#L756) is instantly updated after a commit, our own [`EasyDutchCDN`](https://github.com/gorhill/uBlock/blob/eb52d46afa7fc2c55e3c3555e7c7bee8f136473c/assets/assets.json#L758) is updated every two hours, the other two [`cdnURLs`](https://github.com/gorhill/uBlock/blob/eb52d46afa7fc2c55e3c3555e7c7bee8f136473c/assets/assets.json#L759-L760) are updated less.  <br>
 If there is a fix you need immediately, I can update the [`jsDelivr cdnURL`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L756) by going to https://www.jsdelivr.com/tools/purge, and our [`EasyDutchCDN`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L757).
 
 
