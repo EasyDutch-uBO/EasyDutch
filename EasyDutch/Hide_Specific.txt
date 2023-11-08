@@ -2,6 +2,9 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-11-08
+mannenzaken.nl##.axd-container.axd-widget
+mannenzaken.nl##[class^="r89-desktop-billboard-"]:upward(2)
 ! 2023-11-07 https://github.com/EasyDutch-uBO/EasyDutch/issues/93
 sun.sr##app-money-exchange
 sun.sr##app-slider-add
