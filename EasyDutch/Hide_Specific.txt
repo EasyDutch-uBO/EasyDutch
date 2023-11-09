@@ -1,10 +1,16 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 09 Nov 2023 08:37:23 +0000
+! Last updated: Thu, 09 Nov 2023 14:16:17 +0000
 !
 ! 2023-11-09
 abcsuriname.com##.banner_wrapper
 dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
+hoekschnieuws.nl##.widget-heading:has-text(Advert)
+hoekschnieuws.nl##.widget-heading:has-text(Advert) + .textwidget
+hoekschnieuws.nl##.widget-heading:has-text(Advert) + .g
+rubenweytjens.be##.block-ad-banner
+rubenweytjens.be##.lecture-wrapper
+rubenweytjens.be##.view-weather-ads-view
 ! 2023-11-08
 mannenzaken.nl##.axd-container.axd-widget
 mannenzaken.nl##[class^="r89-desktop-billboard-"]:upward(2)
@@ -98,8 +104,6 @@ riskcompliance.nl##a[onclick*="Banner"]:not(a[href*="riskcompliance.nl"]):upward
 rotterdam-nesselande.nl##.adsbygoogle:not(.adsbygoogle-noablate):upward(1)
 rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-posts))
 rtvgo.nl##.thanksto
-rubenweytjens.be##.block-ad-banner:not(:has([href*="weerpush.be/"])):not(:has(iframe[src*="meteo-be.net"]))
-rubenweytjens.be##.view-weather-ads-view
 voetbalbelgie.be##div[class$="-atf"]
 ! 2023-10-13
 citaten.net##.adsense
@@ -545,7 +549,6 @@ solarmagazine.nl##[id]:has(.company-add)
 nporadio1.nl,nporadio2.nl##[id^="adid"]:upward(2)
 hollywoodhuizen.nl##rssapp-carousel
 tennisvlaanderen.be##.commercial-banner
-hoekschnieuws.nl##.td-a-rec.td-a-rec-id-content_bottom > a[href]
 historiek.net##.ablok
 h2owaternetwerk.nl##.bannergroup:upward(.module)
 h2owaternetwerk.nl##.ja-banner
@@ -1198,7 +1201,6 @@ transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteer
 streamwijzer.be##.widget:has(a[href*=".bn5x.net/"])
 mannennieuws.nl##.widget:has(img[src*="banner"])
 bol-an.nl##.widget:has-text(Sponsors)
-hoekschnieuws.nl##.widget[class^="td_block_template"]:has-text(Advert)
 autoblog.nl##.widget_ab_sidebar
 amsterdamactueel.nl##.widget_alaya_ad
 eindtijdklok.org##.widget_block:has(img[src*="/ad"])
