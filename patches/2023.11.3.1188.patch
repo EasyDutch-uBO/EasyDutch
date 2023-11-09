@@ -1,1 +1,19 @@
-diff name:easydutch lines:0 /tmp/tmp.FUOq6xftVE checksum:96051c4f84
+diff name:easydutch lines:18 checksum:0bf1c05b81
+d2 1
+a2 1
+! Last updated: Thu, 09 Nov 2023 09:12:30 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.11.9.552.patch#easydutch
+a152 2
+/Images/*Ad$image,domain=sun.sr
+/Images/*Banner$image,domain=sun.sr
+a660 8
+abcsuriname.com##.banner_wrapper
+dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
+mannenzaken.nl##.axd-container.axd-widget
+mannenzaken.nl##[class^="r89-desktop-billboard-"]:upward(2)
+sun.sr##app-money-exchange
+sun.sr##app-slider-add
+sun.sr##.bannerslid-add:upward(.container):has(app-topleft)
+racingnews365.nl###betting-prefs

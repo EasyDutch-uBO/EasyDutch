@@ -1,1 +1,103 @@
-diff name:easydutch lines:0 /tmp/tmp.FUOq6xftVE checksum:96051c4f84
+diff name:easydutch lines:102 checksum:0bf1c05b81
+d2 1
+a2 1
+! Last updated: Thu, 09 Nov 2023 09:12:30 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.11.9.552.patch#easydutch
+d97 1
+d113 1
+a113 1
+||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~instasex.nl
+a153 21
+/Images/*Ad$image,domain=sun.sr
+/Images/*Banner$image,domain=sun.sr
+/js-betting.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
+/js/partner-bar.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
+/images/sponsors/*$image,domain=ticketing.knvb.nl
+/images/sponsorlogos/*$image,domain=knvb.nl|onsoranje.nl|totoknvbbeker.nl
+||vrouweneredivisie.nl/*/vrouweneredivisie/img/*-ghost.png$image
+||beterbijbel.nl/afbeeldingen/banner$image
+||beterrekenen.nl/afbeeldingen/banner$image
+||beterspellen.nl/afbeeldingen/banner$image
+||nubeterengels.nl/afbeeldingen/banner$image
+||nubeterduits.nl/afbeeldingen/banner$image
+||nubeterfrans.nl/afbeeldingen/banner$image
+||nubeterspaans.nl/afbeeldingen/banner$image
+||truck1.be/st2/banners/
+||truck1.nl/st2/banners/
+||truck1-nl.be/st2/banners/
+||feyenoord.nl/*/media/*partnerships/$image
+||nnieuws.be/sites/default/files/images/ads/
+||noordernieuws.nl/wp-content/uploads/*/casino$image
+||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p
+d254 6
+d286 1
+d291 1
+d323 1
+a323 1
+||jobat.be/extra/trackuityhn/ticker_new.html$3p
+d352 1
+d355 1
+d420 1
+d477 1
+d528 1
+d609 1
+d620 3
+d642 1
+a660 29
+abcsuriname.com##.banner_wrapper
+dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
+mannenzaken.nl##.axd-container.axd-widget
+mannenzaken.nl##[class^="r89-desktop-billboard-"]:upward(2)
+sun.sr##app-money-exchange
+sun.sr##app-slider-add
+sun.sr##.bannerslid-add:upward(.container):has(app-topleft)
+racingnews365.nl###betting-prefs
+gva.be##main > section.grid:has(.link-complex)
+gva.be##[id^="CBAWIDGET"]:has-text(partners):upward(1)
+schie.nu##h6:has-text(/advert/i):upward(1)
+ajaxfanatics.nl,cambuurfront.nl,feanonline.nl,feyenoordpings.nl,fcgfans.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
+ajaxfanatics.nl,cambuurfront.nl,feanonline.nl,feyenoordpings.nl,fcgfans.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.footer__partners-wrapper
+knvb.nl,onsoranje.nl##.SponsorBar
+ticketing.knvb.nl###footer-sponsors-wrapper
+voetbal.nl##.Footer-sponsorList:upward(div.Footer-column)
+vrouweneredivisie.nl###sponsors
+ninefornews.nl##.gofollow
+ninefornews.nl##.mag-box.half-box
+ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
+ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3:has-text(Interessant))
+ninefornews.nl##div[class^="mag-box"] + #adskeeper
+nnieuws.be##[class*="blockpartners"]
+nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
+nuus.be##.adv-link:upward(.sidebar)
+nuus.be###masthead:style(height:90px!important;)
+nzbindex.nl##form + div a[href^="/"]:has(img)
+bright.nl,voetbalprimeur.nl##[class^="Ad_"]
+bright.nl,voetbalprimeur.nl##.ad
+d814 1
+d875 2
+d951 1
+d1081 2
+d1097 1
+d1101 1
+d1152 1
+d1195 3
+d1205 1
+d1223 1
+d1249 1
+d1301 5
+d1474 1
+d1478 1
+d1494 1
+d1536 1
+d1573 1
+d1610 1
+d1638 1
+d1654 1
+d1695 1
+d1734 1
+d1938 1
+d1952 1
+a1952 1
+@@*$ghide,domain=modekoninginmaxima.nl
