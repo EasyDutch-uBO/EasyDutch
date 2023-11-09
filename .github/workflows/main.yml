@@ -48,7 +48,7 @@ jobs:
       - name: Copy shell script from EasyDutch-uBO/EasyDutch
         run: |
           TMPDIR="$(mktemp -d)"
-          git clone --depth=1 --single-branch --branch=main https://github.com/EasyDutch-uBO/EasyDutch.git "$TMPDIR"
+          git clone --depth=1 --single-branch --branch=master https://github.com/uBlockOrigin/uAssets.git "$TMPDIR"
           cp -v "$TMPDIR"/tools/make-diffpatch.sh .
           cp -v "$TMPDIR"/tools/update-diffpatches.sh .
       - name: Copy filter lists to gh-pages
