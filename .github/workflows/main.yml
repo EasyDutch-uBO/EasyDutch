@@ -45,6 +45,11 @@ jobs:
           TAGNAME=$(date -u "+%Y.%-m.%-d.")$(date -u "+%H*60+%M" | bc)
           echo "TAGNAME=$TAGNAME" >> $GITHUB_ENV
           echo "Version string is $TAGNAME"
+      - name: Build directory
+        run: |
+          BUILDDIR="$(mktemp -d)"
+          echo "BUILDDIR=$BUILDDIR" >> $GITHUB_ENV
+          echo "Build directory is $BUILDDIR"
       - name: Copy shell script from EasyDutch-uBO/EasyDutch
         run: |
           TMPDIR="$(mktemp -d)"
