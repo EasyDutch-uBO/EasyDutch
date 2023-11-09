@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Thu, 09 Nov 2023 14:31:26 +0000
+! Last updated: Thu, 09 Nov 2023 14:46:52 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.11.9.871.patch#easydutch
+! Diff-Path: patches/2023.11.9.886.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -663,6 +663,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
 abcsuriname.com##.banner_wrapper
 dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
+hoekschnieuws.nl##body > center:has(img)
+hoekschnieuws.nl##body > center:has(img) + br
 hoekschnieuws.nl##.widget-heading:has-text(Advert)
 hoekschnieuws.nl##.widget-heading:has-text(Advert) + .textwidget
 hoekschnieuws.nl##.g
@@ -1780,7 +1782,6 @@ handbalstartpunt.nl##aside.widget-banner
 zeelandnet.nl##aside:has([id^="div-gpt-ad"])
 newspower.nu##aside[class^="td_block"]:has(.gofollow)
 digitaalburg.com##aside[class^="widget widget_text"]
-hoekschnieuws.nl##body > center:has(img)
 dekrantvantoen.nl##body:style(margin-top:-20px!important)
 nu.nl##div.articlelist[data-section^="advertorial"][data-section$="-adverteerder"]
 classic.nl##div.brievenbus
