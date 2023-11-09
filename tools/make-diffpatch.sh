@@ -32,7 +32,7 @@ for FILE in "${FILES[@]}"; do
     # https://github.com/ameshkov/diffupdates
 
     if (head "$FILE" | grep -q '^! Version: '); then
-        sed -Ei "1,10s;^! Version: .+$;! Version: $VERSION;" $FILE
+        sed -Ei "1,10s;^! Version: .+$;! Version: $VERSION;" "$FILE"
     fi
 
     # Patches are for filter lists supporting differential updates
