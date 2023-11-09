@@ -5,6 +5,9 @@
 ! 2023-11-09
 abcsuriname.com##.banner_wrapper
 dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
+rubenweytjens.be##.block-ad-banner
+rubenweytjens.be##.lecture-wrapper
+rubenweytjens.be##.view-weather-ads-view
 ! 2023-11-08
 mannenzaken.nl##.axd-container.axd-widget
 mannenzaken.nl##[class^="r89-desktop-billboard-"]:upward(2)
@@ -98,8 +101,6 @@ riskcompliance.nl##a[onclick*="Banner"]:not(a[href*="riskcompliance.nl"]):upward
 rotterdam-nesselande.nl##.adsbygoogle:not(.adsbygoogle-noablate):upward(1)
 rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-posts))
 rtvgo.nl##.thanksto
-rubenweytjens.be##.block-ad-banner:not(:has([href*="weerpush.be/"])):not(:has(iframe[src*="meteo-be.net"]))
-rubenweytjens.be##.view-weather-ads-view
 voetbalbelgie.be##div[class$="-atf"]
 ! 2023-10-13
 citaten.net##.adsense
