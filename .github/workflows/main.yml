@@ -82,13 +82,13 @@ jobs:
         run: |
           # chmod 755 ./make-diffpatch.sh
           PATCHES_DIR="patches"
-          ${{ env.BUILDDIR }}./make-diffpatch.sh "${{ env.TAGNAME }}" "$PATCHES_DIR"
+          ${{ env.BUILDDIR }}/make-diffpatch.sh "${{ env.TAGNAME }}" "$PATCHES_DIR"
       - name: Update existing patch
         run: |
           # chmod 755 ./update-diffpatches.sh
           PATCHES_DIR="patches"
           FILTER_FILES=$(git ls-files --exclude-standard -- EasyDutch.all.txt)
-          ${{ env.BUILDDIR }}./update-diffpatches.sh "$GITHUB_REPOSITORY" "$PATCHES_DIR" "$FILTER_FILES"
+          ${{ env.BUILDDIR }}/update-diffpatches.sh "$GITHUB_REPOSITORY" "$PATCHES_DIR" "$FILTER_FILES"
       - name: Commit changes (if any)
         run: |
           if [[ -z $(git diff --name-only --cached) ]]; then exit 0; fi
