@@ -1,11 +1,12 @@
-diff name:easydutch lines:10 checksum:c486a78ace
+diff name:easydutch lines:11 /tmp/tmp.MdUpDS091H checksum:59ca5fac24
 d2 1
 a2 1
-! Last updated: Thu, 09 Nov 2023 14:46:52 +0000
+! Last updated: Thu, 09 Nov 2023 19:44:34 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.9.886.patch#easydutch
-a665 2
+! Diff-Path: patches/2023.11.9.1184.patch#easydutch
+a665 3
+fwd.nl##[class^="advertisement"]
 hoekschnieuws.nl##body > center:has(img)
 hoekschnieuws.nl##body > center:has(img) + br
 d1783 1

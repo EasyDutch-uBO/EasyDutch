@@ -1,0 +1,9 @@
+diff name:easydutch lines:8 checksum:59ca5fac24
+d2 1
+a2 1
+! Last updated: Thu, 09 Nov 2023 19:44:34 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.11.9.1184.patch#easydutch
+a665 1
+fwd.nl##[class^="advertisement"]

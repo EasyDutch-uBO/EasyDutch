@@ -1,1 +1,25 @@
-diff name:easydutch lines:0 /tmp/tmp.pRkW4SgmoM checksum:c486a78ace
+diff name:easydutch lines:24 /tmp/tmp.MdUpDS091H checksum:59ca5fac24
+d2 1
+a2 1
+! Last updated: Thu, 09 Nov 2023 19:44:34 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.11.9.1184.patch#easydutch
+a152 1
+||rubenweytjens.be/sites/default/*/ads_$image
+a662 11
+abcsuriname.com##.banner_wrapper
+dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
+fwd.nl##[class^="advertisement"]
+hoekschnieuws.nl##body > center:has(img)
+hoekschnieuws.nl##body > center:has(img) + br
+hoekschnieuws.nl##.widget-heading:has-text(Advert)
+hoekschnieuws.nl##.widget-heading:has-text(Advert) + .textwidget
+hoekschnieuws.nl##.g
+rubenweytjens.be##.block-ad-banner
+rubenweytjens.be##.lecture-wrapper
+rubenweytjens.be##.view-weather-ads-view
+d745 2
+d1102 1
+d1703 1
+d1778 1
