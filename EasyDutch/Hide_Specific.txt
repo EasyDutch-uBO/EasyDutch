@@ -5,6 +5,7 @@
 ! 2023-11-09
 abcsuriname.com##.banner_wrapper
 dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
+fwd.nl##[class^="advertisement"]
 hoekschnieuws.nl##body > center:has(img)
 hoekschnieuws.nl##body > center:has(img) + br
 hoekschnieuws.nl##.widget-heading:has-text(Advert)
