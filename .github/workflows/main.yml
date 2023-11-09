@@ -47,21 +47,21 @@ jobs:
           echo "Version string is $TAGNAME"
       - name: Copy shell script from EasyDutch-uBO/EasyDutch
         run: |
-          TMPDIR="$(mktemp -d)"
-          git clone --depth=1 --single-branch --branch=main https://github.com/EasyDutch-uBO/EasyDutch.git "$TMPDIR"
-          cp -v "$TMPDIR"/tools/make-diffpatch.sh .
-          cp -v "$TMPDIR"/tools/update-diffpatches.sh .
+          TMPDIR=$(mktemp -d)
+          git clone --depth=1 --single-branch --branch=main https://github.com/EasyDutch-uBO/EasyDutch.git $TMPDIR
+          cp -v $TMPDIR/tools/make-diffpatch.sh .
+          cp -v $TMPDIR/tools/update-diffpatches.sh .
       - name: Copy filter lists to gh-pages
         run: |
-          TMPFILE="$(mktemp -d)"
-          git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git "$TMPFILE"
-          pushd "$TMPFILE" > /dev/null
+          TMPFILE=$(mktemp -d)
+          git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPFILE
+          pushd $TMPFILE > /dev/null
           echo "*** EasyDutch: Assembling EasyDutch.txt"
           node ./tools/make-easydutch.mjs in=./tools/easydutch-filters.template out=./EasyDutch.all.txt minify=1
           popd > /dev/null
-          cp "$TMPFILE"/EasyDutch/*.txt EasyDutch/
-          cp "$TMPFILE"/EasyDutch.txt EasyDutch.txt
-          cp "$TMPFILE"/EasyDutch.all.txt EasyDutch.all.txt
+          cp $TMPFILE/EasyDutch/*.txt EasyDutch/
+          cp $TMPFILE/EasyDutch.txt EasyDutch.txt
+          cp $TMPFILE/EasyDutch.all.txt EasyDutch.all.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
@@ -76,14 +76,11 @@ jobs:
       - name: Create new patch
         run: |
           chmod 755 ./make-diffpatch.sh
-          PATCHES_DIR="patches"
-          ./make-diffpatch.sh "${{ env.TAGNAME }}" "$PATCHES_DIR"
+          ./make-diffpatch.sh "${{ env.TAGNAME }}"
       - name: Update existing patch
         run: |
           chmod 755 ./update-diffpatches.sh
-          PATCHES_DIR="patches"
-          FILTER_FILES=$(git ls-files --exclude-standard -- EasyDutch.all.txt)
-          ./update-diffpatches.sh "$GITHUB_REPOSITORY" "$PATCHES_DIR" "$FILTER_FILES"
+          ./update-diffpatches.sh "${{ env.TAGNAME }}"
       - name: Commit changes (if any)
         run: |
           if [[ -z $(git diff --name-only --cached) ]]; then exit 0; fi
