@@ -1,13 +1,13 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 09 Nov 2023 14:16:17 +0000
+! Last updated: Thu, 09 Nov 2023 14:31:26 +0000
 !
 ! 2023-11-09
 abcsuriname.com##.banner_wrapper
 dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
 hoekschnieuws.nl##.widget-heading:has-text(Advert)
 hoekschnieuws.nl##.widget-heading:has-text(Advert) + .textwidget
-hoekschnieuws.nl##.widget-heading:has-text(Advert) + .g
+hoekschnieuws.nl##.g
 rubenweytjens.be##.block-ad-banner
 rubenweytjens.be##.lecture-wrapper
 rubenweytjens.be##.view-weather-ads-view
