@@ -1,9 +1,9 @@
 ! Title: Block Third-Party Server
 ! Description: Filters for blocking only general third-party servers on Dutch websites
-! Last updated: Thu, 02 Nov 2023 14:32:09 +0000
+! Last updated: Thu, 09 Nov 2023 09:47:02 +0000
 !
 ! 2023-10-17
-! bitcoinmagazine.nl, cryptobenelux.com
+! bitcoinmagazine.nl,cryptobenelux.com
 ||cryptosplash.care^$3p
 ||cryptobeneluxbanner.care^$3p
 ! 2023-10-13
