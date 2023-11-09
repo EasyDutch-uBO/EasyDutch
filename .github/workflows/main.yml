@@ -45,7 +45,7 @@ jobs:
           TAGNAME=$(date -u "+%Y.%-m.%-d.")$(date -u "+%H*60+%M" | bc)
           echo "TAGNAME=$TAGNAME" >> $GITHUB_ENV
           echo "Version string is $TAGNAME"
-      - name: Copy shell script from EasyDutch-uBO/EasyDutch
+      - name: Copy shell script from uBlockOrigin/uAssets
         run: |
           TMPDIR="$(mktemp -d)"
           git clone --depth=1 --single-branch --branch=master https://github.com/uBlockOrigin/uAssets.git "$TMPDIR"
