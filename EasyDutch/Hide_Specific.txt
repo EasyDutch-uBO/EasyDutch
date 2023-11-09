@@ -1,7 +1,9 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 08 Nov 2023 20:15:56 +0000
+! Last updated: Thu, 09 Nov 2023 07:01:45 +0000
 !
+! 2023-11-09
+dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
 ! 2023-11-08
 mannenzaken.nl##.axd-container.axd-widget
 mannenzaken.nl##[class^="r89-desktop-billboard-"]:upward(2)
