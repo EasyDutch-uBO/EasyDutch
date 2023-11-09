@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-11-09
+abcsuriname.com##.banner_wrapper
 dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
 ! 2023-11-08
 mannenzaken.nl##.axd-container.axd-widget
