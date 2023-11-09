@@ -1,8 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Wed, 08 Nov 2023 20:15:56 +0000
+! Last updated: Thu, 09 Nov 2023 06:40:21 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.11.8.1215.patch#easydutch
-! Diff-Name: easydutch
+! Diff-Path: patches/2023.11.9.400.patch#easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
