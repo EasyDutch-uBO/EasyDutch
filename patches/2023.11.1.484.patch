@@ -1,16 +1,17 @@
-diff name:easydutch lines:104 /tmp/tmp.MdUpDS091H checksum:59ca5fac24
+diff name:easydutch lines:105 checksum:4cbad69ed7
 d2 1
 a2 1
-! Last updated: Thu, 09 Nov 2023 19:44:34 +0000
+! Last updated: Sun, 12 Nov 2023 18:50:57 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.9.1184.patch#easydutch
+! Diff-Path: patches/2023.11.12.1130.patch#easydutch
 d97 1
 d113 1
 a113 1
 ||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~instasex.nl
 d154 1
-a154 21
+a154 22
+npo.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 ||rubenweytjens.be/sites/default/*/ads_$image
 /Images/*Ad$image,domain=sun.sr
 /Images/*Banner$image,domain=sun.sr

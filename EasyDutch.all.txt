@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Thu, 09 Nov 2023 19:44:34 +0000
+! Last updated: Sun, 12 Nov 2023 18:50:57 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.11.9.1184.patch#easydutch
+! Diff-Path: patches/2023.11.12.1130.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -150,6 +150,7 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
+npo.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 ||rubenweytjens.be/sites/default/*/ads_$image
 /Images/*Ad$image,domain=sun.sr
 /Images/*Banner$image,domain=sun.sr

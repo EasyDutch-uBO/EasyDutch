@@ -1,11 +1,12 @@
-diff name:easydutch lines:26 /tmp/tmp.MdUpDS091H checksum:59ca5fac24
+diff name:easydutch lines:27 checksum:4cbad69ed7
 d2 1
 a2 1
-! Last updated: Thu, 09 Nov 2023 19:44:34 +0000
+! Last updated: Sun, 12 Nov 2023 18:50:57 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.9.1184.patch#easydutch
-a152 1
+! Diff-Path: patches/2023.11.12.1130.patch#easydutch
+a152 2
+npo.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 ||rubenweytjens.be/sites/default/*/ads_$image
 a662 13
 abcsuriname.com##.banner_wrapper

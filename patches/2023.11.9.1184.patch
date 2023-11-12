@@ -1,4 +1,4 @@
-diff name:easydutch lines:10 checksum:4cbad69ed7
+diff name:easydutch lines:8 checksum:4cbad69ed7
 d2 1
 a2 1
 ! Last updated: Sun, 12 Nov 2023 18:50:57 +0000
@@ -7,5 +7,3 @@ a4 1
 ! Diff-Path: patches/2023.11.12.1130.patch#easydutch
 a152 1
 npo.nl##+js(json-prune, assets.preroll assets.prerollDebug)
-a665 1
-fwd.nl##[class^="advertisement"]
