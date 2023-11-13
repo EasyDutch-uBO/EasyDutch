@@ -2,7 +2,9 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2023-11-12 https://www.reddit.com/r/uBlockOrigin/comments/17tfadh/httpsnponlstartserieditwashetnieuws_doesnt_block/
+! 2023-11-12 https://github.com/uBlockOrigin/uAssets/issues/20659
+! https://www.reddit.com/r/uBlockOrigin/comments/17tfadh/httpsnponlstartserieditwashetnieuws_doesnt_block/
+||akamaized.net^$media,domain=npo.nl,redirect=noopmp3-0.1s
 npo.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 ! 2023-11-08
 ||rubenweytjens.be/sites/default/*/ads_$image
