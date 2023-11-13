@@ -1,16 +1,17 @@
-diff name:easydutch lines:105 checksum:4cbad69ed7
+diff name:easydutch lines:107 checksum:c40750309f
 d2 1
 a2 1
-! Last updated: Sun, 12 Nov 2023 18:50:57 +0000
+! Last updated: Mon, 13 Nov 2023 20:48:50 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.12.1130.patch#easydutch
+! Diff-Path: patches/2023.11.13.1248.patch#easydutch
 d97 1
 d113 1
 a113 1
 ||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~instasex.nl
 d154 1
-a154 22
+a154 23
+||akamaized.net^$media,domain=npo.nl,redirect=noopmp3-0.1s
 npo.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 ||rubenweytjens.be/sites/default/*/ads_$image
 /Images/*Ad$image,domain=sun.sr
@@ -46,7 +47,8 @@ d529 1
 d610 1
 d621 3
 d643 1
-a661 26
+a661 27
+npo.nl##.bitmovinplayer-poster
 abcsuriname.com##.banner_wrapper
 dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
 fwd.nl##[class^="advertisement"]

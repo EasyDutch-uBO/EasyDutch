@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Sun, 12 Nov 2023 18:50:57 +0000
+! Last updated: Mon, 13 Nov 2023 20:48:50 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.11.12.1130.patch#easydutch
+! Diff-Path: patches/2023.11.13.1248.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -150,6 +150,7 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
+||akamaized.net^$media,domain=npo.nl,redirect=noopmp3-0.1s
 npo.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 ||rubenweytjens.be/sites/default/*/ads_$image
 /Images/*Ad$image,domain=sun.sr
@@ -662,6 +663,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.video-block-happy
 ###tracking-url
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+npo.nl##.bitmovinplayer-poster
 abcsuriname.com##.banner_wrapper
 dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
 fwd.nl##[class^="advertisement"]

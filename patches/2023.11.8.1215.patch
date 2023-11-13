@@ -1,14 +1,16 @@
-diff name:easydutch lines:25 checksum:4cbad69ed7
+diff name:easydutch lines:27 checksum:c40750309f
 d2 1
 a2 1
-! Last updated: Sun, 12 Nov 2023 18:50:57 +0000
+! Last updated: Mon, 13 Nov 2023 20:48:50 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.12.1130.patch#easydutch
-a152 2
+! Diff-Path: patches/2023.11.13.1248.patch#easydutch
+a152 3
+||akamaized.net^$media,domain=npo.nl,redirect=noopmp3-0.1s
 npo.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 ||rubenweytjens.be/sites/default/*/ads_$image
-a662 11
+a662 12
+npo.nl##.bitmovinplayer-poster
 abcsuriname.com##.banner_wrapper
 dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
 fwd.nl##[class^="advertisement"]
