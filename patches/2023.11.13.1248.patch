@@ -1,12 +1,10 @@
-diff name:easydutch lines:11 checksum:badda63ee6
+diff name:easydutch lines:9 checksum:badda63ee6
 d2 1
 a2 1
 ! Last updated: Thu, 16 Nov 2023 05:51:30 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2023.11.16.351.patch#easydutch
-a152 2
-||akamaized.net^$media,domain=npo.nl,redirect=noopmp3-0.1s
+d154 1
+a154 1
 npo.nl##+js(json-prune, assets.preroll)
-a663 1
-npo.nl##.bitmovinplayer-poster
