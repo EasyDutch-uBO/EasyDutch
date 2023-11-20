@@ -1,10 +1,9 @@
-diff name:easydutch lines:9 checksum:cc36633b4c
+diff name:easydutch lines:8 checksum:cc36633b4c
 d2 1
 a2 1
 ! Last updated: Mon, 20 Nov 2023 18:27:40 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2023.11.20.1107.patch#easydutch
-a665 2
+a665 1
 nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
-goudengids.be##.banner-boxes-holder

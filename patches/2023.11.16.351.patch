@@ -1,15 +1,16 @@
-diff name:easydutch lines:14 checksum:9e38abbe99
+diff name:easydutch lines:15 checksum:cc36633b4c
 d2 1
 a2 1
-! Last updated: Mon, 20 Nov 2023 11:26:19 +0000
+! Last updated: Mon, 20 Nov 2023 18:27:40 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.20.686.patch#easydutch
+! Diff-Path: patches/2023.11.20.1107.patch#easydutch
 d153 2
 a154 2
 ||akamaized.net^$media,domain=npo.nl|vpro.nl,redirect=noopmp3-0.1s
 npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 d666 1
-a666 2
+a666 3
+nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
 goudengids.be##.banner-boxes-holder
 npo.nl,vpro.nl##.bitmovinplayer-poster
