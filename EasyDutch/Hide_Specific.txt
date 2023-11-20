@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-11-20
+nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
 goudengids.be##.banner-boxes-holder
 ! 2023-11-13 https://github.com/uBlockOrigin/uAssets/issues/20659
 npo.nl,vpro.nl##.bitmovinplayer-poster
