@@ -1,4 +1,4 @@
-diff name:easydutch lines:14 checksum:9ac605435d
+diff name:easydutch lines:11 checksum:9ac605435d
 d2 1
 a2 1
 ! Last updated: Tue, 21 Nov 2023 06:31:00 +0000
@@ -10,6 +10,3 @@ a152 3
 ||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
 ||reformatorischeomroep.nl/*/*-RO-*.gif$image
 d201 2
-a665 2
-nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
-goudengids.be##.banner-boxes-holder

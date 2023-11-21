@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Mon, 20 Nov 2023 18:27:40 +0000
+! Last updated: Tue, 21 Nov 2023 06:31:00 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.11.20.1107.patch#easydutch
+! Diff-Path: patches/2023.11.21.390.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -150,6 +150,9 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
+||reformatorischeomroep.nl/*/*banner$image
+||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
+||reformatorischeomroep.nl/*/*-RO-*.gif$image
 ||akamaized.net^$media,domain=npo.nl|vpro.nl,redirect=noopmp3-0.1s
 npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 ||rubenweytjens.be/sites/default/*/ads_$image
@@ -198,8 +201,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ecobioliving.eu/*bol.com/nl/upload/partnerprogramma/$image
 ||cryptobenelux.com/wp-content/uploads/*/728x90.gif
 ||riskcompliance.nl/wp-content/uploads/*/*banner.gif
-||reformatorischeomroep.nl/*/*banner$image
-||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
 ||villamedia.nl/images/banners/
 ||autonieuws.be/templates/yootheme/cache/*/1MG_Banni%C3%A8re_Autonieuws_V1-*$image
 ||autonieuws.be/templates/yootheme/cache/*/325_x_325_NL-*$image

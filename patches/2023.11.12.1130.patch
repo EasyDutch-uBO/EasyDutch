@@ -1,14 +1,18 @@
-diff name:easydutch lines:14 checksum:cc36633b4c
+diff name:easydutch lines:18 checksum:9ac605435d
 d2 1
 a2 1
-! Last updated: Mon, 20 Nov 2023 18:27:40 +0000
+! Last updated: Tue, 21 Nov 2023 06:31:00 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.20.1107.patch#easydutch
+! Diff-Path: patches/2023.11.21.390.patch#easydutch
 d153 1
-a153 2
+a153 5
+||reformatorischeomroep.nl/*/*banner$image
+||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
+||reformatorischeomroep.nl/*/*-RO-*.gif$image
 ||akamaized.net^$media,domain=npo.nl|vpro.nl,redirect=noopmp3-0.1s
 npo.nl,vpro.nl##+js(json-prune, assets.preroll)
+d200 2
 a664 3
 nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
 goudengids.be##.banner-boxes-holder
