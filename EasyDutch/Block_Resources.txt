@@ -2,6 +2,10 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-11-21
+||reformatorischeomroep.nl/*/*banner$image
+||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
+||reformatorischeomroep.nl/*/*-RO-*.gif$image
 ! 2023-11-16
 ! https://github.com/uBlockOrigin/uAssets/issues/20659
 ! https://github.com/AdguardTeam/AdguardFilters/issues/166205
@@ -66,8 +70,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||cryptobenelux.com/wp-content/uploads/*/728x90.gif
 ! 2023-08-01
 ||riskcompliance.nl/wp-content/uploads/*/*banner.gif
-||reformatorischeomroep.nl/*/*banner$image
-||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
 ||villamedia.nl/images/banners/
 ! 2023-07-04
 ||autonieuws.be/templates/yootheme/cache/*/1MG_Banni%C3%A8re_Autonieuws_V1-*$image
