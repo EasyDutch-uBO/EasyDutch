@@ -1,10 +1,10 @@
-diff name:easydutch lines:19 checksum:9ac605435d
+diff name:easydutch lines:20 checksum:1f55c43f0c
 d2 1
 a2 1
-! Last updated: Tue, 21 Nov 2023 06:31:00 +0000
+! Last updated: Wed, 22 Nov 2023 18:31:21 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.21.390.patch#easydutch
+! Diff-Path: patches/2023.11.22.1111.patch#easydutch
 d153 2
 a154 5
 ||reformatorischeomroep.nl/*/*banner$image
@@ -18,3 +18,4 @@ a666 3
 nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
 goudengids.be##.banner-boxes-holder
 npo.nl,vpro.nl##.bitmovinplayer-poster
+d1910 1

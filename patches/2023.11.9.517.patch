@@ -1,10 +1,10 @@
-diff name:easydutch lines:33 checksum:9ac605435d
+diff name:easydutch lines:34 checksum:1f55c43f0c
 d2 1
 a2 1
-! Last updated: Tue, 21 Nov 2023 06:31:00 +0000
+! Last updated: Wed, 22 Nov 2023 18:31:21 +0000
 d4 1
 a4 2
-! Diff-Path: patches/2023.11.21.390.patch#easydutch
+! Diff-Path: patches/2023.11.22.1111.patch#easydutch
 ! Diff-Name: easydutch
 a151 6
 ||reformatorischeomroep.nl/*/*banner$image
@@ -32,3 +32,4 @@ d746 2
 d1103 1
 d1704 1
 d1779 1
+d1901 1
