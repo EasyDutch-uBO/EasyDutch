@@ -15,11 +15,9 @@ meerdangewenst.nl##.sponsoren:upward(1):style(visibility: collapse !important; p
 ! 2023-10-13
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59606
 ! https://github.com/uBlockOrigin/uAssets/issues/11691
-! https://github.com/uBlockOrigin/uAssets/issues/8984
 ! https://github.com/NanoMeow/QuickReports/issues/1285
 @@||ah.nl^$ghide
 radiowereld.nl##+js(nosiif, adb)
-icttipsandtricks.nl##+js(aost, String.prototype.charCodeAt, ai_)
 gratisaftehalen.nl##+js(acs, fuckAdBlock, undefined)
 ! 2023-10-06 https://github.com/AdguardTeam/AdguardFilters/issues/163031
 looopings.nl##+js(remove-node-text, script, if(!document.getElementById)
