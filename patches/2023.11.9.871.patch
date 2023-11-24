@@ -1,10 +1,10 @@
-diff name:easydutch lines:28 checksum:18afcfa7e1
+diff name:easydutch lines:31 checksum:ba459996f4
 d2 1
 a2 1
-! Last updated: Fri, 24 Nov 2023 08:11:06 +0000
+! Last updated: Fri, 24 Nov 2023 11:20:16 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.24.491.patch#easydutch
+! Diff-Path: patches/2023.11.24.680.patch#easydutch
 a152 8
 ||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
@@ -15,7 +15,9 @@ a152 8
 ||akamaized.net^$media,domain=npo.nl|vpro.nl,redirect=noopmp3-0.1s
 npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 d199 2
-a663 4
+a663 6
+dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
+dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 doorbraak.be##a[href^="https://vnz.be"]:upward(div)
 nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
 goudengids.be##.banner-boxes-holder
@@ -24,6 +26,7 @@ a665 3
 fwd.nl##[class^="advertisement"]
 hoekschnieuws.nl##body > center:has(img)
 hoekschnieuws.nl##body > center:has(img) + br
+d1268 2
 d1427 1
 d1783 1
 d1905 1

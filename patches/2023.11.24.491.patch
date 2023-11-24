@@ -1,15 +1,11 @@
-diff name:easydutch lines:14 checksum:ba459996f4
+diff name:easydutch lines:10 checksum:ba459996f4
 d2 1
 a2 1
 ! Last updated: Fri, 24 Nov 2023 11:20:16 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2023.11.24.680.patch#easydutch
-a152 1
-||doorbraak.be/wp-json/api/*/ads$xhr
-a668 3
+a669 2
 dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
-doorbraak.be##a[href^="https://vnz.be"]:upward(div)
-d1279 2
-d1438 1
+d1281 2

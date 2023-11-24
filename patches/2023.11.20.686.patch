@@ -1,10 +1,10 @@
-diff name:easydutch lines:19 checksum:18afcfa7e1
+diff name:easydutch lines:22 checksum:ba459996f4
 d2 1
 a2 1
-! Last updated: Fri, 24 Nov 2023 08:11:06 +0000
+! Last updated: Fri, 24 Nov 2023 11:20:16 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.11.24.491.patch#easydutch
+! Diff-Path: patches/2023.11.24.680.patch#easydutch
 a152 6
 ||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
@@ -13,8 +13,11 @@ a152 6
 ||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
 ||reformatorischeomroep.nl/*/*-RO-*.gif$image
 d201 2
-a665 2
+a665 4
+dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
+dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 doorbraak.be##a[href^="https://vnz.be"]:upward(div)
 nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
+d1275 2
 d1434 1
 d1911 1
