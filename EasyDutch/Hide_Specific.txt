@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-11-24
+dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
+dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 doorbraak.be##a[href^="https://vnz.be"]:upward(div)
 ! 2023-11-20
 nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
@@ -742,9 +744,6 @@ voetbalnieuws.be##.banner
 ! 2022-04-22
 anoniem-surfen.nl##.footer-widget-1
 anoniem-surfen.nl##.header-widget-region
-! 2022-04-21
-dagelijksestandaard.nl###TOP_ARTICLE
-dagelijksestandaard.nl##nav + div[style^="height:52px"]
 ! 2022-04-19
 skoften.net##.promoted-entry-in-content
 ! 2022-04-15
