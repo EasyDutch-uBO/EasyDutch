@@ -1,12 +1,14 @@
-diff name:easydutch lines:35 checksum:1f55c43f0c
+diff name:easydutch lines:37 checksum:372def250b
 d2 1
 a2 1
-! Last updated: Wed, 22 Nov 2023 18:31:21 +0000
+! Last updated: Fri, 24 Nov 2023 07:00:57 +0000
 d4 1
 a4 2
-! Diff-Path: patches/2023.11.22.1111.patch#easydutch
+! Diff-Path: patches/2023.11.24.420.patch#easydutch
 ! Diff-Name: easydutch
-a151 6
+a151 8
+||grootnieuwsradio.nl/advertisements$xhr
+||grootnieuwsradio.nl/cache/*/advertisements/$image
 ||reformatorischeomroep.nl/*/*banner$image
 ||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
 ||reformatorischeomroep.nl/*/*-RO-*.gif$image

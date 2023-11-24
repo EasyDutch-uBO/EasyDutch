@@ -1,7 +1,10 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 21 Nov 2023 06:31:00 +0000
+! Last updated: Fri, 24 Nov 2023 07:00:57 +0000
 !
+! 2023-11-24
+||grootnieuwsradio.nl/advertisements$xhr
+||grootnieuwsradio.nl/cache/*/advertisements/$image
 ! 2023-11-21
 ||reformatorischeomroep.nl/*/*banner$image
 ||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
