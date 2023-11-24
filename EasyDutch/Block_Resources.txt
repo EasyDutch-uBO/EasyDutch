@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-11-24
+||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
 ||grootnieuwsradio.nl/cache/*/advertisements/$image
 ! 2023-11-21
