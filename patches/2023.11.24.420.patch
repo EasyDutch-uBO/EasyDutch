@@ -1,15 +1,12 @@
-diff name:easydutch lines:14 checksum:18afcfa7e1
+diff name:easydutch lines:11 checksum:18afcfa7e1
 d2 1
 a2 1
 ! Last updated: Fri, 24 Nov 2023 08:11:06 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2023.11.24.491.patch#easydutch
-a152 3
+a152 1
 ||doorbraak.be/wp-json/api/*/ads$xhr
-||grootnieuwsradio.nl/advertisements$xhr
-||grootnieuwsradio.nl/cache/*/advertisements/$image
-a666 1
+a668 1
 doorbraak.be##a[href^="https://vnz.be"]:upward(div)
-d1436 1
-d1913 1
+d1438 1

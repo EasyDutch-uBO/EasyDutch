@@ -1,8 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Fri, 24 Nov 2023 07:00:57 +0000
+! Last updated: Fri, 24 Nov 2023 08:11:06 +0000
 !
 ! 2023-11-24
+||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
 ||grootnieuwsradio.nl/cache/*/advertisements/$image
 ! 2023-11-21

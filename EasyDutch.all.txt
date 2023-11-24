@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Fri, 24 Nov 2023 07:00:57 +0000
+! Last updated: Fri, 24 Nov 2023 08:11:06 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.11.24.420.patch#easydutch
+! Diff-Path: patches/2023.11.24.491.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -150,6 +150,7 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
+||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
 ||grootnieuwsradio.nl/cache/*/advertisements/$image
 ||reformatorischeomroep.nl/*/*banner$image
@@ -666,6 +667,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.video-block-happy
 ###tracking-url
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+doorbraak.be##a[href^="https://vnz.be"]:upward(div)
 nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
 goudengids.be##.banner-boxes-holder
 npo.nl,vpro.nl##.bitmovinplayer-poster
@@ -1435,7 +1437,6 @@ appletips.nl###singleab
 petitie24.nl###tekstpetitie > :has-text(advert)
 petitie24.nl###tekstpetitie > :has-text(advert) + div
 online-radio.nl###top_ad-360
-doorbraak.be###top-advertisement-area
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gaming-nieuws.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,hotstreams.nl,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
 starnieuws.com###topstory > div:has-text(Advertentie)
 hotradiohits.nl###tpl_banners

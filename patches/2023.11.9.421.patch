@@ -1,12 +1,13 @@
-diff name:easydutch lines:37 checksum:372def250b
+diff name:easydutch lines:40 checksum:18afcfa7e1
 d2 1
 a2 1
-! Last updated: Fri, 24 Nov 2023 07:00:57 +0000
+! Last updated: Fri, 24 Nov 2023 08:11:06 +0000
 d4 1
 a4 2
-! Diff-Path: patches/2023.11.24.420.patch#easydutch
+! Diff-Path: patches/2023.11.24.491.patch#easydutch
 ! Diff-Name: easydutch
-a151 8
+a151 9
+||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
 ||grootnieuwsradio.nl/cache/*/advertisements/$image
 ||reformatorischeomroep.nl/*/*banner$image
@@ -16,7 +17,8 @@ a151 8
 npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 ||rubenweytjens.be/sites/default/*/ads_$image
 d197 2
-a661 4
+a661 5
+doorbraak.be##a[href^="https://vnz.be"]:upward(div)
 nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
 goudengids.be##.banner-boxes-holder
 npo.nl,vpro.nl##.bitmovinplayer-poster
@@ -33,6 +35,7 @@ rubenweytjens.be##.lecture-wrapper
 rubenweytjens.be##.view-weather-ads-view
 d745 2
 d1102 1
+d1421 1
 d1703 1
 d1778 1
 d1900 1
