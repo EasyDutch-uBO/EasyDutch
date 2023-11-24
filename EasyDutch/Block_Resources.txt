@@ -2,6 +2,9 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-11-24
+||grootnieuwsradio.nl/advertisements$xhr
+||grootnieuwsradio.nl/cache/*/advertisements/$image
 ! 2023-11-21
 ||reformatorischeomroep.nl/*/*banner$image
 ||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
