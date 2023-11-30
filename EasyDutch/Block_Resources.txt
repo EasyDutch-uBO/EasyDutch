@@ -52,7 +52,6 @@ npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 ||alphens.nl/resize/upload/*/*Leaderbord$image
 ||alphens.nl/upload/*/*banner$image
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
-||cvandaag.nl/api/advertise-deliver/deliver?adtypes=natives,advertorials$xhr,urltransform=/api/advertise-deliver/deliver?adtypes=natives
 ||hockey.be/wp-content/uploads/Banners/$image
 ||startlinken.nl/oud/images/banner-$image,1p
 ||startlinken.nl/oud/javascript/BannerRotation*$script,1p
