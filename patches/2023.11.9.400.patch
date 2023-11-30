@@ -1,10 +1,10 @@
-diff name:easydutch lines:43 checksum:ba459996f4
+diff name:easydutch lines:44 checksum:6d8196c7b1
 d2 1
 a2 1
-! Last updated: Fri, 24 Nov 2023 11:20:16 +0000
+! Last updated: Thu, 30 Nov 2023 13:18:13 +0000
 d4 1
 a4 2
-! Diff-Path: patches/2023.11.24.680.patch#easydutch
+! Diff-Path: patches/2023.11.30.798.patch#easydutch
 ! Diff-Name: easydutch
 a151 9
 ||doorbraak.be/wp-json/api/*/ads$xhr
@@ -16,6 +16,7 @@ a151 9
 ||akamaized.net^$media,domain=npo.nl|vpro.nl,redirect=noopmp3-0.1s
 npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 ||rubenweytjens.be/sites/default/*/ads_$image
+d181 1
 d197 2
 a661 17
 dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)

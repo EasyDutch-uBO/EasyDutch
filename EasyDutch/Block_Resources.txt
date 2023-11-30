@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Fri, 24 Nov 2023 08:11:06 +0000
+! Last updated: Thu, 30 Nov 2023 13:18:13 +0000
 !
 ! 2023-11-24
 ||doorbraak.be/wp-json/api/*/ads$xhr
@@ -52,7 +52,6 @@ npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 ||alphens.nl/resize/upload/*/*Leaderbord$image
 ||alphens.nl/upload/*/*banner$image
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
-||cvandaag.nl/api/advertise-deliver/deliver?adtypes=natives,advertorials$xhr,urltransform=/api/advertise-deliver/deliver?adtypes=natives
 ||hockey.be/wp-content/uploads/Banners/$image
 ||startlinken.nl/oud/images/banner-$image,1p
 ||startlinken.nl/oud/javascript/BannerRotation*$script,1p
