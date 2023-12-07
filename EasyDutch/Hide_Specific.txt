@@ -1,11 +1,12 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 07 Dec 2023 09:24:54 +0000
+! Last updated: Thu, 07 Dec 2023 09:32:50 +0000
 !
 ! 2023-12-07
 grazia.nl##[data-aa-adunit][data-aaad]
 grazia.nl###WB_VIDEO_PLAYER_TARGET
 sikkom.nl##[id^="ad_native"]:upward(.column)
+sikkom.nl##.ad-sticky-parent
 ! 2023-11-24
 dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)

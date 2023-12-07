@@ -1,10 +1,9 @@
-diff name:easydutch lines:9 checksum:3426c7040d
+diff name:easydutch lines:8 checksum:3426c7040d
 d2 1
 a2 1
 ! Last updated: Thu, 07 Dec 2023 09:32:50 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2023.12.7.572.patch#easydutch
-a670 2
-sikkom.nl##[id^="ad_native"]:upward(.column)
+a671 1
 sikkom.nl##.ad-sticky-parent
