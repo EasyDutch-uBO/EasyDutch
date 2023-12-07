@@ -1,10 +1,10 @@
-diff name:easydutch lines:30 checksum:a087a29e67
+diff name:easydutch lines:31 checksum:22e47b04b5
 d2 1
 a2 1
-! Last updated: Thu, 07 Dec 2023 08:52:29 +0000
+! Last updated: Thu, 07 Dec 2023 09:24:54 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.7.532.patch#easydutch
+! Diff-Path: patches/2023.12.7.564.patch#easydutch
 d153 1
 a153 8
 ||doorbraak.be/wp-json/api/*/ads$xhr
@@ -17,9 +17,10 @@ a153 8
 npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 d184 1
 d200 2
-a664 8
+a664 9
 grazia.nl##[data-aa-adunit][data-aaad]
 grazia.nl###WB_VIDEO_PLAYER_TARGET
+sikkom.nl##[id^="ad_native"]:upward(.column)
 dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 doorbraak.be##a[href^="https://vnz.be"]:upward(div)
