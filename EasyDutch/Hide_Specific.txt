@@ -6,6 +6,7 @@
 grazia.nl##[data-aa-adunit][data-aaad]
 grazia.nl###WB_VIDEO_PLAYER_TARGET
 sikkom.nl##[id^="ad_native"]:upward(.column)
+sikkom.nl##.ad-sticky-parent
 ! 2023-11-24
 dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
