@@ -1,12 +1,14 @@
-diff name:easydutch lines:15 checksum:3426c7040d
+diff name:easydutch lines:18 checksum:fd60ad955d
 d2 1
 a2 1
-! Last updated: Thu, 07 Dec 2023 09:32:50 +0000
+! Last updated: Sat, 09 Dec 2023 05:30:56 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.7.572.patch#easydutch
+! Diff-Path: patches/2023.12.9.330.patch#easydutch
 d191 1
-a669 6
+a669 8
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 grazia.nl##[data-aa-adunit][data-aaad]
 grazia.nl###WB_VIDEO_PLAYER_TARGET
 sikkom.nl##[id^="ad_native"]:upward(.column)
@@ -14,3 +16,4 @@ sikkom.nl##.ad-sticky-parent
 dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 d1281 2
+d1571 1

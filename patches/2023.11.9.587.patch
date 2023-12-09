@@ -1,10 +1,10 @@
-diff name:easydutch lines:46 checksum:3426c7040d
+diff name:easydutch lines:49 checksum:fd60ad955d
 d2 1
 a2 1
-! Last updated: Thu, 07 Dec 2023 09:32:50 +0000
+! Last updated: Sat, 09 Dec 2023 05:30:56 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.7.572.patch#easydutch
+! Diff-Path: patches/2023.12.9.330.patch#easydutch
 a152 9
 ||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
@@ -17,7 +17,9 @@ npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 ||rubenweytjens.be/sites/default/*/ads_$image
 d182 1
 d198 2
-a662 10
+a662 12
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 grazia.nl##[data-aa-adunit][data-aaad]
 grazia.nl###WB_VIDEO_PLAYER_TARGET
 sikkom.nl##[id^="ad_native"]:upward(.column)
@@ -42,6 +44,7 @@ d747 2
 d1104 1
 d1264 2
 d1423 1
+d1555 1
 d1705 1
 d1780 1
 d1902 1

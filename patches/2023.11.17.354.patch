@@ -1,10 +1,10 @@
-diff name:easydutch lines:28 checksum:3426c7040d
+diff name:easydutch lines:31 checksum:fd60ad955d
 d2 1
 a2 1
-! Last updated: Thu, 07 Dec 2023 09:32:50 +0000
+! Last updated: Sat, 09 Dec 2023 05:30:56 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.7.572.patch#easydutch
+! Diff-Path: patches/2023.12.9.330.patch#easydutch
 a152 6
 ||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
@@ -14,7 +14,9 @@ a152 6
 ||reformatorischeomroep.nl/*/*-RO-*.gif$image
 d185 1
 d201 2
-a665 9
+a665 11
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 grazia.nl##[data-aa-adunit][data-aaad]
 grazia.nl###WB_VIDEO_PLAYER_TARGET
 sikkom.nl##[id^="ad_native"]:upward(.column)
@@ -26,4 +28,5 @@ nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
 goudengids.be##.banner-boxes-holder
 d1274 2
 d1433 1
+d1565 1
 d1910 1

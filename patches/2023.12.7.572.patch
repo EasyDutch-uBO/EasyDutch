@@ -1,4 +1,4 @@
-diff name:easydutch lines:12 checksum:fd60ad955d
+diff name:easydutch lines:10 checksum:fd60ad955d
 d2 1
 a2 1
 ! Last updated: Sat, 09 Dec 2023 05:30:56 +0000
@@ -8,6 +8,4 @@ a4 1
 a668 2
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
-a671 1
-sikkom.nl##.ad-sticky-parent
-d1573 1
+d1574 1

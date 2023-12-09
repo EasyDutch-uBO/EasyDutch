@@ -1,10 +1,14 @@
-diff name:easydutch lines:9 checksum:3426c7040d
+diff name:easydutch lines:13 checksum:fd60ad955d
 d2 1
 a2 1
-! Last updated: Thu, 07 Dec 2023 09:32:50 +0000
+! Last updated: Sat, 09 Dec 2023 05:30:56 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.7.572.patch#easydutch
+! Diff-Path: patches/2023.12.9.330.patch#easydutch
+a668 2
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 a670 2
 sikkom.nl##[id^="ad_native"]:upward(.column)
 sikkom.nl##.ad-sticky-parent
+d1572 1

@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Thu, 07 Dec 2023 09:32:50 +0000
+! Last updated: Sat, 09 Dec 2023 05:30:56 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.12.7.572.patch#easydutch
+! Diff-Path: patches/2023.12.9.330.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -666,6 +666,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.video-block-happy
 ###tracking-url
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 grazia.nl##[data-aa-adunit][data-aaad]
 grazia.nl###WB_VIDEO_PLAYER_TARGET
 sikkom.nl##[id^="ad_native"]:upward(.column)
@@ -1571,7 +1573,6 @@ fierljeppenwinsum.frl##.gdlr-sidebar:has-text(sponsoren)
 radiovisie.eu##.gmollik
 belgischecasinos.be,newspower.nu##.gofollow
 mariogames.be##.googleadvidx
-dumpert.nl##.grid_ad_container
 meerradio.nl##.grijze-balk:has-text(Advert)
 srherald.com##.gsrhera
 fcutrecht.nl##.has-items-center > .title-container:has-text(/deals/i)

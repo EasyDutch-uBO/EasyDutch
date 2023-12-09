@@ -1,7 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 07 Dec 2023 09:32:50 +0000
+! Last updated: Sat, 09 Dec 2023 05:30:56 +0000
 !
+! 2023-12-09 https://github.com/uBlockOrigin/uAssets/issues/21284
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 ! 2023-12-07
 grazia.nl##[data-aa-adunit][data-aaad]
 grazia.nl###WB_VIDEO_PLAYER_TARGET
@@ -1064,7 +1067,6 @@ fierljeppenwinsum.frl##.gdlr-sidebar:has-text(sponsoren)
 radiovisie.eu##.gmollik
 belgischecasinos.be,newspower.nu##.gofollow
 mariogames.be##.googleadvidx
-dumpert.nl##.grid_ad_container
 meerradio.nl##.grijze-balk:has-text(Advert)
 srherald.com##.gsrhera
 fcutrecht.nl##.has-items-center > .title-container:has-text(/deals/i)
