@@ -1,14 +1,18 @@
-diff name:easydutch lines:13 checksum:fd60ad955d
+diff name:easydutch lines:17 checksum:119e094732
 d2 1
 a2 1
-! Last updated: Sat, 09 Dec 2023 05:30:56 +0000
+! Last updated: Tue, 12 Dec 2023 11:44:31 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.9.330.patch#easydutch
-a668 2
+! Diff-Path: patches/2023.12.12.704.patch#easydutch
+a668 5
+bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame)
+bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame) + div:has(.owl-item)
+eemland1.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has(.owl-item)
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 a670 2
 sikkom.nl##[id^="ad_native"]:upward(.column)
 sikkom.nl##.ad-sticky-parent
 d1572 1
+d1741 1

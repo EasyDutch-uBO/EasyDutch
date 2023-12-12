@@ -1,10 +1,10 @@
-diff name:easydutch lines:29 checksum:fd60ad955d
+diff name:easydutch lines:33 checksum:119e094732
 d2 1
 a2 1
-! Last updated: Sat, 09 Dec 2023 05:30:56 +0000
+! Last updated: Tue, 12 Dec 2023 11:44:31 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.9.330.patch#easydutch
+! Diff-Path: patches/2023.12.12.704.patch#easydutch
 a152 6
 ||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
@@ -14,7 +14,10 @@ a152 6
 ||reformatorischeomroep.nl/*/*-RO-*.gif$image
 d185 1
 d201 2
-a665 9
+a665 12
+bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame)
+bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame) + div:has(.owl-item)
+eemland1.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has(.owl-item)
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 grazia.nl##[data-aa-adunit][data-aaad]
@@ -27,4 +30,5 @@ doorbraak.be##a[href^="https://vnz.be"]:upward(div)
 d1276 2
 d1435 1
 d1567 1
+d1736 1
 d1912 1
