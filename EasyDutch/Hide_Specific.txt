@@ -2,6 +2,10 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-12-12
+bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame)
+bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame) + div:has(.owl-item)
+eemland1.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has(.owl-item)
 ! 2023-12-09 https://github.com/uBlockOrigin/uAssets/issues/21284
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
@@ -1235,7 +1239,6 @@ voetbal4u.com##.widget-container:has([id^="text-"]> h4)
 indebuurt.nl##.widget-tabs--partner
 eindtijdklok.org##.wpa
 dekrantnieuws.nl,destreekkrant.nu##.wpb_wrapper > .a-single
-bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
 camping-frankrijk.nl##[class$="container"]:has([id*="HyperLinkBanner"])
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
