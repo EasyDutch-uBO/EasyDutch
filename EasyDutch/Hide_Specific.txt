@@ -1,7 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 12 Dec 2023 11:44:31 +0000
+! Last updated: Wed, 13 Dec 2023 05:32:38 +0000
 !
+! 2023-12-13
+fr12.nl##div[class$="-atf"]
+fr12.nl##[class*="r89-desktop"][class*="-btf"]
 ! 2023-12-12
 bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame)
 bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame) + div:has(.owl-item)

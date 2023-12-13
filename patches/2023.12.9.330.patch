@@ -1,11 +1,13 @@
-diff name:easydutch lines:11 checksum:119e094732
+diff name:easydutch lines:13 checksum:1757c3f862
 d2 1
 a2 1
-! Last updated: Tue, 12 Dec 2023 11:44:31 +0000
+! Last updated: Wed, 13 Dec 2023 05:32:38 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.12.704.patch#easydutch
-a668 3
+! Diff-Path: patches/2023.12.13.332.patch#easydutch
+a668 5
+fr12.nl##div[class$="-atf"]
+fr12.nl##[class*="r89-desktop"][class*="-btf"]
 bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame)
 bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame) + div:has(.owl-item)
 eemland1.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has(.owl-item)
