@@ -1,16 +1,18 @@
-diff name:easydutch lines:31 checksum:1757c3f862
+diff name:easydutch lines:33 checksum:1729749450
 d2 1
 a2 1
-! Last updated: Wed, 13 Dec 2023 05:32:38 +0000
+! Last updated: Thu, 14 Dec 2023 12:13:39 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.13.332.patch#easydutch
+! Diff-Path: patches/2023.12.14.733.patch#easydutch
 a152 3
 ||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
 ||grootnieuwsradio.nl/cache/*/advertisements/$image
 d188 1
-a666 14
+a666 16
+9292.nl##[id^="div-gpt-ad-Homepage"]:upward(2)
+9292.nl##[id^="div-gpt-ad-JourneyAdvice"]:upward(2)
 fr12.nl##div[class$="-atf"]
 fr12.nl##[class*="r89-desktop"][class*="-btf"]
 bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame)
