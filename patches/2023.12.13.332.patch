@@ -1,10 +1,16 @@
-diff name:easydutch lines:9 checksum:1729749450
+diff name:easydutch lines:15 checksum:a7141d5ba7
 d2 1
 a2 1
-! Last updated: Thu, 14 Dec 2023 12:13:39 +0000
+! Last updated: Thu, 14 Dec 2023 15:15:51 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.14.733.patch#easydutch
-a668 2
+! Diff-Path: patches/2023.12.14.915.patch#easydutch
+a668 7
 9292.nl##[id^="div-gpt-ad-Homepage"]:upward(2)
 9292.nl##[id^="div-gpt-ad-JourneyAdvice"]:upward(2)
+geenstijl.nl##.pgAdWrapper
+geenstijl.nl##.article-premium-promotion-block
+geenstijl.nl##.slajeslag
+geenstijl.nl##[data-id$="leaderboard-billboard"]
+geenstijl.nl##a[data-ga-event^="link-tip"]
+d752 4

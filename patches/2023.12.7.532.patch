@@ -1,13 +1,18 @@
-diff name:easydutch lines:21 checksum:1729749450
+diff name:easydutch lines:27 checksum:a7141d5ba7
 d2 1
 a2 1
-! Last updated: Thu, 14 Dec 2023 12:13:39 +0000
+! Last updated: Thu, 14 Dec 2023 15:15:51 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.14.733.patch#easydutch
-a668 9
+! Diff-Path: patches/2023.12.14.915.patch#easydutch
+a668 14
 9292.nl##[id^="div-gpt-ad-Homepage"]:upward(2)
 9292.nl##[id^="div-gpt-ad-JourneyAdvice"]:upward(2)
+geenstijl.nl##.pgAdWrapper
+geenstijl.nl##.article-premium-promotion-block
+geenstijl.nl##.slajeslag
+geenstijl.nl##[data-id$="leaderboard-billboard"]
+geenstijl.nl##a[data-ga-event^="link-tip"]
 fr12.nl##div[class$="-atf"]
 fr12.nl##[class*="r89-desktop"][class*="-btf"]
 bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame)
@@ -18,5 +23,6 @@ dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 a670 2
 sikkom.nl##[id^="ad_native"]:upward(.column)
 sikkom.nl##.ad-sticky-parent
+d743 4
 d1572 1
 d1741 1

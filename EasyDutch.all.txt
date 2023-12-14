@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Thu, 14 Dec 2023 12:13:39 +0000
+! Last updated: Thu, 14 Dec 2023 15:15:51 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.12.14.733.patch#easydutch
+! Diff-Path: patches/2023.12.14.915.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -668,6 +668,11 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
 9292.nl##[id^="div-gpt-ad-Homepage"]:upward(2)
 9292.nl##[id^="div-gpt-ad-JourneyAdvice"]:upward(2)
+geenstijl.nl##.pgAdWrapper
+geenstijl.nl##.article-premium-promotion-block
+geenstijl.nl##.slajeslag
+geenstijl.nl##[data-id$="leaderboard-billboard"]
+geenstijl.nl##a[data-ga-event^="link-tip"]
 fr12.nl##div[class$="-atf"]
 fr12.nl##[class*="r89-desktop"][class*="-btf"]
 bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame)
@@ -751,10 +756,6 @@ iexprofs.nl##.tagwrapper:upward(.row__item)
 iexprofs.nl##[class*="banner"]:not(.banner)
 wijwedden.net##.bookies.stream-preview
 wijwedden.net##.top-bookmaker-widget
-geenstijl.nl##.pgAdWrapper
-geenstijl.nl##.article-premium-promotion-block
-geenstijl.nl##a[data-ga-event^="link-tip"]
-geenstijl.nl##.slajeslag
 top40.nl##.in-house-ad
 top40.nl##[id^="sky"]:has(script:has-text(AdvertSlot))
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##span:has-text(advert):upward(div)

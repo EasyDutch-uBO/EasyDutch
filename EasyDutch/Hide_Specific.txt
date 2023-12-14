@@ -1,10 +1,15 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Thu, 14 Dec 2023 12:13:39 +0000
+! Last updated: Thu, 14 Dec 2023 15:15:51 +0000
 !
 ! 2023-12-14
 9292.nl##[id^="div-gpt-ad-Homepage"]:upward(2)
 9292.nl##[id^="div-gpt-ad-JourneyAdvice"]:upward(2)
+geenstijl.nl##.pgAdWrapper
+geenstijl.nl##.article-premium-promotion-block
+geenstijl.nl##.slajeslag
+geenstijl.nl##[data-id$="leaderboard-billboard"]
+geenstijl.nl##a[data-ga-event^="link-tip"]
 ! 2023-12-13
 fr12.nl##div[class$="-atf"]
 fr12.nl##[class*="r89-desktop"][class*="-btf"]
@@ -97,17 +102,13 @@ wielerflits.nl##li.list-item.list-item-aside:has(.badge:has-text(Ad))
 wielerflits.nl##li.list-item.list-item-default:has(span:has-text(Ad))
 zeilwereld.nl##.adv-link:upward([id^="zeilw"])
 zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
-! 2024-10-30
+! 2023-10-30
 gpfans.com##.taboonews
 iexprofs.nl##.tagwrapper:upward(.row__item)
 iexprofs.nl##[class*="banner"]:not(.banner)
 wijwedden.net##.bookies.stream-preview
 wijwedden.net##.top-bookmaker-widget
-! 2024-10-24
-geenstijl.nl##.pgAdWrapper
-geenstijl.nl##.article-premium-promotion-block
-geenstijl.nl##a[data-ga-event^="link-tip"]
-geenstijl.nl##.slajeslag
+! 2023-10-24
 top40.nl##.in-house-ad
 top40.nl##[id^="sky"]:has(script:has-text(AdvertSlot))
 ! 2023-10-23
