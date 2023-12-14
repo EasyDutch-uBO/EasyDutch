@@ -1,10 +1,10 @@
-diff name:easydutch lines:44 checksum:a7141d5ba7
+diff name:easydutch lines:45 checksum:9306678dfe
 d2 1
 a2 1
-! Last updated: Thu, 14 Dec 2023 15:15:51 +0000
+! Last updated: Thu, 14 Dec 2023 15:27:06 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.14.915.patch#easydutch
+! Diff-Path: patches/2023.12.14.927.patch#easydutch
 a152 6
 ||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
@@ -14,11 +14,12 @@ a152 6
 ||reformatorischeomroep.nl/*/*-RO-*.gif$image
 d185 1
 d201 2
-a665 22
+a665 23
 9292.nl##[id^="div-gpt-ad-Homepage"]:upward(2)
 9292.nl##[id^="div-gpt-ad-JourneyAdvice"]:upward(2)
 geenstijl.nl##.pgAdWrapper
 geenstijl.nl##.article-premium-promotion-block
+geenstijl.nl##.sidebar-content > div:has-text(Kansino):has(+ .afctr-wrapper)
 geenstijl.nl##.slajeslag
 geenstijl.nl##[data-id$="leaderboard-billboard"]
 geenstijl.nl##a[data-ga-event^="link-tip"]

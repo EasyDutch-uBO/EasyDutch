@@ -1,0 +1,9 @@
+diff name:easydutch lines:8 checksum:9306678dfe
+d2 1
+a2 1
+! Last updated: Thu, 14 Dec 2023 15:27:06 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.12.14.927.patch#easydutch
+a672 1
+geenstijl.nl##.sidebar-content > div:has-text(Kansino):has(+ .afctr-wrapper)
