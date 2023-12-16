@@ -9,6 +9,7 @@ deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
 deondernemer.nl,vtwonen.be,vtwonen.nl##section [data-adslot]:upward(1)
 deondernemer.nl,vtwonen.be,vtwonen.nl##section > span:has-text(advertentie)
 story.nl,veronicasuperguide.nl##.apu5cz0
+omroepzeeland.nl##footer .footer-list:has-text(/Reclame/i) > li:not(:nth-of-type(2)) > a.external
 ! 2023-12-14
 9292.nl##[id^="div-gpt-ad-Homepage"]:upward(2)
 9292.nl##[id^="div-gpt-ad-JourneyAdvice"]:upward(2)
