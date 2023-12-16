@@ -1,11 +1,12 @@
-diff name:easydutch lines:28 checksum:9306678dfe
+diff name:easydutch lines:29 checksum:fd2b33236e
 d2 1
 a2 1
-! Last updated: Thu, 14 Dec 2023 15:27:06 +0000
+! Last updated: Sat, 16 Dec 2023 06:18:55 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.14.927.patch#easydutch
-a668 15
+! Diff-Path: patches/2023.12.16.378.patch#easydutch
+a668 16
+volkskrant.nl##.position-after-main-home
 9292.nl##[id^="div-gpt-ad-Homepage"]:upward(2)
 9292.nl##[id^="div-gpt-ad-JourneyAdvice"]:upward(2)
 geenstijl.nl##.pgAdWrapper

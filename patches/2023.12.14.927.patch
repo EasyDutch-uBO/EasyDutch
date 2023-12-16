@@ -1,4 +1,4 @@
-diff name:easydutch lines:10 checksum:fd2b33236e
+diff name:easydutch lines:8 checksum:fd2b33236e
 d2 1
 a2 1
 ! Last updated: Sat, 16 Dec 2023 06:18:55 +0000
@@ -7,5 +7,3 @@ a4 1
 ! Diff-Path: patches/2023.12.16.378.patch#easydutch
 a668 1
 volkskrant.nl##.position-after-main-home
-a672 1
-geenstijl.nl##.sidebar-content > div:has-text(Kansino):has(+ .afctr-wrapper)
