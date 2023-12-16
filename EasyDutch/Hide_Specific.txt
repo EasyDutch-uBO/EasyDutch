@@ -3,7 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-16
-volkskrant.nl##.position-after-main-home
+demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
+demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
 ! 2023-12-14
 9292.nl##[id^="div-gpt-ad-Homepage"]:upward(2)
 9292.nl##[id^="div-gpt-ad-JourneyAdvice"]:upward(2)
