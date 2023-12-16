@@ -1,10 +1,10 @@
-diff name:easydutch lines:40 checksum:1c2e5f4f53
+diff name:easydutch lines:43 checksum:610dade8ab
 d2 1
 a2 1
-! Last updated: Sat, 16 Dec 2023 13:38:28 +0000
+! Last updated: Sat, 16 Dec 2023 15:24:55 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.16.818.patch#easydutch
+! Diff-Path: patches/2023.12.16.924.patch#easydutch
 d191 1
 a669 28
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
@@ -39,3 +39,6 @@ d740 4
 d1281 2
 d1571 1
 d1740 1
+d1934 1
+a1934 1
+112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl,vrides.nl##+js(noeval-if, /chp_?ad/)
