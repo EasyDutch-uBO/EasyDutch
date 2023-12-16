@@ -5,6 +5,7 @@
 ! 2023-12-16
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
+story.nl,veronicasuperguide.nl##.apu5cz0
 ! 2023-12-14
 9292.nl##[id^="div-gpt-ad-Homepage"]:upward(2)
 9292.nl##[id^="div-gpt-ad-JourneyAdvice"]:upward(2)
