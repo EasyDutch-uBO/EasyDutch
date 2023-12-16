@@ -1,0 +1,9 @@
+diff name:easydutch lines:8 checksum:1c2e5f4f53
+d2 1
+a2 1
+! Last updated: Sat, 16 Dec 2023 13:38:28 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.12.16.818.patch#easydutch
+a674 1
+omroepzeeland.nl##footer .footer-list:has-text(/Reclame/i) > li:not(:nth-of-type(2)) > a.external
