@@ -1,9 +1,14 @@
-diff name:easydutch lines:8 checksum:fd2b33236e
+diff name:easydutch lines:13 checksum:1d86a5d988
 d2 1
 a2 1
-! Last updated: Sat, 16 Dec 2023 06:18:55 +0000
+! Last updated: Sat, 16 Dec 2023 09:52:25 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.16.378.patch#easydutch
-a668 1
-volkskrant.nl##.position-after-main-home
+! Diff-Path: patches/2023.12.16.592.patch#easydutch
+a668 6
+demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
+demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
+deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
+deondernemer.nl,vtwonen.be,vtwonen.nl##section [data-adslot]:upward(1)
+deondernemer.nl,vtwonen.be,vtwonen.nl##section > span:has-text(advertentie)
+story.nl,veronicasuperguide.nl##.apu5cz0
