@@ -10,6 +10,7 @@ agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.n
 autobahn.eu##[data-aaad="true"]
 az.nl,cambuur.nl,ga-eagles.nl##.sponsors
 baanwacht.nl##.banner-image
+clubbrugge.be##h4:has-text(Partners):upward(section)
 ! 2023-12-16
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
@@ -1151,7 +1152,7 @@ ajax.nl##.page-footer__partners-block
 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,hln.be##.page-header__section--spacer
 interglot.nl##.pane_results > div:has-text(Ads)
 klokradio.nl##.panel-grid:has-text(Advertentie)
-clubbrugge.be,feyenoord.nl##.partners
+feyenoord.nl##.partners
 golf.be##.partners-holder
 appletips.nl##.ph_upgreatest
 denachtvlinders.nl##.plek-boven-artikel
