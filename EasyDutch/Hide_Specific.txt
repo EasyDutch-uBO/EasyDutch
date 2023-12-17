@@ -6,6 +6,7 @@
 adodenhaag.nl###sponsors-normal
 agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.agency-banner
 autobahn.eu##[data-aaad="true"]
+az.nl,cambuur.nl,ga-eagles.nl##.sponsors
 ! 2023-12-16
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
@@ -1188,7 +1189,7 @@ alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
 omroepwest.nl##.slider-wrapper
 solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
-az.nl,cambuur.nl,ga-eagles.nl,niburu.co##.sponsers
+niburu.co##.sponsers
 computable.be##.sponsorartikelen
 omroephouten.nl##.sponsor-carousel
 computable.nl##.sponsored
