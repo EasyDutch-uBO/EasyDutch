@@ -703,7 +703,6 @@ radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
 ! 2022-06-02
 nu.nl##div[id^="block-in-article-ad"]
 ! 2022-05-27
-goldfm.be###sponsors-carousel
 mandelnieuws.be##div[class*="blocksponsors"]
 mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
 mnm.be###reclameblok-wrapper
