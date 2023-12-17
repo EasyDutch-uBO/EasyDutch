@@ -326,9 +326,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||amz01.plzcdn.com/a/
 ||antilliaansdagblad.com/images/banners/
 ||apintie.sr/bannerz$image
-||audiobookbay.nl/images/bin.jpg$image
-||audiobookbay.nl/images/bz.jpg$image
-||audiobookbay.nl/images/fr.jpg$image
 ||b-cdn.net/w_/s3-roulettefm/*.$image,domain=roulettefm.nl
 ||b-cdn.net/w_/s3-rtvstichtsevecht/*.$image,domain=rtvstichtsevecht.nl
 ||belgiancycling.be/resize.asp?w=120&file=*.gif
