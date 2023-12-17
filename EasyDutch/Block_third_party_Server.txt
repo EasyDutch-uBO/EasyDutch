@@ -63,8 +63,6 @@
 ! https://github.com/easylist/easylistdutch/commit/1dcc8ccbf4b1d5afeebdccbe224b332c99546b63
 ! routenet.nl
 ||botndm.nl^$3p
-! 2021-08-09
-||chainadvertising.eu^$3p
 ! 2021-07-28
 ||gratis-neuken.com^$3p
 ! 2021-06-29
