@@ -626,7 +626,6 @@ eurogamer.nl##.desktop_mpu
 edelmetaal-info.nl##section:has(.masonry-item:not(:has(a[href*="edelmetaal-info.nl"])))
 edelmetaal-info.nl##.figure-image[data-links=""]:not(a[href*="edelmetaal-info.nl"])
 edelmetaal-info.nl##div[class^=" element-short"] a[onclick*="outgoing"]:has(img[width="180"]):not(:has([href*="edelmetaal-info.nl"]))
-easyfm.nl##.qt-sponsors
 drentsnieuws.nl##.shadow:has(#bannerCarousel)
 dolcevia.com##.affiliatelink
 dolcevia.com##.bookingaff:upward(.card)
