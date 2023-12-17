@@ -1151,7 +1151,7 @@ ajax.nl##.page-footer__partners-block
 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,hln.be##.page-header__section--spacer
 interglot.nl##.pane_results > div:has-text(Ads)
 klokradio.nl##.panel-grid:has-text(Advertentie)
-clubbrugge.be,feyenoord.nl,ftm.nl##.partners
+clubbrugge.be,feyenoord.nl##.partners
 golf.be##.partners-holder
 appletips.nl##.ph_upgreatest
 denachtvlinders.nl##.plek-boven-artikel
