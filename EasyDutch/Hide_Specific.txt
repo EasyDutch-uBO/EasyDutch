@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-18
+112-ov.nl##h4:has-text(Advert):upward(.widget_text)
+112-ov.nl##.adsbygoogle:upward([id^="custom_html"])
 adodenhaag.nl###sponsors-normal
 agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.agency-banner
 autobahn.eu##[data-aaad="true"]
