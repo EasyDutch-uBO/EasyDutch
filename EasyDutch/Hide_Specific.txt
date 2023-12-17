@@ -615,7 +615,6 @@ fleet-mobility.nl##.spotlight:has-text(Partners)
 flair##.c-commerical_banner
 risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
 fcgroningen.nl##.sponsors
-halstadcentraal.nl##div[class$="banners-wrapper"]
 fd.nl##.noAdBlockDetected .fd-message
 emerce.nl##.m-banner-wrapper
 emerce.nl##.widget_text:has(a[href^="https://partner.bol.com/"])
