@@ -373,8 +373,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||despirituelewereld.be/wp-content/uploads/*/hook-bottom-info-coronavirus*$image
 ||dewereldmorgen.be/wp-content/banners/$image
 ||digitalaudience.io/bakery/pix/$image,3p
-||dorpsklanken.online/wp-content/uploads/*/Knap-IT_Paterswolde.png$image
-||dorpsklanken.online/wp-content/uploads/*/polling_basis.jpg$image
 ||dutchcryptotalk.com/wp-content/uploads/*/bitvavo
 ||duurzaam-actueel.nl^*banner
 ||edelmetaal-info.nl/cdfund-336x280.html
