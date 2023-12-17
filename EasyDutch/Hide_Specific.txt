@@ -11,6 +11,11 @@ autobahn.eu##[data-aaad="true"]
 az.nl,cambuur.nl,ga-eagles.nl##.sponsors
 baanwacht.nl##.banner-image
 clubbrugge.be##h4:has-text(Partners):upward(section)
+itdaily.be##.ad
+itdaily.be###itdaily-article-sidebar
+itdaily.be###itdaily-article-top
+itdaily.be###itdaily-footer
+itdaily.be##[id^="itdaily-home"]
 ! 2023-12-16
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
@@ -579,7 +584,6 @@ kbradio.nl##a[href="../../omroep/adverteren/"]
 racexpress.nl##img[src^="/img/sponsors"]:upward(.article-photo)
 jaap.nl##.details-rectangle:upward(1)
 itnijs.frl##.banner:upward(.widget)
-itdaily.be##.ad
 infonu.nl###cc:has(a.product[href*="partnerprogramma.bol.com"])
 indignatie.nl###mvp-content-main .adsbygoogle:upward(1)
 simone.nl##section:has(div[class$="sponsors"])
@@ -916,10 +920,6 @@ nieuws.nl###footer-banner
 bokt.nl###frontpage_mediumrect
 nu.nl###header > .zone
 unitednews.sr###image-vertical-reel-scroll-slideshow
-itdaily.be###itdaily-article-sidebar
-itdaily.be###itdaily-article-top
-itdaily.be###itdaily-footer
-itdaily.be###itdaily-home-floor
 almere-nieuws.nl###jeg_sidecontent > .jeg_container:has(.jeg_ad)
 funnygames.be,funnygames.nl###katon-slot
 spaargids.be###latest_news_above:has(.sponsored-right-bottom):has([rel="sponsored"])
