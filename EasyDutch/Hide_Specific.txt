@@ -606,7 +606,6 @@ voetbalnederland.nl###submenubanner
 voetbalrotterdam.nl##div[class^="r89-desktop"]
 ! 2022-06-28
 groningerkrant.nl##.widget:has(.widget-title:has-text(Vrienden))
-gratisepub.nl##.widget:has(.adsbygoogle)
 golf.be##[class*="-ad-banner-box"]
 gids.tv##.advertisement:upward(1)
 gic.nl##.katernbanners
@@ -1215,7 +1214,6 @@ trucks.nl##.trucks_ros_leaderboard-billboard
 computable.be,computable.nl##.true-logo
 fok.nl##.trueTop
 buzzbie.nl##.TS_Banner_Spot
-gratisepub.nl##.type-post:has-text(advert)
 buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
 beursgorilla.nl##.ut--billboard
 beursgorilla.nl##.ut--rectangle
