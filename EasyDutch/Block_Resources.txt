@@ -1,7 +1,9 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Thu, 30 Nov 2023 13:18:13 +0000
+! Last updated: Sun, 17 Dec 2023 16:27:39 +0000
 !
+! 2023-12-18
+||rivierenland-radio.nl/banners/$image
 ! 2023-11-24
 ||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
@@ -326,9 +328,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||amz01.plzcdn.com/a/
 ||antilliaansdagblad.com/images/banners/
 ||apintie.sr/bannerz$image
-||audiobookbay.nl/images/bin.jpg$image
-||audiobookbay.nl/images/bz.jpg$image
-||audiobookbay.nl/images/fr.jpg$image
 ||b-cdn.net/w_/s3-roulettefm/*.$image,domain=roulettefm.nl
 ||b-cdn.net/w_/s3-rtvstichtsevecht/*.$image,domain=rtvstichtsevecht.nl
 ||belgiancycling.be/resize.asp?w=120&file=*.gif
@@ -359,7 +358,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||clubbrugge.be^*/partner/$image
 ||coastline945fm.nl/cache/partners/$image
-||coastlinefm.nl/cache/partners/
 ||computable.be/media/truelogo*$image,1p
 ||computable.nl/media/truelogo*$image,1p
 ||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
@@ -370,14 +368,11 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
 ||dating.*.auroraobjects.eu/files/bans/*$image
 ||debestevpn.nl/wp-content/*-banner.
-||delichtzijde.nl/images/banners/*.$image,1p
 ||denachtvlinders.nl/wp-content/uploads/*/bol-*.gif$image
 ||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*$image
 ||despirituelewereld.be/wp-content/uploads/*/hook-bottom-info-coronavirus*$image
 ||dewereldmorgen.be/wp-content/banners/$image
 ||digitalaudience.io/bakery/pix/$image,3p
-||dorpsklanken.online/wp-content/uploads/*/Knap-IT_Paterswolde.png$image
-||dorpsklanken.online/wp-content/uploads/*/polling_basis.jpg$image
 ||dutchcryptotalk.com/wp-content/uploads/*/bitvavo
 ||duurzaam-actueel.nl^*banner
 ||edelmetaal-info.nl/cdfund-336x280.html
@@ -389,7 +384,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||elektronicaforum.nl/banner*$image,1p
 ||emerce.nl/content/uploads/*/hosted-by-true-$image,1p
 ||enviedeplus.be^*_banner_$3p
-||eredivisie.nl/images/logos/partners/
 ||fanclubbarcelona.nl/viewfile/*banner/$image
 ||fcupdate.nl/js/adslot.js
 ||feenstra-internetservices.nl/?_dnid=$3p

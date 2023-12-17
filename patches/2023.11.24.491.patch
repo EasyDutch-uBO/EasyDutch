@@ -1,12 +1,35 @@
-diff name:easydutch lines:43 checksum:610dade8ab
+diff name:easydutch lines:109 checksum:8f940e5c53
 d2 1
 a2 1
-! Last updated: Sat, 16 Dec 2023 15:24:55 +0000
+! Last updated: Sun, 17 Dec 2023 16:27:39 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.16.924.patch#easydutch
+! Diff-Path: patches/2023.12.17.987.patch#easydutch
+d90 1
+d97 1
+d116 1
+a152 1
+||rivierenland-radio.nl/banners/$image
 d191 1
-a669 28
+d408 3
+d441 1
+d452 1
+d458 2
+d471 1
+a669 41
+112-ov.nl##h4:has-text(Advert):upward(.widget_text)
+112-ov.nl##.adsbygoogle:upward([id^="custom_html"])
+adodenhaag.nl###sponsors-normal
+agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.agency-banner
+autobahn.eu##[data-aaad="true"]
+az.nl,cambuur.nl,ga-eagles.nl##.sponsors
+baanwacht.nl##.banner-image
+clubbrugge.be##h4:has-text(Partners):upward(section)
+itdaily.be##.ad
+itdaily.be###itdaily-article-sidebar
+itdaily.be###itdaily-article-top
+itdaily.be###itdaily-footer
+itdaily.be##[id^="itdaily-home"]
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
 deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
@@ -36,9 +59,52 @@ sikkom.nl##.ad-sticky-parent
 dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 d740 4
+d856 2
+d949 1
+d1032 1
+a1032 1
+albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
+d1055 1
+d1076 1
+d1108 1
+d1113 1
+d1133 1
+d1143 1
+d1153 1
+d1177 1
+d1222 1
 d1281 2
+d1353 1
+d1360 1
+d1404 4
+d1424 1
+a1424 1
+elfvoetbal.nl###partners
+d1432 1
+d1440 1
+a1440 1
+eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
+d1463 2
+a1464 1
+spelletje.nl##.adv
+d1512 1
+d1548 2
+a1549 1
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 d1571 1
+d1609 1
+a1609 1
+tvl.be,tvoost.be##.leaderboardWrap
+d1638 1
+a1638 1
+feyenoord.nl##.partners
+d1665 1
+d1672 1
+a1672 1
+niburu.co##.sponsers
+d1704 1
 d1740 1
+d1755 1
 d1934 1
 a1934 1
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl,vrides.nl##+js(noeval-if, /chp_?ad/)

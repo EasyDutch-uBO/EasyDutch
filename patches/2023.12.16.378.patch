@@ -1,12 +1,35 @@
-diff name:easydutch lines:18 checksum:610dade8ab
+diff name:easydutch lines:84 checksum:8f940e5c53
 d2 1
 a2 1
-! Last updated: Sat, 16 Dec 2023 15:24:55 +0000
+! Last updated: Sun, 17 Dec 2023 16:27:39 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.16.924.patch#easydutch
+! Diff-Path: patches/2023.12.17.987.patch#easydutch
+d90 1
+d97 1
+d116 1
+a152 1
+||rivierenland-radio.nl/banners/$image
+d407 3
+d440 1
+d451 1
+d457 2
+d470 1
 d669 1
-a669 7
+a669 20
+112-ov.nl##h4:has-text(Advert):upward(.widget_text)
+112-ov.nl##.adsbygoogle:upward([id^="custom_html"])
+adodenhaag.nl###sponsors-normal
+agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.agency-banner
+autobahn.eu##[data-aaad="true"]
+az.nl,cambuur.nl,ga-eagles.nl##.sponsors
+baanwacht.nl##.banner-image
+clubbrugge.be##h4:has-text(Partners):upward(section)
+itdaily.be##.ad
+itdaily.be###itdaily-article-sidebar
+itdaily.be###itdaily-article-top
+itdaily.be###itdaily-footer
+itdaily.be##[id^="itdaily-home"]
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
 deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
@@ -14,6 +37,49 @@ deondernemer.nl,vtwonen.be,vtwonen.nl##section [data-adslot]:upward(1)
 deondernemer.nl,vtwonen.be,vtwonen.nl##section > span:has-text(advertentie)
 story.nl,veronicasuperguide.nl##.apu5cz0
 omroepzeeland.nl##footer .footer-list:has-text(/Reclame/i) > li:not(:nth-of-type(2)) > a.external
+d873 2
+d966 1
+d1049 1
+a1049 1
+albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
+d1072 1
+d1093 1
+d1125 1
+d1130 1
+d1150 1
+d1160 1
+d1170 1
+d1194 1
+d1239 1
+d1368 1
+d1375 1
+d1419 4
+d1439 1
+a1439 1
+elfvoetbal.nl###partners
+d1447 1
+d1455 1
+a1455 1
+eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
+d1478 2
+a1479 1
+spelletje.nl##.adv
+d1527 1
+d1563 2
+a1564 1
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
+d1623 1
+a1623 1
+tvl.be,tvoost.be##.leaderboardWrap
+d1652 1
+a1652 1
+feyenoord.nl##.partners
+d1679 1
+d1686 1
+a1686 1
+niburu.co##.sponsers
+d1718 1
+d1768 1
 d1947 1
 a1947 1
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl,vrides.nl##+js(noeval-if, /chp_?ad/)

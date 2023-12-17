@@ -1,14 +1,36 @@
-diff name:easydutch lines:47 checksum:610dade8ab
+diff name:easydutch lines:111 checksum:8f940e5c53
 d2 1
 a2 1
-! Last updated: Sat, 16 Dec 2023 15:24:55 +0000
+! Last updated: Sun, 17 Dec 2023 16:27:39 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.16.924.patch#easydutch
-a152 1
+! Diff-Path: patches/2023.12.17.987.patch#easydutch
+d90 1
+d97 1
+d116 1
+a152 2
+||rivierenland-radio.nl/banners/$image
 ||doorbraak.be/wp-json/api/*/ads$xhr
 d190 1
-a668 29
+d407 3
+d440 1
+d451 1
+d457 2
+d470 1
+a668 42
+112-ov.nl##h4:has-text(Advert):upward(.widget_text)
+112-ov.nl##.adsbygoogle:upward([id^="custom_html"])
+adodenhaag.nl###sponsors-normal
+agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.agency-banner
+autobahn.eu##[data-aaad="true"]
+az.nl,cambuur.nl,ga-eagles.nl##.sponsors
+baanwacht.nl##.banner-image
+clubbrugge.be##h4:has-text(Partners):upward(section)
+itdaily.be##.ad
+itdaily.be###itdaily-article-sidebar
+itdaily.be###itdaily-article-top
+itdaily.be###itdaily-footer
+itdaily.be##[id^="itdaily-home"]
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
 deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
@@ -39,10 +61,52 @@ dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 doorbraak.be##a[href^="https://vnz.be"]:upward(div)
 d738 4
+d854 2
+d947 1
+d1030 1
+a1030 1
+albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
+d1053 1
+d1074 1
+d1106 1
+d1111 1
+d1131 1
+d1141 1
+d1151 1
+d1175 1
+d1220 1
 d1279 2
-d1438 1
+d1351 1
+d1358 1
+d1402 4
+d1422 1
+a1422 1
+elfvoetbal.nl###partners
+d1430 1
+d1438 2
+a1439 1
+eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
+d1462 2
+a1463 1
+spelletje.nl##.adv
+d1511 1
+d1547 2
+a1548 1
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 d1570 1
+d1608 1
+a1608 1
+tvl.be,tvoost.be##.leaderboardWrap
+d1637 1
+a1637 1
+feyenoord.nl##.partners
+d1664 1
+d1671 1
+a1671 1
+niburu.co##.sponsers
+d1703 1
 d1739 1
+d1754 1
 d1933 1
 a1933 1
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl,vrides.nl##+js(noeval-if, /chp_?ad/)

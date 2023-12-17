@@ -1,11 +1,15 @@
-diff name:easydutch lines:54 checksum:610dade8ab
+diff name:easydutch lines:118 checksum:8f940e5c53
 d2 1
 a2 1
-! Last updated: Sat, 16 Dec 2023 15:24:55 +0000
+! Last updated: Sun, 17 Dec 2023 16:27:39 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.16.924.patch#easydutch
-a152 6
+! Diff-Path: patches/2023.12.17.987.patch#easydutch
+d90 1
+d97 1
+d116 1
+a152 7
+||rivierenland-radio.nl/banners/$image
 ||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
 ||grootnieuwsradio.nl/cache/*/advertisements/$image
@@ -14,7 +18,25 @@ a152 6
 ||reformatorischeomroep.nl/*/*-RO-*.gif$image
 d185 1
 d201 2
-a665 29
+d404 3
+d437 1
+d448 1
+d454 2
+d467 1
+a665 42
+112-ov.nl##h4:has-text(Advert):upward(.widget_text)
+112-ov.nl##.adsbygoogle:upward([id^="custom_html"])
+adodenhaag.nl###sponsors-normal
+agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.agency-banner
+autobahn.eu##[data-aaad="true"]
+az.nl,cambuur.nl,ga-eagles.nl##.sponsors
+baanwacht.nl##.banner-image
+clubbrugge.be##h4:has-text(Partners):upward(section)
+itdaily.be##.ad
+itdaily.be###itdaily-article-sidebar
+itdaily.be###itdaily-article-top
+itdaily.be###itdaily-footer
+itdaily.be##[id^="itdaily-home"]
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
 deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
@@ -45,10 +67,52 @@ dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 doorbraak.be##a[href^="https://vnz.be"]:upward(div)
 d735 4
+d851 2
+d944 1
+d1027 1
+a1027 1
+albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
+d1050 1
+d1071 1
+d1103 1
+d1108 1
+d1128 1
+d1138 1
+d1148 1
+d1172 1
+d1217 1
 d1276 2
-d1435 1
+d1348 1
+d1355 1
+d1399 4
+d1419 1
+a1419 1
+elfvoetbal.nl###partners
+d1427 1
+d1435 2
+a1436 1
+eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
+d1459 2
+a1460 1
+spelletje.nl##.adv
+d1508 1
+d1544 2
+a1545 1
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 d1567 1
+d1605 1
+a1605 1
+tvl.be,tvoost.be##.leaderboardWrap
+d1634 1
+a1634 1
+feyenoord.nl##.partners
+d1661 1
+d1668 1
+a1668 1
+niburu.co##.sponsers
+d1700 1
 d1736 1
+d1751 1
 d1912 1
 d1931 1
 a1931 1
