@@ -950,7 +950,6 @@ stubru.be###reclameblok-wrapper
 rtvdrenthe.nl###recommendations-above-ad
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl###right-sidebar > :has(.mb-3:has-text(Advert))
-audiobookbay.nl###rsidebar > ul > li > h2:has-text(/ad/i)
 motorfietsblog.nl###shopside
 112achterhoek-nieuws.nl###sidebar
 voetbal-vandaag.nl###sidebar_aanbevelen
@@ -1271,7 +1270,6 @@ appletips.nl##[class^="ph_block"]
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 totaaltv.nl##[href^="https://www.totaaltv.nl/plugins/banner/"]
-audiobookbay.nl##[href="/dl-14-days-trial"]
 besteproduct.nl##[id^="ad-block"]
 online-radio.nl##[id^="AdvertMid"]
 bol-an.nl##[id^="block-"]:has([src*="_Banner"])
