@@ -855,8 +855,6 @@ studylibnl.com##.sidebar-top-content
 startlinken.nl##td[class]:has(a[href*="robohost.nl/clients/aff.php"]):upward(2)
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
-! 2022-02-03
-minecrafttoplist.nl##.fancy-wrap
 ! 2022-01-31
 autoweek.nl##.advertisement
 ! 2022-01-26
