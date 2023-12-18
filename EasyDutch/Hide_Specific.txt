@@ -561,7 +561,6 @@ dutchcryptotalk.com##.hootslider-image-wrapper
 nieuwsfiets.nu###banner
 nec-nijmegen.nl##.sponsors
 mr-online.nl##.elementor-widget-container:has(.strack_bnr)
-mnm.be##.ad--rectangle:upward(1)
 fhm500.nl##div.profiel:has-text(Powered by)
 flexnieuws.nl##.header-ads__custom-ad
 floranews.com##td[align="center"]:has(> hr):has([href^="/banner"])
@@ -705,8 +704,6 @@ nu.nl##div[id^="block-in-article-ad"]
 ! 2022-05-27
 mandelnieuws.be##div[class*="blocksponsors"]
 mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
-mnm.be###reclameblok-wrapper
-mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
 radioviainternet.be##.banner-size-leaderbord
 rbsradio.be##.qt-sponsors
 wradio.be##.c-advertiser-logos
