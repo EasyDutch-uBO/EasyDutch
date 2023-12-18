@@ -1,21 +1,36 @@
-diff name:easydutch lines:104 checksum:8f940e5c53
+diff name:easydutch lines:153 checksum:44c1814942
 d2 1
 a2 1
-! Last updated: Sun, 17 Dec 2023 16:27:39 +0000
+! Last updated: Mon, 18 Dec 2023 16:52:42 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.17.987.patch#easydutch
+! Diff-Path: patches/2023.12.18.1012.patch#easydutch
+d85 1
 d90 1
 d97 1
 d116 1
-a152 1
+d130 1
+d153 1
+a153 5
 ||rivierenland-radio.nl/banners/$image
+||s.s-bol.com/nl/upload/partnerprogramma/$image
+||tennisenpadelvlaanderen.be/*/23Banner_$image
+||ipon.nl/wp-content/uploads/*/*banner$image
+||doorbraak.be/wp-json/api/*/ads$xehr
+d225 1
+d246 1
+d335 2
+d359 1
+d366 1
 d407 3
 d440 1
 d451 1
 d457 2
 d470 1
-a668 35
+d542 1
+d562 1
+d568 1
+a668 43
 112-ov.nl##h4:has-text(Advert):upward(.widget_text)
 112-ov.nl##.adsbygoogle:upward([id^="custom_html"])
 adodenhaag.nl###sponsors-normal
@@ -29,6 +44,14 @@ itdaily.be###itdaily-article-sidebar
 itdaily.be###itdaily-article-top
 itdaily.be###itdaily-footer
 itdaily.be##[id^="itdaily-home"]
+motocrossplanet.nl##[class*="banner_count"]
+motocrossplanet.nl##.artikel-banners
+motocrossplanet.nl##.rcol-titel:has-text(Advert)
+poki.com##.sc-tbf0fc-2:has-text(/Advert/i):upward(div[class])
+profielactueel.nl##div.cube.banners
+spaargids.be##.card-articles:has-text(/gesponsord/i)
+tennisenpadelvlaanderen.be##.aca-header__row--commercial
+weerstationleeuwarden.nl##ins.adsbygoogle:upward(.card)
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
 deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
@@ -56,32 +79,56 @@ sikkom.nl##[id^="ad_native"]:upward(.column)
 sikkom.nl##.ad-sticky-parent
 d743 4
 d859 2
+d900 1
 d952 1
 d1035 1
 a1035 1
-albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
+albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad070.nl,goudsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
 d1058 1
 d1079 1
+d1089 1
+d1101 1
 d1111 1
-d1116 1
+d1116 2
+d1124 1
+d1131 1
 d1136 1
 d1146 1
 d1156 1
 d1180 1
+d1197 1
+d1209 1
 d1225 1
-d1354 1
+d1228 2
+d1261 3
+d1268 1
+d1334 1
+d1348 1
+d1352 3
+a1354 2
+hartvannederland.nl,shownieuws.nl##[data-testid^="banner"]
+hartvannederland.nl,shownieuws.nl##div[class*="-bannerWrapper-"]
 d1361 1
 d1405 4
+d1411 1
 d1425 1
 a1425 1
 elfvoetbal.nl###partners
+d1429 1
 d1433 1
 d1441 1
 a1441 1
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
+d1446 1
+a1446 1
+beleggersbelangen.nl,bestereistijd.be,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,xgn.nl##.ad
 d1464 2
 a1465 1
 spelletje.nl##.adv
+d1482 1
+d1488 1
+a1488 1
+afkortingen.nu,allradio.nl,elkspel.nl,erotracks.nl,filmladder.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,waldnet.nl##.banner
 d1513 1
 d1549 2
 a1550 1
@@ -93,6 +140,8 @@ tvl.be,tvoost.be##.leaderboardWrap
 d1639 1
 a1639 1
 feyenoord.nl##.partners
+d1655 1
+d1662 1
 d1666 1
 d1673 1
 a1673 1

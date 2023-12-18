@@ -1,0 +1,63 @@
+diff name:easydutch lines:62 checksum:44c1814942
+d2 1
+a2 1
+! Last updated: Mon, 18 Dec 2023 16:52:42 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.12.18.1012.patch#easydutch
+d85 1
+d127 1
+d151 1
+a151 4
+||s.s-bol.com/nl/upload/partnerprogramma/$image
+||tennisenpadelvlaanderen.be/*/23Banner_$image
+||ipon.nl/wp-content/uploads/*/*banner$image
+||doorbraak.be/wp-json/api/*/ads$xehr
+d223 1
+d244 1
+d333 2
+d357 1
+d364 1
+d532 1
+d552 1
+d558 1
+a671 8
+motocrossplanet.nl##[class*="banner_count"]
+motocrossplanet.nl##.artikel-banners
+motocrossplanet.nl##.rcol-titel:has-text(Advert)
+poki.com##.sc-tbf0fc-2:has-text(/Advert/i):upward(div[class])
+profielactueel.nl##div.cube.banners
+spaargids.be##.card-articles:has-text(/gesponsord/i)
+tennisenpadelvlaanderen.be##.aca-header__row--commercial
+weerstationleeuwarden.nl##ins.adsbygoogle:upward(.card)
+d921 1
+d1055 1
+a1055 1
+albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad070.nl,goudsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
+d1107 1
+d1119 1
+d1133 1
+d1140 1
+d1147 1
+d1209 1
+d1221 1
+d1239 2
+d1272 3
+d1279 1
+d1345 1
+d1359 1
+d1363 2
+a1364 2
+hartvannederland.nl,shownieuws.nl##[data-testid^="banner"]
+hartvannederland.nl,shownieuws.nl##div[class*="-bannerWrapper-"]
+d1416 1
+d1434 1
+d1450 1
+a1450 1
+beleggersbelangen.nl,bestereistijd.be,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,xgn.nl##.ad
+d1485 1
+d1491 1
+a1491 1
+afkortingen.nu,allradio.nl,elkspel.nl,erotracks.nl,filmladder.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,waldnet.nl##.banner
+d1655 1
+d1662 1

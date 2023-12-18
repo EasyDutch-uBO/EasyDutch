@@ -1,11 +1,14 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Sun, 17 Dec 2023 16:27:39 +0000
+! Last updated: Mon, 18 Dec 2023 16:52:42 +0000
 !
 ! 2023-12-18
 ||rivierenland-radio.nl/banners/$image
+||s.s-bol.com/nl/upload/partnerprogramma/$image
+||tennisenpadelvlaanderen.be/*/23Banner_$image
+||ipon.nl/wp-content/uploads/*/*banner$image
 ! 2023-11-24
-||doorbraak.be/wp-json/api/*/ads$xhr
+||doorbraak.be/wp-json/api/*/ads$xehr
 ||grootnieuwsradio.nl/advertisements$xhr
 ||grootnieuwsradio.nl/cache/*/advertisements/$image
 ! 2023-11-21
@@ -99,8 +102,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||watersport-tv.nl/content/*/pages/clnt/*_org$image
 ||yachtfocus.com/wp-content/*/images/bnr/
 ||zeilwereld.nl/wp-content/uploads/*/*banner
-! 2023-05-05
-||proshop.nl/Images/Topbanner$image
 ! 2023-05-02
 ||cmtt.nl/Advertisement/$image,domain=advocatie.nl
 ||advocatie.nl/content/uploads//Mediation-Basis$image
@@ -125,7 +126,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||msa.paginabanner.nl/banners/$image
 ||wp.com/noordernieuws.nl/wp-content/uploads/*/*.gif$image,domain=noordernieuws.nl
 ||partyflock.nl/images/*/*_i*_$image
-||vives.nl/wp-content/uploads/*banner$image
 ||wp.com/gostreaming.nl/wp-content/uploads/*.gif$image
 ||zwartewaterfm.nl/wp-content/uploads/*/SponsorenZwarteWaterFM
 ! 2023-04-26
@@ -232,8 +232,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||racexpress.nl/img/sponsors/
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
 ||rss.app/api/widget/$domain=hollywoodhuizen.nl
-||tennisvlaanderen.be/documents/*/*banner/
-||tennisvlaanderen.be/documents/*/*Sponsorblok-$image,1p
 ||hoekschnieuws.nl/wp-content/banners$image
 ||sponsorlink.nl/js/snippet.js$script,domain=handbalstartpunt.nl
 ||h2owaternetwerk.nl/images/banners/$image
@@ -258,7 +256,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||edelmetaal-info.nl/wp-content/uploads/*/*HollandGold*$image
 ! 2022-06-27
 ||broadcastmagazine.nl/wp-content/uploads/*/SMPhomepagenw2.gif
-||madmoney.eu/promotools/banners/
 ||aafm.nl/cms/wp-content/*/banners/$image
 ||aavisie.nl/cms/wp-content/*/banners/$image
 ! 2022-06-22
@@ -268,8 +265,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ouders.nl/uploads/alt/$domain=viafora.nl
 ! 2022-06-17
 ||dartfreakz.nl/wp-content/uploads/*/banner$image
-! 2022-06-14
-||qassa.nl/images/*/wallpaper$image
 ! 2022-05-27
 ||mandelnieuws.be^*/Sponsors/
 ! 2022-05-05 
@@ -455,7 +450,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||resellers.viboshop.nl/promoimages/
 ||risallah.com/multimedia/images/banners/$image
 ||rtveen.nl/wp-content/plugins/advanced-advertising-system/js/*$script,1p
-||search-result.com^*/klokad2.js
 ||sedproductions.nl/banners/$image,3p
 ||simone.nl/wp-content/uploads/*-onderdelenexpert.nl-
 ||sociaaldigitaal.nl/img/Banner-$3p
@@ -475,13 +469,11 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||touretappe.nl/images/xtra/
 ||tradeidee.nl/banners/
 ||transport-online.nl/site/includes/uploads/banner-$image
-||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
 ||tweedehandschristelijkeboeken.nl/wp-content/uploads/*/gratis-eo-visie.png$image
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||ucl-voetbal.nl/derden/
 ||uecl-voetbal.nl/derden/
 ||uel-voetbal.nl/derden/
-||unity.nu/media/*/BANNERS/
 ||vbro.be/wp-content/uploads/*/autoonderdelen24_$image
 ||verkeerplaza.nl/js/banner.js
 ||viapizza.online/?ts_id=$subdocument,domain=dagbladdewest.com

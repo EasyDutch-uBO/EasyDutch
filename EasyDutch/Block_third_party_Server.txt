@@ -1,6 +1,6 @@
 ! Title: Block Third-Party Server
 ! Description: Filters for blocking only general third-party servers on Dutch websites
-! Last updated: Sun, 17 Dec 2023 16:27:39 +0000
+! Last updated: Mon, 18 Dec 2023 16:52:42 +0000
 !
 ! 2023-10-17
 ! bitcoinmagazine.nl,cryptobenelux.com
@@ -29,9 +29,6 @@
 ! 2021-11-30
 ! goodbye.be
 ||travelads.be^$3p
-! 2021-11-20
-! tzum.info
-||t.bazarow.com^$3p
 ! 2021-11-10
 ! streamwijzer.be
 ||affiliatable1.b-cdn.net^$3p
@@ -93,7 +90,6 @@
 ||kimhollandpartners.nl^$3p
 ||klikbonus.com^$3p
 ||lauwebut.nl^$3p
-||lustcash.nl^$3p
 ||maakmedia.nl^$3p
 ||midhold.nl^$3p
 ||mt67.net^$3p
