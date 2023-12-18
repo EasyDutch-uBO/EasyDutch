@@ -837,7 +837,6 @@ wegdamnieuws.nl##.ads
 nieuwsuitdelden.nl##.gesponsord_blokje
 ! 2022-03-09
 gezondheidsnet.nl##.banner
-lonelyplanet.nl##div[id*="adf-billboard"]
 ! 2022-03-04
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .list
 nu.nl##.temptation__aside
