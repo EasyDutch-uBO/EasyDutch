@@ -29,9 +29,6 @@
 ! 2021-11-30
 ! goodbye.be
 ||travelads.be^$3p
-! 2021-11-20
-! tzum.info
-||t.bazarow.com^$3p
 ! 2021-11-10
 ! streamwijzer.be
 ||affiliatable1.b-cdn.net^$3p
