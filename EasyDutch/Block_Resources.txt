@@ -1,6 +1,6 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Mon, 18 Dec 2023 16:52:42 +0000
+! Last updated: Mon, 18 Dec 2023 19:46:41 +0000
 !
 ! 2023-12-18
 ||rivierenland-radio.nl/banners/$image
@@ -8,7 +8,7 @@
 ||tennisenpadelvlaanderen.be/*/23Banner_$image
 ||ipon.nl/wp-content/uploads/*/*banner$image
 ! 2023-11-24
-||doorbraak.be/wp-json/api/*/ads$xehr
+||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
 ||grootnieuwsradio.nl/cache/*/advertisements/$image
 ! 2023-11-21

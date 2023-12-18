@@ -1,0 +1,14 @@
+diff name:easydutch lines:13 checksum:55c261d638
+d2 1
+a2 1
+! Last updated: Mon, 18 Dec 2023 19:46:41 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.12.18.1186.patch#easydutch
+d90 1
+d105 1
+d123 1
+d144 1
+d152 1
+a152 1
+||doorbraak.be/wp-json/api/*/ads$xhr

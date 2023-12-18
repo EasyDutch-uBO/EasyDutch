@@ -1,21 +1,25 @@
-diff name:easydutch lines:160 checksum:44c1814942
+diff name:easydutch lines:164 checksum:55c261d638
 d2 1
 a2 1
-! Last updated: Mon, 18 Dec 2023 16:52:42 +0000
+! Last updated: Mon, 18 Dec 2023 19:46:41 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.18.1012.patch#easydutch
+! Diff-Path: patches/2023.12.18.1186.patch#easydutch
 d85 1
 d90 1
+d92 1
 d97 1
+d108 1
 d116 1
+d127 1
 d130 1
+d149 1
 a152 7
 ||rivierenland-radio.nl/banners/$image
 ||s.s-bol.com/nl/upload/partnerprogramma/$image
 ||tennisenpadelvlaanderen.be/*/23Banner_$image
 ||ipon.nl/wp-content/uploads/*/*banner$image
-||doorbraak.be/wp-json/api/*/ads$xehr
+||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
 ||grootnieuwsradio.nl/cache/*/advertisements/$image
 d188 1

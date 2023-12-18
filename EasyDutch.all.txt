@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Mon, 18 Dec 2023 16:52:42 +0000
+! Last updated: Mon, 18 Dec 2023 19:46:41 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.12.18.1012.patch#easydutch
+! Diff-Path: patches/2023.12.18.1186.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -87,7 +87,6 @@ _advertentieleaderboardhome.
 ||adrequest.net^$3p
 ||adshim.com^$3p
 ||viadata.store^$3p
-||affiliateprogramma.eu^$3p
 ||sponsorkliks.com^$3p
 ||advertising-cdn.dpgmedia.cloud^$3p
 ||widgets.skyscanner.net^$domain=puuropreis.nl
@@ -102,7 +101,6 @@ _advertentieleaderboardhome.
 ||adquick.nl^$3p
 ||adulttradecenter.nl^$3p
 ||affilaxy.com^$3p
-||affiliatepartners.com^$3p
 ||asp.unitedconsumers.com^$3p
 ||awin.com^$3p
 ||bva-auctions.com^$domain=telegraaf.nl
@@ -120,7 +118,6 @@ _advertentieleaderboardhome.
 ||euroclix.nl^$3p,domain=~panelclix.com|~panelclix.nl
 ||extremecash.nl^$3p
 ||hotlinkie.com^$3p
-||kimhollandpartners.nl^$3p
 ||klikbonus.com^$3p
 ||lauwebut.nl^$3p
 ||maakmedia.nl^$3p
@@ -141,7 +138,6 @@ _advertentieleaderboardhome.
 ||teasemedia.nl^$3p
 ||tradetracker.com^$3p
 ||verkoopmenu.nl^$3p
-||views.affiliate4you.nl^$3p
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
@@ -149,7 +145,7 @@ _advertentieleaderboardhome.
 ||s.s-bol.com/nl/upload/partnerprogramma/$image
 ||tennisenpadelvlaanderen.be/*/23Banner_$image
 ||ipon.nl/wp-content/uploads/*/*banner$image
-||doorbraak.be/wp-json/api/*/ads$xehr
+||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
 ||grootnieuwsradio.nl/cache/*/advertisements/$image
 ||reformatorischeomroep.nl/*/*banner$image
