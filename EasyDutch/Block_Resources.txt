@@ -450,7 +450,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||resellers.viboshop.nl/promoimages/
 ||risallah.com/multimedia/images/banners/$image
 ||rtveen.nl/wp-content/plugins/advanced-advertising-system/js/*$script,1p
-||search-result.com^*/klokad2.js
 ||sedproductions.nl/banners/$image,3p
 ||simone.nl/wp-content/uploads/*-onderdelenexpert.nl-
 ||sociaaldigitaal.nl/img/Banner-$3p
