@@ -21,6 +21,7 @@ motocrossplanet.nl##.artikel-banners
 motocrossplanet.nl##.rcol-titel:has-text(Advert)
 poki.com##.sc-tbf0fc-2:has-text(/Advert/i):upward(div[class])
 profielactueel.nl##div.cube.banners
+spaargids.be##.card-articles:has-text(/gesponsord/i)
 ! 2023-12-16
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
@@ -914,7 +915,6 @@ nu.nl###header > .zone
 unitednews.sr###image-vertical-reel-scroll-slideshow
 almere-nieuws.nl###jeg_sidecontent > .jeg_container:has(.jeg_ad)
 funnygames.be,funnygames.nl###katon-slot
-spaargids.be###latest_news_above:has(.sponsored-right-bottom):has([rel="sponsored"])
 tellows.nl###lb_header
 techzine.nl###lead
 eindexamens.nu###leaderboard
