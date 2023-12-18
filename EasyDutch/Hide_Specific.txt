@@ -857,8 +857,8 @@ autoweek.nl##.advertisement
 nu.nl##[class="zone clearfix"][data-zone$="bottom"]:has([id^="ad"])
 nu.nl##aside#h1
 ! 2022-01-21
-hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
-hartvannederland.nl,shownieuws.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
+hartvannederland.nl,shownieuws.nl##[data-testid^="banner"]
+hartvannederland.nl,shownieuws.nl##div[class*="-bannerWrapper-"]
 ! 2022-01-19
 wettelijke-feestdagen.nl##.advertentieBanner
 wettelijke-feestdagen.nl###reclame
