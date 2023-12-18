@@ -747,9 +747,6 @@ cryptoclan.nl,cryptonieuws.nl##div[data-elementor-type="popup"]
 fotografie.nl##.section-partners
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
 nummerzoeker.com##a[href^="/out/"]
-proshop.nl##.site-background-banner
-proshop.nl##.site-home-banner
-proshop.nl##.site-top-banner
 sc-heerenveen.nl##.partner-grid:upward(2)
 sc-heerenveen.nl##.partnerlink
 totoknvbbeker.nl##.SponsorBlock
