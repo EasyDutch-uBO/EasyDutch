@@ -5,6 +5,7 @@
 ! 2023-12-18
 ||rivierenland-radio.nl/banners/$image
 ||s.s-bol.com/nl/upload/partnerprogramma/$image
+||tennisenpadelvlaanderen.be/*/23Banner_$image
 ! 2023-11-24
 ||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
@@ -231,8 +232,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||racexpress.nl/img/sponsors/
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
 ||rss.app/api/widget/$domain=hollywoodhuizen.nl
-||tennisvlaanderen.be/documents/*/*banner/
-||tennisvlaanderen.be/documents/*/*Sponsorblok-$image,1p
 ||hoekschnieuws.nl/wp-content/banners$image
 ||sponsorlink.nl/js/snippet.js$script,domain=handbalstartpunt.nl
 ||h2owaternetwerk.nl/images/banners/$image
