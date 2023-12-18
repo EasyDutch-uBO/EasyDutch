@@ -23,6 +23,7 @@ poki.com##.sc-tbf0fc-2:has-text(/Advert/i):upward(div[class])
 profielactueel.nl##div.cube.banners
 spaargids.be##.card-articles:has-text(/gesponsord/i)
 tennisenpadelvlaanderen.be##.aca-header__row--commercial
+weerstationleeuwarden.nl##ins.adsbygoogle:upward(.card)
 ! 2023-12-16
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
@@ -748,7 +749,6 @@ sc-heerenveen.nl##.partner-grid:upward(2)
 sc-heerenveen.nl##.partnerlink
 totoknvbbeker.nl##.SponsorBlock
 trappers.nl##.sponsors
-weerstationleeuwarden.nl##.cookieconsent-optin-marketing
 ! 2022-04-29
 besteproduct.nl,voetbalnieuws.nl##.ad
 xgn.nl##.bs
