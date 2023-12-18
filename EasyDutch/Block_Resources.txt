@@ -474,7 +474,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ucl-voetbal.nl/derden/
 ||uecl-voetbal.nl/derden/
 ||uel-voetbal.nl/derden/
-||unity.nu/media/*/BANNERS/
 ||vbro.be/wp-content/uploads/*/autoonderdelen24_$image
 ||verkeerplaza.nl/js/banner.js
 ||viapizza.online/?ts_id=$subdocument,domain=dagbladdewest.com
