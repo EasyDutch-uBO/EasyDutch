@@ -22,6 +22,7 @@ motocrossplanet.nl##.rcol-titel:has-text(Advert)
 poki.com##.sc-tbf0fc-2:has-text(/Advert/i):upward(div[class])
 profielactueel.nl##div.cube.banners
 spaargids.be##.card-articles:has-text(/gesponsord/i)
+tennisenpadelvlaanderen.be##.aca-header__row--commercial
 ! 2023-12-16
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
@@ -598,7 +599,6 @@ iculture.nl##.feed-ad-wrapper
 solarmagazine.nl##[id]:has(.company-add)
 nporadio1.nl,nporadio2.nl##[id^="adid"]:upward(2)
 hollywoodhuizen.nl##rssapp-carousel
-tennisvlaanderen.be##.commercial-banner
 historiek.net##.ablok
 h2owaternetwerk.nl##.bannergroup:upward(.module)
 h2owaternetwerk.nl##.ja-banner
