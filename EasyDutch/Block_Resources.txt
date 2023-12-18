@@ -258,7 +258,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||edelmetaal-info.nl/wp-content/uploads/*/*HollandGold*$image
 ! 2022-06-27
 ||broadcastmagazine.nl/wp-content/uploads/*/SMPhomepagenw2.gif
-||madmoney.eu/promotools/banners/
 ||aafm.nl/cms/wp-content/*/banners/$image
 ||aavisie.nl/cms/wp-content/*/banners/$image
 ! 2022-06-22
