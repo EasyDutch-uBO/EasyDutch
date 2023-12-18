@@ -16,6 +16,9 @@ itdaily.be###itdaily-article-sidebar
 itdaily.be###itdaily-article-top
 itdaily.be###itdaily-footer
 itdaily.be##[id^="itdaily-home"]
+motocrossplanet.nl##[class*="banner_count"]
+motocrossplanet.nl##.artikel-banners
+motocrossplanet.nl##.rcol-titel:has-text(Advert)
 ! 2023-12-16
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
@@ -572,7 +575,6 @@ mijnserie.nl##.sponsors-billboard:upward(.fullWidthWhite)
 limburger.nl##.widget-grid--partnerbox
 leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
 midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
-motocrossplanet.nl##.background_link
 ! 2022-06-29
 onderwijsland.com##.col-md-16:has([style*="greystripe"])
 persberichten.com##[id^="PanelTopAds"]
@@ -985,7 +987,6 @@ glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 zeelandnet.nl##.article-bnr-first
 duic.nl##.article-excerpt--ad
 nieuwnieuws.nl##.article-page__bumper
-motocrossplanet.nl##.artikel-banners
 rtvkrimpenerwaard.nl##.art-positioncontrol
 zeelandnet.nl##.as__bottom-banner
 nailtalk.nl##.ashe-widget
@@ -1155,7 +1156,6 @@ synoniemen.net##.promoblok
 oneworld.nl##.promotion-block
 openingsurengids.be##.promSB
 hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
-motocrossplanet.nl##.rcol-titel:has-text(Advert)
 rd.nl##.rdnl__adds
 iexgeld.nl##.Rectangle
 iex.nl##.rectanglewrap
