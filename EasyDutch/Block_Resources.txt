@@ -469,7 +469,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||touretappe.nl/images/xtra/
 ||tradeidee.nl/banners/
 ||transport-online.nl/site/includes/uploads/banner-$image
-||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
 ||tweedehandschristelijkeboeken.nl/wp-content/uploads/*/gratis-eo-visie.png$image
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||ucl-voetbal.nl/derden/
