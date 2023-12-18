@@ -20,6 +20,7 @@ motocrossplanet.nl##[class*="banner_count"]
 motocrossplanet.nl##.artikel-banners
 motocrossplanet.nl##.rcol-titel:has-text(Advert)
 poki.com##.sc-tbf0fc-2:has-text(/Advert/i):upward(div[class])
+profielactueel.nl##div.cube.banners
 ! 2023-12-16
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
