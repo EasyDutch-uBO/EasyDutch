@@ -932,7 +932,6 @@ elfvoetbal.nl###partners
 forum.scholieren.com###posts .thead:has-text(Advert)
 soccernews.nl###r89-mobile-rectangle-mid
 soccernews.nl###r89-takeover
-stubru.be###reclameblok-wrapper
 rtvdrenthe.nl###recommendations-above-ad
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl###right-sidebar > :has(.mb-3:has-text(Advert))
