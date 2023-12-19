@@ -426,7 +426,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,1p
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300x*.gif$image
 ||onderwijsland.com/files/partners/
-||oneworld.nl/app/uploads/*/*-Banner$image
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
 ||openingsurengids.be/includes/js/checkblockv2.js
 ||openingsurengids.be/template/images/publi/
