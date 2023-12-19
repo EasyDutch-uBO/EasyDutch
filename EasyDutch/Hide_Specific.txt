@@ -962,7 +962,7 @@ tvgids24.nl##.adBoxbig
 standaard.be##.ad--button
 filmtotaal.nl##.ad-centering
 sozio.nl##.adchannel
-omroepwest.nl,omroepzeeland.nl##.adcontainer
+omroepwest.nl##.adcontainer
 bruzz.be,omroepflevoland.nl,sportuitslagen.org,trendalert.nl##.ad-container
 voetbalvandaag.be##.adds
 koopplein.nl##.ad-item-container
