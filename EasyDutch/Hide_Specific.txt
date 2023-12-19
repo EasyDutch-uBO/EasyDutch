@@ -12,6 +12,7 @@ nieuwsmotor.nl##.add-background
 nieuwsmotor.nl##a[href*="nieuwsmotor.nl/url/"]:upward(.uk-grid)
 spelersvrouw.nl##.gridlove-inject
 surfplaza.be##.google
+twentefm.nl##.advertisement
 ! 2023-12-18
 112-ov.nl##h4:has-text(Advert):upward(.widget_text)
 112-ov.nl##.adsbygoogle:upward([id^="custom_html"])
@@ -1237,7 +1238,6 @@ hardnieuws.nl##[class*="mb-"]:has([id$="ros-970x250"])
 infonu.nl##[class^="a"][id^="a"]:has(.adsbygoogle)
 linda.nl##[class^="article-"][class$="_article"]:has(.category-label_label:has-text(Advertorial))
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,motocrossplanet.nl,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##[class^="banner"]
-twentefm.nl##[class^="bannerzone_"]:has([href])
 ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
 appletips.nl##[class^="ph_block"]
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
