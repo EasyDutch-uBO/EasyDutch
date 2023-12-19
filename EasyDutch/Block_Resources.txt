@@ -4,6 +4,7 @@
 !
 ! 2023-12-19
 /wp-content/plugins/age-gate*$domain=nieuwslog.nl
+||1twente.nl/Ads/$image,domain=twentefm.nl
 ! 2023-12-18
 ||rivierenland-radio.nl/banners/$image
 ||s.s-bol.com/nl/upload/partnerprogramma/$image
@@ -471,7 +472,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tradeidee.nl/banners/
 ||transport-online.nl/site/includes/uploads/banner-$image
 ||tweedehandschristelijkeboeken.nl/wp-content/uploads/*/gratis-eo-visie.png$image
-||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||ucl-voetbal.nl/derden/
 ||uecl-voetbal.nl/derden/
 ||uel-voetbal.nl/derden/
