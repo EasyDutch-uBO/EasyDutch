@@ -1,10 +1,10 @@
-diff name:easydutch lines:144 checksum:a412ba586f
+diff name:easydutch lines:145 checksum:ec14a97964
 d2 1
 a2 1
-! Last updated: Tue, 19 Dec 2023 12:15:06 +0000
+! Last updated: Tue, 19 Dec 2023 12:22:14 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.19.735.patch#easydutch
+! Diff-Path: patches/2023.12.19.742.patch#easydutch
 d85 1
 d90 1
 d92 1
@@ -33,6 +33,7 @@ d470 1
 d542 1
 d562 1
 d568 1
+d661 1
 a668 35
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl###bottom > h4:has-text(Ads)
 hardware.info##.sidebar-item > a.sidebar-item__content:has-text(adv:)
