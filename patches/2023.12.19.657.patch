@@ -1,10 +1,12 @@
-diff name:easydutch lines:13 checksum:2cecdc0c5c
+diff name:easydutch lines:16 checksum:a412ba586f
 d2 1
 a2 1
-! Last updated: Tue, 19 Dec 2023 12:06:59 +0000
+! Last updated: Tue, 19 Dec 2023 12:15:06 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.19.726.patch#easydutch
+! Diff-Path: patches/2023.12.19.735.patch#easydutch
+a143 1
+/wp-content/plugins/age-gate*$domain=nieuwslog.nl
 a649 4
 nederlandsmedianieuws.nl##.line:has-text(Advertentie):upward(.sidebar)
 nieuws.besteoverzicht.nl##.block:has-text(Advertenties)
@@ -12,3 +14,4 @@ nieuwsmotor.nl##.add-background
 nieuwsmotor.nl##a[href*="nieuwsmotor.nl/url/"]:upward(.uk-grid)
 d1442 1
 d1644 1
+d1717 1

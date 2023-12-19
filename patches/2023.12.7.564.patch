@@ -1,10 +1,10 @@
-diff name:easydutch lines:162 checksum:2cecdc0c5c
+diff name:easydutch lines:163 checksum:a412ba586f
 d2 1
 a2 1
-! Last updated: Tue, 19 Dec 2023 12:06:59 +0000
+! Last updated: Tue, 19 Dec 2023 12:15:06 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.19.726.patch#easydutch
+! Diff-Path: patches/2023.12.19.735.patch#easydutch
 d85 1
 d90 1
 d92 1
@@ -14,7 +14,8 @@ d116 1
 d127 1
 d130 1
 d149 1
-a152 4
+a152 5
+/wp-content/plugins/age-gate*$domain=nieuwslog.nl
 ||rivierenland-radio.nl/banners/$image
 ||s.s-bol.com/nl/upload/partnerprogramma/$image
 ||tennisenpadelvlaanderen.be/*/23Banner_$image
@@ -156,7 +157,7 @@ d1674 1
 a1674 1
 niburu.co##.sponsers
 d1706 1
-d1742 1
+d1742 2
 d1757 1
 d1936 1
 a1936 1

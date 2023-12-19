@@ -1,0 +1,10 @@
+diff name:easydutch lines:9 checksum:a412ba586f
+d2 1
+a2 1
+! Last updated: Tue, 19 Dec 2023 12:15:06 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.12.19.735.patch#easydutch
+a143 1
+/wp-content/plugins/age-gate*$domain=nieuwslog.nl
+d1719 1
