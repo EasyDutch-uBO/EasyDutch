@@ -1070,7 +1070,6 @@ fierljeppenwinsum.frl##.gdlr-sidebar:has-text(sponsoren)
 radiovisie.eu##.gmollik
 belgischecasinos.be,newspower.nu##.gofollow
 mariogames.be##.googleadvidx
-meerradio.nl##.grijze-balk:has-text(Advert)
 srherald.com##.gsrhera
 fcutrecht.nl##.has-items-center > .title-container:has-text(/deals/i)
 fcutrecht.nl##.has-toto-banners
@@ -1301,7 +1300,6 @@ basketball.nl##div[data-component="partner"]
 nu.nl##div[data-type="tealium"]
 !#endif
 handbalinside.nl##div[id^="handb-"]
-meerradio.nl##div[id="pristineslider.12"]
 apintie.sr##div[style*="width:300px; height:250px;"]
 kinderspelletjes.be,kinderspelletjes.nl##div[style*="width:970px"]:has-text(Reclame)
 landbouwgrond.nu##div[style]:has(.adsbygoogle)
