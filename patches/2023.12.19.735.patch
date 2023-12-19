@@ -1,8 +1,70 @@
-diff name:easydutch lines:7 checksum:ec14a97964
+diff name:easydutch lines:69 checksum:a29402363a
 d2 1
 a2 1
-! Last updated: Tue, 19 Dec 2023 12:22:14 +0000
+! Last updated: Tue, 19 Dec 2023 17:11:53 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.19.742.patch#easydutch
+! Diff-Path: patches/2023.12.19.1031.patch#easydutch
+a143 2
+||knhs.nl/media/*/*-banner$image
+||nieuwsgrazer.nl/images/ads/$domain=landbouwgrond.nu
+a144 3
+||motorblog.nl/wp-content/uploads/banner$image
+||radioluisteren.fm/ads/
+||1twente.nl/Ads/$image,domain=twentefm.nl
+d255 2
+d391 1
+d498 1
+d544 1
+d563 1
+a563 1
+/images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 d640 1
+a650 14
+janvissersweer.nl##img[width="300"][height="250"]:upward(aside.widget)
+knhs.nl##section.grid-row:has(.row section.ads img[src*="banner"])
+knhs.nl##.footer-sponsors
+loemedia.nl##.widgettitle:has-text(/advert|banner|reclame/i):upward(.widget)
+luchtvaartnieuws.nl##[id^="luchtvaartnieuws.nl_mob_mobilerectangle"]:upward(div[style])
+luchtvaartnieuws.nl##[id^="block-block-"]:has-text(/voordelige/i)
+luchtvaartnieuws.nl##.content > div[id^="luchtvaartnieuws.nl_web_"]:upward([id^="block-block-"])
+made-in.be##.c-ad-space:upward(.col-item)
+marktnet.nl##.tab4
+marktnet.nl##a[href^="https://www.marktnet.nl/bs/clickOut"]:upward([class^="tip"])
+marktnet.nl##li.linkUnit
+messianieuws.nl##a[target="_blank"]:not([href*="messianieuws.nl"]) > img[data-src*="messianieuws.nl/wp-content/uploads"]:upward(div[id^="block-"])
+messianieuws.nl##aside > .sb-widget:has-text(/Israël Weekbrief|Introductiecursus/)
+motorblog.nl##[src^="https://partner.bol.com"]:upward(table.tablepress)
+a654 3
+spelersvrouw.nl##.gridlove-inject
+surfplaza.be##.google
+twentefm.nl##.advertisement
+d923 2
+d931 1
+d934 2
+d1005 1
+d1007 1
+d1222 1
+d1407 1
+d1421 1
+d1424 1
+d1440 1
+d1445 1
+d1474 1
+d1490 1
+d1499 2
+d1516 1
+d1522 1
+d1557 1
+d1629 1
+d1636 1
+d1644 1
+d1650 1
+d1663 1
+d1727 1
+d1738 1
+d1741 1
+d1777 1
+d1782 1
+d1793 1
+d1809 1

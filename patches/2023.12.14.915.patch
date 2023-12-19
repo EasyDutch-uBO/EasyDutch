@@ -1,10 +1,10 @@
-diff name:easydutch lines:147 checksum:ec14a97964
+diff name:easydutch lines:199 checksum:a29402363a
 d2 1
 a2 1
-! Last updated: Tue, 19 Dec 2023 12:22:14 +0000
+! Last updated: Tue, 19 Dec 2023 17:11:53 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.19.742.patch#easydutch
+! Diff-Path: patches/2023.12.19.1031.patch#easydutch
 d85 1
 d90 1
 d92 1
@@ -14,34 +14,63 @@ d116 1
 d127 1
 d130 1
 d149 1
-a152 5
+a152 10
+||knhs.nl/media/*/*-banner$image
+||nieuwsgrazer.nl/images/ads/$domain=landbouwgrond.nu
 /wp-content/plugins/age-gate*$domain=nieuwslog.nl
+||motorblog.nl/wp-content/uploads/banner$image
+||radioluisteren.fm/ads/
+||1twente.nl/Ads/$image,domain=twentefm.nl
 ||rivierenland-radio.nl/banners/$image
 ||s.s-bol.com/nl/upload/partnerprogramma/$image
 ||tennisenpadelvlaanderen.be/*/23Banner_$image
 ||ipon.nl/wp-content/uploads/*/*banner$image
 d225 1
 d246 1
+d261 2
 d335 2
 d359 1
 d366 1
+d401 1
 d407 3
 d440 1
 d451 1
 d457 2
 d470 1
+d516 1
 d542 1
 d562 1
+d564 1
 d568 1
+d584 1
+a584 1
+/images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 d661 1
-a668 35
+a668 52
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl###bottom > h4:has-text(Ads)
 hardware.info##.sidebar-item > a.sidebar-item__content:has-text(adv:)
 hardware.info##.category:has-text(Advert):upward(article.overview-item)
+janvissersweer.nl##img[width="300"][height="250"]:upward(aside.widget)
+knhs.nl##section.grid-row:has(.row section.ads img[src*="banner"])
+knhs.nl##.footer-sponsors
+loemedia.nl##.widgettitle:has-text(/advert|banner|reclame/i):upward(.widget)
+luchtvaartnieuws.nl##[id^="luchtvaartnieuws.nl_mob_mobilerectangle"]:upward(div[style])
+luchtvaartnieuws.nl##[id^="block-block-"]:has-text(/voordelige/i)
+luchtvaartnieuws.nl##.content > div[id^="luchtvaartnieuws.nl_web_"]:upward([id^="block-block-"])
+made-in.be##.c-ad-space:upward(.col-item)
+marktnet.nl##.tab4
+marktnet.nl##a[href^="https://www.marktnet.nl/bs/clickOut"]:upward([class^="tip"])
+marktnet.nl##li.linkUnit
+messianieuws.nl##a[target="_blank"]:not([href*="messianieuws.nl"]) > img[data-src*="messianieuws.nl/wp-content/uploads"]:upward(div[id^="block-"])
+messianieuws.nl##aside > .sb-widget:has-text(/Israël Weekbrief|Introductiecursus/)
+motorblog.nl##[src^="https://partner.bol.com"]:upward(table.tablepress)
 nederlandsmedianieuws.nl##.line:has-text(Advertentie):upward(.sidebar)
 nieuws.besteoverzicht.nl##.block:has-text(Advertenties)
 nieuwsmotor.nl##.add-background
 nieuwsmotor.nl##a[href*="nieuwsmotor.nl/url/"]:upward(.uk-grid)
+spelersvrouw.nl##.gridlove-inject
+surfplaza.be##.google
+twentefm.nl##.advertisement
 112-ov.nl##h4:has-text(Advert):upward(.widget_text)
 112-ov.nl##.adsbygoogle:upward([id^="custom_html"])
 adodenhaag.nl###sponsors-normal
@@ -73,8 +102,12 @@ omroepzeeland.nl##footer .footer-list:has-text(/Reclame/i) > li:not(:nth-of-type
 a672 1
 geenstijl.nl##.sidebar-content > div:has-text(Kansino):has(+ .afctr-wrapper)
 d871 2
-d912 1
+d910 3
+d919 1
+d922 2
 d964 1
+d994 1
+d996 1
 d1047 1
 a1047 1
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad070.nl,goudsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
@@ -92,6 +125,7 @@ d1168 1
 d1192 1
 d1209 1
 d1221 1
+d1226 1
 d1237 1
 d1240 2
 d1273 3
@@ -105,44 +139,62 @@ hartvannederland.nl,shownieuws.nl##div[class*="-bannerWrapper-"]
 d1373 1
 d1417 4
 d1423 1
+d1427 1
 d1437 1
 a1437 1
 elfvoetbal.nl###partners
-d1441 1
-d1445 1
+d1441 2
+d1445 2
 d1453 1
 a1453 1
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
 d1458 1
 a1458 1
 beleggersbelangen.nl,bestereistijd.be,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,xgn.nl##.ad
+d1462 1
+d1467 1
 d1469 1
 d1476 2
 a1477 1
 spelletje.nl##.adv
 d1494 1
-d1500 1
+d1499 2
 a1500 1
 afkortingen.nu,allradio.nl,elkspel.nl,erotracks.nl,filmladder.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,waldnet.nl##.banner
-d1525 1
+d1515 1
+d1524 3
+d1542 1
+d1548 1
 d1561 2
 a1562 1
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
+d1584 1
 d1621 1
 a1621 1
 tvl.be,tvoost.be##.leaderboardWrap
 d1650 1
 a1650 1
 feyenoord.nl##.partners
+d1656 1
+d1663 1
 d1666 1
-d1673 1
+d1672 2
 d1677 2
+d1681 1
 d1684 1
 a1684 1
 niburu.co##.sponsers
+d1694 1
 d1716 1
 d1752 1
+d1760 1
 d1766 1
+d1772 1
+d1775 1
+d1811 1
+d1816 1
+d1827 1
+d1843 1
 d1945 1
 a1945 1
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl,vrides.nl##+js(noeval-if, /chp_?ad/)

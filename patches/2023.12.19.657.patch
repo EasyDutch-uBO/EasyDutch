@@ -1,18 +1,76 @@
-diff name:easydutch lines:17 checksum:ec14a97964
+diff name:easydutch lines:75 checksum:a29402363a
 d2 1
 a2 1
-! Last updated: Tue, 19 Dec 2023 12:22:14 +0000
+! Last updated: Tue, 19 Dec 2023 17:11:53 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.19.742.patch#easydutch
-a143 1
+! Diff-Path: patches/2023.12.19.1031.patch#easydutch
+a143 6
+||knhs.nl/media/*/*-banner$image
+||nieuwsgrazer.nl/images/ads/$domain=landbouwgrond.nu
 /wp-content/plugins/age-gate*$domain=nieuwslog.nl
+||motorblog.nl/wp-content/uploads/banner$image
+||radioluisteren.fm/ads/
+||1twente.nl/Ads/$image,domain=twentefm.nl
+d254 2
+d390 1
+d497 1
+d543 1
+d562 1
+a562 1
+/images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 d639 1
-a649 4
+a649 21
+janvissersweer.nl##img[width="300"][height="250"]:upward(aside.widget)
+knhs.nl##section.grid-row:has(.row section.ads img[src*="banner"])
+knhs.nl##.footer-sponsors
+loemedia.nl##.widgettitle:has-text(/advert|banner|reclame/i):upward(.widget)
+luchtvaartnieuws.nl##[id^="luchtvaartnieuws.nl_mob_mobilerectangle"]:upward(div[style])
+luchtvaartnieuws.nl##[id^="block-block-"]:has-text(/voordelige/i)
+luchtvaartnieuws.nl##.content > div[id^="luchtvaartnieuws.nl_web_"]:upward([id^="block-block-"])
+made-in.be##.c-ad-space:upward(.col-item)
+marktnet.nl##.tab4
+marktnet.nl##a[href^="https://www.marktnet.nl/bs/clickOut"]:upward([class^="tip"])
+marktnet.nl##li.linkUnit
+messianieuws.nl##a[target="_blank"]:not([href*="messianieuws.nl"]) > img[data-src*="messianieuws.nl/wp-content/uploads"]:upward(div[id^="block-"])
+messianieuws.nl##aside > .sb-widget:has-text(/Israël Weekbrief|Introductiecursus/)
+motorblog.nl##[src^="https://partner.bol.com"]:upward(table.tablepress)
 nederlandsmedianieuws.nl##.line:has-text(Advertentie):upward(.sidebar)
 nieuws.besteoverzicht.nl##.block:has-text(Advertenties)
 nieuwsmotor.nl##.add-background
 nieuwsmotor.nl##a[href*="nieuwsmotor.nl/url/"]:upward(.uk-grid)
+spelersvrouw.nl##.gridlove-inject
+surfplaza.be##.google
+twentefm.nl##.advertisement
+d918 2
+d926 1
+d929 2
+d1000 1
+d1002 1
+d1217 1
+d1402 1
+d1416 1
+d1419 1
+d1435 1
+d1440 1
 d1442 1
+d1470 1
+d1486 1
+d1495 2
+d1512 1
+d1518 1
+d1553 1
+d1625 1
+d1632 1
+d1640 1
 d1644 1
+d1647 1
+d1660 1
 d1717 1
+d1725 1
+d1736 1
+d1739 1
+d1775 1
+d1780 1
+d1791 1
+d1807 1

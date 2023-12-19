@@ -1,9 +1,14 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 19 Dec 2023 12:15:06 +0000
+! Last updated: Tue, 19 Dec 2023 17:11:53 +0000
 !
 ! 2023-12-19
+||knhs.nl/media/*/*-banner$image
+||nieuwsgrazer.nl/images/ads/$domain=landbouwgrond.nu
 /wp-content/plugins/age-gate*$domain=nieuwslog.nl
+||motorblog.nl/wp-content/uploads/banner$image
+||radioluisteren.fm/ads/
+||1twente.nl/Ads/$image,domain=twentefm.nl
 ! 2023-12-18
 ||rivierenland-radio.nl/banners/$image
 ||s.s-bol.com/nl/upload/partnerprogramma/$image
@@ -143,8 +148,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||klasse.be/wp/wp-content/images/*_lb_*full.*$image
 ||kookboekennieuws.nl/wp-content/uploads/*/*BANNER*$image
 ||wp.com/klokradio.nl/wp-content/uploads/*/adv-
-||knhs.nl/imagegen.ashx?image=/media/*/*banner*&width=550&constrain=true$image
-||knhs.nl/imagegen.ashx?image=/media/*/*banner*&width=360&constrain=true$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/50-Plus-Makelaar-*.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/Boogaers-2018-125.png$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
@@ -319,7 +322,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
 ||2link.be/banners/
 ||abcsuriname.com/templates/abc/assets/gfx/header_banner$image,1p
-||agconnect.nl/sites/ag/files/styles/partner_*$image,1p
 ||amazonaws.com/zkn/files/*.gif$image,domain=zorgkaartnederland.nl
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amz01.plzcdn.com/a/
@@ -426,7 +428,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,1p
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300x*.gif$image
 ||onderwijsland.com/files/partners/
-||oneworld.nl/app/uploads/*/*-Banner$image
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
 ||openingsurengids.be/includes/js/checkblockv2.js
 ||openingsurengids.be/template/images/publi/
@@ -472,7 +473,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tradeidee.nl/banners/
 ||transport-online.nl/site/includes/uploads/banner-$image
 ||tweedehandschristelijkeboeken.nl/wp-content/uploads/*/gratis-eo-visie.png$image
-||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||ucl-voetbal.nl/derden/
 ||uecl-voetbal.nl/derden/
 ||uel-voetbal.nl/derden/
@@ -493,7 +493,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 
 ! NSFW Sites
 *$3p,image,domain=kinkymedia.nl
-/images/*.gif$image,domain=123video.nl|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
+/images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
 /wp-content/uploads/*.gif$image,domain=bekijkporno.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|nieuws.xxx|onderdanigeman.nl|onschuldigemeiden.nl|poldersexverhalen.nl|pornokartel.nl|seksmet.nl|sexmeid.nl|sexmetvrouwen.nl|shespot.nl|sproeiendekutjes.nl|tiener-sexverhalen.nl|tubelight.nl|wraaksex.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl

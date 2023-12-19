@@ -1,25 +1,24 @@
-diff name:easydutch lines:70 checksum:a29402363a
+diff name:easydutch lines:68 checksum:a29402363a
 d2 1
 a2 1
 ! Last updated: Tue, 19 Dec 2023 17:11:53 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2023.12.19.1031.patch#easydutch
-a143 6
+a143 2
 ||knhs.nl/media/*/*-banner$image
 ||nieuwsgrazer.nl/images/ads/$domain=landbouwgrond.nu
-/wp-content/plugins/age-gate*$domain=nieuwslog.nl
+a144 3
 ||motorblog.nl/wp-content/uploads/banner$image
 ||radioluisteren.fm/ads/
 ||1twente.nl/Ads/$image,domain=twentefm.nl
-d254 2
-d390 1
-d497 1
-d543 1
-d562 1
-a562 1
+d255 2
+d391 1
+d498 1
+d544 1
+d563 1
+a563 1
 /images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
-d639 1
 a649 14
 janvissersweer.nl##img[width="300"][height="250"]:upward(aside.widget)
 knhs.nl##section.grid-row:has(.row section.ads img[src*="banner"])
@@ -61,11 +60,10 @@ d1635 1
 d1643 1
 d1649 1
 d1662 1
-d1719 1
-d1727 1
-d1738 1
-d1741 1
-d1777 1
-d1782 1
-d1793 1
-d1809 1
+d1726 1
+d1737 1
+d1740 1
+d1776 1
+d1781 1
+d1792 1
+d1808 1
