@@ -1013,7 +1013,6 @@ guruwatch.nl##.Billboard
 iex.nl##.billboardwrap
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 azerty.nl##.block.mod_article:has(.flexslider)
-veto.be##.block.spacer:has(#advert-campaign)
 agconnect.nl##.block-adfo-blocks:has(img[src*="/partner"])
 livios.be##.block-leaderboard
 psv.nl##.block-sponsors-desktop
