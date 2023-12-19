@@ -1,10 +1,10 @@
-diff name:easydutch lines:152 checksum:d32dd28e59
+diff name:easydutch lines:154 checksum:ff26c6270d
 d2 1
 a2 1
-! Last updated: Mon, 18 Dec 2023 20:06:26 +0000
+! Last updated: Tue, 19 Dec 2023 08:45:07 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.18.1206.patch#easydutch
+! Diff-Path: patches/2023.12.19.525.patch#easydutch
 d85 1
 d90 1
 d92 1
@@ -32,7 +32,9 @@ d470 1
 d542 1
 d562 1
 d568 1
-a668 43
+a668 45
+hardware.info##.sidebar-item > a.sidebar-item__content:has-text(adv:)
+hardware.info##.category:has-text(Advert):upward(article.overview-item)
 112-ov.nl##h4:has-text(Advert):upward(.widget_text)
 112-ov.nl##.adsbygoogle:upward([id^="custom_html"])
 adodenhaag.nl###sponsors-normal

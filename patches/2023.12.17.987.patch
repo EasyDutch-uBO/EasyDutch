@@ -1,10 +1,10 @@
-diff name:easydutch lines:64 checksum:d32dd28e59
+diff name:easydutch lines:67 checksum:ff26c6270d
 d2 1
 a2 1
-! Last updated: Mon, 18 Dec 2023 20:06:26 +0000
+! Last updated: Tue, 19 Dec 2023 08:45:07 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.18.1206.patch#easydutch
+! Diff-Path: patches/2023.12.19.525.patch#easydutch
 d85 1
 d91 1
 d106 1
@@ -23,6 +23,9 @@ d364 1
 d532 1
 d552 1
 d558 1
+a658 2
+hardware.info##.sidebar-item > a.sidebar-item__content:has-text(adv:)
+hardware.info##.category:has-text(Advert):upward(article.overview-item)
 a671 8
 motocrossplanet.nl##[class*="banner_count"]
 motocrossplanet.nl##.artikel-banners
