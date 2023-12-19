@@ -1152,7 +1152,6 @@ letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 koopplein.nl##.promobloc-desktop
 koopplein.nl##.promoblocs__banner
 synoniemen.net##.promoblok
-oneworld.nl##.promotion-block
 openingsurengids.be##.promSB
 hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
 rd.nl##.rdnl__adds
