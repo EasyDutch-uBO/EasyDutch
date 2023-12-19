@@ -962,7 +962,6 @@ tvgids24.nl##.adBoxbig
 standaard.be##.ad--button
 filmtotaal.nl##.ad-centering
 sozio.nl##.adchannel
-omroepwest.nl##.adcontainer
 bruzz.be,omroepflevoland.nl,sportuitslagen.org,trendalert.nl##.ad-container
 voetbalvandaag.be##.adds
 koopplein.nl##.ad-item-container
@@ -1167,7 +1166,6 @@ scholieren.com##.searchvertorial
 uitzendinggemist.net##.serie_info_adbox
 fcgroningen.nl##.sidebar__item--banner
 alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
-omroepwest.nl##.slider-wrapper
 solarmagazine.nl##.sols
 live-voetbal.com##.special-offer
 niburu.co##.sponsers
