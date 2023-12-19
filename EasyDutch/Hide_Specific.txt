@@ -6,6 +6,9 @@
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl###bottom > h4:has-text(Ads)
 hardware.info##.sidebar-item > a.sidebar-item__content:has-text(adv:)
 hardware.info##.category:has-text(Advert):upward(article.overview-item)
+luchtvaartnieuws.nl##[id^="luchtvaartnieuws.nl_mob_mobilerectangle"]:upward(div[style])
+luchtvaartnieuws.nl##[id^="block-block-"]:has-text(/voordelige/i)
+luchtvaartnieuws.nl##.content > div[id^="luchtvaartnieuws.nl_web_"]:upward([id^="block-block-"])
 made-in.be##.c-ad-space:upward(.col-item)
 marktnet.nl##.tab4
 marktnet.nl##a[href^="https://www.marktnet.nl/bs/clickOut"]:upward([class^="tip"])
@@ -340,8 +343,6 @@ wegdamnieuws.nl##.ads-stack
 ! 2023-05-01
 belgiancycling.be##.logo-slider
 cryptosjop.nl##iframe[src^="https://bitvavo.com/assets/static/widget/trade.html"]:upward(.td_block_wrap)
-luchtvaartnieuws.nl##[id^="luchtvaartnieuws.nl_mob_mobilerectangle"]:upward(div[style])
-luchtvaartnieuws.nl##.content > [id^="luchtvaartnieuws.nl_web_"]:upward(.block)
 ! 2023-04-28
 crypto-insiders.nl##article.ci-ad-card
 arenalokaal.nl,gooieneembode.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl##.component__pubble-banner:has([advobject])
@@ -1247,7 +1248,6 @@ online-radio.nl##[id^="AdvertMid"]
 bol-an.nl##[id^="block-"]:has([src*="_Banner"])
 bierdopje.com##[id^="block"]:has(h1:has-text(Advertentie))
 blikopnieuws.nl##[id^="block-block-"]:has([target="_blank"] > img.media-element)
-luchtvaartnieuws.nl##[id^="block-block-"]:has-text(/voordelige/i)
 online-radio.nl##[id^="containersitead"]
 rtvalbrandswaard.com##[id^="custom_html-"]:has([src^="https://bannerbuilder.sponsorkliks.com/"])
 janvissersweer.nl##[id^="custom_html-"]:has([src^="https://pagead2.googlesyndication.com/"])
