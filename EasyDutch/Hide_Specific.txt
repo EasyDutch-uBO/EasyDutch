@@ -1237,7 +1237,6 @@ voetbal4u.com##.widget-container:has([id^="text-"]> h4)
 indebuurt.nl##.widget-tabs--partner
 eindtijdklok.org##.wpa
 dekrantnieuws.nl,destreekkrant.nu##.wpb_wrapper > .a-single
-nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
 camping-frankrijk.nl##[class$="container"]:has([id*="HyperLinkBanner"])
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
 domstadradio.nl##[class*="elementor-element-"]:has-text(/onze sponsors/i)
