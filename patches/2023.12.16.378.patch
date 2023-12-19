@@ -1,10 +1,10 @@
-diff name:easydutch lines:138 checksum:26071bfa1d
+diff name:easydutch lines:143 checksum:2cecdc0c5c
 d2 1
 a2 1
-! Last updated: Tue, 19 Dec 2023 10:57:43 +0000
+! Last updated: Tue, 19 Dec 2023 12:06:59 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.19.657.patch#easydutch
+! Diff-Path: patches/2023.12.19.726.patch#easydutch
 d85 1
 d90 1
 d92 1
@@ -33,10 +33,14 @@ d542 1
 d562 1
 d568 1
 d669 1
-a669 31
+a669 35
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl###bottom > h4:has-text(Ads)
 hardware.info##.sidebar-item > a.sidebar-item__content:has-text(adv:)
 hardware.info##.category:has-text(Advert):upward(article.overview-item)
+nederlandsmedianieuws.nl##.line:has-text(Advertentie):upward(.sidebar)
+nieuws.besteoverzicht.nl##.block:has-text(Advertenties)
+nieuwsmotor.nl##.add-background
+nieuwsmotor.nl##a[href*="nieuwsmotor.nl/url/"]:upward(.uk-grid)
 112-ov.nl##h4:has-text(Advert):upward(.widget_text)
 112-ov.nl##.adsbygoogle:upward([id^="custom_html"])
 adodenhaag.nl###sponsors-normal
@@ -109,6 +113,7 @@ eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,giganieuws.n
 d1460 1
 a1460 1
 beleggersbelangen.nl,bestereistijd.be,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,xgn.nl##.ad
+d1471 1
 d1478 2
 a1479 1
 spelletje.nl##.adv
@@ -128,7 +133,7 @@ a1652 1
 feyenoord.nl##.partners
 d1668 1
 d1675 1
-d1679 1
+d1679 2
 d1686 1
 a1686 1
 niburu.co##.sponsers
