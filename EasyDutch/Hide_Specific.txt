@@ -451,9 +451,7 @@ nd.nl##.page-header__inner__ad
 ! 2023-01-14
 ! https://github.com/AdguardTeam/AdguardFilters/issues/131530
 hardware.info##div[class^="bnr-"]
-hardware.info##.overview-item--success
 hardware.info##.sidebar_right_bottom
-hardware.info##.sidebar_right_top
 hardware.info##[data-testid^="banner"]
 hardware.info##^script:has-text(Inject=!)
 hardware.info##+js(nostif, .call(null), 10)
