@@ -6,6 +6,7 @@
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl###bottom > h4:has-text(Ads)
 hardware.info##.sidebar-item > a.sidebar-item__content:has-text(adv:)
 hardware.info##.category:has-text(Advert):upward(article.overview-item)
+janvissersweer.nl##img[width="300"][height="250"]:upward(aside.widget)
 knhs.nl##section.grid-row:has(.row section.ads img[src*="banner"])
 knhs.nl##.footer-sponsors
 loemedia.nl##.widgettitle:has-text(/advert|banner|reclame/i):upward(.widget)
@@ -1145,7 +1146,6 @@ appletips.nl##.ph_upgreatest
 denachtvlinders.nl##.plek-boven-artikel
 gratisaftehalen.nl##.plistaAllOuter
 welingelichtekringen.nl##.post:has(a[href*="/partnerposting/"])
-janvissersweer.nl##.post:has-text(Sponsor)
 fhm500.nl##.powered_by_page
 fhm500.nl##.powered_by_profile
 letsgodigital.org##.product__wrapper:has(.adsbygoogle)
@@ -1251,7 +1251,6 @@ bierdopje.com##[id^="block"]:has(h1:has-text(Advertentie))
 blikopnieuws.nl##[id^="block-block-"]:has([target="_blank"] > img.media-element)
 online-radio.nl##[id^="containersitead"]
 rtvalbrandswaard.com##[id^="custom_html-"]:has([src^="https://bannerbuilder.sponsorkliks.com/"])
-janvissersweer.nl##[id^="custom_html-"]:has([src^="https://pagead2.googlesyndication.com/"])
 nljug.org##[id^="custom_html-"]:has-text(Kennispartners):has(a[href] > img)
 geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
 aafm.nl##[id^="loaBlock"]:has-text(Advertentie)
