@@ -322,7 +322,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
 ||2link.be/banners/
 ||abcsuriname.com/templates/abc/assets/gfx/header_banner$image,1p
-||agconnect.nl/sites/ag/files/styles/partner_*$image,1p
 ||amazonaws.com/zkn/files/*.gif$image,domain=zorgkaartnederland.nl
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amz01.plzcdn.com/a/
