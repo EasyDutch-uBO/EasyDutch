@@ -1156,7 +1156,6 @@ iexgeld.nl##.Rectangle
 iex.nl##.rectanglewrap
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 regionoordkop.nl##.regio-widget
-schaefer-shop.nl##.row > [class]:has(.sfr-pdp-section[id$="crossseller"])
 softonic.nl##.sam-slot
 scholieren.com##.searchvertorial
 uitzendinggemist.net##.serie_info_adbox
