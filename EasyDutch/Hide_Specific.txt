@@ -956,7 +956,6 @@ beleggersbelangen.nl,bestereistijd.be,hetnieuwsvandaag.be,hyvesgames.nl,indebuur
 bestereistijd.be##.ad + .card-divider
 marokko.nl##.ad_between
 marokko.nl##.ad_inner
-voetbal.com##.adbox
 tvgids24.nl##.adBoxbig
 standaard.be##.ad--button
 filmtotaal.nl##.ad-centering
