@@ -3,6 +3,8 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-20
+decibel.nl##.edgtf-carousel-holder
+decibel.nl##div[aria-label="Slider"]:not(:has([data-href*="decibel.nl"]))
 arenalokaal.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
 arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
 dekrantnieuws.nl,destreekkrant.nu##.component__pubble-banner:has([advobject]):upward(.builder__row:not(.grid))
@@ -1056,7 +1058,6 @@ menttv.be##.cta-container
 touretappe.nl##.desktopad
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 turksemedia.nl##.easingslider
-decibel.nl##.edgtf-carousel-holder
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.banner-container):not(:has-text(/podcast/i))
 radiocontinu.nl##.eskimo-carousel-container
