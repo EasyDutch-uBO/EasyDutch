@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-19
+||grandprixradio.nl/*/advertisements/
 ||knhs.nl/media/*/*-banner$image
 ||nieuwsgrazer.nl/images/ads/$domain=landbouwgrond.nu
 /wp-content/plugins/age-gate*$domain=nieuwslog.nl
