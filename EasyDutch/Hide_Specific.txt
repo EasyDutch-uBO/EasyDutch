@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-20
+fcutrecht.nl##section[class^="container nesteditem"]:has-text(/deals/i)
 gfcnieuws.com##div.ai-viewport-1:upward(div[id^="ai_widget"])
 groningerkrant.nl##aside.widget .swiper-slide img[title="Advertentie"]:upward(.swiper-wrapper)
 groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
@@ -1065,7 +1066,6 @@ motorrijdenexpert.nl##.flat-theme-content:has(a[href][rel^="noopener"])
 wanttoknow.nl##.float-right
 ajax1.nl##.footer__footer-fat
 heracles.nl##.footer-blocks
-fcutrecht.nl##.footer-logos
 heracles.nl##.footer-sponsors
 handbal.be##.footer-top
 zeelandnet.nl##.g_banner
@@ -1076,8 +1076,6 @@ radiovisie.eu##.gmollik
 belgischecasinos.be,newspower.nu##.gofollow
 mariogames.be##.googleadvidx
 srherald.com##.gsrhera
-fcutrecht.nl##.has-items-center > .title-container:has-text(/deals/i)
-fcutrecht.nl##.has-toto-banners
 noordkopcentraal.nl##.headbanner
 golf.be##.header__bottom
 ajax.nl##.header__partner-link
