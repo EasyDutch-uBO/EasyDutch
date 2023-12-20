@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-20
+crimesite.nl##.r89-desktop-InContent
 decibel.nl##.edgtf-carousel-holder
 decibel.nl##div[aria-label="Slider"]:not(:has([data-href*="decibel.nl"]))
 arenalokaal.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
