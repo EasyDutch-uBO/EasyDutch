@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-20
+computable.nl##.banner-wrapper
 crimesite.nl##.r89-desktop-InContent
 decibel.nl##.edgtf-carousel-holder
 decibel.nl##div[aria-label="Slider"]:not(:has([data-href*="decibel.nl"]))
@@ -1169,7 +1170,6 @@ live-voetbal.com##.special-offer
 niburu.co##.sponsers
 computable.be##.sponsorartikelen
 omroephouten.nl##.sponsor-carousel
-computable.nl##.sponsored
 volleybelgium.be##.sponsors
 detelefoongids.nl##.static-map
 nos.nl##.ster-banner
@@ -1194,7 +1194,7 @@ live-voetbal.com##.top-match
 feyenoord.nl##.totoOdds
 trucks.nl##.trucks_ros_alpha_rectangle-halfpage
 trucks.nl##.trucks_ros_leaderboard-billboard
-computable.be,computable.nl##.true-logo
+computable.be##.true-logo
 fok.nl##.trueTop
 buzzbie.nl##.TS_Banner_Spot
 buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
