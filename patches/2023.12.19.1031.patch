@@ -1,0 +1,11 @@
+diff name:easydutch lines:10 checksum:666d8e6334
+d2 1
+a2 1
+! Last updated: Wed, 20 Dec 2023 07:37:57 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.12.20.457.patch#easydutch
+a143 1
+||grandprixradio.nl/*/advertisements/
+a647 1
+grandprixradio.nl##.advertisements
