@@ -1,11 +1,12 @@
-diff name:easydutch lines:71 checksum:666d8e6334
+diff name:easydutch lines:103 checksum:3f1441b2ea
 d2 1
 a2 1
-! Last updated: Wed, 20 Dec 2023 07:37:57 +0000
+! Last updated: Wed, 20 Dec 2023 12:50:09 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.20.457.patch#easydutch
-a143 3
+! Diff-Path: patches/2023.12.20.770.patch#easydutch
+a143 4
+||shortpixel.ai/client/to_webp,q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jpg$image,domain=groningerkrant.nl
 ||grandprixradio.nl/*/advertisements/
 ||knhs.nl/media/*/*-banner$image
 ||nieuwsgrazer.nl/images/ads/$domain=landbouwgrond.nu
@@ -15,11 +16,27 @@ a144 3
 ||1twente.nl/Ads/$image,domain=twentefm.nl
 d255 2
 d391 1
+d415 1
 d498 1
 d544 1
 d563 1
-a563 1
+a563 2
 /images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
+/images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
+a600 1
+@@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
+a646 11
+computable.nl##.banner-wrapper
+crimesite.nl##.r89-desktop-InContent
+decibel.nl##.edgtf-carousel-holder
+decibel.nl##div[aria-label="Slider"]:not(:has([data-href*="decibel.nl"]))
+arenalokaal.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
+arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
+dekrantnieuws.nl,destreekkrant.nu##.component__pubble-banner:has([advobject]):upward(.builder__row:not(.grid))
+fcutrecht.nl##section[class^="container nesteditem"]:has-text(/deals/i)
+gfcnieuws.com##div.ai-viewport-1:upward(div[id^="ai_widget"])
+groningerkrant.nl##aside.widget .swiper-slide img[title="Advertentie"]:upward(.swiper-wrapper)
+groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
 a647 1
 grandprixradio.nl##.advertisements
 a649 14
@@ -41,28 +58,43 @@ a653 3
 spelersvrouw.nl##.gridlove-inject
 surfplaza.be##.google
 twentefm.nl##.advertisement
+d842 1
 d922 2
+d925 2
 d930 1
 d933 2
 d1004 1
 d1006 1
+d1148 1
 d1221 1
 d1406 1
 d1420 1
 d1423 1
 d1439 1
 d1444 1
+d1461 1
 d1473 1
 d1489 1
 d1498 2
 d1515 1
 d1521 1
+d1536 1
+d1546 1
 d1556 1
+d1558 2
 d1628 1
 d1635 1
 d1643 1
 d1649 1
+d1655 1
 d1662 1
+d1681 1
+a1681 1
+computable.be##.true-logo
+d1687 2
+d1690 1
+d1693 1
+d1717 2
 d1726 1
 d1737 1
 d1740 1

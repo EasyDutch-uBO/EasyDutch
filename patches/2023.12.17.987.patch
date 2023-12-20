@@ -1,17 +1,18 @@
-diff name:easydutch lines:134 checksum:666d8e6334
+diff name:easydutch lines:164 checksum:3f1441b2ea
 d2 1
 a2 1
-! Last updated: Wed, 20 Dec 2023 07:37:57 +0000
+! Last updated: Wed, 20 Dec 2023 12:50:09 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.20.457.patch#easydutch
+! Diff-Path: patches/2023.12.20.770.patch#easydutch
 d85 1
 d91 1
 d106 1
 d124 1
 d127 1
 d146 1
-a149 7
+a149 8
+||shortpixel.ai/client/to_webp,q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jpg$image,domain=groningerkrant.nl
 ||grandprixradio.nl/*/advertisements/
 ||knhs.nl/media/*/*-banner$image
 ||nieuwsgrazer.nl/images/ads/$domain=landbouwgrond.nu
@@ -30,16 +31,31 @@ d333 2
 d357 1
 d364 1
 d399 1
+d423 1
 d506 1
 d532 1
 d552 1
 d554 1
 d558 1
 d574 1
-a574 1
+a574 2
 /images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
+/images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
+a611 1
+@@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 d651 1
-a658 25
+a658 36
+computable.nl##.banner-wrapper
+crimesite.nl##.r89-desktop-InContent
+decibel.nl##.edgtf-carousel-holder
+decibel.nl##div[aria-label="Slider"]:not(:has([data-href*="decibel.nl"]))
+arenalokaal.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
+arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
+dekrantnieuws.nl,destreekkrant.nu##.component__pubble-banner:has([advobject]):upward(.builder__row:not(.grid))
+fcutrecht.nl##section[class^="container nesteditem"]:has-text(/deals/i)
+gfcnieuws.com##div.ai-viewport-1:upward(div[id^="ai_widget"])
+groningerkrant.nl##aside.widget .swiper-slide img[title="Advertentie"]:upward(.swiper-wrapper)
+groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl###bottom > h4:has-text(Ads)
 grandprixradio.nl##.advertisements
 hardware.info##.sidebar-item > a.sidebar-item__content:has-text(adv:)
@@ -74,7 +90,9 @@ profielactueel.nl##div.cube.banners
 spaargids.be##.card-articles:has-text(/gesponsord/i)
 tennisenpadelvlaanderen.be##.aca-header__row--commercial
 weerstationleeuwarden.nl##ins.adsbygoogle:upward(.card)
+d839 1
 d919 3
+d923 2
 d928 1
 d931 2
 d1002 1
@@ -87,6 +105,7 @@ d1119 1
 d1133 1
 d1140 1
 d1147 1
+d1151 1
 d1209 1
 d1221 1
 d1226 1
@@ -109,6 +128,7 @@ beleggersbelangen.nl,bestereistijd.be,hetnieuwsvandaag.be,hyvesgames.nl,indebuur
 d1454 1
 d1459 1
 d1461 1
+d1477 1
 d1485 1
 d1490 2
 a1491 1
@@ -117,15 +137,25 @@ d1506 1
 d1515 2
 d1532 1
 d1538 1
+d1553 1
+d1563 1
 d1573 1
+d1575 2
 d1645 1
 d1652 1
 d1655 1
 d1661 2
 d1666 1
 d1669 1
+d1675 1
 d1682 1
-d1739 1
+d1701 1
+a1701 1
+computable.be##.true-logo
+d1707 2
+d1710 1
+d1713 1
+d1737 3
 d1747 1
 d1758 1
 d1761 1

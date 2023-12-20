@@ -1,19 +1,18 @@
-diff name:easydutch lines:43 checksum:3f1441b2ea
+diff name:easydutch lines:40 checksum:3f1441b2ea
 d2 1
 a2 1
 ! Last updated: Wed, 20 Dec 2023 12:50:09 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2023.12.20.770.patch#easydutch
-a143 2
+a143 1
 ||shortpixel.ai/client/to_webp,q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jpg$image,domain=groningerkrant.nl
-||grandprixradio.nl/*/advertisements/
-d417 1
-a563 1
+d418 1
+a564 1
 /images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
-a600 1
+a601 1
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
-a646 11
+a647 11
 computable.nl##.banner-wrapper
 crimesite.nl##.r89-desktop-InContent
 decibel.nl##.edgtf-carousel-holder
@@ -25,20 +24,18 @@ fcutrecht.nl##section[class^="container nesteditem"]:has-text(/deals/i)
 gfcnieuws.com##div.ai-viewport-1:upward(div[id^="ai_widget"])
 groningerkrant.nl##aside.widget .swiper-slide img[title="Advertentie"]:upward(.swiper-wrapper)
 groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
-a647 1
-grandprixradio.nl##.advertisements
-d859 1
-d940 2
-d1158 1
-d1465 1
-d1534 1
-d1544 1
-d1555 2
-d1648 1
-d1673 1
-a1673 1
+d861 1
+d942 2
+d1160 1
+d1467 1
+d1536 1
+d1546 1
+d1557 2
+d1650 1
+d1675 1
+a1675 1
 computable.be##.true-logo
-d1679 2
-d1682 1
-d1685 1
-d1709 2
+d1681 2
+d1684 1
+d1687 1
+d1711 2

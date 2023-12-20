@@ -1,10 +1,10 @@
-diff name:easydutch lines:210 checksum:666d8e6334
+diff name:easydutch lines:239 checksum:3f1441b2ea
 d2 1
 a2 1
-! Last updated: Wed, 20 Dec 2023 07:37:57 +0000
+! Last updated: Wed, 20 Dec 2023 12:50:09 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.20.457.patch#easydutch
+! Diff-Path: patches/2023.12.20.770.patch#easydutch
 d85 1
 d90 1
 d92 1
@@ -14,7 +14,8 @@ d116 1
 d127 1
 d130 1
 d149 1
-a152 11
+a152 12
+||shortpixel.ai/client/to_webp,q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jpg$image,domain=groningerkrant.nl
 ||grandprixradio.nl/*/advertisements/
 ||knhs.nl/media/*/*-banner$image
 ||nieuwsgrazer.nl/images/ads/$domain=landbouwgrond.nu
@@ -34,6 +35,7 @@ d359 1
 d366 1
 d401 1
 d407 3
+d428 1
 d440 1
 d451 1
 d457 2
@@ -44,10 +46,24 @@ d562 1
 d564 1
 d568 1
 d584 1
-a584 1
+a584 2
 /images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
+/images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
+a621 1
+@@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 d661 1
-a668 63
+a668 74
+computable.nl##.banner-wrapper
+crimesite.nl##.r89-desktop-InContent
+decibel.nl##.edgtf-carousel-holder
+decibel.nl##div[aria-label="Slider"]:not(:has([data-href*="decibel.nl"]))
+arenalokaal.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
+arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
+dekrantnieuws.nl,destreekkrant.nu##.component__pubble-banner:has([advobject]):upward(.builder__row:not(.grid))
+fcutrecht.nl##section[class^="container nesteditem"]:has-text(/deals/i)
+gfcnieuws.com##div.ai-viewport-1:upward(div[id^="ai_widget"])
+groningerkrant.nl##aside.widget .swiper-slide img[title="Advertentie"]:upward(.swiper-wrapper)
+groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl###bottom > h4:has-text(Ads)
 grandprixradio.nl##.advertisements
 hardware.info##.sidebar-item > a.sidebar-item__content:has-text(adv:)
@@ -112,8 +128,10 @@ geenstijl.nl##a[data-ga-event^="link-tip"]
 fr12.nl##div[class$="-atf"]
 fr12.nl##[class*="r89-desktop"][class*="-btf"]
 d750 4
+d823 1
 d866 2
 d905 3
+d909 2
 d914 1
 d917 2
 d959 1
@@ -130,7 +148,7 @@ d1118 1
 d1123 2
 d1131 1
 d1138 1
-d1143 1
+d1142 2
 d1153 1
 d1163 1
 d1187 1
@@ -168,6 +186,7 @@ d1464 1
 d1471 2
 a1472 1
 spelletje.nl##.adv
+d1481 1
 d1489 1
 d1494 2
 a1495 1
@@ -179,7 +198,10 @@ d1543 1
 d1556 2
 a1557 1
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
+d1559 1
+d1569 1
 d1579 1
+d1581 2
 d1616 1
 a1616 1
 tvl.be,tvoost.be##.leaderboardWrap
@@ -195,9 +217,16 @@ d1676 1
 d1679 1
 a1679 1
 niburu.co##.sponsers
+d1682 1
 d1689 1
+d1708 1
+a1708 1
+computable.be##.true-logo
 d1711 1
-d1747 1
+d1715 2
+d1718 1
+d1721 1
+d1745 3
 d1755 1
 d1761 1
 d1767 1
