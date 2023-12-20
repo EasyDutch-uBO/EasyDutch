@@ -348,7 +348,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||camping-frankrijk.nl/graphics/*/*600.$image
 ||cdn.media.zylom.com/images/site/zylom/promo/$3p
 ||cdn.sbsnet.nl/creatives/assets/*.mp4$domain=kijk.nl
-||cdn.shopsuite.com/js/layer.js$script,domain=franska.nl
 ||cdn.ster.nl/banners^
 ||christelijknieuws.nl/upload/modules/banner/$image
 ||ciaotutti.nl/wp-content/uploads/*/koffiecentrale-*$image
