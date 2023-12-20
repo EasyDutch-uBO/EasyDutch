@@ -1204,7 +1204,6 @@ intikkertje.nl##.vc_cta3-container
 dekrantnieuws.nl,destreekkrant.nu##.vc_inner:has([src$="324x484.jpg"])
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
 mo.be##.view-id-banners_top
-barneveldsekrant.nl##.w-300x.RM5
 transfermarkt.nl##.werbung
 baarsclassicrock.nl##.widebanner
 transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteerdersinformatie/"])))
