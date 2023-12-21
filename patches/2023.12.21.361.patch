@@ -1,20 +1,11 @@
-diff name:easydutch lines:83 checksum:d7559fcc6c
+diff name:easydutch lines:47 checksum:d7559fcc6c
 d2 1
 a2 1
 ! Last updated: Thu, 21 Dec 2023 13:00:28 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2023.12.21.780.patch#easydutch
-a143 2
-||shortpixel.ai/client/to_webp,q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jpg$image,domain=groningerkrant.nl
-||grandprixradio.nl/*/advertisements/
-d417 1
-a563 1
-/images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
-a600 1
-@@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
-d620 1
-a646 32
+a648 21
 agconnect.nl##[class$="_ad-slot"]
 alblasserdamsnieuws.nl##.albla-adlabel
 alblasserdamsnieuws.nl##.albla-widget
@@ -36,49 +27,22 @@ biflatie.nl##.elementor-widget-image:has(img[data-lazy-srcset*="banner"]):upward
 biflatie.nl##div[id^="elementor-popup-modal"]:has([class*="full_width"] a[href*="account.bitvavo"])
 blikopnieuws.nl##aside div[id^="block-block-"]:has(a[target="_blank"] > img)
 robtv.be,tvl.be,tvoost.be##.c-ad-cba-row + .botGutter
-computable.nl##.banner-wrapper
-crimesite.nl##.r89-desktop-InContent
-decibel.nl##.edgtf-carousel-holder
-decibel.nl##div[aria-label="Slider"]:not(:has([data-href*="decibel.nl"]))
-arenalokaal.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
-arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
-dekrantnieuws.nl,destreekkrant.nu##.component__pubble-banner:has([advobject]):upward(.builder__row:not(.grid))
-fcutrecht.nl##section[class^="container nesteditem"]:has-text(/deals/i)
-gfcnieuws.com##div.ai-viewport-1:upward(div[id^="ai_widget"])
-groningerkrant.nl##aside.widget .swiper-slide img[title="Advertentie"]:upward(.swiper-wrapper)
-groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
-a647 1
-grandprixradio.nl##.advertisements
-a675 1
+a689 1
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
-d859 1
-d940 2
-d965 1
-d1026 1
-d1158 1
-d1287 2
-d1322 1
-d1399 1
-d1402 1
-d1410 1
-d1415 1
-d1465 3
-d1534 1
-d1544 1
-d1555 2
-d1571 1
-d1581 1
+d976 1
+d1037 1
+d1297 2
+d1332 1
+d1409 1
+d1412 1
+d1420 1
+d1425 1
+d1475 2
+d1576 1
 d1586 1
-d1590 2
-d1642 1
-d1648 1
-d1663 1
-d1673 1
-a1673 1
-computable.be##.true-logo
-d1679 2
-d1682 1
-d1685 1
-d1709 2
-d1727 1
-d1767 1
+d1591 1
+d1595 2
+d1647 1
+d1667 1
+d1725 1
+d1765 1

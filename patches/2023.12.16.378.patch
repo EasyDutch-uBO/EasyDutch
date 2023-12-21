@@ -1,10 +1,10 @@
-diff name:easydutch lines:230 checksum:10f99434ac
+diff name:easydutch lines:261 checksum:d7559fcc6c
 d2 1
 a2 1
-! Last updated: Thu, 21 Dec 2023 06:02:01 +0000
+! Last updated: Thu, 21 Dec 2023 13:00:28 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.21.361.patch#easydutch
+! Diff-Path: patches/2023.12.21.780.patch#easydutch
 d85 1
 d90 1
 d92 1
@@ -54,7 +54,28 @@ a621 1
 d641 1
 d661 1
 d669 1
-a669 64
+a669 86
+agconnect.nl##[class$="_ad-slot"]
+alblasserdamsnieuws.nl##.albla-adlabel
+alblasserdamsnieuws.nl##.albla-widget
+alblasserdamsnieuws.nl##.adv-link:not([href*="alblasserdamsnieuws.nl"]):upward(div[id^="albl"])
+alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
+almere-nieuws.nl##div[id^="banner-"]
+almere-nieuws.nl##.darksection:has-text(/Door onze partners/i):has(.postbox.owl-carousel)
+almere-nieuws.nl##.promocentered:upward(section)
+almere-nieuws.nl###containerx
+almere-nieuws.nl##.advertisement_block:upward(1)
+ans-online.nl##.theiaStickySidebar > .widget:has-text(/Advertentie\b/)
+apparata.nl##.widget:has(h2:has-text(/Partners/i))
+atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
+atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,peoplesphere.be,sciencelink.net,sneeuwhoogte.nl,sport-planet.eu,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
+autosport.nl##.active.first:style(margin-top: 0px !important;)
+basketbal.vlaanderen##.footer-partners
+biflatie.nl##.elementor-image:has(img[src*="banner"])
+biflatie.nl##.elementor-widget-image:has(img[data-lazy-srcset*="banner"]):upward(section)
+biflatie.nl##div[id^="elementor-popup-modal"]:has([class*="full_width"] a[href*="account.bitvavo"])
+blikopnieuws.nl##aside div[id^="block-block-"]:has(a[target="_blank"] > img)
+robtv.be,tvl.be,tvoost.be##.c-ad-cba-row + .botGutter
 computable.nl##.banner-wrapper
 crimesite.nl##.r89-desktop-InContent
 decibel.nl##.edgtf-carousel-holder
@@ -96,6 +117,7 @@ twentefm.nl##.advertisement
 adodenhaag.nl###sponsors-normal
 agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.agency-banner
 autobahn.eu##[data-aaad="true"]
+autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
 az.nl,cambuur.nl,ga-eagles.nl##.sponsors
 baanwacht.nl##.banner-image
 clubbrugge.be##h4:has-text(Partners):upward(section)
@@ -125,9 +147,11 @@ d912 3
 d916 2
 d921 1
 d924 2
+d944 1
 d966 1
 d996 1
 d998 1
+d1008 1
 d1049 1
 a1049 1
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad070.nl,goudsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
@@ -150,6 +174,8 @@ d1239 1
 d1242 2
 d1275 3
 d1282 1
+d1292 2
+d1327 1
 d1348 1
 d1362 1
 d1366 3
@@ -157,9 +183,11 @@ a1368 2
 hartvannederland.nl,shownieuws.nl##[data-testid^="banner"]
 hartvannederland.nl,shownieuws.nl##div[class*="-bannerWrapper-"]
 d1375 1
-d1419 4
+d1408 1
+d1411 1
+d1419 5
 d1425 1
-d1429 1
+d1429 2
 d1439 1
 a1439 1
 elfvoetbal.nl###partners
@@ -177,7 +205,7 @@ d1471 1
 d1478 2
 a1479 1
 spelletje.nl##.adv
-d1488 1
+d1488 3
 d1496 1
 d1501 2
 a1502 1
@@ -193,9 +221,10 @@ d1566 1
 d1576 1
 d1586 1
 d1588 2
-d1623 1
-a1623 1
-tvl.be,tvoost.be##.leaderboardWrap
+d1604 1
+d1614 1
+d1619 1
+d1623 2
 d1652 1
 a1652 1
 feyenoord.nl##.partners
@@ -204,12 +233,13 @@ d1665 1
 d1668 1
 d1674 2
 d1679 2
-d1683 1
+d1682 2
 d1686 1
 a1686 1
 niburu.co##.sponsers
 d1689 1
 d1696 1
+d1705 1
 d1715 1
 a1715 1
 computable.be##.true-logo
@@ -220,9 +250,10 @@ d1728 1
 d1752 3
 d1762 1
 d1768 1
-d1774 1
+d1773 2
 d1777 1
 d1813 1
+d1816 1
 d1818 1
 d1829 1
 d1845 1

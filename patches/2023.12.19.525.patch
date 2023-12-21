@@ -1,10 +1,10 @@
-diff name:easydutch lines:110 checksum:10f99434ac
+diff name:easydutch lines:146 checksum:d7559fcc6c
 d2 1
 a2 1
-! Last updated: Thu, 21 Dec 2023 06:02:01 +0000
+! Last updated: Thu, 21 Dec 2023 13:00:28 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.21.361.patch#easydutch
+! Diff-Path: patches/2023.12.21.780.patch#easydutch
 a143 8
 ||shortpixel.ai/client/to_webp,q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jpg$image,domain=groningerkrant.nl
 ||grandprixradio.nl/*/advertisements/
@@ -27,7 +27,28 @@ a599 1
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 d619 1
 d639 1
-a646 13
+a646 34
+agconnect.nl##[class$="_ad-slot"]
+alblasserdamsnieuws.nl##.albla-adlabel
+alblasserdamsnieuws.nl##.albla-widget
+alblasserdamsnieuws.nl##.adv-link:not([href*="alblasserdamsnieuws.nl"]):upward(div[id^="albl"])
+alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
+almere-nieuws.nl##div[id^="banner-"]
+almere-nieuws.nl##.darksection:has-text(/Door onze partners/i):has(.postbox.owl-carousel)
+almere-nieuws.nl##.promocentered:upward(section)
+almere-nieuws.nl###containerx
+almere-nieuws.nl##.advertisement_block:upward(1)
+ans-online.nl##.theiaStickySidebar > .widget:has-text(/Advertentie\b/)
+apparata.nl##.widget:has(h2:has-text(/Partners/i))
+atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
+atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,peoplesphere.be,sciencelink.net,sneeuwhoogte.nl,sport-planet.eu,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
+autosport.nl##.active.first:style(margin-top: 0px !important;)
+basketbal.vlaanderen##.footer-partners
+biflatie.nl##.elementor-image:has(img[src*="banner"])
+biflatie.nl##.elementor-widget-image:has(img[data-lazy-srcset*="banner"]):upward(section)
+biflatie.nl##div[id^="elementor-popup-modal"]:has([class*="full_width"] a[href*="account.bitvavo"])
+blikopnieuws.nl##aside div[id^="block-block-"]:has(a[target="_blank"] > img)
+robtv.be,tvl.be,tvoost.be##.c-ad-cba-row + .botGutter
 computable.nl##.banner-wrapper
 crimesite.nl##.r89-desktop-InContent
 decibel.nl##.edgtf-carousel-holder
@@ -63,22 +84,31 @@ nieuwsmotor.nl##a[href*="nieuwsmotor.nl/url/"]:upward(.uk-grid)
 spelersvrouw.nl##.gridlove-inject
 surfplaza.be##.google
 twentefm.nl##.advertisement
+a653 1
+autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
 d837 1
 d917 2
 d920 2
 d925 1
 d928 2
+d948 1
 d999 1
 d1001 1
+d1011 1
 d1143 1
 d1216 1
-d1401 1
+d1273 2
+d1308 1
+d1385 1
+d1388 1
+d1396 1
+d1401 2
 d1415 1
 d1418 1
 d1434 1
 d1439 1
 d1441 1
-d1457 1
+d1457 3
 d1469 1
 d1485 1
 d1494 2
@@ -88,13 +118,18 @@ d1532 1
 d1542 1
 d1552 1
 d1554 2
+d1570 1
+d1580 1
+d1585 1
+d1589 2
 d1624 1
 d1631 1
 d1639 1
 d1643 1
-d1646 1
+d1645 2
 d1652 1
 d1659 1
+d1668 1
 d1678 1
 a1678 1
 computable.be##.true-logo
@@ -103,9 +138,10 @@ d1687 1
 d1690 1
 d1714 3
 d1724 1
-d1735 1
+d1734 2
 d1738 1
 d1774 1
+d1777 1
 d1779 1
 d1790 1
 d1806 1
