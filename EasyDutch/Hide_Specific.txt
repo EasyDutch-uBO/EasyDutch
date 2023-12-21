@@ -53,6 +53,7 @@ twentefm.nl##.advertisement
 adodenhaag.nl###sponsors-normal
 agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.agency-banner
 autobahn.eu##[data-aaad="true"]
+autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
 az.nl,cambuur.nl,ga-eagles.nl##.sponsors
 baanwacht.nl##.banner-image
 clubbrugge.be##h4:has-text(Partners):upward(section)
