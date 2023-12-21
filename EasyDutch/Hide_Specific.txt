@@ -9,6 +9,7 @@ biflatie.nl##.elementor-image:has(img[src*="banner"])
 biflatie.nl##.elementor-widget-image:has(img[data-lazy-srcset*="banner"]):upward(section)
 biflatie.nl##div[id^="elementor-popup-modal"]:has([class*="full_width"] a[href*="account.bitvavo"])
 blikopnieuws.nl##aside div[id^="block-block-"]:has(a[target="_blank"] > img)
+robtv.be,tvl.be,tvoost.be##.c-ad-cba-row + .botGutter
 ! 2023-12-20
 computable.nl##.banner-wrapper
 crimesite.nl##.r89-desktop-InContent
