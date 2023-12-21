@@ -16,7 +16,7 @@ jobs:
         with:
           days-before-stale: 7
           days-before-pr-stale: 10
-          days-before-close: 7
+          days-before-close: 5
           exempt-issue-labels: 'bug, in progress, ongoing'
           exempt-pr-labels: 'bug, in progress, ongoing'
           stale-issue-label: 'stale'
