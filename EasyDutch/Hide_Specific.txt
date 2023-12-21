@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-21
+autosport.nl##.active.first:style(margin-top: 0px !important;)
 basketbal.vlaanderen##.footer-partners
 biflatie.nl##.elementor-image:has(img[src*="banner"])
 biflatie.nl##.elementor-widget-image:has(img[data-lazy-srcset*="banner"]):upward(section)
@@ -946,7 +947,6 @@ funnygames.be,funnygames.nl###katon-slot
 tellows.nl###lb_header
 techzine.nl###lead
 eindexamens.nu###leaderboard
-autosport.nl###liggende-banner
 greenkeeper.nl###lijst_logos
 autowereld.nl###mainbanner
 schiedamsnieuws.nl###media_image-3
