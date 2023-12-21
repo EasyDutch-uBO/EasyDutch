@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-21
+basketbal.vlaanderen##.footer-partners
 biflatie.nl##.elementor-image:has(img[src*="banner"])
 biflatie.nl##.elementor-widget-image:has(img[data-lazy-srcset*="banner"]):upward(section)
 biflatie.nl##div[id^="elementor-popup-modal"]:has([class*="full_width"] a[href*="account.bitvavo"])
