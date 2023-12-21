@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-12-21
+blikopnieuws.nl##aside div[id^="block-block-"]:has(a[target="_blank"] > img)
 ! 2023-12-20
 computable.nl##.banner-wrapper
 crimesite.nl##.r89-desktop-InContent
@@ -1113,7 +1115,6 @@ rendez-vous.be##.leaderBoard
 iexgeld.nl##.LeaderboardContainer
 webwereld.nl##.leaderBoardHolder
 tvl.be,tvoost.be##.leaderboardWrap
-blikopnieuws.nl##.ligatus-sidebar-block
 rtvstichtsevecht.nl##.list-sponsors
 sparta-rotterdam.nl##.logo_main_sponsor_image
 sparta-rotterdam.nl##.logo_slider_logos
@@ -1242,7 +1243,6 @@ besteproduct.nl##[id^="ad-block"]
 online-radio.nl##[id^="AdvertMid"]
 bol-an.nl##[id^="block-"]:has([src*="_Banner"])
 bierdopje.com##[id^="block"]:has(h1:has-text(Advertentie))
-blikopnieuws.nl##[id^="block-block-"]:has([target="_blank"] > img.media-element)
 online-radio.nl##[id^="containersitead"]
 rtvalbrandswaard.com##[id^="custom_html-"]:has([src^="https://bannerbuilder.sponsorkliks.com/"])
 nljug.org##[id^="custom_html-"]:has-text(Kennispartners):has(a[href] > img)
