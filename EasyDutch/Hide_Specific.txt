@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-21
+apparata.nl##.widget:has(h2:has-text(/Partners/i))
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,peoplesphere.be,sciencelink.net,sneeuwhoogte.nl,sport-planet.eu,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 autosport.nl##.active.first:style(margin-top: 0px !important;)
