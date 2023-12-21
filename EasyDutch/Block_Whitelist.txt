@@ -1,6 +1,6 @@
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Wed, 20 Dec 2023 12:50:09 +0000
+! Last updated: Thu, 21 Dec 2023 06:02:01 +0000
 !
 ! 2023-12-20
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
@@ -37,7 +37,6 @@
 ! 2022-06-22
 @@||images.2dehands.com/api/v1/listing-twh-p/images/ad/$image,domain=2dehands.be
 ! 2022-03-18
-@@||files.skoften.net/website/lib/vjs/plugins/ads/videojs.ads.min.js$script,~third-party
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=skoften.net
 ! 2022-03-17
 @@||sliedrecht24.nl/wp-content/uploads/*/Banner-300x250*.jpg$image,1p

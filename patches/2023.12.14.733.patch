@@ -1,10 +1,10 @@
-diff name:easydutch lines:236 checksum:3f1441b2ea
+diff name:easydutch lines:237 checksum:10f99434ac
 d2 1
 a2 1
-! Last updated: Wed, 20 Dec 2023 12:50:09 +0000
+! Last updated: Thu, 21 Dec 2023 06:02:01 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.20.770.patch#easydutch
+! Diff-Path: patches/2023.12.21.361.patch#easydutch
 d85 1
 d90 1
 d92 1
@@ -51,6 +51,7 @@ a584 2
 /images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
 a621 1
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
+d641 1
 d661 1
 a668 64
 computable.nl##.banner-wrapper

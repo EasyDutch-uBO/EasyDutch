@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Wed, 20 Dec 2023 12:50:09 +0000
+! Last updated: Thu, 21 Dec 2023 06:02:01 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.12.20.770.patch#easydutch
+! Diff-Path: patches/2023.12.21.361.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -620,7 +620,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=weerplaza.nl
 @@||salarisvanmorgen.nl/wp-content/uploads/*abonneer-nieuwsbrief
 @@||images.2dehands.com/api/v1/listing-twh-p/images/ad/$image,domain=2dehands.be
-@@||files.skoften.net/website/lib/vjs/plugins/ads/videojs.ads.min.js$script,~third-party
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=skoften.net
 @@||sliedrecht24.nl/wp-content/uploads/*/Banner-300x250*.jpg$image,1p
 @@||cdn.ebayclassifieds.net/bff/static/*/MyAds.$domain=2dehands.be|marktplaats.nl
