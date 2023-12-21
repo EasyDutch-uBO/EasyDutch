@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-21
+agconnect.nl##[class$="_ad-slot"]
 alblasserdamsnieuws.nl##.albla-adlabel
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.adv-link:not([href*="alblasserdamsnieuws.nl"]):upward(div[id^="albl"])
