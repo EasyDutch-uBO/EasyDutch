@@ -3,6 +3,11 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-21
+almere-nieuws.nl##div[id^="banner-"]
+almere-nieuws.nl##.darksection:has-text(/Door onze partners/i):has(.postbox.owl-carousel)
+almere-nieuws.nl##.promocentered:upward(section)
+almere-nieuws.nl###containerx
+almere-nieuws.nl##.advertisement_block:upward(1)
 ans-online.nl##.theiaStickySidebar > .widget:has-text(/Advertentie\b/)
 apparata.nl##.widget:has(h2:has-text(/Partners/i))
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
@@ -933,10 +938,8 @@ marketingtribune.nl###banner-billboard
 kranenwebsite.nl###bannerdiv
 autowereld.nl###banner-lister-top
 brandweerspotters.nl,coc.nl,fanclubbarcelona.nl###banners
-almere-nieuws.nl###banner-text2
 takecare4.eu###branding > .clearfix
 indiexl.nl###carousel-indiexl_partners_carousel_widget
-almere-nieuws.nl###containerx
 vnexplorer.net###div_the_mgid
 538.nl###eCommerce
 alkmaarguardians.nl###footer
@@ -944,7 +947,6 @@ nieuws.nl###footer-banner
 bokt.nl###frontpage_mediumrect
 nu.nl###header > .zone
 unitednews.sr###image-vertical-reel-scroll-slideshow
-almere-nieuws.nl###jeg_sidecontent > .jeg_container:has(.jeg_ad)
 funnygames.be,funnygames.nl###katon-slot
 tellows.nl###lb_header
 techzine.nl###lead
@@ -1108,7 +1110,6 @@ radiopros.be##.inside-left-sidebar
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-billboard
 funnygames.nl,funnygames.be,spele.be,spele.nl##.is-skyscraper
 startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
-almere-nieuws.nl##.jeg_container > .jeg_container:has(.jeg_ad)
 iex.nl##.js-banner
 eurocampings.nl##.js-mock-banner
 guruwatch.nl##.LargeRectangle
