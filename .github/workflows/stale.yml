@@ -12,10 +12,10 @@ jobs:
   stale:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/stale@v8.0.0
+      - uses: actions/stale@v9.0.0
         with:
-          days-before-stale: 7
-          days-before-pr-stale: 10
+          days-before-stale: 5
+          days-before-pr-stale: 8
           days-before-close: 5
           exempt-issue-labels: 'bug, in progress, ongoing'
           exempt-pr-labels: 'bug, in progress, ongoing'
