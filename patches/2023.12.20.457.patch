@@ -1,11 +1,13 @@
-diff name:easydutch lines:80 checksum:d7559fcc6c
+diff name:easydutch lines:83 checksum:23d7d02891
 d2 1
 a2 1
-! Last updated: Thu, 21 Dec 2023 13:00:28 +0000
+! Last updated: Tue, 26 Dec 2023 13:34:52 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.21.780.patch#easydutch
-a143 1
+! Diff-Path: patches/2023.12.26.814.patch#easydutch
+a143 3
+||akamaized.net^$media,domain=bnnvara.nl,redirect=noopmp3-0.1s
+bnnvara.nl##+js(json-prune, assets.preroll)
 ||shortpixel.ai/client/to_webp,q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jpg$image,domain=groningerkrant.nl
 d418 1
 a564 1
@@ -13,7 +15,8 @@ a564 1
 a601 1
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 d621 1
-a647 32
+a647 33
+bnnvara.nl##.bitmovinplayer-poster
 agconnect.nl##[class$="_ad-slot"]
 alblasserdamsnieuws.nl##.albla-adlabel
 alblasserdamsnieuws.nl##.albla-widget

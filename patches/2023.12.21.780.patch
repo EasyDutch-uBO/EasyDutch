@@ -1,0 +1,12 @@
+diff name:easydutch lines:11 checksum:23d7d02891
+d2 1
+a2 1
+! Last updated: Tue, 26 Dec 2023 13:34:52 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.12.26.814.patch#easydutch
+a143 2
+||akamaized.net^$media,domain=bnnvara.nl,redirect=noopmp3-0.1s
+bnnvara.nl##+js(json-prune, assets.preroll)
+a648 1
+bnnvara.nl##.bitmovinplayer-poster
