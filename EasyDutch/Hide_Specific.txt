@@ -2,6 +2,8 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-12-26
+bnnvara.nl##.bitmovinplayer-poster
 ! 2023-12-21
 agconnect.nl##[class$="_ad-slot"]
 alblasserdamsnieuws.nl##.albla-adlabel
