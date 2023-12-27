@@ -2,6 +2,10 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-12-27
+mannenzaken.nl##.r89-desktop-billboard-atf
+mannenzaken.nl##.r89-desktop-leaderboard-btf
+mannenzaken.nl##.r89-desktop-hpa-atf
 ! 2023-12-26
 bnnvara.nl##.bitmovinplayer-poster
 ! 2023-12-21
