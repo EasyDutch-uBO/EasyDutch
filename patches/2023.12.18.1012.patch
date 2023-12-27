@@ -1,10 +1,10 @@
-diff name:easydutch lines:157 checksum:23d7d02891
+diff name:easydutch lines:160 checksum:db6501cab0
 d2 1
 a2 1
-! Last updated: Tue, 26 Dec 2023 13:34:52 +0000
+! Last updated: Wed, 27 Dec 2023 04:54:16 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.26.814.patch#easydutch
+! Diff-Path: patches/2023.12.27.294.patch#easydutch
 d90 1
 d105 1
 d123 1
@@ -36,7 +36,10 @@ a603 1
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 d623 1
 d643 1
-a650 58
+a650 61
+mannenzaken.nl##.r89-desktop-billboard-atf
+mannenzaken.nl##.r89-desktop-leaderboard-btf
+mannenzaken.nl##.r89-desktop-hpa-atf
 bnnvara.nl##.bitmovinplayer-poster
 agconnect.nl##[class$="_ad-slot"]
 alblasserdamsnieuws.nl##.albla-adlabel

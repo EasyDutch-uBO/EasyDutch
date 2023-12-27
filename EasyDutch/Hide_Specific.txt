@@ -1,7 +1,11 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 26 Dec 2023 13:34:52 +0000
+! Last updated: Wed, 27 Dec 2023 04:54:16 +0000
 !
+! 2023-12-27
+mannenzaken.nl##.r89-desktop-billboard-atf
+mannenzaken.nl##.r89-desktop-leaderboard-btf
+mannenzaken.nl##.r89-desktop-hpa-atf
 ! 2023-12-26
 bnnvara.nl##.bitmovinplayer-poster
 ! 2023-12-21

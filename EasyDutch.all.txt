@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Tue, 26 Dec 2023 13:34:52 +0000
+! Last updated: Wed, 27 Dec 2023 04:54:16 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.12.26.814.patch#easydutch
+! Diff-Path: patches/2023.12.27.294.patch#easydutch
 ! Diff-Name: easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
@@ -648,6 +648,9 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.video-block-happy
 ###tracking-url
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+mannenzaken.nl##.r89-desktop-billboard-atf
+mannenzaken.nl##.r89-desktop-leaderboard-btf
+mannenzaken.nl##.r89-desktop-hpa-atf
 bnnvara.nl##.bitmovinplayer-poster
 agconnect.nl##[class$="_ad-slot"]
 alblasserdamsnieuws.nl##.albla-adlabel
