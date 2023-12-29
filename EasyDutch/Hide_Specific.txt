@@ -3,9 +3,15 @@
 ! Last updated: %timestamp%
 !
 ! 2023-12-27
+!#if env_mobile
+mannenzaken.nl##.r89-mobile-rectangle-mid
+mannenzaken.nl##.r89-mobile-billboard-top:upward(.td_block_wrap)
+mannenzaken.nl##.r89-mobile-rectangle-infinite
+!#else
 mannenzaken.nl##.r89-desktop-billboard-atf
 mannenzaken.nl##.r89-desktop-leaderboard-btf
 mannenzaken.nl##.r89-desktop-hpa-atf
+!#endif
 ! 2023-12-26
 bnnvara.nl##.bitmovinplayer-poster
 ! 2023-12-21
