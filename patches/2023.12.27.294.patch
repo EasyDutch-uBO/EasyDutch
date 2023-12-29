@@ -1,17 +1,15 @@
-diff name:easydutch lines:16 checksum:f63fbdf33f
+diff name:easydutch lines:14 checksum:f63fbdf33f
 d2 1
 a2 1
 ! Last updated: Fri, 29 Dec 2023 04:49:00 +0000
 d4 2
 a5 1
 ! Diff-Path: patches/2023.12.29.288.patch#easydutch
-a650 9
+a650 5
 !#if env_mobile
 mannenzaken.nl##.r89-mobile-rectangle-mid
 mannenzaken.nl##.r89-mobile-billboard-top:upward(.td_block_wrap)
 mannenzaken.nl##.r89-mobile-rectangle-infinite
 !#else
-mannenzaken.nl##.r89-desktop-billboard-atf
-mannenzaken.nl##.r89-desktop-leaderboard-btf
-mannenzaken.nl##.r89-desktop-hpa-atf
+a653 1
 !#endif

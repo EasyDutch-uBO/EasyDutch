@@ -1,8 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Wed, 27 Dec 2023 04:54:16 +0000
+! Last updated: Fri, 29 Dec 2023 04:49:00 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.12.27.294.patch#easydutch
-! Diff-Name: easydutch
+! Diff-Path: patches/2023.12.29.288.patch#easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
@@ -648,9 +647,15 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.video-block-happy
 ###tracking-url
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+!#if env_mobile
+mannenzaken.nl##.r89-mobile-rectangle-mid
+mannenzaken.nl##.r89-mobile-billboard-top:upward(.td_block_wrap)
+mannenzaken.nl##.r89-mobile-rectangle-infinite
+!#else
 mannenzaken.nl##.r89-desktop-billboard-atf
 mannenzaken.nl##.r89-desktop-leaderboard-btf
 mannenzaken.nl##.r89-desktop-hpa-atf
+!#endif
 bnnvara.nl##.bitmovinplayer-poster
 agconnect.nl##[class$="_ad-slot"]
 alblasserdamsnieuws.nl##.albla-adlabel
