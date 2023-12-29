@@ -1,23 +1,16 @@
-diff name:easydutch lines:22 checksum:308f6c1a95
+diff name:easydutch lines:15 checksum:308f6c1a95
 d2 1
 a2 1
 ! Last updated: Fri, 29 Dec 2023 07:57:06 +0000
-d4 2
-a5 1
+d4 1
+a4 1
 ! Diff-Path: patches/2023.12.29.477.patch#easydutch
-d144 2
-a145 2
+d143 2
+a144 2
 ||akamaized.net^$media,domain=bnnvara.nl|npo.nl|vpro.nl,redirect=noopmp3-0.1s
 bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll)
-d164 2
-a650 5
-!#if env_mobile
-mannenzaken.nl##.r89-mobile-rectangle-mid
-mannenzaken.nl##.r89-mobile-billboard-top:upward(.td_block_wrap)
-mannenzaken.nl##.r89-mobile-rectangle-infinite
-!#else
-d654 1
-a654 2
-!#endif
+d163 2
+d659 1
+a659 1
 bnnvara.nl,npo.nl,vpro.nl##.bitmovinplayer-poster
-d765 1
+d770 1

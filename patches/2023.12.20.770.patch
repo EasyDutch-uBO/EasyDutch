@@ -1,13 +1,14 @@
-diff name:easydutch lines:61 checksum:f63fbdf33f
+diff name:easydutch lines:63 checksum:308f6c1a95
 d2 1
 a2 1
-! Last updated: Fri, 29 Dec 2023 04:49:00 +0000
+! Last updated: Fri, 29 Dec 2023 07:57:06 +0000
 d4 2
 a5 1
-! Diff-Path: patches/2023.12.29.288.patch#easydutch
+! Diff-Path: patches/2023.12.29.477.patch#easydutch
 a143 2
-||akamaized.net^$media,domain=bnnvara.nl,redirect=noopmp3-0.1s
-bnnvara.nl##+js(json-prune, assets.preroll)
+||akamaized.net^$media,domain=bnnvara.nl|npo.nl|vpro.nl,redirect=noopmp3-0.1s
+bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll)
+d162 2
 d623 1
 a649 31
 !#if env_mobile
@@ -19,7 +20,7 @@ mannenzaken.nl##.r89-desktop-billboard-atf
 mannenzaken.nl##.r89-desktop-leaderboard-btf
 mannenzaken.nl##.r89-desktop-hpa-atf
 !#endif
-bnnvara.nl##.bitmovinplayer-poster
+bnnvara.nl,npo.nl,vpro.nl##.bitmovinplayer-poster
 agconnect.nl##[class$="_ad-slot"]
 alblasserdamsnieuws.nl##.albla-adlabel
 alblasserdamsnieuws.nl##.albla-widget
@@ -43,6 +44,7 @@ blikopnieuws.nl##aside div[id^="block-block-"]:has(a[target="_blank"] > img)
 robtv.be,tvl.be,tvoost.be##.c-ad-cba-row + .botGutter
 a690 1
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
+d738 1
 d977 1
 d1038 1
 d1298 2

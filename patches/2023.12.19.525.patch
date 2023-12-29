@@ -1,13 +1,13 @@
-diff name:easydutch lines:158 checksum:f63fbdf33f
+diff name:easydutch lines:160 checksum:308f6c1a95
 d2 1
 a2 1
-! Last updated: Fri, 29 Dec 2023 04:49:00 +0000
+! Last updated: Fri, 29 Dec 2023 07:57:06 +0000
 d4 2
 a5 1
-! Diff-Path: patches/2023.12.29.288.patch#easydutch
+! Diff-Path: patches/2023.12.29.477.patch#easydutch
 a143 10
-||akamaized.net^$media,domain=bnnvara.nl,redirect=noopmp3-0.1s
-bnnvara.nl##+js(json-prune, assets.preroll)
+||akamaized.net^$media,domain=bnnvara.nl|npo.nl|vpro.nl,redirect=noopmp3-0.1s
+bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 ||shortpixel.ai/client/to_webp,q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jpg$image,domain=groningerkrant.nl
 ||grandprixradio.nl/*/advertisements/
 ||knhs.nl/media/*/*-banner$image
@@ -16,6 +16,7 @@ bnnvara.nl##+js(json-prune, assets.preroll)
 ||motorblog.nl/wp-content/uploads/banner$image
 ||radioluisteren.fm/ads/
 ||1twente.nl/Ads/$image,domain=twentefm.nl
+d154 2
 d254 2
 d390 1
 d414 1
@@ -39,7 +40,7 @@ mannenzaken.nl##.r89-desktop-billboard-atf
 mannenzaken.nl##.r89-desktop-leaderboard-btf
 mannenzaken.nl##.r89-desktop-hpa-atf
 !#endif
-bnnvara.nl##.bitmovinplayer-poster
+bnnvara.nl,npo.nl,vpro.nl##.bitmovinplayer-poster
 agconnect.nl##[class$="_ad-slot"]
 alblasserdamsnieuws.nl##.albla-adlabel
 alblasserdamsnieuws.nl##.albla-widget
@@ -98,6 +99,7 @@ surfplaza.be##.google
 twentefm.nl##.advertisement
 a653 1
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
+d701 1
 d837 1
 d917 2
 d920 2

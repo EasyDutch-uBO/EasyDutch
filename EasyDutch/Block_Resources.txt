@@ -1,10 +1,14 @@
 ! Title: Block Resources
 ! Description: Filters to block specific URLs on Dutch websites
-! Last updated: Tue, 26 Dec 2023 13:34:52 +0000
+! Last updated: Fri, 29 Dec 2023 07:57:06 +0000
 !
 ! 2023-12-26
-||akamaized.net^$media,domain=bnnvara.nl,redirect=noopmp3-0.1s
-bnnvara.nl##+js(json-prune, assets.preroll)
+! https://github.com/EasyDutch-uBO/EasyDutch/issues/112
+! https://github.com/uBlockOrigin/uAssets/issues/20659
+! https://github.com/AdguardTeam/AdguardFilters/issues/166205
+! https://www.reddit.com/r/uBlockOrigin/comments/17tfadh/httpsnponlstartserieditwashetnieuws_doesnt_block/
+||akamaized.net^$media,domain=bnnvara.nl|npo.nl|vpro.nl,redirect=noopmp3-0.1s
+bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 ! 2023-12-20
 ||shortpixel.ai/client/to_webp,q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jpg$image,domain=groningerkrant.nl
 ! 2023-12-19
@@ -28,12 +32,6 @@ bnnvara.nl##+js(json-prune, assets.preroll)
 ||reformatorischeomroep.nl/*/*banner$image
 ||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
 ||reformatorischeomroep.nl/*/*-RO-*.gif$image
-! 2023-11-16
-! https://github.com/uBlockOrigin/uAssets/issues/20659
-! https://github.com/AdguardTeam/AdguardFilters/issues/166205
-! https://www.reddit.com/r/uBlockOrigin/comments/17tfadh/httpsnponlstartserieditwashetnieuws_doesnt_block/
-||akamaized.net^$media,domain=npo.nl|vpro.nl,redirect=noopmp3-0.1s
-npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 ! 2023-11-08
 ||rubenweytjens.be/sites/default/*/ads_$image
 ! 2023-11-07 https://github.com/EasyDutch-uBO/EasyDutch/issues/93

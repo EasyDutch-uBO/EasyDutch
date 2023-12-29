@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Fri, 29 Dec 2023 04:49:00 +0000
+! Last updated: Fri, 29 Dec 2023 07:57:06 +0000
 !
 ! 2023-12-27
 !#if env_mobile
@@ -13,7 +13,9 @@ mannenzaken.nl##.r89-desktop-leaderboard-btf
 mannenzaken.nl##.r89-desktop-hpa-atf
 !#endif
 ! 2023-12-26
-bnnvara.nl##.bitmovinplayer-poster
+! https://github.com/uBlockOrigin/uAssets/issues/20659
+! https://github.com/EasyDutch-uBO/EasyDutch/issues/112
+bnnvara.nl,npo.nl,vpro.nl##.bitmovinplayer-poster
 ! 2023-12-21
 agconnect.nl##[class$="_ad-slot"]
 alblasserdamsnieuws.nl##.albla-adlabel
@@ -136,8 +138,6 @@ doorbraak.be##a[href^="https://vnz.be"]:upward(div)
 ! 2023-11-20
 nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
 goudengids.be##.banner-boxes-holder
-! 2023-11-13 https://github.com/uBlockOrigin/uAssets/issues/20659
-npo.nl,vpro.nl##.bitmovinplayer-poster
 ! 2023-11-09
 abcsuriname.com##.banner_wrapper
 dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
