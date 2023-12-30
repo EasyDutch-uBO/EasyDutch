@@ -143,6 +143,15 @@ In the list, the normal website is the default. The `.all.txt` lists are used as
 - <code>All-in-One</code> means that everything is one big file in stead of multiple files loaded in one file. <br>
 &nbsp;&nbsp;&nbsp; This is to not overload/misuse the free CDN's. </br>
 
+### List of domains we have:
+1. https://easydutch-ubo.github.io/EasyDutch/ --> `gh-pages` from [EasyDutch-uBO/EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch/)
+2. https://easydutch-ubo.github.io/EasyDutchCDN/ --> `main` from [EasyDutch-uBO/EasyDutchCDN](https://github.com/EasyDutch-uBO/EasyDutchCDN/)
+3. https://easydutch.pages.dev/ --> `gh-pages` from [EasyDutch-uBO/EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch/)
+4. https://easydutchcdn.pages.dev/ --> `main` from [EasyDutch-uBO/EasyDutchCDN](https://github.com/EasyDutch-uBO/EasyDutchCDN/)
+5. https://raw.githubusercontent.com/ --> `gh-pages` and 2x `main` from [EasyDutch-uBO/EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch/), [EasyDutch-uBO/EasyDutchCDN](https://github.com/EasyDutch-uBO/EasyDutchCDN/), and [Nomes77/AdBlockFilters](https://github.com/Nomes77/AdBlockFilters/)
+6. https://cdn.jsdelivr.net/ and https://cdn.statically.io/ --> from [EasyDutch-uBO/EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch/), [EasyDutch-uBO/EasyDutchCDN](https://github.com/EasyDutch-uBO/EasyDutchCDN/), and [Nomes77/AdBlockFilters](https://github.com/Nomes77/AdBlockFilters/)
+`EasyDutch.txt` and `EasyDutch.all.txt` --> [EasyDutch-uBO/EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch/), [EasyDutch-uBO/EasyDutchCDN](https://github.com/EasyDutch-uBO/EasyDutchCDN/), and [Nomes77/AdBlockFilters](https://github.com/Nomes77/AdBlockFilters/)
+
 ## *Support*
 If you want to buy me a cup of coffee or want to support me, you can donate via [PayPal](https://www.paypal.com/donate/?hosted_button_id=NRARDMBBMV3LC)
 
