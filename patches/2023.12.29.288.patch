@@ -1,16 +1,19 @@
-diff name:easydutch lines:15 checksum:308f6c1a95
+diff name:easydutch lines:18 checksum:6b93cb4151
 d2 1
 a2 1
-! Last updated: Fri, 29 Dec 2023 07:57:06 +0000
+! Last updated: Thu, 04 Jan 2024 13:06:35 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2023.12.29.477.patch#easydutch
+! Diff-Path: patches/2024.1.4.786.patch#easydutch
 d143 2
 a144 2
 ||akamaized.net^$media,domain=bnnvara.nl|npo.nl|vpro.nl,redirect=noopmp3-0.1s
 bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 d163 2
+a649 1
+topgear.nl##div[id$="ad-wrap"]
 d659 1
 a659 1
 bnnvara.nl,npo.nl,vpro.nl##.bitmovinplayer-poster
 d770 1
+d887 1

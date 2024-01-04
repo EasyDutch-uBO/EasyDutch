@@ -1,10 +1,10 @@
-diff name:easydutch lines:215 checksum:308f6c1a95
+diff name:easydutch lines:217 checksum:6b93cb4151
 d2 1
 a2 1
-! Last updated: Fri, 29 Dec 2023 07:57:06 +0000
+! Last updated: Thu, 04 Jan 2024 13:06:35 +0000
 d4 2
 a5 1
-! Diff-Path: patches/2023.12.29.477.patch#easydutch
+! Diff-Path: patches/2024.1.4.786.patch#easydutch
 d85 1
 d91 1
 d106 1
@@ -48,7 +48,8 @@ a611 1
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 d631 1
 d651 1
-a658 67
+a658 68
+topgear.nl##div[id$="ad-wrap"]
 !#if env_mobile
 mannenzaken.nl##.r89-mobile-rectangle-mid
 mannenzaken.nl##.r89-mobile-billboard-top:upward(.td_block_wrap)
@@ -128,6 +129,7 @@ spaargids.be##.card-articles:has-text(/gesponsord/i)
 tennisenpadelvlaanderen.be##.aca-header__row--commercial
 weerstationleeuwarden.nl##ins.adsbygoogle:upward(.card)
 d703 1
+d820 1
 d839 1
 d919 3
 d923 2

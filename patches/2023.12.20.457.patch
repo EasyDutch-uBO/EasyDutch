@@ -1,10 +1,10 @@
-diff name:easydutch lines:94 checksum:308f6c1a95
+diff name:easydutch lines:96 checksum:6b93cb4151
 d2 1
 a2 1
-! Last updated: Fri, 29 Dec 2023 07:57:06 +0000
+! Last updated: Thu, 04 Jan 2024 13:06:35 +0000
 d4 2
 a5 1
-! Diff-Path: patches/2023.12.29.477.patch#easydutch
+! Diff-Path: patches/2024.1.4.786.patch#easydutch
 a143 3
 ||akamaized.net^$media,domain=bnnvara.nl|npo.nl|vpro.nl,redirect=noopmp3-0.1s
 bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll)
@@ -16,7 +16,8 @@ a564 1
 a601 1
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 d621 1
-a647 42
+a647 43
+topgear.nl##div[id$="ad-wrap"]
 !#if env_mobile
 mannenzaken.nl##.r89-mobile-rectangle-mid
 mannenzaken.nl##.r89-mobile-billboard-top:upward(.td_block_wrap)
@@ -62,6 +63,7 @@ groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
 a677 1
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
 d725 1
+d842 1
 d861 1
 d942 2
 d967 1

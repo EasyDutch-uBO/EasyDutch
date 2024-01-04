@@ -1,0 +1,10 @@
+diff name:easydutch lines:9 checksum:6b93cb4151
+d2 1
+a2 1
+! Last updated: Thu, 04 Jan 2024 13:06:35 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2024.1.4.786.patch#easydutch
+a647 1
+topgear.nl##div[id$="ad-wrap"]
+d884 1

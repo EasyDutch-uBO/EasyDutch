@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Fri, 29 Dec 2023 07:57:06 +0000
+! Last updated: Thu, 04 Jan 2024 13:06:35 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2023.12.29.477.patch#easydutch
+! Diff-Path: patches/2024.1.4.786.patch#easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
@@ -645,6 +645,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.video-block-happy
 ###tracking-url
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+topgear.nl##div[id$="ad-wrap"]
 !#if env_mobile
 mannenzaken.nl##.r89-mobile-rectangle-mid
 mannenzaken.nl##.r89-mobile-billboard-top:upward(.td_block_wrap)
@@ -881,7 +882,6 @@ techpulse.be##.wpb_wrapper > div[id^="techp"]:upward(.g-cols.wpb_row)
 techpulse.be##.wpb_wrapper:has( > div[class^="g"]):upward(section[class$="wpb_row height_small"]):not(:nth-of-type(1))
 telefoonboek.nl###tbresult-top
 telefoonboek.nl##[class^="detail-leaderbord"]:has(.adsbygoogle)
-topgear.nl##div:has( > div[style]:has-text(/advert/i):has(div[id]))
 touretappe.nl###right .desktopad[id*="TOURETAPPE_300"]:upward(1)
 trucks.nl##.highlighted-advertisers:upward(.row)
 tvgids24.nl###shortads
