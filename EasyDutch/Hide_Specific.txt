@@ -2,6 +2,11 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2024-01-05
+arenalokaal.nl,belnieuws.nl,dehavenloods.nl,gooieneembode.nl,hetkompassliedrecht.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,weespernieuws.nl##div[id]:upward(.component__plugin)
+arenalokaal.nl,belnieuws.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
+arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
+dekrantnieuws.nl,destreekkrant.nu##.component__pubble-banner:has([advobject]):upward(.builder__row:not(.grid))
 ! 2024-01-04
 topgear.nl##div[id$="ad-wrap"]
 ! 2023-12-27
@@ -45,9 +50,6 @@ computable.nl##.banner-wrapper
 crimesite.nl##.r89-desktop-InContent
 decibel.nl##.edgtf-carousel-holder
 decibel.nl##div[aria-label="Slider"]:not(:has([data-href*="decibel.nl"]))
-arenalokaal.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
-arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
-dekrantnieuws.nl,destreekkrant.nu##.component__pubble-banner:has([advobject]):upward(.builder__row:not(.grid))
 fcutrecht.nl##section[class^="container nesteditem"]:has-text(/deals/i)
 gfcnieuws.com##div.ai-viewport-1:upward(div[id^="ai_widget"])
 groningerkrant.nl##aside.widget .swiper-slide img[title="Advertentie"]:upward(.swiper-wrapper)
