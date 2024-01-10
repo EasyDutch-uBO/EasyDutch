@@ -4,7 +4,7 @@
 !
 ! 2024-01-10
 @@||promotools.biz^$domain=beeldbelsex.com
-@@||tools.vpscash.nl^$domain=beeldbelsex.com
+@@||tools.vpscash.nl/webcams/*/plug_play_webcams/$frame,domain=beeldbelsex.com
 ! 2023-12-20
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 ! 2023-10-23
