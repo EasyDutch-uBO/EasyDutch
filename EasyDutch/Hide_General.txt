@@ -5,8 +5,8 @@
 ! 2022-10-04
 ! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl,hln.be
 ##.ankeiler--advertisement
-##.article__component--temptation-article-inline
 ##.article__component--outstream-advertisement
+##.layout__component--temptation
 ##.sixpack__advertisement-tile
 ##[data-temptation-position="OORTJE"]
 ! 2021-12-06
