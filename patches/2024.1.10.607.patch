@@ -1,15 +1,20 @@
-diff name:easydutch lines:14 checksum:a61d532f12
+diff name:easydutch lines:19 checksum:eb5a8e4067
 d2 1
 a2 1
-! Last updated: Wed, 10 Jan 2024 10:56:21 +0000
+! Last updated: Wed, 10 Jan 2024 11:28:11 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.10.656.patch#easydutch
+! Diff-Path: patches/2024.1.10.688.patch#easydutch
 a569 1
 ||beeldbelsex.com/wp-content/uploads/*.gif$image
 a604 2
 @@||promotools.biz^$domain=beeldbelsex.com
 @@||tools.vpscash.nl/webcams/*/plug_play_webcams/$frame,domain=beeldbelsex.com
+a650 2
+webwoordenboek.nl##.layout__main-ads
+voetbalnieuws.be##div[class^="r89-desktop"]
 a1807 2
 beeldbelsex.com##a > img[src$="gif"]
 beeldbelsex.com##iframe[data-src^="https://tools.vpscash.nl/"][data-src*="/gif_banners/"]
+a1908 1
+tweakers.net##div:matches-css-after(content:"Advertentie")

@@ -1,6 +1,6 @@
 ! Title: Anti-Adblock
 ! Description: Filters for anti-adblock on Dutch websites
-! Last updated: Sat, 16 Dec 2023 15:24:55 +0000
+! Last updated: Wed, 10 Jan 2024 11:28:11 +0000
 !
 ! 2023-10-17
 moppen.nl#@#ins.adsbygoogle
@@ -46,6 +46,7 @@ tweakers.net##.headline:has([title^=".Adv"])
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1.5px !important;)
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
+tweakers.net##div:matches-css-after(content:"Advertentie")
 tweakers.net###true
 ! 2023-06-12
 aimsolutions.nl##+js(noeval-if, adsBlocked)

@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Wed, 10 Jan 2024 10:56:21 +0000
+! Last updated: Wed, 10 Jan 2024 11:28:11 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2024.1.10.656.patch#easydutch
+! Diff-Path: patches/2024.1.10.688.patch#easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
@@ -651,6 +651,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##a[href^="https://go2.go2cloud.org/"]
 ##a[href^="https://www.2k19.nl/"]
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+webwoordenboek.nl##.layout__main-ads
+voetbalnieuws.be##div[class^="r89-desktop"]
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
 dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
 dumpert.nl##aside [id^="ad_"]:upward(2)
@@ -1911,6 +1913,7 @@ tweakers.net##.headline:has([title^=".Adv"])
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1.5px !important;)
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
+tweakers.net##div:matches-css-after(content:"Advertentie")
 tweakers.net###true
 aimsolutions.nl##+js(noeval-if, adsBlocked)
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl,vrides.nl##+js(noeval-if, /chp_?ad/)

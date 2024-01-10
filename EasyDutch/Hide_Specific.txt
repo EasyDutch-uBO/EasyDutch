@@ -1,8 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Wed, 10 Jan 2024 10:56:21 +0000
+! Last updated: Wed, 10 Jan 2024 11:28:11 +0000
 !
 ! 2024-01-10
+webwoordenboek.nl##.layout__main-ads
+voetbalnieuws.be##div[class^="r89-desktop"]
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
 ! 2024-01-10 https://github.com/uBlockOrigin/uAssets/issues/21284
 dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)

@@ -1,0 +1,12 @@
+diff name:easydutch lines:11 checksum:eb5a8e4067
+d2 1
+a2 1
+! Last updated: Wed, 10 Jan 2024 11:28:11 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2024.1.10.688.patch#easydutch
+a653 2
+webwoordenboek.nl##.layout__main-ads
+voetbalnieuws.be##div[class^="r89-desktop"]
+a1913 1
+tweakers.net##div:matches-css-after(content:"Advertentie")

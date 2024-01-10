@@ -1,10 +1,10 @@
-diff name:easydutch lines:65 checksum:a61d532f12
+diff name:easydutch lines:69 checksum:eb5a8e4067
 d2 1
 a2 1
-! Last updated: Wed, 10 Jan 2024 10:56:21 +0000
+! Last updated: Wed, 10 Jan 2024 11:28:11 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.10.656.patch#easydutch
+! Diff-Path: patches/2024.1.10.688.patch#easydutch
 d16 1
 a94 1
 ||2k19.nl^$popup
@@ -33,7 +33,9 @@ d639 1
 a646 2
 ##a[href^="https://go2.go2cloud.org/"]
 ##a[href^="https://www.2k19.nl/"]
-a647 9
+a647 11
+webwoordenboek.nl##.layout__main-ads
+voetbalnieuws.be##div[class^="r89-desktop"]
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
 dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
 dumpert.nl##aside [id^="ad_"]:upward(2)
@@ -64,3 +66,5 @@ d1829 1
 a1830 1
 pornoplekje.nl###exitpopup-modal
 d1832 1
+a1900 1
+tweakers.net##div:matches-css-after(content:"Advertentie")
