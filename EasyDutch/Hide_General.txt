@@ -24,3 +24,5 @@
 ##.video-block-happy
 ! broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,extreemneuken.com,hdtienersexfilms.nl,partytieners.nl,pornomilf.nl,poepsexfilmstube.nl,sexmetdikkewijven.nl,strandmokkels.nl,studentesneuken.nl,teen-sex.nl
 ###tracking-url
+! geileverhalen.nl,poldertube.nl
+##a[href^="https://go2.go2cloud.org/"]
