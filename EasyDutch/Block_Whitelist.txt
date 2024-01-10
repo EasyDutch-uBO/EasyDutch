@@ -1,7 +1,10 @@
 ! Title: Block Whitelist
 ! Description: Whitelist for specific URLs on Dutch websites
-! Last updated: Thu, 21 Dec 2023 06:02:01 +0000
+! Last updated: Wed, 10 Jan 2024 10:56:21 +0000
 !
+! 2024-01-10
+@@||promotools.biz^$domain=beeldbelsex.com
+@@||tools.vpscash.nl/webcams/*/plug_play_webcams/$frame,domain=beeldbelsex.com
 ! 2023-12-20
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 ! 2023-10-23

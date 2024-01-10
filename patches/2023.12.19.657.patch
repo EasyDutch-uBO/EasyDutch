@@ -1,10 +1,10 @@
-diff name:easydutch lines:205 checksum:9611de6686
+diff name:easydutch lines:210 checksum:a61d532f12
 d2 1
 a2 1
-! Last updated: Wed, 10 Jan 2024 10:07:26 +0000
+! Last updated: Wed, 10 Jan 2024 10:56:21 +0000
 d4 2
 a5 1
-! Diff-Path: patches/2024.1.10.607.patch#easydutch
+! Diff-Path: patches/2024.1.10.656.patch#easydutch
 d17 1
 a95 1
 ||2k19.nl^$popup
@@ -36,12 +36,15 @@ a562 3
 *$3p,image,domain=kinkymedia.nl,opwindend.net
 /images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 /images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
-a565 1
+a565 2
+||beeldbelsex.com/wp-content/uploads/*.gif$image
 ||bdsm-vrienden.nl/sb_data/modules/mod_aav/
 a572 1
 ||gratissextube.be/banners/
 d581 1
-a599 1
+a599 3
+@@||promotools.biz^$domain=beeldbelsex.com
+@@||tools.vpscash.nl/webcams/*/plug_play_webcams/$frame,domain=beeldbelsex.com
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 d619 1
 d633 2
@@ -189,8 +192,10 @@ d1778 1
 d1780 1
 d1791 1
 d1807 1
-a1807 1
+a1807 3
 amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
+beeldbelsex.com##a > img[src$="gif"]
+beeldbelsex.com##iframe[data-src^="https://tools.vpscash.nl/"][data-src*="/gif_banners/"]
 d1814 1
 a1825 2
 nedporno.com##[class^="r11ght-pl4yer"]

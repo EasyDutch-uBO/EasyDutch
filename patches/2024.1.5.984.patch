@@ -1,10 +1,10 @@
-diff name:easydutch lines:52 checksum:9611de6686
+diff name:easydutch lines:58 checksum:a61d532f12
 d2 1
 a2 1
-! Last updated: Wed, 10 Jan 2024 10:07:26 +0000
+! Last updated: Wed, 10 Jan 2024 10:56:21 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.10.607.patch#easydutch
+! Diff-Path: patches/2024.1.10.656.patch#easydutch
 d16 1
 a94 1
 ||2k19.nl^$popup
@@ -17,11 +17,15 @@ d372 1
 d562 1
 a562 1
 *$3p,image,domain=kinkymedia.nl,opwindend.net
-a567 1
+a567 2
+||beeldbelsex.com/wp-content/uploads/*.gif$image
 ||bdsm-vrienden.nl/sb_data/modules/mod_aav/
 a574 1
 ||gratissextube.be/banners/
 d583 1
+a601 2
+@@||promotools.biz^$domain=beeldbelsex.com
+@@||tools.vpscash.nl/webcams/*/plug_play_webcams/$frame,domain=beeldbelsex.com
 d635 2
 a637 1
 ##.layout__component--temptation
@@ -36,8 +40,10 @@ dumpert.nl##aside [id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 d759 2
 d1681 1
-a1802 1
+a1802 3
 amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
+beeldbelsex.com##a > img[src$="gif"]
+beeldbelsex.com##iframe[data-src^="https://tools.vpscash.nl/"][data-src*="/gif_banners/"]
 d1809 1
 a1820 2
 nedporno.com##[class^="r11ght-pl4yer"]
