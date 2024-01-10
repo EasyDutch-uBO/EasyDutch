@@ -109,6 +109,7 @@
 ||sdcash.nl^$3p
 ||static-dscn.net^$3p
 ||teasemedia.nl^$3p
+||tools-affil2.com^$3p
 ||tradetracker.com^$3p
 ||verkoopmenu.nl^$3p
 ! ||views.affiliate4you.nl^$3p
