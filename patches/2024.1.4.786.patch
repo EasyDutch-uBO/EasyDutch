@@ -1,13 +1,58 @@
-diff name:easydutch lines:12 checksum:ce862d2fff
+diff name:easydutch lines:57 checksum:9611de6686
 d2 1
 a2 1
-! Last updated: Fri, 05 Jan 2024 16:24:36 +0000
+! Last updated: Wed, 10 Jan 2024 10:07:26 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.5.984.patch#easydutch
-a647 4
+! Diff-Path: patches/2024.1.10.607.patch#easydutch
+d16 1
+a94 1
+||2k19.nl^$popup
+a118 2
+||go2.go2cloud.org^$3p
+||go2.go2cloud.org^$popup
+a137 1
+||tools-affil2.com^$3p
+d372 1
+d562 1
+a562 1
+*$3p,image,domain=kinkymedia.nl,opwindend.net
+a567 1
+||bdsm-vrienden.nl/sb_data/modules/mod_aav/
+a574 1
+||gratissextube.be/banners/
+d583 1
+d635 2
+a637 1
+##.layout__component--temptation
+d639 1
+a646 2
+##a[href^="https://go2.go2cloud.org/"]
+##a[href^="https://www.2k19.nl/"]
+a647 8
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
+dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
+dumpert.nl##aside [id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,gooieneembode.nl,hetkompassliedrecht.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,weespernieuws.nl##div[id]:upward(.component__plugin)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
 arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
 dekrantnieuws.nl,destreekkrant.nu##.component__pubble-banner:has([advobject]):upward(.builder__row:not(.grid))
 d684 3
+d758 2
+d1680 1
+a1801 1
+amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
+d1808 1
+a1819 2
+nedporno.com##[class^="r11ght-pl4yer"]
+nedporno.com##.publ11s-b0ttom
+d1827 1
+a1827 3
+opwindend.net##img + [onclick="Klik('Footer_Advertentie');"]:upward(.tab)
+opwindend.net##img + [onclick="Klik('Footer_Contaxt');"]:upward(.tab)
+opwindend.net##.b > .profilethumb:upward(.tab)
+d1829 1
+a1830 1
+pornoplekje.nl###exitpopup-modal
+d1832 1

@@ -1,6 +1,6 @@
 ! Title: Block Third-Party Server
 ! Description: Filters for blocking only general third-party servers on Dutch websites
-! Last updated: Mon, 18 Dec 2023 19:46:41 +0000
+! Last updated: Wed, 10 Jan 2024 10:07:26 +0000
 !
 ! 2023-10-17
 ! bitcoinmagazine.nl,cryptobenelux.com
@@ -61,6 +61,7 @@
 ||gratis-neuken.com^$3p
 ! 2021-06-29
 ||2k19.nl^$3p
+||2k19.nl^$popup
 ||2k21.nl^$3p
 ||2k23.nl^$3p
 ||2k24.nl^$3p
@@ -86,6 +87,8 @@
 ||elitedating.nl^$3p
 ||euroclix.nl^$3p,domain=~panelclix.com|~panelclix.nl
 ||extremecash.nl^$3p
+||go2.go2cloud.org^$3p
+||go2.go2cloud.org^$popup
 ||hotlinkie.com^$3p
 ! ||kimhollandpartners.nl^$3p
 ||klikbonus.com^$3p
@@ -106,6 +109,7 @@
 ||sdcash.nl^$3p
 ||static-dscn.net^$3p
 ||teasemedia.nl^$3p
+||tools-affil2.com^$3p
 ||tradetracker.com^$3p
 ||verkoopmenu.nl^$3p
 ! ||views.affiliate4you.nl^$3p

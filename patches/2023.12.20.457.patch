@@ -1,22 +1,50 @@
-diff name:easydutch lines:97 checksum:ce862d2fff
+diff name:easydutch lines:141 checksum:9611de6686
 d2 1
 a2 1
-! Last updated: Fri, 05 Jan 2024 16:24:36 +0000
+! Last updated: Wed, 10 Jan 2024 10:07:26 +0000
 d4 2
 a5 1
-! Diff-Path: patches/2024.1.5.984.patch#easydutch
+! Diff-Path: patches/2024.1.10.607.patch#easydutch
+d17 1
+a95 1
+||2k19.nl^$popup
+a119 2
+||go2.go2cloud.org^$3p
+||go2.go2cloud.org^$popup
+a138 1
+||tools-affil2.com^$3p
 a143 3
 ||akamaized.net^$media,domain=bnnvara.nl|npo.nl|vpro.nl,redirect=noopmp3-0.1s
 bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 ||shortpixel.ai/client/to_webp,q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jpg$image,domain=groningerkrant.nl
 d161 2
+d372 1
 d418 1
+d563 1
+a563 1
+*$3p,image,domain=kinkymedia.nl,opwindend.net
 a564 1
 /images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
+a567 1
+||bdsm-vrienden.nl/sb_data/modules/mod_aav/
+a574 1
+||gratissextube.be/banners/
+d583 1
 a601 1
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 d621 1
-a647 44
+d635 2
+a637 1
+##.layout__component--temptation
+d639 1
+a646 2
+##a[href^="https://go2.go2cloud.org/"]
+##a[href^="https://www.2k19.nl/"]
+a647 48
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
+dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
+dumpert.nl##aside [id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,gooieneembode.nl,hetkompassliedrecht.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,weespernieuws.nl##div[id]:upward(.component__plugin)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
 arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
@@ -63,6 +91,7 @@ groningerkrant.nl##aside.widget .swiper-slide img[title="Advertentie"]:upward(.s
 groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
 a677 1
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
+d714 2
 d725 1
 d842 1
 d861 1
@@ -86,7 +115,7 @@ d1588 1
 d1592 2
 d1644 1
 d1650 1
-d1665 1
+d1665 2
 d1675 1
 a1675 1
 computable.be##.true-logo
@@ -96,3 +125,18 @@ d1687 1
 d1711 2
 d1729 1
 d1769 1
+a1795 1
+amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
+d1802 1
+a1813 2
+nedporno.com##[class^="r11ght-pl4yer"]
+nedporno.com##.publ11s-b0ttom
+d1821 1
+a1821 3
+opwindend.net##img + [onclick="Klik('Footer_Advertentie');"]:upward(.tab)
+opwindend.net##img + [onclick="Klik('Footer_Contaxt');"]:upward(.tab)
+opwindend.net##.b > .profilethumb:upward(.tab)
+d1823 1
+a1824 1
+pornoplekje.nl###exitpopup-modal
+d1826 1

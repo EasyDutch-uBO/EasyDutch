@@ -1,13 +1,21 @@
-diff name:easydutch lines:171 checksum:ce862d2fff
+diff name:easydutch lines:213 checksum:9611de6686
 d2 1
 a2 1
-! Last updated: Fri, 05 Jan 2024 16:24:36 +0000
+! Last updated: Wed, 10 Jan 2024 10:07:26 +0000
 d4 2
 a5 1
-! Diff-Path: patches/2024.1.5.984.patch#easydutch
+! Diff-Path: patches/2024.1.10.607.patch#easydutch
+d17 1
 d90 1
+a96 1
+||2k19.nl^$popup
 d105 1
+a121 2
+||go2.go2cloud.org^$3p
+||go2.go2cloud.org^$popup
 d123 1
+a141 1
+||tools-affil2.com^$3p
 d144 1
 a147 10
 ||akamaized.net^$media,domain=bnnvara.nl|npo.nl|vpro.nl,redirect=noopmp3-0.1s
@@ -25,19 +33,37 @@ a152 1
 ||doorbraak.be/wp-json/api/*/ads$xhr
 d158 2
 d258 2
+d371 1
 d394 1
 d418 1
 d501 1
 d547 1
-d566 1
-a566 2
+d565 2
+a566 3
+*$3p,image,domain=kinkymedia.nl,opwindend.net
 /images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 /images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
+a569 1
+||bdsm-vrienden.nl/sb_data/modules/mod_aav/
+a576 1
+||gratissextube.be/banners/
+d585 1
 a603 1
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 d623 1
+d637 2
+a639 1
+##.layout__component--temptation
+d641 1
 d643 1
-a650 69
+a649 2
+##a[href^="https://go2.go2cloud.org/"]
+##a[href^="https://www.2k19.nl/"]
+a650 73
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
+dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
+dumpert.nl##aside [id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,gooieneembode.nl,hetkompassliedrecht.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,weespernieuws.nl##div[id]:upward(.component__plugin)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
 arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
@@ -109,6 +135,7 @@ surfplaza.be##.google
 twentefm.nl##.advertisement
 a655 1
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
+d692 2
 d703 1
 d820 1
 d839 1
@@ -154,7 +181,7 @@ d1645 1
 d1647 2
 d1654 1
 d1661 1
-d1670 1
+d1670 2
 d1680 1
 a1680 1
 computable.be##.true-logo
@@ -170,3 +197,18 @@ d1779 1
 d1781 1
 d1792 1
 d1808 1
+a1808 1
+amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
+d1815 1
+a1826 2
+nedporno.com##[class^="r11ght-pl4yer"]
+nedporno.com##.publ11s-b0ttom
+d1834 1
+a1834 3
+opwindend.net##img + [onclick="Klik('Footer_Advertentie');"]:upward(.tab)
+opwindend.net##img + [onclick="Klik('Footer_Contaxt');"]:upward(.tab)
+opwindend.net##.b > .profilethumb:upward(.tab)
+d1836 1
+a1837 1
+pornoplekje.nl###exitpopup-modal
+d1839 1

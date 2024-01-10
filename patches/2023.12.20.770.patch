@@ -1,16 +1,44 @@
-diff name:easydutch lines:70 checksum:ce862d2fff
+diff name:easydutch lines:114 checksum:9611de6686
 d2 1
 a2 1
-! Last updated: Fri, 05 Jan 2024 16:24:36 +0000
+! Last updated: Wed, 10 Jan 2024 10:07:26 +0000
 d4 2
 a5 1
-! Diff-Path: patches/2024.1.5.984.patch#easydutch
+! Diff-Path: patches/2024.1.10.607.patch#easydutch
+d17 1
+a95 1
+||2k19.nl^$popup
+a119 2
+||go2.go2cloud.org^$3p
+||go2.go2cloud.org^$popup
+a138 1
+||tools-affil2.com^$3p
 a143 2
 ||akamaized.net^$media,domain=bnnvara.nl|npo.nl|vpro.nl,redirect=noopmp3-0.1s
 bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 d162 2
+d373 1
+d563 1
+a563 1
+*$3p,image,domain=kinkymedia.nl,opwindend.net
+a568 1
+||bdsm-vrienden.nl/sb_data/modules/mod_aav/
+a575 1
+||gratissextube.be/banners/
+d584 1
 d623 1
-a649 36
+d637 2
+a639 1
+##.layout__component--temptation
+d641 1
+a648 2
+##a[href^="https://go2.go2cloud.org/"]
+##a[href^="https://www.2k19.nl/"]
+a649 40
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
+dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
+dumpert.nl##aside [id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,gooieneembode.nl,hetkompassliedrecht.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,weespernieuws.nl##div[id]:upward(.component__plugin)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
 arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
@@ -50,6 +78,7 @@ robtv.be,tvl.be,tvoost.be##.c-ad-cba-row + .botGutter
 d654 3
 a690 1
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
+d727 2
 d738 1
 d855 1
 d977 1
@@ -66,6 +95,21 @@ d1587 1
 d1592 1
 d1596 2
 d1648 1
-d1668 1
+d1668 2
 d1726 1
 d1766 1
+a1792 1
+amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
+d1799 1
+a1810 2
+nedporno.com##[class^="r11ght-pl4yer"]
+nedporno.com##.publ11s-b0ttom
+d1818 1
+a1818 3
+opwindend.net##img + [onclick="Klik('Footer_Advertentie');"]:upward(.tab)
+opwindend.net##img + [onclick="Klik('Footer_Contaxt');"]:upward(.tab)
+opwindend.net##.b > .profilethumb:upward(.tab)
+d1820 1
+a1821 1
+pornoplekje.nl###exitpopup-modal
+d1823 1

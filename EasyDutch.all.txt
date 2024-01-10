@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Fri, 05 Jan 2024 16:24:36 +0000
+! Last updated: Wed, 10 Jan 2024 10:07:26 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2024.1.5.984.patch#easydutch
+! Diff-Path: patches/2024.1.10.607.patch#easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
@@ -13,7 +13,6 @@
 !
 ! *** EasyDutch:EasyDutch/Block_General.txt ***
 /reclame/*.gif$image,3p
-/aff_ad?$frame
 /tekst_advertentie_
 /mediahuis-ads/*$~css
 /gaslicht/header300x20.png$image
@@ -92,6 +91,7 @@ _advertentieleaderboardhome.
 ||botndm.nl^$3p
 ||gratis-neuken.com^$3p
 ||2k19.nl^$3p
+||2k19.nl^$popup
 ||2k21.nl^$3p
 ||2k23.nl^$3p
 ||2k24.nl^$3p
@@ -116,6 +116,8 @@ _advertentieleaderboardhome.
 ||elitedating.nl^$3p
 ||euroclix.nl^$3p,domain=~panelclix.com|~panelclix.nl
 ||extremecash.nl^$3p
+||go2.go2cloud.org^$3p
+||go2.go2cloud.org^$popup
 ||hotlinkie.com^$3p
 ||klikbonus.com^$3p
 ||lauwebut.nl^$3p
@@ -135,6 +137,7 @@ _advertentieleaderboardhome.
 ||sdcash.nl^$3p
 ||static-dscn.net^$3p
 ||teasemedia.nl^$3p
+||tools-affil2.com^$3p
 ||tradetracker.com^$3p
 ||verkoopmenu.nl^$3p
 ||vpscash.nl^$3p
@@ -369,7 +372,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
 ||fonkmagazine.nl/adds/
 ||farmaline.be/assets/banners/
-||tools-affil2.com/rtb/index.php$domain=1001erotiekverhalen.nl
 ||vlootschouw.nl/wp-content/uploads/*/bottom-banner*
 ||schuttevaer.nl/partnersites/
 ||static.promedia.nl/logos/$image,domain=automobielmanagement.nl|carwashpro.nl|infrasite.nl|ovpro.nl|rijschoolpro.nl|spoorpro.nl|tankpro.nl|taxipro.nl|verkeersnet.nl
@@ -559,12 +561,13 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
-*$3p,image,domain=kinkymedia.nl
+*$3p,image,domain=kinkymedia.nl,opwindend.net
 /images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 /images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
 /wp-content/uploads/*.gif$image,domain=bekijkporno.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|nieuws.xxx|onderdanigeman.nl|onschuldigemeiden.nl|poldersexverhalen.nl|pornokartel.nl|seksmet.nl|sexmeid.nl|sexmetvrouwen.nl|shespot.nl|sproeiendekutjes.nl|tiener-sexverhalen.nl|tubelight.nl|wraaksex.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
+||bdsm-vrienden.nl/sb_data/modules/mod_aav/
 ||camjam.nl/customs/*/assets/images/*.gif$image
 ||camjam.nl/customs/*/assets/images/flirtmee.jpg$image
 ||cdn.citytourgirls.com/static/bn/$image,domain=sexguide.nl
@@ -572,6 +575,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||cdn.seksmet.nl/wp-content/uploads/*/brazzers-pornovideo-netwerk.*
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ||clubxmissy.nl/banners/*$image,3p
+||gratissextube.be/banners/
 ||images.islive.nl/snapshot/*/99x84.jpg$image,domain=sexverhalen.com
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
 ||kinkymedia.nl/wp-content/uploads/kousenenpanties-lingerie*.jpg$image
@@ -580,7 +584,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||naaktkrant.nl/media/*/*.gif$image,1p
 ||nltube.com/b?z=A*$subdocument
 ||oops.nl/banner/$subdocument
-||opwindend.net/Promotie*
 ||poepsexfilmstube.nl/sexdating/sexdating.php$subdocument
 ||pornoexpert.nl/img/950x250_*.gif$image
 ||seks.com/img/*.gif
@@ -632,11 +635,9 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
 ! *** EasyDutch:EasyDutch/Hide_General.txt ***
-##.ankeiler--advertisement
-##.article__component--temptation-article-inline
 ##.article__component--outstream-advertisement
+##.layout__component--temptation
 ##.sixpack__advertisement-tile
-##[data-temptation-position="OORTJE"]
 ##.adv-tekst
 ##.happy-header
 ##.happy-sidebar
@@ -644,7 +645,13 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.happy-footer
 ##.video-block-happy
 ###tracking-url
+##a[href^="https://go2.go2cloud.org/"]
+##a[href^="https://www.2k19.nl/"]
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
+dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
+dumpert.nl##aside [id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,gooieneembode.nl,hetkompassliedrecht.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,weespernieuws.nl##div[id]:upward(.component__plugin)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
 arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)
@@ -756,8 +763,6 @@ fr12.nl##[class*="r89-desktop"][class*="-btf"]
 bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame)
 bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame) + div:has(.owl-item)
 eemland1.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has(.owl-item)
-dumpert.nl##[id^="ad_"]:upward(2)
-dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 grazia.nl##[data-aa-adunit][data-aaad]
 grazia.nl###WB_VIDEO_PLAYER_TARGET
 sikkom.nl##[id^="ad_native"]:upward(.column)
@@ -1678,7 +1683,6 @@ gaynews.nl##.telefoon_verberg
 nos.nl##.teletekst__banner
 netonline.be##.text_12_jobs_only
 beursonline.nl,debeurs.nl##.Textads
-7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(:scope >.ankeiler--advertisement)
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
 dvhn.nl,lc.nl,meppelercourant.nl##.top__ad
@@ -1800,13 +1804,13 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
 camjam.nl##.banner
 gaynews.nl##[class^="va"]:has([class*="banner"])
 gaynews.nl##[id^="abri"]
 gaynews.nl##[id^="fp"]
 gaynews.nl##a[href^="/_global/leesmeer.php?"]
 geile-sexverhalen.be,geile-sexverhalen.nl##.bannergroup:upward(.card)
-geileverhalen.nl##[id^="menu-item-"] > [href^="https://go2.go2cloud.org/aff_ad"]
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
 gratissexverhalen.nu##[id^="block-"]:has([href^="https://www.dql2clk.com/"])
@@ -1818,6 +1822,8 @@ kinkymedia.nl##[id^="adguru-zone-widget"]
 kinkymedia.nl##aside > .widget:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
 klapjes.nl##a[href*="/adverteren"]:upward(2)
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Webcamsex/i)
+nedporno.com##[class^="r11ght-pl4yer"]
+nedporno.com##.publ11s-b0ttom
 nltube.com##.player-right
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
 onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
@@ -1825,12 +1831,13 @@ oops.nl###dropinboxv2cover
 oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
 oops.nl##table[cellspacing="30"]
 oops.nl##td[background="http://www.oops.nl/sexverhalen/oopslogo.jpg"]:style(height:50px !important;)
-opwindend.net##.NoBM.Tab:has(img[src^="https://www.mysecretdate.nl/phpThumb/thumbnails/350x350"])
+opwindend.net##img + [onclick="Klik('Footer_Advertentie');"]:upward(.tab)
+opwindend.net##img + [onclick="Klik('Footer_Contaxt');"]:upward(.tab)
+opwindend.net##.b > .profilethumb:upward(.tab)
 opwindend.net##.popup
-opwindend.net##div.Tab:has(img[src^="Promotie_Content/"])
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
+pornoplekje.nl###exitpopup-modal
 pornozot.com##.abbcn-footer
-seksmet.nl##.et_pb_text:has(* > .g):not(:has(.heading-more))
 sexervaringendelen.nl##iframe[data-src^="https://ads."]
 sexguide.nl##.blogBanners
 sexguide.nl##.moreEscortM:has-text(Sponsors)

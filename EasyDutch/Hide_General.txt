@@ -1,14 +1,12 @@
 ! Title: Hide General
 ! Description: Filters for hiding general elements on Dutch websites
-! Last updated: Tue, 19 Dec 2023 12:22:14 +0000
+! Last updated: Wed, 10 Jan 2024 10:07:26 +0000
 !
 ! 2022-10-04
 ! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl,hln.be
-##.ankeiler--advertisement
-##.article__component--temptation-article-inline
 ##.article__component--outstream-advertisement
+##.layout__component--temptation
 ##.sixpack__advertisement-tile
-##[data-temptation-position="OORTJE"]
 ! 2021-12-06
 ! amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv
 ##.adv-tekst
@@ -24,3 +22,7 @@
 ##.video-block-happy
 ! broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,extreemneuken.com,hdtienersexfilms.nl,partytieners.nl,pornomilf.nl,poepsexfilmstube.nl,sexmetdikkewijven.nl,strandmokkels.nl,studentesneuken.nl,teen-sex.nl
 ###tracking-url
+! geileverhalen.nl,poldertube.nl
+##a[href^="https://go2.go2cloud.org/"]
+! gratissextube.be
+##a[href^="https://www.2k19.nl/"]
