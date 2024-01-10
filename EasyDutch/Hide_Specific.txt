@@ -1346,6 +1346,8 @@ kinkymedia.nl##[id^="adguru-zone-widget"]
 kinkymedia.nl##aside > .widget:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
 klapjes.nl##a[href*="/adverteren"]:upward(2)
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Webcamsex/i)
+nedporno.com##[class^="r11ght-pl4yer"]
+nedporno.com##.publ11s-b0ttom
 nltube.com##.player-right
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
 onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
