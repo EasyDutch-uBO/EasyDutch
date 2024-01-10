@@ -26,3 +26,5 @@
 ###tracking-url
 ! geileverhalen.nl,poldertube.nl
 ##a[href^="https://go2.go2cloud.org/"]
+! gratissextube.be
+##a[href^="https://www.2k19.nl/"]
