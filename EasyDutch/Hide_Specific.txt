@@ -1352,9 +1352,10 @@ oops.nl###dropinboxv2cover
 oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
 oops.nl##table[cellspacing="30"]
 oops.nl##td[background="http://www.oops.nl/sexverhalen/oopslogo.jpg"]:style(height:50px !important;)
-opwindend.net##.NoBM.Tab:has(img[src^="https://www.mysecretdate.nl/phpThumb/thumbnails/350x350"])
+opwindend.net##img + [onclick="Klik('Footer_Advertentie');"]:upward(.tab)
+opwindend.net##img + [onclick="Klik('Footer_Contaxt');"]:upward(.tab)
+opwindend.net##.b > .profilethumb:upward(.tab)
 opwindend.net##.popup
-opwindend.net##div.Tab:has(img[src^="Promotie_Content/"])
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
 pornozot.com##.abbcn-footer
 seksmet.nl##.et_pb_text:has(* > .g):not(:has(.heading-more))
