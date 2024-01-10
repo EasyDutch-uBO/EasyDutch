@@ -1360,6 +1360,7 @@ opwindend.net##img + [onclick="Klik('Footer_Contaxt');"]:upward(.tab)
 opwindend.net##.b > .profilethumb:upward(.tab)
 opwindend.net##.popup
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
+pornoplekje.nl###exitpopup-modal
 pornozot.com##.abbcn-footer
 sexervaringendelen.nl##iframe[data-src^="https://ads."]
 sexguide.nl##.blogBanners
