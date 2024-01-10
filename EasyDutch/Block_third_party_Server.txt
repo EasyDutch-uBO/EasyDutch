@@ -86,6 +86,8 @@
 ||elitedating.nl^$3p
 ||euroclix.nl^$3p,domain=~panelclix.com|~panelclix.nl
 ||extremecash.nl^$3p
+||go2.go2cloud.org^$3p
+||go2.go2cloud.org^$popup
 ||hotlinkie.com^$3p
 ! ||kimhollandpartners.nl^$3p
 ||klikbonus.com^$3p
