@@ -501,7 +501,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 /wp-content/uploads/*.gif$image,domain=bekijkporno.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|nieuws.xxx|onderdanigeman.nl|onschuldigemeiden.nl|poldersexverhalen.nl|pornokartel.nl|seksmet.nl|sexmeid.nl|sexmetvrouwen.nl|shespot.nl|sproeiendekutjes.nl|tiener-sexverhalen.nl|tubelight.nl|wraaksex.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
 ||beeldbelsex.com/wp-content/uploads/*.gif$image
-||tools.vpscash.nl/webcams/*/gif_banners/$domain=beeldbelsex.com,important
 ||bdsm-vrienden.nl/sb_data/modules/mod_aav/
 ||camjam.nl/customs/*/assets/images/*.gif$image
 ||camjam.nl/customs/*/assets/images/flirtmee.jpg$image
