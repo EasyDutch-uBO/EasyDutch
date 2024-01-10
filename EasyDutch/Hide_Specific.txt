@@ -1328,6 +1328,7 @@ radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
 
 ! NSFW Site
+amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
 camjam.nl##.banner
 gaynews.nl##[class^="va"]:has([class*="banner"])
 gaynews.nl##[id^="abri"]
@@ -1358,7 +1359,6 @@ opwindend.net##.b > .profilethumb:upward(.tab)
 opwindend.net##.popup
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
 pornozot.com##.abbcn-footer
-seksmet.nl##.et_pb_text:has(* > .g):not(:has(.heading-more))
 sexervaringendelen.nl##iframe[data-src^="https://ads."]
 sexguide.nl##.blogBanners
 sexguide.nl##.moreEscortM:has-text(Sponsors)
