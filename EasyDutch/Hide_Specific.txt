@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2024-01-10
+webwoordenboek.nl##.layout__main-ads
 voetbalnieuws.be##div[class^="r89-desktop"]
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
 ! 2024-01-10 https://github.com/uBlockOrigin/uAssets/issues/21284
