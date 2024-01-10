@@ -61,6 +61,7 @@
 ||gratis-neuken.com^$3p
 ! 2021-06-29
 ||2k19.nl^$3p
+||2k19.nl^$popup
 ||2k21.nl^$3p
 ||2k23.nl^$3p
 ||2k24.nl^$3p
