@@ -1330,6 +1330,8 @@ iex.nl##section:has-text(advertentie)
 
 ! NSFW Site
 amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
+beeldbelsex.com##a > img[src$="gif"]
+beeldbelsex.com##iframe[data-src^="https://tools.vpscash.nl/"][data-src*="/gif_banners/"]
 camjam.nl##.banner
 gaynews.nl##[class^="va"]:has([class*="banner"])
 gaynews.nl##[id^="abri"]
