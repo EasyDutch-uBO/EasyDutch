@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Wed, 10 Jan 2024 14:30:54 +0000
+! Last updated: Thu, 11 Jan 2024 15:43:42 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2024.1.10.870.patch#easydutch
+! Diff-Path: patches/2024.1.11.943.patch#easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
@@ -1812,6 +1812,7 @@ iex.nl##section:has-text(advertentie)
 amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
 beeldbelsex.com##a > img[src$="gif"]
 beeldbelsex.com##iframe[data-src^="https://tools.vpscash.nl/"][data-src*="/gif_banners/"]
+bekijkporno.nl##.player .fp-brand
 camjam.nl##.banner
 gaynews.nl##[class^="va"]:has([class*="banner"])
 gaynews.nl##[id^="abri"]
@@ -1864,6 +1865,7 @@ vagina.nl##[id$="fish-hooks"]
 vagina.nl##div[id^=video-fish-hook]
 xmissy.nl##.rightbar > :has([src^="https://ads."])
 ! *** EasyDutch:EasyDutch/Hide_Whitelist.txt ***
+bekijkporno.nl#@#.bottom-adv
 gratisaftehalen.nl#@#.ads-image
 rotterdam-nesselande.nl#@#ins.adsbygoogle
 noordkopcentraal.nl#@#.category-advertorial

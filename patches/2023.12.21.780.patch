@@ -1,10 +1,10 @@
-diff name:easydutch lines:84 checksum:9917d7482a
+diff name:easydutch lines:87 checksum:2d7189ff55
 d2 1
 a2 1
-! Last updated: Wed, 10 Jan 2024 14:30:54 +0000
+! Last updated: Thu, 11 Jan 2024 15:43:42 +0000
 d4 2
 a5 1
-! Diff-Path: patches/2024.1.10.870.patch#easydutch
+! Diff-Path: patches/2024.1.11.943.patch#easydutch
 d17 1
 a95 1
 ||2k19.nl^$popup
@@ -64,10 +64,11 @@ d748 2
 d759 1
 d876 1
 d1672 1
-a1793 3
+a1793 4
 amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
 beeldbelsex.com##a > img[src$="gif"]
 beeldbelsex.com##iframe[data-src^="https://tools.vpscash.nl/"][data-src*="/gif_banners/"]
+bekijkporno.nl##.player .fp-brand
 d1800 1
 a1811 2
 nedporno.com##[class^="r11ght-pl4yer"]
@@ -81,5 +82,7 @@ d1821 1
 a1822 1
 pornoplekje.nl###exitpopup-modal
 d1824 1
+a1843 1
+bekijkporno.nl#@#.bottom-adv
 a1892 1
 tweakers.net##div:matches-css-after(content:"Advertentie")

@@ -1,10 +1,10 @@
-diff name:easydutch lines:22 checksum:9917d7482a
+diff name:easydutch lines:25 checksum:2d7189ff55
 d2 1
 a2 1
-! Last updated: Wed, 10 Jan 2024 14:30:54 +0000
+! Last updated: Thu, 11 Jan 2024 15:43:42 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.10.870.patch#easydutch
+! Diff-Path: patches/2024.1.11.943.patch#easydutch
 d564 1
 a564 1
 *$3p,image,domain=kinkymedia.nl|opwindend.net
@@ -16,8 +16,11 @@ a604 2
 a650 2
 webwoordenboek.nl##.layout__main-ads
 voetbalnieuws.be##div[class^="r89-desktop"]
-a1807 2
+a1807 3
 beeldbelsex.com##a > img[src$="gif"]
 beeldbelsex.com##iframe[data-src^="https://tools.vpscash.nl/"][data-src*="/gif_banners/"]
+bekijkporno.nl##.player .fp-brand
+a1859 1
+bekijkporno.nl#@#.bottom-adv
 a1908 1
 tweakers.net##div:matches-css-after(content:"Advertentie")
