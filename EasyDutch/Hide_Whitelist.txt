@@ -2,6 +2,8 @@
 ! Description: Whitelist for hidden elements on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2024-01-11
+bekijkporno.nl#@#.bottom-adv
 ! 2023-10-13
 gratisaftehalen.nl#@#.ads-image
 ! 2023-05-04
