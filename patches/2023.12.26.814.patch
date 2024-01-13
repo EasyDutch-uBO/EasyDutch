@@ -1,10 +1,10 @@
-diff name:easydutch lines:179 checksum:a4d84ca4a6
+diff name:easydutch lines:177 checksum:6b75b72292
 d2 1
 a2 1
-! Last updated: Sat, 13 Jan 2024 14:17:15 +0000
+! Last updated: Sat, 13 Jan 2024 20:15:52 +0000
 d4 2
 a5 1
-! Diff-Path: patches/2024.1.13.857.patch#easydutch
+! Diff-Path: patches/2024.1.13.1215.patch#easydutch
 d17 1
 a95 1
 ||2k19.nl^$popup
@@ -58,10 +58,11 @@ d1675 1
 d1797 49
 a1895 1
 tweakers.net##div:matches-css-after(content:"Advertentie")
-a1933 119
+a1933 117
 ! *** EasyDutch:EasyDutch/NSFW.txt ***
 *$3p,image,domain=kinkymedia.nl|opwindend.net
-/images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
+.nl/banner$image,domain=kinkysexcontactonline.nl
+/images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|kinkysexcontactonline.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 /images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
 /wp-content/uploads/*.gif$image,domain=bekijkporno.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|nieuws.xxx|onderdanigeman.nl|onschuldigemeiden.nl|poldersexverhalen.nl|pornokartel.nl|seksmet.nl|sexmeid.nl|sexmetvrouwen.nl|shespot.nl|sproeiendekutjes.nl|tiener-sexverhalen.nl|tubelight.nl|wraaksex.nl
@@ -101,7 +102,6 @@ a1933 119
 ||xmissy.nl/skins/_customplayers/*/*overlay$image
 ||xmissy.nl/skins/_customplayers/*/*top$image
 ||xmissy.nl/skins/_customplayers/*footer.jpg$image
-! Block_Whitelist
 @@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
 @@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
 @@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument
@@ -111,7 +111,6 @@ a1933 119
 @@||promotools.biz^$domain=beeldbelsex.com
 @@||tools.vpscash.nl/webcams/*/plug_play_webcams/$frame,domain=beeldbelsex.com
 @@||naaktkrant.nl/media/*/*-gifs-*.gif$image,1p
-! Hide_General
 ##.happy-header
 ##.happy-sidebar
 ##.happy-section
@@ -120,7 +119,6 @@ a1933 119
 ###tracking-url
 ##a[href^="https://go2.go2cloud.org/"]
 ##a[href^="https://www.2k19.nl/"]
-! Hide_Specific.txt
 amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
 beeldbelsex.com##a > img[src$="gif"]
 beeldbelsex.com##iframe[data-src^="https://tools.vpscash.nl/"][data-src*="/gif_banners/"]
@@ -140,6 +138,7 @@ kinkymedia.nl##.adguru-zone-wrap
 kinkymedia.nl##[href^="https://mt67.net/c/"]
 kinkymedia.nl##[id^="adguru-zone-widget"]
 kinkymedia.nl##aside > .widget:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
+kinkysexcontactonline.nl###homebanners
 klapjes.nl##a[href*="/adverteren"]:upward(2)
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Webcamsex/i)
 nedporno.com##[class^="r11ght-pl4yer"]
@@ -176,5 +175,4 @@ vagina.nl##[href^="https://xltube.nl/click/"]
 vagina.nl##[id$="fish-hooks"]
 vagina.nl##div[id^=video-fish-hook]
 xmissy.nl##.rightbar > :has([src^="https://ads."])
-! Hide_Whitelist
 bekijkporno.nl#@#.bottom-adv
