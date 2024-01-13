@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Sat, 13 Jan 2024 20:15:52 +0000
+! Last updated: Sat, 13 Jan 2024 20:24:05 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2024.1.13.1215.patch#easydutch
+! Diff-Path: patches/2024.1.13.1224.patch#easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
@@ -1842,7 +1842,7 @@ directwonen.nl#@#.adsbox
 girlscene.nl##+js(set, adblock, 0)
 ! *** EasyDutch:EasyDutch/NSFW.txt ***
 *$3p,image,domain=kinkymedia.nl|opwindend.net
-.nl/banner$image,domain=kinkysexcontactonline.nl
+.nl/banner$image,domain=kinkydatingnederland.nl|kinkysexcontactonline.nl|privesexgids.nl
 /images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|kinkysexcontactonline.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 /images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
@@ -1919,7 +1919,7 @@ kinkymedia.nl##.adguru-zone-wrap
 kinkymedia.nl##[href^="https://mt67.net/c/"]
 kinkymedia.nl##[id^="adguru-zone-widget"]
 kinkymedia.nl##aside > .widget:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
-kinkysexcontactonline.nl###homebanners
+kinkysexcontactonline.nl,privesexgids.nl###homebanners
 klapjes.nl##a[href*="/adverteren"]:upward(2)
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Webcamsex/i)
 nedporno.com##[class^="r11ght-pl4yer"]
