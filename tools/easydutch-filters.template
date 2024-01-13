@@ -29,3 +29,5 @@
 %include EasyDutch:EasyDutch/Hide_Whitelist.txt%
 
 %include EasyDutch:EasyDutch/Anti-Adblock.txt%
+
+%include EasyDutch:EasyDutch/NSFW.txt%
