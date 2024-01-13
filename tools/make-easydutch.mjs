@@ -140,7 +140,7 @@ function trimSublist(text) {
 
 function minify(text) {
     // remove issue-related comments
-    text = text.replace(/^! (?:[^A-Z*#]|Uitzondering|NSFW).*?[\n\r]+/gm, '');
+    text = text.replace(/^! (?:[^A-Z*#]|Uitzondering|Block_|Hide_).*?[\n\r]+/gm, '');
     // convert potentially present Windows-style newlines
     text = text.replace(/\r\n/g, '\n');
     // remove empty lines
