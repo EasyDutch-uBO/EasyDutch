@@ -5,7 +5,7 @@ on:
     types: opened
 
 jobs:
-  check-if-youtube:
+  check-if-tweakers:
     name: Close as duplicate
     runs-on: ubuntu-latest
     if: contains(github.event.issue.title, 'tweakers')
