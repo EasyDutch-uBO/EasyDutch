@@ -28,7 +28,7 @@ This way we know why a filter was added, and how to verify whether an old filter
 - Put here after the site url `spele.nl` (no `https://www.`) 
 - Put after this the issue number. </br>
 Example: `A: spele.nl fix #3` or `C: nu.nl`. The issue itself will contains all the details.
-- If the issue doesn't occur on a homepage, but a subpage please add in the message the full url (like `https://www.website.nl/sub/page.html`)
+- If the issue doesn't occur on a homepage, but on a subpage please add in the message the full url (like `https://www.website.nl/sub/page.html`)
 
 #### Hide General
 
