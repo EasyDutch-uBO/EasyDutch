@@ -1,0 +1,4 @@
+! Title: NSFW
+! Description: Filters for Dutch NSFW websites
+! Last updated: %timestamp%
+!
