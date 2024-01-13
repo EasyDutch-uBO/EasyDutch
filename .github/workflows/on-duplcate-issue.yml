@@ -1,0 +1,30 @@
+name: Triage Duplicate issues
+
+on:
+  issues:
+    types: opened
+
+jobs:
+  check-if-youtube:
+    name: Close as duplicate
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.title, 'tweakers')
+    permissions:
+      issues: write
+    steps:
+      - name: Add label
+        uses: actions-cool/issues-helper@v3
+        with:
+          actions: 'add-labels'
+          labels: 'duplicate'
+      - name: Add comment
+        uses: actions-cool/issues-helper@v3
+        with:
+          actions: 'create-comment'
+          body: |
+            This is a `tweakers.net` issue, see <https://github.com/EasyDutch-uBO/EasyDutch/issues/34>.
+      - name: Close issue
+        uses: actions-cool/issues-helper@v3
+        with:
+          actions: 'close-issue'
+          close-reason: not_planned
