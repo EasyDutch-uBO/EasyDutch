@@ -10,7 +10,7 @@ labels:
   - name: wontfix
     labeled:
       issue:
-        body: This will not be worked on but I appreciate your contribution.
+        body: This will not be worked on but we appreciate your contribution.
         action: close
     unlabeled:
       issue:
@@ -19,21 +19,18 @@ labels:
   - name: duplicate
     labeled:
       issue:
-        body: This issue already exists.
-        action: close
-      pr:
-        body: This issue already exists.
+        body: This issue already exists. See our issue tracker (https://github.com/EasyDutch-uBO/EasyDutch/issues).
         action: close
   - name: unable to reproduce 
     labeled:
       issue:
-        body: I can't reproduce your issue. Please give more information (e.g. uBO logger output or screenshots)
+        body: We can't reproduce your issue. Please give more information (e.g. uBO logger output or screenshots)
   - name: in progress
     labeled:
       issue:
-        body: It takes longer than expected to solve this issue. I'm working on it. Please be patience
+        body: It takes longer than expected to solve this issue. We are working on it. Please be patience
       pr: 
-        body: It takes longer than expected to solve this issue. I'm working on it. Please be patience
+        body: It takes longer than expected to solve this issue. We are working on it. Please be patience
   - name: spam
     labeled:
       issue:
