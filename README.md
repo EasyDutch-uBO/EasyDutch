@@ -38,7 +38,7 @@ If you see ads on Dutch websites please [report](https://github.com/EasyDutch-uB
 > Important note: </br>
 > I, **[@Nomes77](https://github.com/Nomes77)** owner of EasyDutch, prefer simplicity over complexity. So instead of `123geldzaken.nl##[class*="widget_sponsor"]` use `123geldzaken.nl##.widget_sponsor` and `123geldzaken.nl##.widget_sponsorlinks`. And instead of `arenalokaal.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)` just use `arenalokaal.nl##[advobject]:upward(.bg-gray-100)`
 > 
-> ##### Ordering of filters
+> #### Ordering of filters
 > 
 > New filters must be added on the top of each list.
 > 
@@ -46,7 +46,7 @@ If you see ads on Dutch websites please [report](https://github.com/EasyDutch-uB
 > 
 > Old filters which are confirmed to still be required must be moved to the top of the list.
 > 
-> ##### Issue number association
+> #### Issue number association
 > 
 > **All** added filters must be associated with a formal issue number or date, example:
 > 
@@ -57,14 +57,15 @@ If you see ads on Dutch websites please [report](https://github.com/EasyDutch-uB
 > 
 > This way we know why a filter was added, and how to verify whether an old filter is still needed. The comment line preceding the filter(s) to solve a specific issue should be only a URL to the issue. The issue itself can contains all the details about how the issue was solved, and why it was solved this way, etc.
 > 
-> ##### Commit message
+> #### Commit message
 > 
 > - Keep it simple, use `A:` for adding a site, `C:` for changing or updating rules, `R:` for removing, and `M:` for moving to other files. 
 > - Put here after the site url `spele.nl` (no `https://www.`) 
 > - Put after this the issue number. </br>
 > Example: `A: spele.nl fix #3` or `C: nu.nl`. The issue itself will contains all the details.
+> - If the issue doesn't occur on a homepage, but a subpage please add in the message the full url (like `https://www.website.nl/sub/page.html`)
 > 
-> ##### Hide General
+> #### Hide General
 > 
 > You may only make General Hiding rules, if it applies to tree or more websites
 > *******
