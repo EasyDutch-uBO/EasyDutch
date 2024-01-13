@@ -1,9 +1,7 @@
 ! Title: Hide Whitelist
 ! Description: Whitelist for hidden elements on Dutch websites
-! Last updated: Thu, 11 Jan 2024 15:43:42 +0000
+! Last updated: Sat, 13 Jan 2024 14:17:15 +0000
 !
-! 2024-01-11
-bekijkporno.nl#@#.bottom-adv
 ! 2023-10-13
 gratisaftehalen.nl#@#.ads-image
 ! 2023-05-04

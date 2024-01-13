@@ -1,21 +1,18 @@
-diff name:easydutch lines:136 checksum:a4d84ca4a6
+diff name:easydutch lines:133 checksum:a4d84ca4a6
 d2 1
 a2 1
 ! Last updated: Sat, 13 Jan 2024 14:17:15 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2024.1.13.857.patch#easydutch
-d564 40
-d610 6
-d634 1
-d642 8
-a650 2
-webwoordenboek.nl##.layout__main-ads
-voetbalnieuws.be##div[class^="r89-desktop"]
-d1807 52
-a1908 1
-tweakers.net##div:matches-css-after(content:"Advertentie")
-a1946 119
+d564 41
+d606 2
+d613 6
+d637 1
+d645 8
+d1812 55
+d1868 1
+a1956 119
 ! *** EasyDutch:EasyDutch/NSFW.txt ***
 *$3p,image,domain=kinkymedia.nl|opwindend.net
 /images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
