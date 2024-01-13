@@ -4,7 +4,7 @@
 !
 ! Block_Resources
 *$3p,image,domain=kinkymedia.nl|opwindend.net
-.nl/banner$image,domain=kinkysexcontactonline.nl|privesexgids.nl
+.nl/banner$image,domain=kinkydatingnederland.nl|kinkysexcontactonline.nl|privesexgids.nl
 ! ||kinkydatingnederland.nl/banner.jpg
 ! ||milfdatingnederland.nl/banner.jpg
 ! ||shemaledateonline.nl/banner.jpg
