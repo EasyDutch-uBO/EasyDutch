@@ -44,3 +44,14 @@
 ||xmissy.nl/skins/_customplayers/*/*overlay$image
 ||xmissy.nl/skins/_customplayers/*/*top$image
 ||xmissy.nl/skins/_customplayers/*footer.jpg$image
+! Block_Whitelist
+@@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
+@@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
+@@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument
+@@/https\:\/\/pt\.[\w]{6}\.com\/embed\/tbplyr\//$script
+@@/https\:\/\/pt\.[\w]{6}\.com\/api\/video-promotion\/v1\/get-content-url\//$xhr,domain=/pt\.[\w]{6}\.com/
+@@||awemdia.com/*.mp4$media,domain=/pt\.[\w]{6}\.com/
+@@||promotools.biz^$domain=beeldbelsex.com
+@@||tools.vpscash.nl/webcams/*/plug_play_webcams/$frame,domain=beeldbelsex.com
+@@||naaktkrant.nl/media/*/*-gifs-*.gif$image,1p
+
