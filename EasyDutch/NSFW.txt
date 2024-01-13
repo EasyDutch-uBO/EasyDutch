@@ -55,6 +55,7 @@
 @@||promotools.biz^$domain=beeldbelsex.com
 @@||tools.vpscash.nl/webcams/*/plug_play_webcams/$frame,domain=beeldbelsex.com
 @@||naaktkrant.nl/media/*/*-gifs-*.gif$image,1p
+
 ! Hide_General
 ! gratispornofilm.nl,lekkerewebcams.nl,outdoor-sex.nl,pornomilf.nl,porno-filmpjes.nl,teen-sex.nl
 ##.happy-header
@@ -82,7 +83,6 @@ gaynews.nl##[class^="va"]:has([class*="banner"])
 gaynews.nl##[id^="abri"]
 gaynews.nl##[id^="fp"]
 gaynews.nl##a[href^="/_global/leesmeer.php?"]
-Small fixes (#56)
 geile-sexverhalen.be,geile-sexverhalen.nl##.bannergroup:upward(.card)
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
@@ -129,3 +129,7 @@ vagina.nl##[href^="https://xltube.nl/click/"]
 vagina.nl##[id$="fish-hooks"]
 vagina.nl##div[id^=video-fish-hook]
 xmissy.nl##.rightbar > :has([src^="https://ads."])
+
+! Hide_Whitelist
+bekijkporno.nl#@#.bottom-adv
+
