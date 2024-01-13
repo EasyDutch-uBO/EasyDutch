@@ -4,9 +4,11 @@
 !
 ! Block_Resources
 *$3p,image,domain=kinkymedia.nl|opwindend.net
-.nl/banner$image,domain=kinkysexcontactonline.nl
+.nl/banner$image,domain=kinkysexcontactonline.nl|privesexgids.nl
+! ||kinkydatingnederland.nl/banner.jpg
 ! ||milfdatingnederland.nl/banner.jpg
 ! ||shemaledateonline.nl/banner.jpg
+! ||ouderevrouwencontact.nl/banner.jpg
 /images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|kinkysexcontactonline.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 /images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
@@ -96,7 +98,7 @@ kinkymedia.nl##.adguru-zone-wrap
 kinkymedia.nl##[href^="https://mt67.net/c/"]
 kinkymedia.nl##[id^="adguru-zone-widget"]
 kinkymedia.nl##aside > .widget:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
-kinkysexcontactonline.nl###homebanners
+kinkysexcontactonline.nl,privesexgids.nl###homebanners
 klapjes.nl##a[href*="/adverteren"]:upward(2)
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Webcamsex/i)
 nedporno.com##[class^="r11ght-pl4yer"]
