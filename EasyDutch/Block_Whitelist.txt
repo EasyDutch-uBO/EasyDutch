@@ -2,9 +2,6 @@
 ! Description: Whitelist for specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2024-01-10
-@@||promotools.biz^$domain=beeldbelsex.com
-@@||tools.vpscash.nl/webcams/*/plug_play_webcams/$frame,domain=beeldbelsex.com
 ! 2023-12-20
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 ! 2023-10-23
@@ -15,14 +12,6 @@
 @@||cijfers.spikker.nl/js/plausible.js$script,domain=visserijnieuws.nl
 ! 2023-05-13
 @@||fundingchoicesmessages.google.com/*/$script,domain=racingnews365.nl
-! 2023-05-03 https://github.com/uBlockOrigin/uAssets/issues/13800
-! 2023-04-27
-@@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
-@@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
-@@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument
-@@/https\:\/\/pt\.[\w]{6}\.com\/embed\/tbplyr\//$script
-@@/https\:\/\/pt\.[\w]{6}\.com\/api\/video-promotion\/v1\/get-content-url\//$xhr,domain=/pt\.[\w]{6}\.com/
-@@||awemdia.com/*.mp4$media,domain=/pt\.[\w]{6}\.com/
 ! 2023-03-21 https://github.com/uBlockOrigin/uAssets/issues/17233
 @@||cdn.bluebillywig.com/scripts/prebid/$script,domain=geenstijl.nl
 ! 2023-01-14
@@ -55,8 +44,6 @@
 @@||zilverengoudkopen.nl/banners/onder.jpg
 ! 2021-11-03
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=sportnieuws.nl
-! 2021-08-12
-@@||naaktkrant.nl/media/*/*-gifs-*.gif$image,1p
 ! 2021-04-27
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
