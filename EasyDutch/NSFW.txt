@@ -84,6 +84,7 @@ gaynews.nl##[id^="abri"]
 gaynews.nl##[id^="fp"]
 gaynews.nl##a[href^="/_global/leesmeer.php?"]
 geile-sexverhalen.be,geile-sexverhalen.nl##.bannergroup:upward(.card)
+geileverhalen.nl,sexverhalen.com##li a[href^="https://go2.go2cloud.org/"]
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
 gratissexverhalen.nu##[id^="block-"]:has([href^="https://www.dql2clk.com/"])
@@ -121,7 +122,6 @@ sexguide.nl##div.vipEscortModel:has-text(Sponsors)
 sexjobs.nl##.banner-wrapper
 sexjobs.nl##div[id^="banner-"]
 sexverhalen.com##.story_suffix:has([href^="//tools.vpscash.nl/"])
-sexverhalen.com###nav a[href^="https://go2.go2cloud.org/"]
 spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
 sproeiendekutjes.nl##aside.widget:has(a[href*="trff9links.com/"])
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"])
