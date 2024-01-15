@@ -40,9 +40,12 @@
 ||thekinkyweb.nl/wp-content/uploads/*/banner$image
 ||thekinkyweb.nl/wp-content/uploads/*/Logo-RedRopes-Erotische-verhale$image
 ||vagina.nl/fish-hooks/fetch.json
+||xmissy.nl/adman/layerpopscripts/$script,1p
+||xmissy.nl/adman/popscripts/newpop/$script,1p
 ||xmissy.nl/skins/_customplayers/*/*overlay$image
 ||xmissy.nl/skins/_customplayers/*/*top$image
 ||xmissy.nl/skins/_customplayers/*footer.jpg$image
+||photo.xmissymedia.nl/pictures/*/banners/$image,domain=xmissy.nl
 
 ! Block_Whitelist
 @@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl
