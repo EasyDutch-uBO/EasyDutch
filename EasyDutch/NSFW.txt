@@ -21,8 +21,7 @@
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
 ||kinkymedia.nl/wp-content/uploads/kousenenpanties-lingerie*.jpg$image
 ||kinkymedia.nl/wp-content/uploads/stripchat-*.png$image
-||klapjes.nl/hoomezaz/*/*.gif
-||klapjes.nl/hoomezaz/*/*970x90$image
+||klapjes.nl/hoomezaz/*/*.gif$image
 ||naaktkrant.nl/media/*/*.gif$image,1p
 ||nltube.com/b?z=A*$subdocument
 ||oops.nl/banner/$subdocument
