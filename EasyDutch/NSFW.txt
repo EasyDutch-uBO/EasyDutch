@@ -11,12 +11,10 @@
 /wp-content/uploads/*.gif$image,domain=beeldbelsex.com|bekijkporno.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|onderdanigeman.nl|onschuldigemeiden.nl|outdoor-sex.nl|poldersexverhalen.nl|pornokartel.nl|seksmet.nl|sexmeid.nl|sexmetvrouwen.nl|sproeiendekutjes.nl|teen-sex.nl|tiener-sexverhalen.nl|tubelight.nl|wraaksex.nl|zinomteneuken.nl
 /wp-content/uploads/*/Neuk-test$image,domain=pornokartel.nl|teen-sex.nl
 ||bdsm-vrienden.nl/sb_data/modules/mod_aav/
-||camjam.nl/customs/*/assets/images/*.gif$image
-||camjam.nl/customs/*/assets/images/flirtmee.jpg$image
 ||cdn.citytourgirls.com/static/bn/$image,domain=sexguide.nl
 ||cdn.seksmet.nl/wp-content/uploads/*/all-over-40-handjob$image
 ||cdn.seksmet.nl/wp-content/uploads/*/brazzers-pornovideo-netwerk.*
-||cdn.streace.io/banner/*.gif$domain=milflive.nl|sexverhalencams.com
+||cdn.streace.io/banner/*.gif$domain=camjam.nl|milflive.nl|sexverhalencams.com
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ||clubxmissy.nl/banners/*$image,3p
 ||gratissextube.be/banners/
