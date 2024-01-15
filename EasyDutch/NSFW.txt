@@ -14,7 +14,7 @@
 ||cdn.citytourgirls.com/static/bn/$image,domain=sexguide.nl
 ||cdn.seksmet.nl/wp-content/uploads/*/all-over-40-handjob$image
 ||cdn.seksmet.nl/wp-content/uploads/*/brazzers-pornovideo-netwerk.*
-||cdn.streace.io/banner/*.gif$domain=camjam.nl|milflive.nl|sexverhalencams.com
+||cdn.streace.io/banner/$domain=camjam.nl|milflive.nl|sexverhalencams.com
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ||clubxmissy.nl/banners/*$image,3p
 ||gratissextube.be/banners/
