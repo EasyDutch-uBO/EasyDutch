@@ -121,6 +121,7 @@ sexguide.nl##div.vipEscortModel:has-text(Sponsors)
 sexjobs.nl##.banner-wrapper
 sexjobs.nl##div[id^="banner-"]
 sexverhalen.com##.story_suffix:has([href^="//tools.vpscash.nl/"])
+sexverhalen.com###nav a[href^="https://go2.go2cloud.org/"]
 spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
 sproeiendekutjes.nl##aside.widget:has(a[href*="trff9links.com/"])
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"])
