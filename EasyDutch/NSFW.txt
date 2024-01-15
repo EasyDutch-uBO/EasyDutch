@@ -7,7 +7,7 @@
 /banner.jpg|$image,domain=hotdatingvlaanderen.be|kinkydatingnederland.nl|kinkysexcontactonline.nl|privesexgids.nl
 /images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|kinkysexcontactonline.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 /images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
-/img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
+/img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|zoekertjesbelgie.be
 /wp-content/uploads/*.gif$image,domain=bekijkporno.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|nieuws.xxx|onderdanigeman.nl|onschuldigemeiden.nl|poldersexverhalen.nl|pornokartel.nl|seksmet.nl|sexmeid.nl|sexmetvrouwen.nl|shespot.nl|sproeiendekutjes.nl|tiener-sexverhalen.nl|tubelight.nl|wraaksex.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
 ||beeldbelsex.com/wp-content/uploads/*.gif$image
