@@ -16,7 +16,7 @@
 ||cdn.streace.io/banner/$domain=camjam.nl|milflive.nl|sexverhalencams.com
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ||clubxmissy.nl/banners/*$image,3p
-||gratissextube.be/banners/
+||gratissextube.be/banners/$image
 ||images.islive.nl/snapshot/*/99x84.jpg$image,domain=sexverhalen.com
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
 ||kinkymedia.nl/wp-content/uploads/kousenenpanties-lingerie*.jpg$image
