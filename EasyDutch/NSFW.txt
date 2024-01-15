@@ -20,6 +20,7 @@
 ||images.islive.nl/snapshot/*/99x84.jpg$image,domain=sexverhalen.com
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
 ||kinkymedia.nl/wp-content/uploads/kousenenpanties-lingerie*.jpg$image
+||kinkymedia.nl/wp-content/uploads/stripchat-*.png$image
 ||klapjes.nl/hoomezaz/*/*.gif
 ||klapjes.nl/hoomezaz/*/*970x90$image
 ||naaktkrant.nl/media/*/*.gif$image,1p
