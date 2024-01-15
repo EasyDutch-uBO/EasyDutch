@@ -1,10 +1,14 @@
-diff name:easydutch lines:9 checksum:946a25ffdb
+diff name:easydutch lines:13 checksum:188a5d148d
 d2 1
 a2 1
-! Last updated: Sat, 13 Jan 2024 20:42:55 +0000
+! Last updated: Mon, 15 Jan 2024 17:16:15 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.13.1242.patch#easydutch
+! Diff-Path: patches/2024.1.15.1036.patch#easydutch
+a595 2
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
+d599 3
 d1845 1
 a1845 1
 /banner.jpg|$image,domain=hotdatingvlaanderen.be|kinkydatingnederland.nl|kinkysexcontactonline.nl|privesexgids.nl

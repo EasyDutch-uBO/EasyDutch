@@ -1,15 +1,15 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Sat, 13 Jan 2024 14:17:15 +0000
+! Last updated: Mon, 15 Jan 2024 17:16:15 +0000
 !
+! 2024-01-15 https://github.com/uBlockOrigin/uAssets/issues/21284
+! https://github.com/EasyDutch-uBO/EasyDutch/issues/121
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 ! 2024-01-10
 webwoordenboek.nl##.layout__main-ads
 voetbalnieuws.be##div[class^="r89-desktop"]
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
-! 2024-01-10 https://github.com/uBlockOrigin/uAssets/issues/21284
-dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
-dumpert.nl##aside [id^="ad_"]:upward(2)
-dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 ! 2024-01-05
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,gooieneembode.nl,hetkompassliedrecht.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,weespernieuws.nl##div[id]:upward(.component__plugin)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])

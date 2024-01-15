@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Sat, 13 Jan 2024 20:42:55 +0000
+! Last updated: Mon, 15 Jan 2024 17:16:15 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2024.1.13.1242.patch#easydutch
+! Diff-Path: patches/2024.1.15.1036.patch#easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
@@ -593,12 +593,11 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.sixpack__advertisement-tile
 ##.adv-tekst
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 webwoordenboek.nl##.layout__main-ads
 voetbalnieuws.be##div[class^="r89-desktop"]
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
-dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
-dumpert.nl##aside [id^="ad_"]:upward(2)
-dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,gooieneembode.nl,hetkompassliedrecht.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,weespernieuws.nl##div[id]:upward(.component__plugin)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
 arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100)

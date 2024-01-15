@@ -1,10 +1,10 @@
-diff name:easydutch lines:153 checksum:946a25ffdb
+diff name:easydutch lines:152 checksum:188a5d148d
 d2 1
 a2 1
-! Last updated: Sat, 13 Jan 2024 20:42:55 +0000
+! Last updated: Mon, 15 Jan 2024 17:16:15 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.13.1242.patch#easydutch
+! Diff-Path: patches/2024.1.15.1036.patch#easydutch
 d16 1
 a94 1
 ||2k19.nl^$popup
@@ -22,13 +22,12 @@ a637 1
 ##.layout__component--temptation
 d639 1
 d641 6
-a647 6
+a647 5
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 webwoordenboek.nl##.layout__main-ads
 voetbalnieuws.be##div[class^="r89-desktop"]
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
-dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
-dumpert.nl##aside [id^="ad_"]:upward(2)
-dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 d759 2
 d1681 1
 d1803 49
