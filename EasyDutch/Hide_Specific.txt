@@ -1,7 +1,10 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Tue, 16 Jan 2024 09:05:34 +0000
+! Last updated: Tue, 16 Jan 2024 10:23:28 +0000
 !
+! 2024-01-16
+girlscene.nl##[id$="ad-desktop"]
+girlscene.nl##[id*="desktop-leaderboard"]
 ! 2024-01-15 https://github.com/uBlockOrigin/uAssets/issues/21284
 ! https://github.com/EasyDutch-uBO/EasyDutch/issues/121
 dumpert.nl##[id^="ad_"]:upward(2)

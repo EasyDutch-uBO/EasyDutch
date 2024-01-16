@@ -1,11 +1,13 @@
-diff name:easydutch lines:67 checksum:d56a25ba68
+diff name:easydutch lines:70 checksum:6bfecc4ad5
 d2 1
 a2 1
-! Last updated: Tue, 16 Jan 2024 09:05:34 +0000
+! Last updated: Tue, 16 Jan 2024 10:23:28 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.16.545.patch#easydutch
-a595 2
+! Diff-Path: patches/2024.1.16.623.patch#easydutch
+a595 4
+girlscene.nl##[id$="ad-desktop"]
+girlscene.nl##[id*="desktop-leaderboard"]
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 d599 3
@@ -51,7 +53,8 @@ d1904 1
 d1909 1
 a1909 1
 gaynews.nl##.telefoon_verberg
-a1914 2
+d1915 2
+a1916 2
 geile-sexverhalen.be,geile-sexverhalen.n##.adverten
 geile-sexverhalen.be##a[href*=".nl/x/"]
 a1923 1

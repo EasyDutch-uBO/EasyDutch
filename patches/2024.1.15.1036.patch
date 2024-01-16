@@ -1,10 +1,13 @@
-diff name:easydutch lines:58 checksum:d56a25ba68
+diff name:easydutch lines:62 checksum:6bfecc4ad5
 d2 1
 a2 1
-! Last updated: Tue, 16 Jan 2024 09:05:34 +0000
+! Last updated: Tue, 16 Jan 2024 10:23:28 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.16.545.patch#easydutch
+! Diff-Path: patches/2024.1.16.623.patch#easydutch
+a595 2
+girlscene.nl##[id$="ad-desktop"]
+girlscene.nl##[id*="desktop-leaderboard"]
 d1628 1
 d1844 2
 a1845 2
@@ -45,7 +48,8 @@ a1900 1
 d1906 1
 a1906 1
 gaynews.nl##.telefoon_verberg
-a1911 2
+d1912 2
+a1913 2
 geile-sexverhalen.be,geile-sexverhalen.n##.adverten
 geile-sexverhalen.be##a[href*=".nl/x/"]
 d1923 1

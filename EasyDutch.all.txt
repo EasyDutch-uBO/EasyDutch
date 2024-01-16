@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Tue, 16 Jan 2024 09:05:34 +0000
+! Last updated: Tue, 16 Jan 2024 10:23:28 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2024.1.16.545.patch#easydutch
+! Diff-Path: patches/2024.1.16.623.patch#easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
@@ -593,6 +593,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.sixpack__advertisement-tile
 ##.adv-tekst
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+girlscene.nl##[id$="ad-desktop"]
+girlscene.nl##[id*="desktop-leaderboard"]
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 webwoordenboek.nl##.layout__main-ads
@@ -1910,8 +1912,6 @@ gaynews.nl##a[href^="/_global/leesmeer.php?"]
 geile-sexverhalen.be,geile-sexverhalen.nl##.bannergroup:upward(.card)
 geile-sexverhalen.be,geile-sexverhalen.n##.adverten
 geile-sexverhalen.be##a[href*=".nl/x/"]
-girlscene.nl##[id$="ad-desktop"]
-girlscene.nl##[id*="desktop-leaderboard"]
 gratissexverhalen.nu##[id^="block-"]:has([href^="https://www.dql2clk.com/"])
 kinkymedia.nl##.adguru-ad-banner
 kinkymedia.nl##.adguru-zone

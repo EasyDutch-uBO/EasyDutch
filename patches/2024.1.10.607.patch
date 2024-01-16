@@ -1,16 +1,18 @@
-diff name:easydutch lines:145 checksum:d56a25ba68
+diff name:easydutch lines:145 checksum:6bfecc4ad5
 d2 1
 a2 1
-! Last updated: Tue, 16 Jan 2024 09:05:34 +0000
+! Last updated: Tue, 16 Jan 2024 10:23:28 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.16.545.patch#easydutch
+! Diff-Path: patches/2024.1.16.623.patch#easydutch
 d564 40
 d610 6
 d634 1
 d642 8
 d651 3
-a653 1
+a653 3
+girlscene.nl##[id$="ad-desktop"]
+girlscene.nl##[id*="desktop-leaderboard"]
 dumpert.nl##[id^="ad_"]:upward(2)
 a654 3
 webwoordenboek.nl##.layout__main-ads
@@ -20,7 +22,7 @@ d1682 1
 d1807 52
 a1908 1
 tweakers.net##div:matches-css-after(content:"Advertentie")
-a1946 123
+a1946 121
 ! *** EasyDutch:EasyDutch/NSFW.txt ***
 *$3p,image,domain=kinkymedia.nl|opwindend.net
 /banner.jpg|$image,domain=hotdatingvlaanderen.be|kinkydatingnederland.nl|kinkysexcontactonline.nl|privesexgids.nl|topswingersites.nl
@@ -93,8 +95,6 @@ gaynews.nl##a[href^="/_global/leesmeer.php?"]
 geile-sexverhalen.be,geile-sexverhalen.nl##.bannergroup:upward(.card)
 geile-sexverhalen.be,geile-sexverhalen.n##.adverten
 geile-sexverhalen.be##a[href*=".nl/x/"]
-girlscene.nl##[id$="ad-desktop"]
-girlscene.nl##[id*="desktop-leaderboard"]
 gratissexverhalen.nu##[id^="block-"]:has([href^="https://www.dql2clk.com/"])
 kinkymedia.nl##.adguru-ad-banner
 kinkymedia.nl##.adguru-zone
