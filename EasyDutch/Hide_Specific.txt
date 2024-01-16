@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2024-01-16
+leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
 want.nl##.ad-top_banner:upward(.mha_container--header)
