@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2024-01-16
+||leuvenactueel.be/la_custom/get_banners_cache$xhr,1p
 ! 2023-12-26
 ! https://github.com/EasyDutch-uBO/EasyDutch/issues/112
 ! https://github.com/uBlockOrigin/uAssets/issues/20659
