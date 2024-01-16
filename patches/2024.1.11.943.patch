@@ -1,10 +1,10 @@
-diff name:easydutch lines:135 checksum:188a5d148d
+diff name:easydutch lines:142 checksum:d56a25ba68
 d2 1
 a2 1
-! Last updated: Mon, 15 Jan 2024 17:16:15 +0000
+! Last updated: Tue, 16 Jan 2024 09:05:34 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.15.1036.patch#easydutch
+! Diff-Path: patches/2024.1.16.545.patch#easydutch
 d564 41
 d606 2
 d613 6
@@ -14,54 +14,55 @@ a653 2
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 d657 3
+d1687 1
 d1812 55
 d1868 1
-a1956 117
+a1956 123
 ! *** EasyDutch:EasyDutch/NSFW.txt ***
 *$3p,image,domain=kinkymedia.nl|opwindend.net
-/banner.jpg|$image,domain=hotdatingvlaanderen.be|kinkydatingnederland.nl|kinkysexcontactonline.nl|privesexgids.nl
-/images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|kinkysexcontactonline.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
+/banner.jpg|$image,domain=hotdatingvlaanderen.be|kinkydatingnederland.nl|kinkysexcontactonline.nl|privesexgids.nl|topswingersites.nl
+/images/*.gif$image,domain=geheimesexdate.be|hotdatingvlaanderen.be|ikneukgraag.nl|kinkysexcontactonline.nl|leukesexcontactjes.nl|neukplaza.nl|privesexgids.nl|tiener-sexverhalen.nl|vindsexcontact.nl
 /images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
-/img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
-/wp-content/uploads/*.gif$image,domain=bekijkporno.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|nieuws.xxx|onderdanigeman.nl|onschuldigemeiden.nl|poldersexverhalen.nl|pornokartel.nl|seksmet.nl|sexmeid.nl|sexmetvrouwen.nl|shespot.nl|sproeiendekutjes.nl|tiener-sexverhalen.nl|tubelight.nl|wraaksex.nl
-/wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
-||beeldbelsex.com/wp-content/uploads/*.gif$image
+/img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|zoekertjesbelgie.be
+/wp-content/uploads/*.gif$image,domain=beeldbelsex.com|bekijkporno.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|onderdanigeman.nl|onschuldigemeiden.nl|outdoor-sex.nl|poldersexverhalen.nl|pornokartel.nl|seksmet.nl|seksreclame.nl|sexmeid.nl|sexmetvrouwen.nl|sproeiendekutjes.nl|teen-sex.nl|tiener-sexverhalen.nl|tubelight.nl|wraaksex.nl|zinomteneuken.nl
+/wp-content/uploads/*/Neuk-test$image,domain=pornokartel.nl|teen-sex.nl
 ||bdsm-vrienden.nl/sb_data/modules/mod_aav/
-||camjam.nl/customs/*/assets/images/*.gif$image
-||camjam.nl/customs/*/assets/images/flirtmee.jpg$image
 ||cdn.citytourgirls.com/static/bn/$image,domain=sexguide.nl
-||cdn.seksmet.nl/wp-content/uploads/*/all-over-40-handjob$image
-||cdn.seksmet.nl/wp-content/uploads/*/brazzers-pornovideo-netwerk.*
+||cdn.seksmet.nl/wp-content/uploads/*/18-plus-sletjes-gespreid-klaar.webp
+||cdn.streace.io/banner/$domain=camjam.nl|milflive.nl|sexverhalencams.com
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ||clubxmissy.nl/banners/*$image,3p
-||gratissextube.be/banners/
+||gratissextube.be/banners/$image
 ||images.islive.nl/snapshot/*/99x84.jpg$image,domain=sexverhalen.com
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
 ||kinkymedia.nl/wp-content/uploads/kousenenpanties-lingerie*.jpg$image
-||klapjes.nl/hoomezaz/*/*.gif
-||klapjes.nl/hoomezaz/*/*970x90$image
+||kinkymedia.nl/wp-content/uploads/stripchat-*.png$image
+||klapjes.nl/hoomezaz/*/*.gif$image
 ||naaktkrant.nl/media/*/*.gif$image,1p
 ||nltube.com/b?z=A*$subdocument
 ||oops.nl/banner/$subdocument
+||outdoor-sex.nl/wp-content/uploads/*/Sexindeprovincie$image
 ||poepsexfilmstube.nl/sexdating/sexdating.php$subdocument
 ||pornoexpert.nl/img/950x250_*.gif$image
 ||seks.com/img/*.gif
 ||seks.com/snacc.jpg
-||sexamateurtjes.nl/banners/
 ||sexervaringendelen.nl/porno/$image
 ||sexverhalen.com/vriendschap/
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
 ||sproeiendekutjes.nl/wp-content/uploads/*/spannende-afspraakjes.webm$media,1p
 ||srv69.eu/b/$image,3p
 ||srv69.eu/smartlink/banner/$3p
+||teen-sex.nl/wp-content/uploads/*/SP$image
 ||thekinkyweb.nl/wp-content/uploads/*/banner$image
 ||thekinkyweb.nl/wp-content/uploads/*/Logo-RedRopes-Erotische-verhale$image
 ||vagina.nl/fish-hooks/fetch.json
+||xmissy.nl/*popscripts/$script,1p
 ||xmissy.nl/skins/_customplayers/*/*overlay$image
 ||xmissy.nl/skins/_customplayers/*/*top$image
 ||xmissy.nl/skins/_customplayers/*footer.jpg$image
-@@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
-@@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl|zinomteneuken.nl
+||photo.xmissymedia.nl/pictures/*/banners/$image,domain=xmissy.nl
+@@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl
+@@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl
 @@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument
 @@/https\:\/\/pt\.[\w]{6}\.com\/embed\/tbplyr\//$script
 @@/https\:\/\/pt\.[\w]{6}\.com\/api\/video-promotion\/v1\/get-content-url\//$xhr,domain=/pt\.[\w]{6}\.com/
@@ -75,18 +76,20 @@ a1956 117
 ##.happy-footer
 ##.video-block-happy
 ###tracking-url
-##a[href^="https://go2.go2cloud.org/"]
+##li a[href^="https://go2.go2cloud.org/"]
 ##a[href^="https://www.2k19.nl/"]
 amateursexstart.nl,seksmet.nl,sekswebsite.nl##.g
 beeldbelsex.com##a > img[src$="gif"]
 beeldbelsex.com##iframe[data-src^="https://tools.vpscash.nl/"][data-src*="/gif_banners/"]
 bekijkporno.nl##.player .fp-brand
-camjam.nl##.banner
+gaynews.nl##.telefoon_verberg
 gaynews.nl##[class^="va"]:has([class*="banner"])
 gaynews.nl##[id^="abri"]
 gaynews.nl##[id^="fp"]
 gaynews.nl##a[href^="/_global/leesmeer.php?"]
 geile-sexverhalen.be,geile-sexverhalen.nl##.bannergroup:upward(.card)
+geile-sexverhalen.be,geile-sexverhalen.n##.adverten
+geile-sexverhalen.be##a[href*=".nl/x/"]
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
 gratissexverhalen.nu##[id^="block-"]:has([href^="https://www.dql2clk.com/"])
@@ -98,7 +101,9 @@ kinkymedia.nl##[id^="adguru-zone-widget"]
 kinkymedia.nl##aside > .widget:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
 kinkysexcontactonline.nl,privesexgids.nl###homebanners
 klapjes.nl##a[href*="/adverteren"]:upward(2)
-klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Webcamsex/i)
+klapjes.nl##[id^="custom_html"]:has(img[src*="/hoomezaz/"][src$=".gif"])
+klapjes.nl##[id^="custom_html"]:has([src^="https://www.affilaxy.com/"])
+klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Meesteressen/i)
 nedporno.com##[class^="r11ght-pl4yer"]
 nedporno.com##.publ11s-b0ttom
 nltube.com##.player-right
@@ -115,6 +120,7 @@ opwindend.net##.popup
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
 pornoplekje.nl###exitpopup-modal
 pornozot.com##.abbcn-footer
+seks.com##.bannermid
 sexervaringendelen.nl##iframe[data-src^="https://ads."]
 sexguide.nl##.blogBanners
 sexguide.nl##.moreEscortM:has-text(Sponsors)
@@ -124,6 +130,7 @@ sexguide.nl##div.vipEscortModel:has-text(Sponsors)
 sexjobs.nl##.banner-wrapper
 sexjobs.nl##div[id^="banner-"]
 sexverhalen.com##.story_suffix:has([href^="//tools.vpscash.nl/"])
+shespot.nl##[id^="add"]:upward(.dw-card)
 spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
 sproeiendekutjes.nl##aside.widget:has(a[href*="trff9links.com/"])
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"])

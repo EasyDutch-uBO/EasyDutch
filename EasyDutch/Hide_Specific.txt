@@ -1,6 +1,6 @@
 ! Title: Hide Specific
 ! Description: Filters for hiding elements on specific Dutch websites
-! Last updated: Mon, 15 Jan 2024 17:16:15 +0000
+! Last updated: Tue, 16 Jan 2024 09:05:34 +0000
 !
 ! 2024-01-15 https://github.com/uBlockOrigin/uAssets/issues/21284
 ! https://github.com/EasyDutch-uBO/EasyDutch/issues/121
@@ -1204,7 +1204,6 @@ glutenvrij.nl##.t-banner
 nieuwsopbeeld.nl##.td_module_wrap:has(.td-post-category:has-text(Gesponsord))
 dissident.one##.td-adspot-title
 netonline.be##.tekstboldwit:has-text(ADVERT)
-gaynews.nl##.telefoon_verberg
 nos.nl##.teletekst__banner
 netonline.be##.text_12_jobs_only
 beursonline.nl,debeurs.nl##.Textads

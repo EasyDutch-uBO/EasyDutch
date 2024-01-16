@@ -1,17 +1,66 @@
-diff name:easydutch lines:16 checksum:188a5d148d
+diff name:easydutch lines:65 checksum:d56a25ba68
 d2 1
 a2 1
-! Last updated: Mon, 15 Jan 2024 17:16:15 +0000
+! Last updated: Tue, 16 Jan 2024 09:05:34 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.15.1036.patch#easydutch
+! Diff-Path: patches/2024.1.16.545.patch#easydutch
 a595 2
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 d599 3
-d1845 1
-a1845 1
-/banner.jpg|$image,domain=hotdatingvlaanderen.be|kinkydatingnederland.nl|kinkysexcontactonline.nl|privesexgids.nl
+d1629 1
+d1845 2
+a1846 2
+/banner.jpg|$image,domain=hotdatingvlaanderen.be|kinkydatingnederland.nl|kinkysexcontactonline.nl|privesexgids.nl|topswingersites.nl
+/images/*.gif$image,domain=geheimesexdate.be|hotdatingvlaanderen.be|ikneukgraag.nl|kinkysexcontactonline.nl|leukesexcontactjes.nl|neukplaza.nl|privesexgids.nl|tiener-sexverhalen.nl|vindsexcontact.nl
+d1848 4
+a1851 3
+/img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|zoekertjesbelgie.be
+/wp-content/uploads/*.gif$image,domain=beeldbelsex.com|bekijkporno.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|onderdanigeman.nl|onschuldigemeiden.nl|outdoor-sex.nl|poldersexverhalen.nl|pornokartel.nl|seksmet.nl|seksreclame.nl|sexmeid.nl|sexmetvrouwen.nl|sproeiendekutjes.nl|teen-sex.nl|tiener-sexverhalen.nl|tubelight.nl|wraaksex.nl|zinomteneuken.nl
+/wp-content/uploads/*/Neuk-test$image,domain=pornokartel.nl|teen-sex.nl
+d1853 2
+d1856 2
+a1857 2
+||cdn.seksmet.nl/wp-content/uploads/*/18-plus-sletjes-gespreid-klaar.webp
+||cdn.streace.io/banner/$domain=camjam.nl|milflive.nl|sexverhalencams.com
+d1860 1
+a1860 1
+||gratissextube.be/banners/$image
+d1864 2
+a1865 2
+||kinkymedia.nl/wp-content/uploads/stripchat-*.png$image
+||klapjes.nl/hoomezaz/*/*.gif$image
+a1868 1
+||outdoor-sex.nl/wp-content/uploads/*/Sexindeprovincie$image
+d1873 1
+a1879 1
+||teen-sex.nl/wp-content/uploads/*/SP$image
+a1882 1
+||xmissy.nl/*popscripts/$script,1p
+d1886 2
+a1887 3
+||photo.xmissymedia.nl/pictures/*/banners/$image,domain=xmissy.nl
+@@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl
+@@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl
+d1901 1
+a1901 1
+##li a[href^="https://go2.go2cloud.org/"]
+d1907 1
+a1907 1
+gaynews.nl##.telefoon_verberg
+a1912 2
+geile-sexverhalen.be,geile-sexverhalen.n##.adverten
+geile-sexverhalen.be##a[href*=".nl/x/"]
 d1922 1
 a1922 1
 kinkysexcontactonline.nl,privesexgids.nl###homebanners
+d1924 1
+a1924 3
+klapjes.nl##[id^="custom_html"]:has(img[src*="/hoomezaz/"][src$=".gif"])
+klapjes.nl##[id^="custom_html"]:has([src^="https://www.affilaxy.com/"])
+klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Meesteressen/i)
+a1940 1
+seks.com##.bannermid
+a1949 1
+shespot.nl##[id^="add"]:upward(.dw-card)

@@ -1,16 +1,12 @@
-diff name:easydutch lines:67 checksum:d56a25ba68
+diff name:easydutch lines:58 checksum:d56a25ba68
 d2 1
 a2 1
 ! Last updated: Tue, 16 Jan 2024 09:05:34 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2024.1.16.545.patch#easydutch
-a595 2
-dumpert.nl##[id^="ad_"]:upward(2)
-dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
-d599 3
-d1629 1
-d1845 1
+d1628 1
+d1844 2
 a1845 2
 /banner.jpg|$image,domain=hotdatingvlaanderen.be|kinkydatingnederland.nl|kinkysexcontactonline.nl|privesexgids.nl|topswingersites.nl
 /images/*.gif$image,domain=geheimesexdate.be|hotdatingvlaanderen.be|ikneukgraag.nl|kinkysexcontactonline.nl|leukesexcontactjes.nl|neukplaza.nl|privesexgids.nl|tiener-sexverhalen.nl|vindsexcontact.nl
@@ -38,31 +34,26 @@ a1878 1
 ||teen-sex.nl/wp-content/uploads/*/SP$image
 a1881 1
 ||xmissy.nl/*popscripts/$script,1p
-d1885 3
-a1887 3
+d1885 2
+a1886 3
 ||photo.xmissymedia.nl/pictures/*/banners/$image,domain=xmissy.nl
 @@/images/volgende.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl
 @@/images/vorige.gif$image,1p,domain=kinkysexcontactonline.nl|privesexgids.nl
-d1895 1
-d1902 1
-a1902 1
+d1900 1
+a1900 1
 ##li a[href^="https://go2.go2cloud.org/"]
-d1904 1
-d1909 1
-a1909 1
+d1906 1
+a1906 1
 gaynews.nl##.telefoon_verberg
-a1914 2
+a1911 2
 geile-sexverhalen.be,geile-sexverhalen.n##.adverten
 geile-sexverhalen.be##a[href*=".nl/x/"]
-a1923 1
-kinkysexcontactonline.nl,privesexgids.nl###homebanners
-d1925 1
-a1925 3
+d1923 1
+a1923 3
 klapjes.nl##[id^="custom_html"]:has(img[src*="/hoomezaz/"][src$=".gif"])
 klapjes.nl##[id^="custom_html"]:has([src^="https://www.affilaxy.com/"])
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Meesteressen/i)
-a1941 1
+a1939 1
 seks.com##.bannermid
-a1950 1
+a1948 1
 shespot.nl##[id^="add"]:upward(.dw-card)
-d1960 1
