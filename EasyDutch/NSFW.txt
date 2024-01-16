@@ -85,6 +85,7 @@ gaynews.nl##[id^="abri"]
 gaynews.nl##[id^="fp"]
 gaynews.nl##a[href^="/_global/leesmeer.php?"]
 geile-sexverhalen.be,geile-sexverhalen.nl##.bannergroup:upward(.card)
+geile-sexverhalen.be,geile-sexverhalen.n##.adverten
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
 gratissexverhalen.nu##[id^="block-"]:has([href^="https://www.dql2clk.com/"])
