@@ -98,7 +98,9 @@ kinkymedia.nl##[id^="adguru-zone-widget"]
 kinkymedia.nl##aside > .widget:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
 kinkysexcontactonline.nl,privesexgids.nl###homebanners
 klapjes.nl##a[href*="/adverteren"]:upward(2)
-klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Webcamsex/i)
+klapjes.nl##[id^="custom_html"]:has(img[src*="/hoomezaz/"][src$=".gif"])
+klapjes.nl##[id^="custom_html"]:has([src^="https://www.affilaxy.com/"])
+klapjes.nl##div[class*="Sidebar"] > [class]:has-text(/Meesteressen/i)
 nedporno.com##[class^="r11ght-pl4yer"]
 nedporno.com##.publ11s-b0ttom
 nltube.com##.player-right
