@@ -1,14 +1,11 @@
-diff name:easydutch lines:13 checksum:7fd0e5d1da
+diff name:easydutch lines:10 checksum:7fd0e5d1da
 d2 1
 a2 1
 ! Last updated: Tue, 16 Jan 2024 12:15:34 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2024.1.16.735.patch#easydutch
-a595 4
-girlscene.nl##[id$="ad-desktop"]
-girlscene.nl##[id*="desktop-leaderboard"]
+a597 2
 want.nl##.ad-top_banner:upward(.mha_container--header)
 want.nl##.sticky-banner-container
-d1622 1
-d1913 2
+d1624 1

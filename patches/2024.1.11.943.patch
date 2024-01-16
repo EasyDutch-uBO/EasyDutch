@@ -1,21 +1,24 @@
-diff name:easydutch lines:142 checksum:6bfecc4ad5
+diff name:easydutch lines:145 checksum:7fd0e5d1da
 d2 1
 a2 1
-! Last updated: Tue, 16 Jan 2024 10:23:28 +0000
+! Last updated: Tue, 16 Jan 2024 12:15:34 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.16.623.patch#easydutch
+! Diff-Path: patches/2024.1.16.735.patch#easydutch
 d564 41
 d606 2
 d613 6
 d637 1
 d645 8
-a653 4
+a653 6
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
+want.nl##.ad-top_banner:upward(.mha_container--header)
+want.nl##.sticky-banner-container
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 d657 3
+d1681 1
 d1687 1
 d1812 55
 d1868 1

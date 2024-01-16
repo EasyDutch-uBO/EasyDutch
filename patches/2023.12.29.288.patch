@@ -1,10 +1,10 @@
-diff name:easydutch lines:175 checksum:6bfecc4ad5
+diff name:easydutch lines:178 checksum:7fd0e5d1da
 d2 1
 a2 1
-! Last updated: Tue, 16 Jan 2024 10:23:28 +0000
+! Last updated: Tue, 16 Jan 2024 12:15:34 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.16.623.patch#easydutch
+! Diff-Path: patches/2024.1.16.735.patch#easydutch
 d16 1
 a94 1
 ||2k19.nl^$popup
@@ -27,9 +27,11 @@ a639 1
 ##.layout__component--temptation
 d641 1
 d643 6
-a649 12
+a649 14
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
+want.nl##.ad-top_banner:upward(.mha_container--header)
+want.nl##.sticky-banner-container
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 webwoordenboek.nl##.layout__main-ads
@@ -47,6 +49,7 @@ d685 3
 d759 2
 d770 1
 d887 1
+d1673 1
 d1679 1
 d1683 1
 d1805 49

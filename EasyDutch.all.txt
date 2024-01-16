@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Tue, 16 Jan 2024 10:23:28 +0000
+! Last updated: Tue, 16 Jan 2024 12:15:34 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2024.1.16.623.patch#easydutch
+! Diff-Path: patches/2024.1.16.735.patch#easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
@@ -595,6 +595,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
+want.nl##.ad-top_banner:upward(.mha_container--header)
+want.nl##.sticky-banner-container
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 webwoordenboek.nl##.layout__main-ads
@@ -1621,7 +1623,6 @@ volleybelgium.be##.sponsors
 detelefoongids.nl##.static-map
 nos.nl##.ster-banner
 tijd.be##.sticky-article-halfpager
-want.nl##.sticky-banner-container
 ninefornews.nl##.sticky-element-placeholder
 glutenvrij.nl##.t-banner
 nieuwsopbeeld.nl##.td_module_wrap:has(.td-post-category:has-text(Gesponsord))
