@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2024-01-16
+hagelandactueel.be##.has-banner-top:style(padding-top: 0 !important;)
 leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
