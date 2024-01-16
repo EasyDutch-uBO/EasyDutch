@@ -1,10 +1,10 @@
-diff name:easydutch lines:169 checksum:7fd0e5d1da
+diff name:easydutch lines:173 checksum:a8882f934b
 d2 1
 a2 1
-! Last updated: Tue, 16 Jan 2024 12:15:34 +0000
+! Last updated: Tue, 16 Jan 2024 13:20:57 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.16.735.patch#easydutch
+! Diff-Path: patches/2024.1.16.800.patch#easydutch
 d16 1
 a94 1
 ||2k19.nl^$popup
@@ -13,6 +13,8 @@ a118 2
 ||go2.go2cloud.org^$popup
 a137 1
 ||tools-affil2.com^$3p
+a142 1
+.be/la_custom/get_banners_cache$xhr,1p,domain=hagelandactueel.be|leuvenactueel.be
 d372 1
 d562 39
 d607 6
@@ -22,7 +24,9 @@ a637 1
 ##.layout__component--temptation
 d639 1
 d641 6
-a647 14
+a647 16
+dvo.be##.advertisement
+hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
 want.nl##.ad-top_banner:upward(.mha_container--header)

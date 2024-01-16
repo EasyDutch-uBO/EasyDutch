@@ -1,7 +1,7 @@
 ! Title: EasyDutch
-! Last updated: Tue, 16 Jan 2024 12:15:34 +0000
+! Last updated: Tue, 16 Jan 2024 13:20:57 +0000
 ! Expires: 7 days (update frequency)
-! Diff-Path: patches/2024.1.16.735.patch#easydutch
+! Diff-Path: patches/2024.1.16.800.patch#easydutch
 ! Diff-Expires: 6 hours
 ! Description: |
     Dutch supplement for the Easylist filters to use with uBlock Origin
@@ -143,6 +143,7 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
 ! *** EasyDutch:EasyDutch/Block_Resources.txt ***
+.be/la_custom/get_banners_cache$xhr,1p,domain=hagelandactueel.be|leuvenactueel.be
 ||akamaized.net^$media,domain=bnnvara.nl|npo.nl|vpro.nl,redirect=noopmp3-0.1s
 bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 ||shortpixel.ai/client/to_webp,q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jpg$image,domain=groningerkrant.nl
@@ -593,6 +594,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ##.sixpack__advertisement-tile
 ##.adv-tekst
 ! *** EasyDutch:EasyDutch/Hide_Specific.txt ***
+dvo.be##.advertisement
+hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
 want.nl##.ad-top_banner:upward(.mha_container--header)
