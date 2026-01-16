@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2026-01-17
+||touretappe.nl/images/topposblock.html
 ! 2024-01-16
 .be/la_custom/get_banners_cache$xhr,1p,domain=hagelandactueel.be|leuvenactueel.be
 ! 2023-12-26
@@ -494,3 +496,4 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
+
