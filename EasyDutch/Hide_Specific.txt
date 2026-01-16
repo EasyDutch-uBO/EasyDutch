@@ -19,6 +19,7 @@ rtl.nl##div[data-adslot-variant]
 skoften.net##div[class*="cls-placeholder"]
 soccernews.nl###r89-video-outstream
 sportnieuws.nl##.banner-centered
+techpulse.be##.magazine-sidebar-block
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
 want.nl##.mha_container
 ! 2024-01-16
@@ -1346,6 +1347,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
