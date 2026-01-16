@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2026-01-17
+delhaize.be##[data-testid$="-ad"]
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
 ! 2024-01-16
@@ -1337,5 +1338,6 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
