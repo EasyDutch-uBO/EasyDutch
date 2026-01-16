@@ -22,6 +22,7 @@ rtl.nl##div[data-adslot-variant]
 rubenweytjens.be##.ad.row
 rubenweytjens.be##.adpanel
 rubenweytjens.be##.skyscraper
+rubenweytjens.be##div[class^="xs-padding"]:has(.adsbygoogle)
 skoften.net##div[class*="cls-placeholder"]
 soccernews.nl###r89-video-outstream
 sportnieuws.nl##.banner-centered
@@ -1346,6 +1347,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
