@@ -45,6 +45,8 @@ techpulse.be##.magazine-sidebar-block
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
 want.nl##.mha_container
 wfm.be##.wpb_wrapper:has(.slick-slider .qt-sponsor)
+wijchensnieuws.nl##.js-banner-slider
+wijchensnieuws.nl##.text-left:has-text(/advert/i)
 ! 2024-01-16
 dvo.be##.advertisement
 hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
