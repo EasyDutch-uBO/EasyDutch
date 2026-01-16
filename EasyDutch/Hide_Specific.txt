@@ -12,6 +12,7 @@ huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
 mobiliteit.nl##.widget_nlpartners
 rtl.nl##div[data-adslot-variant]
+topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
 ! 2024-01-16
 dvo.be##.advertisement
 hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
@@ -1344,6 +1345,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
