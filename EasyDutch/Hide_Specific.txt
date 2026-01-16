@@ -6,6 +6,7 @@
 abcsuriname.com##.banner_wrapper
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
 autoreview.nl##div[id^="Autoreview.nl_ros_"]:upward(1)
+autoweek.nl##div[class^="adslot"]
 banden.autoweek.nl###leaderboard
 banden.autoweek.nl##.ad
 beursduivel.be,iexprofs.nl##.banner
@@ -1356,3 +1357,4 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
