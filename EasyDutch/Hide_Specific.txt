@@ -13,6 +13,7 @@ krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:ha
 mobiliteit.nl##.widget_nlpartners
 rtl.nl##div[data-adslot-variant]
 skoften.net##div[class*="cls-placeholder"]
+soccernews.nl###r89-video-outstream
 sportnieuws.nl##.banner-centered
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
 ! 2024-01-16
@@ -1005,7 +1006,6 @@ autoreview.nl###parentgpt
 eredivisie.nl###partner-bar
 elfvoetbal.nl###partners
 forum.scholieren.com###posts .thead:has-text(Advert)
-soccernews.nl###r89-mobile-rectangle-mid
 soccernews.nl###r89-takeover
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl###right-sidebar > :has(.mb-3:has-text(Advert))
@@ -1347,6 +1347,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
