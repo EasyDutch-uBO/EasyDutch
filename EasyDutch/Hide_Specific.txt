@@ -32,6 +32,7 @@ meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
 mobiliteit.nl##.widget_nlpartners
 radionova.be##.widget_media_image:upward(.sidebar):has-text(/Advert/i)
+radiostadmontfoort.nl##img[src^="img/ads/cdm"]:upward(5):has-text(Reclame)
 rtl.nl##div[data-adslot-variant]
 rubenweytjens.be##.ad.row
 rubenweytjens.be##.adpanel
