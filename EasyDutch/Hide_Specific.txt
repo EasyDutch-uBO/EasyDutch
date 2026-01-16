@@ -11,6 +11,8 @@ demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 gpinfo.com,wielernieuws.be####div[class^="r89-desktop"]
 gpinfo.com,wielernieuws.be##.header-banner
+groningerkrant.nl##article[id^="post"] .in-feed
+groningerkrant.nl##.sidebar .widget:has-text(Gerelateerd)
 hagelandactueel.be,leuvenactueel.be##div[class*="component__pubble-banner"]
 hilversumsnieuws.nl##.component__pubble-banner:has([advobject])
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
@@ -87,8 +89,6 @@ decibel.nl##.edgtf-carousel-holder
 decibel.nl##div[aria-label="Slider"]:not(:has([data-href*="decibel.nl"]))
 fcutrecht.nl##section[class^="container nesteditem"]:has-text(/deals/i)
 gfcnieuws.com##div.ai-viewport-1:upward(div[id^="ai_widget"])
-groningerkrant.nl##aside.widget .swiper-slide img[title="Advertentie"]:upward(.swiper-wrapper)
-groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
 ! 2023-12-19
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl###bottom > h4:has-text(Ads)
 grandprixradio.nl##.advertisements
