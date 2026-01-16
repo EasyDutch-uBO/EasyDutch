@@ -12,6 +12,7 @@ demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 gpinfo.com,wielernieuws.be####div[class^="r89-desktop"]
 gpinfo.com,wielernieuws.be##.header-banner
 hagelandactueel.be,leuvenactueel.be##div[class*="component__pubble-banner"]
+hilversumsnieuws.nl##.component__pubble-banner:has([advobject])
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
 mobiliteit.nl##.widget_nlpartners
@@ -1345,6 +1346,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
