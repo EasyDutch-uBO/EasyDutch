@@ -4,12 +4,12 @@
 !
 ! 2026-01-17
 autoreview.nl##div[id^="Autoreview.nl_ros_"]:upward(1)
+beursduivel.be,iexprofs.nl##.banner
 delhaize.be##[data-testid$="-ad"]
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
-iexprofs.nl##.banner
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
 mobiliteit.nl##.widget_nlpartners
 rtl.nl##div[data-adslot-variant]
@@ -345,9 +345,6 @@ telegraaf.nl##.withBanners + .ComponentRotation
 ! 2023-07-11
 fcupdate.nl##.betting_partner
 fcupdate.nl##[id*="web_billboard"]
-! 2023-07-07
-beursduivel.be##.Billboard-wrapper
-beursduivel.be##.Rectangle-wrapper
 ! 2023-07-05
 vriendin.nl##[id^="adf-autonative"]
 ! 2023-07-04
@@ -1346,6 +1343,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
