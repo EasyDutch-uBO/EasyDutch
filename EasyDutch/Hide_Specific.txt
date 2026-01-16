@@ -17,12 +17,12 @@ skoften.net##div[class*="cls-placeholder"]
 soccernews.nl###r89-video-outstream
 sportnieuws.nl##.banner-centered
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
+want.nl##.mha_container
 ! 2024-01-16
 dvo.be##.advertisement
 hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
 girlscene.nl##[id$="ad-desktop"]
 girlscene.nl##[id*="desktop-leaderboard"]
-want.nl##.ad-top_banner:upward(.mha_container--header)
 want.nl##.sticky-banner-container
 ! 2024-01-15 https://github.com/uBlockOrigin/uAssets/issues/21284
 ! https://github.com/EasyDutch-uBO/EasyDutch/issues/121
@@ -1343,6 +1343,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
