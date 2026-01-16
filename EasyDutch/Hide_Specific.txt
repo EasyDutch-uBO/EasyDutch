@@ -10,6 +10,7 @@ demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
+mobiliteit.nl##.widget_nlpartners
 rtl.nl##div[data-adslot-variant]
 ! 2024-01-16
 dvo.be##.advertisement
@@ -1343,6 +1344,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
