@@ -24,7 +24,7 @@ demorgen.be,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 gic.nl##aside[aria-label="Banner"]
-gpinfo.com,wielernieuws.be####div[class^="r89-desktop"]
+gpinfo.com,headliner.nl,lovereality.nl,wielernieuws.be##div[class^="r89-desktop"]
 gpinfo.com,wielernieuws.be##.header-banner
 groningerkrant.nl##article[id^="post"] .in-feed
 groningerkrant.nl##.sidebar .widget:has-text(Gerelateerd)
@@ -897,7 +897,6 @@ vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 nu.nl##.banner
 skoften.net##.promoted
 ! 2022-03-26
-headliner.nl###flex_left:has([id="div-gpt-ad"])
 hardnieuws.nl##[id*="ros-300x600"]:upward(1)
 ! 2022-03-22
 hbvl.be##.widget:has(.article-teaser)
@@ -1361,15 +1360,3 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
-
-
-
-
-
-
-
-
-
-
-
-
