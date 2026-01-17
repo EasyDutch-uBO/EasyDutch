@@ -7,6 +7,8 @@
 /banners/*$domain=wijchensnieuws.nl
 /wp-content/uploads/*.gif$image,domain=sliedrecht24.nl
 ||boek9.nl/*/advertisements/
+||cdn.gic.nl/app/uploads/*/*.gif
+||cdn.gic.nl/app/uploads/*/*banner
 ||christelijknieuws.nl/wp-content/uploads/*Banner
 ||sliedrecht24.nl/wp-content/uploads/*/palmpjes-banner
 ||touretappe.nl/images/topposblock.html
@@ -502,6 +504,3 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
-
-
-
