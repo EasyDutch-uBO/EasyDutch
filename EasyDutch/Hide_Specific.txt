@@ -50,6 +50,7 @@ soccernews.nl###r89-video-outstream
 sportnieuws.nl##.banner-centered
 techpulse.be##.magazine-sidebar-block
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
+voetbal4u.com##.widget_text:has(h2):has-text(/crypto/i)
 want.nl##.mha_container
 wfm.be##.wpb_wrapper:has(.slick-slider .qt-sponsor)
 wijchensnieuws.nl##.js-banner-slider
@@ -1275,7 +1276,6 @@ digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 onderwijsland.com##.widgetbar > div.row > :has(.widget-partners)
 onderwijsland.com##.widgetbar > div.row > :has-text(Advert)
 voetbal4u.be##.widget-container:has([id^="text-"]:has(script[src*="/ad"]))
-voetbal4u.com##.widget-container:has([id^="text-"]> h4)
 indebuurt.nl##.widget-tabs--partner
 camping-frankrijk.nl##[class$="container"]:has([id*="HyperLinkBanner"])
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
@@ -1358,6 +1358,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
