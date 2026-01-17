@@ -12,6 +12,7 @@
 ||cdn.gic.nl/app/uploads/*/*banner
 ||christelijknieuws.nl/wp-content/uploads/*Banner
 ||sliedrecht24.nl/wp-content/uploads/*/palmpjes-banner
+||techgaming.nl/image_uploads/sponsored/
 ||touretappe.nl/images/topposblock.html
 ||unitednews.sr/wp-content/uploads/*/BANNER
 ! 2024-01-16
@@ -504,6 +505,3 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
-
-
-
