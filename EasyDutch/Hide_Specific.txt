@@ -37,6 +37,7 @@ meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"]))
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
 mobiliteit.nl##.widget_nlpartners
+noordkop247.nl##.commercial-block
 radionova.be##.widget_media_image:upward(.sidebar):has-text(/Advert/i)
 radiostadmontfoort.nl##img[src^="img/ads/cdm"]:upward(5):has-text(Reclame)
 rtl.nl##div[data-adslot-variant]
@@ -1357,5 +1358,6 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
