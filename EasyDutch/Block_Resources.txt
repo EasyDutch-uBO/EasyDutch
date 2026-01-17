@@ -6,6 +6,7 @@
 /banner/*$domain=kranenwebsite.nl
 /banners/*$domain=wijchensnieuws.nl
 /wp-content/uploads/*.gif$image,domain=sliedrecht24.nl
+||1twente.nl/Ads/$image,domain=1twente.nl|twentefm.nl
 ||boek9.nl/*/advertisements/
 ||cdn.gic.nl/app/uploads/*/*.gif
 ||cdn.gic.nl/app/uploads/*/*banner
@@ -31,7 +32,6 @@ bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 /wp-content/plugins/age-gate*$domain=nieuwslog.nl
 ||motorblog.nl/wp-content/uploads/banner$image
 ||radioluisteren.fm/ads/
-||1twente.nl/Ads/$image,domain=twentefm.nl
 ! 2023-12-18
 ||rivierenland-radio.nl/banners/$image
 ||s.s-bol.com/nl/upload/partnerprogramma/$image
@@ -504,3 +504,4 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
+
