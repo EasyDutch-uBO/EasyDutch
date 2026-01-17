@@ -22,6 +22,7 @@ delhaize.be##[data-testid$="-ad"]
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.top1-container
+gic.nl##aside[aria-label="Banner"]
 gpinfo.com,wielernieuws.be####div[class^="r89-desktop"]
 gpinfo.com,wielernieuws.be##.header-banner
 groningerkrant.nl##article[id^="post"] .in-feed
@@ -717,7 +718,6 @@ voetbalrotterdam.nl##div[class^="r89-desktop"]
 ! 2022-06-28
 golf.be##[class*="-ad-banner-box"]
 gids.tv##.advertisement:upward(1)
-gic.nl##.katernbanners
 geelfm.be##a[href="/adverteren/"]:upward(1)
 frontline.digital##p:has-text(,):not(:has-text(/[a-z]|[0-9]/i))
 fleet-mobility.nl##.spotlight:has-text(Partners)
@@ -1081,7 +1081,7 @@ antilliaansdagblad.com,dolcevia.com,lokaleomroepzeewolde.nl,radiolelystad.nl##.b
 prewarcar.nl##.banner-holder
 ewmagazine.nl##.banner-leaderboard
 weertdegekste.nl##.banner-right
-gic.nl,kbradio.nl##.banners
+kbradio.nl##.banners
 speeleiland.nl##.banner-sky
 radiomonique.am##.bannerswidget
 berekenhet.nl##.bh-ads
@@ -1359,6 +1359,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
