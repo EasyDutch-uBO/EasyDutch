@@ -4,7 +4,7 @@
 !
 ! 2026-01-17
 /banner/*$domain=kranenwebsite.nl
-/banners/*$domain=wijchensnieuws.nl
+/banners/*$domain=rivierenland-radio.nl|wijchensnieuws.nl
 /wp-content/uploads/*.gif$image,domain=sliedrecht24.nl
 ||1twente.nl/Ads/$image,domain=1twente.nl|twentefm.nl
 ||boek9.nl/*/advertisements/
@@ -504,4 +504,5 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
+
 
