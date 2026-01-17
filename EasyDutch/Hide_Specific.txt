@@ -15,7 +15,7 @@ autobahn.eu##.sticky-incontent:has([data-aa-adunit])
 autobahn.eu##li[class^="bg-reserved"]:has(* > [data-aa-adunit])
 autoweek.nl##div[class^="adslot"]
 banden.autoweek.nl###leaderboard
-banden.autoweek.nl##.ad
+banden.autoweek.nl,vi.nl##.ad
 beursduivel.be,iexprofs.nl##.banner
 boek9.nl##div[id*="block-advertisements"]
 ciaotutti.nl##div[class$="widget_advert"]:not(:has(a[href*="ciaotutti.nl"])):not(:has(a[href*="eepurl"])):not(:has(a[href*="facebook.com"])):not(:has(a[href*="instagram.com"])):not(:has(a[href*=".app/share/ciaotutti"]))
@@ -921,7 +921,6 @@ tpo.nl##[id$="top-ad"]
 tpo.nl##[id$="halfpage"]
 tpo.nl##div.ads-contain
 vi.nl##.betting-provider-row
-vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
 ! 2022-03-11
 maarkelsnieuws.nl##.banner-widget
 maarkelsnieuws.nl##.banner-secondary-sidebar:not(:has(img[src*="weerbanner"]))
