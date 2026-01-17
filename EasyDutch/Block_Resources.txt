@@ -6,6 +6,7 @@
 /banner/*$domain=kranenwebsite.nl
 /banners/*$domain=wijchensnieuws.nl
 ||boek9.nl/*/advertisements/
+||christelijknieuws.nl/wp-content/uploads/*Banner
 ||touretappe.nl/images/topposblock.html
 ||unitednews.sr/wp-content/uploads/*/BANNER
 ! 2024-01-16
@@ -500,3 +501,4 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
+
