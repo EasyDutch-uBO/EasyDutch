@@ -33,6 +33,7 @@ hilversumsnieuws.nl##.component__pubble-banner:has([advobject])
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
 kranenwebsite.nl###bannerdiv
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
+loemedia.nl##.ad
 mannenzaken.nl##.r89-mobile-billboard-top:upward(.raw-html-component)
 mannenzaken.nl##.r89-mobile-rectangle-infinite:upward(.raw-html-component)
 meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"])):upward(div[id^="txt_"])
@@ -129,7 +130,6 @@ hardware.info##.category:has-text(Advert):upward(article.overview-item)
 janvissersweer.nl##img[width="300"][height="250"]:upward(aside.widget)
 knhs.nl##section.grid-row:has(.row section.ads img[src*="banner"])
 knhs.nl##.footer-sponsors
-loemedia.nl##.widgettitle:has-text(/advert|banner|reclame/i):upward(.widget)
 luchtvaartnieuws.nl##[id^="luchtvaartnieuws.nl_mob_mobilerectangle"]:upward(div[style])
 luchtvaartnieuws.nl##[id^="block-block-"]:has-text(/voordelige/i)
 luchtvaartnieuws.nl##.content > div[id^="luchtvaartnieuws.nl_web_"]:upward([id^="block-block-"])
@@ -1359,6 +1359,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
