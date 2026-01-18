@@ -9,6 +9,8 @@ androidplanet.nl,androidworld.nl,iphoned.nl##.adblock-detect
 androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,androidworld.nl,iphoned.nl##header[data-name="featured-header"]
+autoblog.nl##.widget_ab_sidebar
+autoblog.nl##div[class^="ndm-min-"]
 autotrader.nl##article:has(p[class^="Sponsored_wrapper"])
 autotrader.nl##div[class^="AdContentBanner"]
 autotrader.nl##div[class^="AdTop"]
@@ -841,7 +843,6 @@ musicmeter.nl##.external
 ! 2022-05-23
 ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 ewmagazine.nl##.section-partners
-autoblog.nl##.widget:has-text(Links)
 infinance.nl##.slickcarousel
 infinance.nl##.widget:has-text(links)
 omrekenen.org##.widget:has-text(/Gesponsoord/i)
@@ -1370,4 +1371,5 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
