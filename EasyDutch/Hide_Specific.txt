@@ -7,6 +7,8 @@ androidplanet.nl,androidworld.nl,iphoned.nl##.adblock-detect
 androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,androidworld.nl,iphoned.nl##header[data-name="featured-header"]
+grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adunit])
+grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##div[data-aa-adunit]
 ! 2026-01-17
 abcsuriname.com##.banner_wrapper
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
