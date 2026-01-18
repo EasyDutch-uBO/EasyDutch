@@ -70,7 +70,7 @@ autoweek.nl##div[class^="adslot"]
 babybytes.nl##.ad-container
 banden.autoweek.nl###leaderboard
 banden.autoweek.nl,pepper.com,vi.nl##.ad
-beursduivel.be,iexprofs.nl##.banner
+beursduivel.be,buienalaram.nl,iexprofs.nl##.banner
 bnr.nl##.bnr-message
 boek9.nl##div[id*="block-advertisements"]
 ciaotutti.nl##div[class$="widget_advert"]:not(:has(a[href*="ciaotutti.nl"])):not(:has(a[href*="eepurl"])):not(:has(a[href*="facebook.com"])):not(:has(a[href*="instagram.com"])):not(:has(a[href*=".app/share/ciaotutti"]))
@@ -1376,3 +1376,4 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
