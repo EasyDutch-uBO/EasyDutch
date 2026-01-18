@@ -8,7 +8,9 @@ androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,androidworld.nl,iphoned.nl##header[data-name="featured-header"]
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adunit])
+grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.sticky-incontent:has([data-aa-adunit])
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##div[data-aa-adunit]
+grazia.nl,panorama.nl,wielerrevue.nl##div[id$="VIDEO_PLAYER_TARGET"]:upward(.showheroes-unit)
 ! 2026-01-17
 abcsuriname.com##.banner_wrapper
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
@@ -209,8 +211,6 @@ bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Recla
 bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame) + div:has(.owl-item)
 eemland1.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has(.owl-item)
 ! 2023-12-07
-grazia.nl##[data-aa-adunit][data-aaad]
-grazia.nl###WB_VIDEO_PLAYER_TARGET
 sikkom.nl##[id^="ad_native"]:upward(.column)
 sikkom.nl##.ad-sticky-parent
 ! 2023-11-24
