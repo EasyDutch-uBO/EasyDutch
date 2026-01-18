@@ -2,6 +2,8 @@
 ! Description: Filters for anti-adblock on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2026-01-18
+||jwpcdn.com/player/*/freewheel.js$script,domain=shownieuws.nl
 ! 2023-10-17
 moppen.nl#@#ins.adsbygoogle
 ! 2023-10-13
@@ -114,3 +116,4 @@ nu.nl##+js(set, isAdBlockEnabled, false)
 ! 2021-04-27
 directwonen.nl#@#.adsbox
 girlscene.nl##+js(set, adblock, 0)
+
