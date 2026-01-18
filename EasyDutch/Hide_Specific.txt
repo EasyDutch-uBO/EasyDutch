@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2026-01-18
+afkortingen.nu##.banner_container
 androidplanet.nl,androidworld.nl,iphoned.nl##.adblock-detect
 androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
@@ -997,9 +998,6 @@ alle-tests.nl###advertising
 bloovi.be###advertising
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
 ciaotutti.nl###b_searchboxInc
-afkortingen.nu###banner_rectangle
-afkortingen.nu###banner_right
-afkortingen.nu###banner_top
 marketingtribune.nl###banner-billboard
 kranenwebsite.nl###bannerdiv
 autowereld.nl###banner-lister-top
