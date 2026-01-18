@@ -37,6 +37,7 @@ mediacourant.nl##.mg-slot
 nieuwspaal.nl###abovecontent-widget-area
 nieuwspaal.nl##div[id^="ada"]
 oozo.nl##.adsbybinq
+rd.nl##div[class*="ad-container"]
 standaard.be##div[id^="ad"]
 topkleurplaat.nl##a[href^="https://partner.bol.com/click/"] > img
 voetbalzone.nl##.fco-abs-iframe
@@ -1368,6 +1369,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
