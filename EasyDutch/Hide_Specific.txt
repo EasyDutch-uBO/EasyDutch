@@ -12,6 +12,7 @@ grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adu
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.sticky-incontent:has([data-aa-adunit])
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##div[data-aa-adunit]
 grazia.nl,panorama.nl,wielerrevue.nl##div[id$="VIDEO_PLAYER_TARGET"]:upward(.showheroes-unit)
+marktnet.nl##div[id^="banner"]:upward(div[class^="box"])
 ! 2026-01-17
 abcsuriname.com##.banner_wrapper
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
@@ -153,9 +154,6 @@ luchtvaartnieuws.nl##[id^="luchtvaartnieuws.nl_mob_mobilerectangle"]:upward(div[
 luchtvaartnieuws.nl##[id^="block-block-"]:has-text(/voordelige/i)
 luchtvaartnieuws.nl##.content > div[id^="luchtvaartnieuws.nl_web_"]:upward([id^="block-block-"])
 made-in.be##.c-ad-space:upward(.col-item)
-marktnet.nl##.tab4
-marktnet.nl##a[href^="https://www.marktnet.nl/bs/clickOut"]:upward([class^="tip"])
-marktnet.nl##li.linkUnit
 messianieuws.nl##a[target="_blank"]:not([href*="messianieuws.nl"]) > img[data-src*="messianieuws.nl/wp-content/uploads"]:upward(div[id^="block-"])
 messianieuws.nl##aside > .sb-widget:has-text(/Israël Weekbrief|Introductiecursus/)
 nederlandsmedianieuws.nl##.line:has-text(Advertentie):upward(.sidebar)
