@@ -5,6 +5,7 @@
 ! 2026-01-18
 ||biernet.nl/site/plugins/bja_new/redirect.php
 ||cdn.aa.onstuimig.nl/mega-publishers/nieuwspaal.nl.js
+||gp33.nl/assets/common/ads-helper.js
 ||js.intercomcdn.com/banner-modern.
 ! 2026-01-17
 /banner/*$domain=kranenwebsite.nl
