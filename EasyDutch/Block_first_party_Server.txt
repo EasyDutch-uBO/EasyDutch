@@ -2,6 +2,8 @@
 ! Description: Filters for blocking first-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2026-01-18 https://github.com/AdguardTeam/AdguardFilters/commit/d7690d1e07746b72e9d414ac245de762f5dcb4f1
+||kjdsfjisdfjr23.azurewebsites.net^
 ! 2026-01-17
 ||adv.noordkop247.nl/
 ! 2023-01-16 https://github.com/EasyDutch-uBO/EasyDutch/issues/34
@@ -29,4 +31,3 @@
 ||content2.nrc.nl^
 ! 2021-04-27
 ||mooieplaatjes.bierdopje.com^
-
