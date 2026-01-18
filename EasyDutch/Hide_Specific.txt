@@ -34,6 +34,7 @@ mediacourant.nl##.mg-slot
 nieuwspaal.nl###abovecontent-widget-area
 nieuwspaal.nl##div[id^="ada"]
 oozo.nl##.adsbybinq
+standaard.be##div[id^="ad"]
 topkleurplaat.nl##a[href^="https://partner.bol.com/click/"] > img
 voetbalzone.nl##.fco-abs-iframe
 voetbalzone.nl##.fco-betting-offer
@@ -1045,12 +1046,11 @@ starnieuws.com###topstory > div:has-text(Advertentie)
 hotradiohits.nl###tpl_banners
 petities.com###visible_ad_1
 tijd.be##.ac_paragraph:has(.bb_wrapper)
-beleggersbelangen.nl,bestereistijd.be,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,xgn.nl##.ad
+beleggersbelangen.nl,bestereistijd.be,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,xgn.nl##.ad
 bestereistijd.be##.ad + .card-divider
 marokko.nl##.ad_between
 marokko.nl##.ad_inner
 tvgids24.nl##.adBoxbig
-standaard.be##.ad--button
 filmtotaal.nl##.ad-centering
 sozio.nl##.adchannel
 bruzz.be,omroepflevoland.nl,sportuitslagen.org,trendalert.nl##.ad-container
@@ -1365,5 +1365,6 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
