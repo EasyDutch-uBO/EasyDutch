@@ -11,6 +11,8 @@ androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,androidworld.nl,iphoned.nl##header[data-name="featured-header"]
 biernet.nl###BJA_LEADER1
 centraalplus.nl##.g
+crypto-insiders.nl##.ad-category
+crypto-insiders.nl##.exp-google-ad
 gptoday.net##.banner_adv-js
 gptoday.net##div[id^="gptoday_ros"][id$="_rectangle-halfpage"]
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adunit])
@@ -478,7 +480,6 @@ wegdamnieuws.nl##.ads-stack
 belgiancycling.be##.logo-slider
 cryptosjop.nl##iframe[src^="https://bitvavo.com/assets/static/widget/trade.html"]:upward(.td_block_wrap)
 ! 2023-04-28
-crypto-insiders.nl##article.ci-ad-card
 nieuwsfiets.nu##.adv-link:upward(.wpb_wrapper)
 ! 2023-04-27
 apintie.sr###left-inside > div[style$="px;"]:not(:has(a[href]))
@@ -1364,4 +1365,5 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
