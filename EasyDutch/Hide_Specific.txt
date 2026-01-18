@@ -19,6 +19,10 @@ biernet.nl###BJA_LEADER1
 centraalplus.nl##.g
 crypto-insiders.nl##.ad-category
 crypto-insiders.nl##.exp-google-ad
+ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i)
+ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i) + ul
+ditjesendatjes.nl##li[class$="object-cover"]:has(a[href]):not(a[href*="ditjesendatjes.nl"]):has(img[src])
+ditjesendatjes.nl##section:has(h2:has-text(/DenD Promoties|DenD Partners/i))
 funda.nl##aside:has-text(/Advertentie/i)
 gptoday.net##.banner_adv-js
 gptoday.net##div[id^="gptoday_ros"][id$="_rectangle-halfpage"]
@@ -298,9 +302,6 @@ beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
 cvandaag.nl##a[href^="https://cvandaag.nl/api/advertise-deliver/click/"]:upward(app-article-presentation)
 cvandaag.nl##div.sponsored:has-text(Gerelateerd)
-ditjesendatjes.nl##aside h2:has-text(DenD Promoties),
-ditjesendatjes.nl##aside h2:has-text(DenD Promoties) + [class]
-ditjesendatjes.nl##h2:has-text(DenD Partners):upward(section)
 footballtransfers.com##div[id*="leaderboard-billboard"]
 footballtransfers.com##[id*="rectangle-halfpage"]:upward(1)
 hockey.nl##[class^="advertisement"]:upward(li.card)
@@ -1373,6 +1374,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
