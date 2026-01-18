@@ -16,6 +16,7 @@ biernet.nl###BJA_LEADER1
 centraalplus.nl##.g
 crypto-insiders.nl##.ad-category
 crypto-insiders.nl##.exp-google-ad
+funda.nl##aside:has-text(/Advertentie/i)
 gptoday.net##.banner_adv-js
 gptoday.net##div[id^="gptoday_ros"][id$="_rectangle-halfpage"]
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adunit])
@@ -952,7 +953,6 @@ gezondheidsnet.nl##.banner
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .list
 nu.nl##.temptation__aside
 ! 2022-03-02
-funda.nl##.home-billboard
 jaap.nl##div[id^="property_ad_"]
 tvgids.nl##.square-item:has( > .banner)
 ! 2022-02-25
@@ -1369,9 +1369,3 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
-
-
-
-
-
-
