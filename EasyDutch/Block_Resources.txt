@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2026-01-18
+||cdn.aa.onstuimig.nl/mega-publishers/nieuwspaal.nl.js
 ! 2026-01-17
 /banner/*$domain=kranenwebsite.nl
 /banners/*$domain=motorrijder.be|rivierenland-radio.nl|wijchensnieuws.nl
