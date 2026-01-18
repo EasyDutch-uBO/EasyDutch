@@ -14,6 +14,7 @@ autoblog.nl##div[class^="ndm-min-"]
 autotrader.nl##article:has(p[class^="Sponsored_wrapper"])
 autotrader.nl##div[class^="AdContentBanner"]
 autotrader.nl##div[class^="AdTop"]
+axed.nl,gpinfo.com,headliner.nl,lovereality.nl,viraal.nl,wielernieuws.be##div[class^="r89-desktop"]
 biernet.nl###BJA_LEADER1
 centraalplus.nl##.g
 crypto-insiders.nl##.ad-category
@@ -73,7 +74,6 @@ demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 gic.nl##aside[aria-label="Banner"]
 gpblog.com##div[id^="snack"]
-gpinfo.com,headliner.nl,lovereality.nl,viraal.nl,wielernieuws.be##div[class^="r89-desktop"]
 gpinfo.com,wielernieuws.be##.header-banner
 groningerkrant.nl##article[id^="post"] .in-feed
 groningerkrant.nl##.sidebar .widget:has-text(Gerelateerd)
@@ -1373,6 +1373,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
