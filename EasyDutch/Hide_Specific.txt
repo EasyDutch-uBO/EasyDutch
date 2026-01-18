@@ -2,6 +2,11 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2026-01-18
+androidplanet.nl,androidworld.nl,iphoned.nl##.adblock-detect
+androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
+androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
+androidplanet.nl,androidworld.nl,iphoned.nl##header[data-name="featured-header"]
 ! 2026-01-17
 abcsuriname.com##.banner_wrapper
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
@@ -558,7 +563,6 @@ hardware.info##article.overview-item:has-text(Sponsored)
 ! 2023-01-09
 stopdebankiers.com##.adsbygoogle:upward([id^="custom_html"])
 ! 2023-01-06
-androidplanet.nl,iphoned.nl##div[data-name="dynamic-content-injected"]:upward(2)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
 ! 2023-01-04
@@ -592,8 +596,6 @@ rtlnieuws.nl##.article-sidebar__ad
 dissident.one##[id^="custom_html-"]:has-text(/advert/i)
 ! 2022-11-14
 voetbalnieuws.be##.header-banner
-! 2022-11-10
-androidplanet.nl,iphoned.nl##.no-content-styles:has(.adblock-detect)
 ! 2022-10-25
 autoscout24.be##.hf-top-ad
 autoscout24.be##[type="doubleclick"][ad-unit-path][ad-label-text="Advertentie"]
@@ -782,7 +784,7 @@ techradar.com###article-body > aside.hawk-nest:has([class^="hawk-affiliate"])
 ! 2022-06-21
 deoudrotterdammer.nl##[id^="deoud-"]
 ! 2022-06-16
-androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
+dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 dartfreakz.nl##.soliloquy-wrapper:not(:has(a[href*="dartfreakz.nl"]))
 dartfreakz.nl##.textwidget:has(a[href*="casino"])
 dartfreakz.nl##aside[class^="td_block"]:has-text(/partners/i)
@@ -1049,7 +1051,7 @@ bruzz.be,omroepflevoland.nl,sportuitslagen.org,trendalert.nl##.ad-container
 voetbalvandaag.be##.adds
 koopplein.nl##.ad-item-container
 westerwoldeactueel.nl##.adr-wrapper
-androidworld.nl,cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com##.ads
+cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com##.ads
 dissident.one##.adsbygoogle
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 spelletje.nl##.adv
@@ -1270,7 +1272,6 @@ eindtijdklok.org##.widget_block:has(img[src*="/ad"])
 mannenstyle.nl##.widget_execphp
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
 tankpro.nl##.widget_nlpartners
-androidplanet.nl,iphoned.nl##.widget_offers
 rtvideaal.nl##.widget_random_banner_widget
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 radioreflex.be##.widget_sponsors_widget
@@ -1290,7 +1291,6 @@ amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,in
 ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
 appletips.nl##[class^="ph_block"]
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
-androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 totaaltv.nl##[href^="https://www.totaaltv.nl/plugins/banner/"]
 besteproduct.nl##[id^="ad-block"]
 online-radio.nl##[id^="AdvertMid"]
@@ -1352,7 +1352,6 @@ apintie.sr##div[style^="width:300px; height:180px;"]
 kinderspelletjes.be,kinderspelletjes.nl##div[style^="width:336px;height:290px"]:has-text(Reclame)
 bitcoinmagazine.nl##div[style="height:52px;"]
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
-androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 rotterdambasketbal.nl##img[title^="roba_sponosor_"]
 prewarcar.nl##img[width="160"][height="92"]
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
