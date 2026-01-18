@@ -43,6 +43,7 @@ oozo.nl##.adsbybinq
 puna.nl##div[class^="r89-desktop"]:upward(.raw-html-component)
 rd.nl##div[class*="ad-container"]
 standaard.be##div[id^="ad"]
+telegraaf.nl##div[id^="ad_divider"]
 topkleurplaat.nl##a[href^="https://partner.bol.com/click/"] > img
 viraal.nl##.large-screen-ad:upward(.raw-html-component)
 voetbalzone.nl##.fco-abs-iframe
@@ -1372,6 +1373,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
