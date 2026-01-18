@@ -21,6 +21,7 @@ marktnet.nl##div[id^="banner"]:upward(div[class^="box"])
 marktplaats.nl,2dehands.be###adsense-container
 marktplaats.nl,2dehands.be##.BannerButton-root
 marktplaats.nl,2dehands.be##.BannerRight-root
+marktplaats.nl,2dehands.be##.Banners-bannerFeedItem
 marktplaats.nl,2dehands.be##.banner-top-dt
 marktplaats.nl,2dehands.be##.bannerContainerLoading
 marktplaats.nl,2dehands.be##.right-banner-root-container
@@ -1363,3 +1364,4 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
