@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2026-01-22
+||adswag.nl^$3p
 ||banner-online.nl^$3p
 ||jobfish.nl/widget/$3p
 ||resources.planetnine.com/scripts/topgear.nl.js$domain=topgear.nl
@@ -119,4 +120,3 @@
 ! ||views.affiliate4you.nl^$3p
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
-
