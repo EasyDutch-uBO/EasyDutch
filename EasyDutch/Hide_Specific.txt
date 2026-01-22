@@ -77,6 +77,7 @@ onderwijsnieuwsdienst.nl###topAdvertisement
 onderwijsnieuwsdienst.nl##.bottomSpace
 onderwijsnieuwsdienst.nl##.extraInfo > span[style]:has-text(/Advertentie/i)
 omroeptholen.nl,rtvalbrandswaard.com##.widget_media_image:has-text(/Advertentie/i)
+omroepvenlo.nl##.widget.rounded-lg:has(img):has-text(Advertentie)
 psvinside.nl##.raw-html-component:has(img[src*="banner"]):has(div[class*="ad"])
 psvinside.nl##.raw-html-component:has(script[src*="/adserver"])
 propertynl.com##.box_header:has-text(Advertenties)
@@ -1438,6 +1439,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
