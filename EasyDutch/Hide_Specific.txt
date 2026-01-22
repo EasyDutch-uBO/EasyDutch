@@ -47,6 +47,7 @@ iex.nl##.network:has-text(Gesponsorde links)
 iex.nl##.sidebar > .block:has(p.text-promo)
 iex.nl##[class^="rectangle"]
 isgeschiedenis.nl##.webads
+kidsenkurken.nl##div[class^="r89-desktop"]:upward(2):has(.justify-center)
 monitor.iex.nl##.centerbanner
 monitor.iex.nl##.leaderboard-down
 moviemeter.nl##.footer-artikelen:has-text(/Partners/i)
@@ -1413,6 +1414,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
