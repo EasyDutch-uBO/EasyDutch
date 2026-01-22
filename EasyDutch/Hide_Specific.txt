@@ -80,6 +80,7 @@ rallylovers.be##.advertentierechts
 revive.nl##div[id^="reviv-"]:not(:has(a[href*="revive.nl"])):not(:has(iframe[src*="revive.nl"]))
 revive.nl##.textwidget:has(iframe[src*="jobfish.nl/widget"])
 rkvvo.nl##.divFooterBanner
+rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-posts)):not(:has-text(/Meest gelezen artikel/i))
 schuttevaer.nl##.partners
 schuttevaer.nl##.widget_minisites
 !#if env_mobile
@@ -437,7 +438,6 @@ parool.nl,trouw.nl##.oortje-wrapper
 radiozenders.fm##[id^="div-gpt-rectangle"]:upward(.banner-rectangle)
 riskcompliance.nl##a[onclick*="Banner"]:not(a[href*="riskcompliance.nl"]):upward(article)
 rotterdam-nesselande.nl##.adsbygoogle:not(.adsbygoogle-noablate):upward(1)
-rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-posts))
 rtvgo.nl##.thanksto
 voetbalbelgie.be##div[class$="-atf"]
 ! 2023-10-13
@@ -1429,6 +1429,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
