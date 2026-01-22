@@ -86,6 +86,8 @@ upinthesky.nl##div[class^="r89-mobile-rectangle"]
 viraal.nl,wielrennenuptodate.nl##.raw-html-component
 visionair.nl##aside.widget_block:empty
 voetbalkrant.com###ad-intro-text
+waterkant.net##.td-all-devices
+waterkant.net##.adsbygoogle
 weer.nl##.items-center:has(div[data-advert-placeholder-collapses])
 weer.nl##div[data-advert-placeholder-collapses]:upward(div[class*="my-"])
 whiskymonkeys.com##div[class^="r89-mobile"]:upward(.raw-html-component)
@@ -535,7 +537,6 @@ leerlingen.com##.sponsors
 radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
 recreatief.nl##.widget-a-wrap
 srnieuws.com##div.card-view:has([id^="taboola"])
-waterkant.net##div.td-all-devices
 ! 2023-05-03
 oisterwijknieuws.nl##.sidebar > .widget a[href]:not(a[href^="https://www.oisterwijknieuws.nl"])
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
@@ -1412,6 +1413,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
