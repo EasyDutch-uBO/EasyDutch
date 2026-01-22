@@ -9,6 +9,7 @@
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 ||cdn.nieuwdezeweek.nl/ads/
 ||rallylovers.be/img/betalend/*.gif
+||viralize.tv/display/$domain=albrandswaardsdagblad.nl|barendrechtsdagblad.nl|dagblad010.nl|dagblad070.nl|goudsdagblad.nl|ridderkerksdagblad.nl|rijswijksdagblad.nl|sgxl.nl|startpagina.nl|voorburgsdagblad.nl|zoetermeersdagblad.nl
 ||voetbalassist.nl/*/Banner/*/Sponsors/$image,domain=rkvvo.nl
 ! 2026-01-18
 ||biernet.nl/site/plugins/bja_new/redirect.php
