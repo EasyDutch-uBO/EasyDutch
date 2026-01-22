@@ -4,6 +4,8 @@
 !
 ! 2026-01-22
 bitcoinmagazine.nl##.clickout-relative
+boerderij.nl###top_desktop_wrapper
+boerderij.nl##div[class*="max-ad_"]
 bol.com##[data-bltgi*="ProductList_"]:has-text(Gesponsord)
 bol.com##div[data-bltgg$="considerationDisplay"]
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
@@ -1385,6 +1387,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
