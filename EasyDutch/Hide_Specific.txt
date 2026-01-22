@@ -18,6 +18,7 @@ demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-containe
 drimble.nl##div[id^="drimble.nl_web_"]
 ewmagazine.nl###top_lb_bb
 ewmagazine.nl###top_rt
+fcutrecht.net###reclame
 flair.nl,libelle.nl##[class$="advertisement"]
 flair.nl,libelle.nl##div[class$="adblock"]:has( > div[class$="advertisement"])
 ibestuur.nl##.c-ad-slot
@@ -1393,6 +1394,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
