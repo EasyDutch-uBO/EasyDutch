@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2026-01-22
+ajaxshowtime.com,axed.nl,gpinfo.com,headliner.nl,klusidee.nl,lovereality.nl,meemetoranje.nl,nieuws365.be,showblad.nl,twenteinside.nl,viraal.nl,voetbal14.nl,wielernieuws.be,whiskymonkeys.com##div[class^="r89-desktop"]
 bitcoinmagazine.nl##.clickout-relative
 boerderij.nl###top_desktop_wrapper
 boerderij.nl##div[class*="max-ad_"]
@@ -50,7 +51,6 @@ autoblog.nl##div[class^="ndm-min-"]
 autotrader.nl##article:has(p[class^="Sponsored_wrapper"])
 autotrader.nl##div[class^="AdContentBanner"]
 autotrader.nl##div[class^="AdTop"]
-axed.nl,gpinfo.com,headliner.nl,lovereality.nl,viraal.nl,wielernieuws.be##div[class^="r89-desktop"]
 biernet.nl###BJA_LEADER1
 centraalplus.nl##.g
 crypto-insiders.nl##.ad-category
@@ -1393,6 +1393,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
