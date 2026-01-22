@@ -2,6 +2,45 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2026-01-22
+/img/banners/*.gif$image,1p,domain=fcutrecht.net
+/wp-content/*banner$image,domain=ajaxinside.nl|hoimedia.com
+/wp-content/uploads/*.gif$image,domain=crimesite.nl|rtvmiddenholland.nl|sliedrecht24.nl
+||*.b-cdn.net/*-390x280.gif$domain=wos.nl
+||24cars.nl/api/advertise-deliver/
+||aalsmeervandaag.nl/wp-content/uploads/*/adv
+||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
+||cdn-tmo.nl^*/banners/$image,domain=schiedam24.nl
+||cdn.nieuwdezeweek.nl/ads/
+||cms.mvmm.nl/dynimage/*banner$image,domain=meetingmagazine.nl
+||flexwebhosting.nl/banners/$third-party
+||ninefornews.nl/wp-content/uploads/*/Banner
+||rallylovers.be/img/betalend/*.gif
+||static.promedia.nl/logos/$image,domain=schuttevaer.nl
+||static.wixstatic.com/media/*banner$domain=nbs-bouwmaterialen.nl
+||tvvisie.be/textads/textads.js
+||viralize.tv/display/$domain=albrandswaardsdagblad.nl|barendrechtsdagblad.nl|dagblad010.nl|dagblad070.nl|goudsdagblad.nl|ridderkerksdagblad.nl|rijswijksdagblad.nl|sgxl.nl|startpagina.nl|voorburgsdagblad.nl|zoetermeersdagblad.nl
+||voetbalassist.nl/*/Banner/*/Sponsors/$image,domain=rkvvo.nl
+! 2026-01-18
+||biernet.nl/site/plugins/bja_new/redirect.php
+||cdn.aa.onstuimig.nl/mega-publishers/nieuwspaal.nl.js
+||gp33.nl/assets/common/ads-helper.js
+||js.intercomcdn.com/banner-modern.
+! 2026-01-17
+/banner/*$domain=kranenwebsite.nl
+/banners/*$domain=motorrijder.be|rivierenland-radio.nl|wijchensnieuws.nl
+||1twente.nl/Ads/$image,domain=1twente.nl|twentefm.nl
+||boek9.nl/*/advertisements/
+||boodschappen.nl/wp-json/boodschappen/v1/banners/get_banners
+||boodschappen.nl/wp-json/boodschappen/v1/banners/get_advertorial
+||boodschappen.nl/wp-json/boodschappen/v1/banners/get_native_banner
+||cdn.gic.nl/app/uploads/*/*.gif
+||cdn.gic.nl/app/uploads/*/*banner
+||christelijknieuws.nl/wp-content/uploads/*Banner
+||sliedrecht24.nl/wp-content/uploads/*/palmpjes-banner
+||techgaming.nl/image_uploads/sponsored/
+||touretappe.nl/images/topposblock.html
+||unitednews.sr/wp-content/uploads/*/BANNER
 ! 2024-01-16
 .be/la_custom/get_banners_cache$xhr,1p,domain=hagelandactueel.be|leuvenactueel.be
 ! 2023-12-26
@@ -20,7 +59,6 @@ bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll)
 /wp-content/plugins/age-gate*$domain=nieuwslog.nl
 ||motorblog.nl/wp-content/uploads/banner$image
 ||radioluisteren.fm/ads/
-||1twente.nl/Ads/$image,domain=twentefm.nl
 ! 2023-12-18
 ||rivierenland-radio.nl/banners/$image
 ||s.s-bol.com/nl/upload/partnerprogramma/$image
@@ -179,7 +217,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*week$image
 /images/banners/*$image,domain=bodemvondstenwereld.nl|drentsnieuws.nl|lokaleomroepzeewolde.nl|puurnaturisme.nl
 /wp-content/*banner$image,domain=retaildetail.be|retaildetail.nl
-/wp-content/uploads/*.gif$image,domain=alblasserdamsnieuws.nl|ciaotutti.nl|edelmetaal-info.nl|noordkopcentraal.nl|regionoordkop.nl|rtvlansingerland.nl|sliedrecht24.nl|unitednews.sr
+/wp-content/uploads/*.gif$image,domain=alblasserdamsnieuws.nl|ciaotutti.nl|edelmetaal-info.nl|regionoordkop.nl|rtvlansingerland.nl|sliedrecht24.nl|unitednews.sr
 /wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|biflatie.nl|cryptobenelux.com|curacao.nu|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|maaslandradio.nl|mannennieuws.nl|omroepalmere.nl|oogtv.nl|radiocontinu.nl|railhobby.nl|regionoordkop.nl|sleutelstad.nl|unitednews.sr
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 ! 2023-04-24 https://github.com/uBlockOrigin/uAssets/issues/17747
@@ -238,7 +276,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||menttv.be/wp-content/uploads/*/*-br.$image
 ||motokicx.com/wp-content/uploads/*RAD
 ||noordernieuws.nl/wp-content/uploads/*/*.gif$image
-||noordkopcentraal.nl/wp-content/uploads/*/Vrienden-van
 ! 2022-06-29
 ||racexpress.nl/img/sponsors/
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
@@ -364,7 +401,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||computable.be/media/truelogo*$image,1p
 ||computable.nl/media/truelogo*$image,1p
 ||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
-||crimesite.nl/inhoud/uploads/*/*.gif$image
 ||cryptoprijzen.com/cryptoprijzen-widget/$domain=cryptobenelux.com
 ||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
 ||dagbladdewest.com/wp-content/uploads/*/*_300x250px.*$image
