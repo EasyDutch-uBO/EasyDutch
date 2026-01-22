@@ -2,8 +2,9 @@
 ! Description: Filters for blocking only general third-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2026-01-17
+! 2026-01-22
 ||api.banner-online.nl/$3p,domain=noordernieuws.nl
+||banner-online.nl^$3p
 ||jobfish.nl/widget/$3p
 ||resources.planetnine.com/scripts/topgear.nl.js$domain=topgear.nl
 ! 2023-10-17
@@ -119,4 +120,3 @@
 ! ||views.affiliate4you.nl^$3p
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
-
