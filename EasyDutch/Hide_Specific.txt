@@ -75,6 +75,7 @@ newsbit.nl##.acf-block-cta-conversion-rating
 nieuwdezeweek.nl##.promo:has(img[src*="cdn.nieuwdezeweek.nl/ads/"])
 nieuwdezeweek.nl##div[class$="main"] div[class*="ad"]
 nieuwnieuws.nl##.uk-text-center[style]:has(div[id*="billboardskin"]):has(div[id*="_ros_"])
+nuus.be##.a2t-link:upward(.sidebar-widget)
 onderwijsnieuwsdienst.nl###topAdvertisement
 onderwijsnieuwsdienst.nl##.bottomSpace
 onderwijsnieuwsdienst.nl##.extraInfo > span[style]:has-text(/Advertentie/i)
@@ -402,7 +403,6 @@ ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3:has-text
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
 nnieuws.be##[class*="blockpartners"]
 nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
-nuus.be##.adv-link:upward(.sidebar)
 nuus.be###masthead:style(height:90px!important;)
 nzbindex.nl##form + div a[href^="/"]:has(img)
 bright.nl,voetbalprimeur.nl##[class^="Ad_"]
@@ -1443,6 +1443,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
