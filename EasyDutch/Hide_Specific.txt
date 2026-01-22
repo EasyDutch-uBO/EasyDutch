@@ -40,6 +40,7 @@ nieuwdezeweek.nl##div[class$="main"] div[class*="ad"]
 onderwijsnieuwsdienst.nl###topAdvertisement
 onderwijsnieuwsdienst.nl##.bottomSpace
 onderwijsnieuwsdienst.nl##.extraInfo > span[style]:has-text(/Advertentie/i)
+rallylovers.be##.advertentierechts
 showblad.nl##.r89-video-outstream
 spellingoefenen.nl##div[class^="r89-desktop"]:upward(1)
 techzine.nl##.chimney
@@ -1393,6 +1394,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
