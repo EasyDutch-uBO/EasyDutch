@@ -118,6 +118,7 @@ tostrams.nl##[class*="banner"]
 tostrams.nl##[id*="banner"]
 tvvisie.be,tvvisie.nl##.side:has-text(/Aanbiedingen/i)
 upinthesky.nl##div[class^="r89-mobile-rectangle"]
+veluwefm.nl##.slideshow_container
 viraal.nl,wielrennenuptodate.nl##.raw-html-component
 visionair.nl##aside.widget_block:empty
 voedingswaardetabel.nl##div[class^="amgray"]:has(div[id*="div-gpt-ad"])
@@ -1443,6 +1444,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
