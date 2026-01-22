@@ -19,7 +19,7 @@ bol.com##div[data-bltgg$="considerationDisplay"]
 crimesite.nl##div[class*="r89-desktop"]
 cryptobenelux.com,psvinside.nl,welingelichtekringen.nl##.raw-html-component:has(.ms-container)
 dagelijkseverhalen.nl##.ads
-dartfreakz.nl,puna.nl,showblad.nl##div[class^="r89-desktop"]:upward(.raw-html-component)
+dartfreakz.nl,puna.nl,showblad.nl,voetbal24.be##div[class^="r89-desktop"]:upward(.raw-html-component)
 dartfreakz.nl##.r89-outstream-video:upward(.raw-html-component)
 dartfreakz.nl,vechtsportinfo.nl##.sda
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
@@ -88,6 +88,7 @@ tvvisie.be,tvvisie.nl##.side:has-text(/Aanbiedingen/i)
 upinthesky.nl##div[class^="r89-mobile-rectangle"]
 viraal.nl,wielrennenuptodate.nl##.raw-html-component
 visionair.nl##aside.widget_block:empty
+voetbal24.be##.OUTBRAIN:upward(.raw-html-component)
 voetbalkrant.com###ad-intro-text
 waterkant.net##.td-all-devices
 waterkant.net##.adsbygoogle
@@ -1415,6 +1416,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
