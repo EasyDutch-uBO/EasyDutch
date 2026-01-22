@@ -2,6 +2,9 @@
 ! Description: Filters for hiding general elements on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2026-01-22
+! flowmagazine.nl,happinez.nl,landleven.nl,psychologie.nl
+##.rmn-advert
 ! 2022-10-04
 ! ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl,hln.be
 ##.article__component--outstream-advertisement
