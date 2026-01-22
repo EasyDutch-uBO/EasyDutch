@@ -32,6 +32,7 @@ faillissementsdossier.nl##.billboard
 fcutrecht.net###reclame
 flair.nl,libelle.nl##[class$="advertisement"]
 flair.nl,libelle.nl##div[class$="adblock"]:has( > div[class$="advertisement"])
+gratisoptehalen.nl##center > a[href]:has(img)
 guruwatch.nl##.Billboard
 guruwatch.nl##.LargeRectangle
 guruwatch.nl##.publisher-sh-spot1
@@ -1416,6 +1417,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
