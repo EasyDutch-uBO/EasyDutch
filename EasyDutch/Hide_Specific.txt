@@ -76,6 +76,8 @@ upinthesky.nl##div[class^="r89-mobile-rectangle"]
 viraal.nl,wielrennenuptodate.nl##.raw-html-component
 visionair.nl##aside.widget_block:empty
 voetbalkrant.com###ad-intro-text
+weer.nl##.items-center:has(div[data-advert-placeholder-collapses])
+weer.nl##div[data-advert-placeholder-collapses]:upward(div[class*="my-"])
 whiskymonkeys.com##div[class^="r89-mobile"]:upward(.raw-html-component)
 wordfeudhelp.nl##.advertentie
 wos.nl##.widget:has(img[src*="b-cdn.net"][src$=".gif"]):has-text(/Advertentie/i)
@@ -603,8 +605,6 @@ notebookcheck.nl###nbc_skys
 allecijfers.nl##div.card:has(.adsbygoogle)
 ! 2023-03-22
 racingnews365.nl##.meta-format:has-text(Advert):upward(.card)
-! 2023-03-20
-weer.nl##div[class*="block"]:has(a[href*="www.voordeeluitjes.nl"])
 ! 2023-03-16
 agraaf.nl##.partners-carousel
 ! 2023-03-09
@@ -1404,6 +1404,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
