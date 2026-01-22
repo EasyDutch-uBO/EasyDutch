@@ -14,6 +14,7 @@
 ||cdn.nieuwdezeweek.nl/ads/
 ||cms.mvmm.nl/dynimage/*banner$image,domain=meetingmagazine.nl
 ||flexwebhosting.nl/banners/$third-party
+||ninefornews.nl/wp-content/uploads/*/Banner
 ||rallylovers.be/img/betalend/*.gif
 ||static.promedia.nl/logos/$image,domain=schuttevaer.nl
 ||static.wixstatic.com/media/*banner$domain=nbs-bouwmaterialen.nl
