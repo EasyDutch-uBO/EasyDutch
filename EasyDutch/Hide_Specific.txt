@@ -21,6 +21,7 @@ ewmagazine.nl###top_rt
 flair.nl,libelle.nl##[class$="advertisement"]
 flair.nl,libelle.nl##div[class$="adblock"]:has( > div[class$="advertisement"])
 ibestuur.nl##.c-ad-slot
+id.nl##div[id^="artikel/"]:upward(.lazyload-wrapper)
 iex.nl,tostrams.nl##.publisher-sh-spot
 iex.nl##.banner
 iex.nl##.js-banner
@@ -491,8 +492,7 @@ nauticlink.com##.adv-link
 nauticlink.com##.elementor-section:has-text(partners)
 yachtfocus.com##.av
 ! 2023-05-25
-gamer.nl,id.nl##.adunitContainer:upward(.items-center)
-id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en door naar/i))
+gamer.nl##.adunitContainer:upward(.items-center)
 ! 2023-05-23
 looopings.nl##.contentBillboard
 looopings.nl##[class*="r89"][style="min-height:250px;"]
@@ -1393,6 +1393,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
