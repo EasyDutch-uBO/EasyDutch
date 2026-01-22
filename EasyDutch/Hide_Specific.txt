@@ -9,6 +9,8 @@ boerderij.nl###top_desktop_wrapper
 boerderij.nl##div[class*="max-ad_"]
 bol.com##[data-bltgi*="ProductList_"]:has-text(Gesponsord)
 bol.com##div[data-bltgg$="considerationDisplay"]
+dartfreakz.nl,puna.nl,showblad.nl##div[class^="r89-desktop"]:upward(.raw-html-component)
+dartfreakz.nl##.sda
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
@@ -34,7 +36,6 @@ nieuwdezeweek.nl##div[class$="main"] div[class*="ad"]
 onderwijsnieuwsdienst.nl###topAdvertisement
 onderwijsnieuwsdienst.nl##.bottomSpace
 onderwijsnieuwsdienst.nl##.extraInfo > span[style]:has-text(/Advertentie/i)
-puna.nl,showblad.nl##div[class^="r89-desktop"]:upward(.raw-html-component)
 showblad.nl##.r89-video-outstream
 tostrams.nl##[class*="banner"]
 tostrams.nl##[id*="banner"]
@@ -824,7 +825,7 @@ apintie.sr##div[style*="width:300px; height:200px;"]
 ! 2022-06-23
 knack.be##.js-partner-content
 ! 2022-06-22
-binnenvaartkrant.nl,dartfreakz.nl,dbsuriname.com,regioinbedrijf.nl,westerwoldeactueel.nl##.g
+binnenvaartkrant.nl,dbsuriname.com,regioinbedrijf.nl,westerwoldeactueel.nl##.g
 investmentofficer.nl##.region-banner
 investmentofficer.nl##[id*="dfptaghomeadvertorial"]:upward(.views-rows > .row > .col)
 investmentofficer.nl##.io-tape-card[href^="/partner"]
@@ -834,10 +835,6 @@ techradar.com###article-body > aside.hawk-nest:has([class^="hawk-affiliate"])
 deoudrotterdammer.nl##[id^="deoud-"]
 ! 2022-06-16
 dartsnieuws.com,indeleiderstrui.nl##.sda
-dartfreakz.nl##.soliloquy-wrapper:not(:has(a[href*="dartfreakz.nl"]))
-dartfreakz.nl##.textwidget:has(a[href*="casino"])
-dartfreakz.nl##aside[class^="td_block"]:has-text(/partners/i)
-dartfreakz.nl##.wpb_wrapper a[href*="dartswarehouse.nl"]
 dartsactueel.nl##.elementor-widget-container:has-text(/powered by/i)
 dartsactueel.nl##.elementor-widget-container:has(a[href$="dartshopmn.nl"] > img)
 playboy.nl##a[href^="https://casinoscout.nl/"]
@@ -1394,6 +1391,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
