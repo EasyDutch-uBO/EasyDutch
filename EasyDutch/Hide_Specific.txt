@@ -44,6 +44,7 @@ guruwatch.nl##.LargeRectangle
 guruwatch.nl##.publisher-sh-spot1
 gva.be,hbvl.be,nieuwsblad.be,standaard.be##div[id^="ad_inline"]
 gva.be,hbvl.be,nieuwsblad.be,standaard.be##section[data-theme-sponsored-content]:has-text(/onze partners/i)
+heelhollandkijkt.nl##section.widget:has(.widgettitle:has-text(Wij hosten bij:))
 hoekschnieuws.nl##.rb-section.widget:has-text(/Advertentie/i)
 hoekschnieuws.nl##body > center:has(img)
 hoimedia.com##.advert
@@ -1442,6 +1443,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
