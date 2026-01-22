@@ -72,6 +72,7 @@ scientias.nl##.ndm-mobile-header-only
 !#else
 scientias.nl##.ndm-desktop-only
 !#endif
+scientias.nl##div.widget:has(* > div[id^="scientias.nl_ros"])
 showblad.nl,upinthesky.nl##.r89-video-outstream
 spellingoefenen.nl##div[class^="r89-desktop"]:upward(1)
 techzine.nl##.chimney
@@ -1408,6 +1409,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
