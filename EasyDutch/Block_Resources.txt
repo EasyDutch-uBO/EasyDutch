@@ -15,6 +15,7 @@
 ||cms.mvmm.nl/dynimage/*banner$image,domain=meetingmagazine.nl
 ||flexwebhosting.nl/banners/$third-party
 ||rallylovers.be/img/betalend/*.gif
+||static.promedia.nl/logos/$image,domain=schuttevaer.nl
 ||static.wixstatic.com/media/*banner$domain=nbs-bouwmaterialen.nl
 ||tvvisie.be/textads/textads.js
 ||viralize.tv/display/$domain=albrandswaardsdagblad.nl|barendrechtsdagblad.nl|dagblad010.nl|dagblad070.nl|goudsdagblad.nl|ridderkerksdagblad.nl|rijswijksdagblad.nl|sgxl.nl|startpagina.nl|voorburgsdagblad.nl|zoetermeersdagblad.nl
