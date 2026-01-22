@@ -23,6 +23,8 @@ faillissementsdossier.nl##.billboard
 fcutrecht.net###reclame
 flair.nl,libelle.nl##[class$="advertisement"]
 flair.nl,libelle.nl##div[class$="adblock"]:has( > div[class$="advertisement"])
+gva.be,hbvl.be,nieuwsblad.be,standaard.be##div[id^="ad_inline"]
+gva.be,hbvl.be,nieuwsblad.be,standaard.be##section[data-theme-sponsored-content]:has-text(/onze partners/i)
 ibestuur.nl##.c-ad-slot
 id.nl##div[id^="artikel/"]:upward(.lazyload-wrapper)
 iex.nl,tostrams.nl##.publisher-sh-spot
@@ -85,8 +87,6 @@ grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adu
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.sticky-incontent:has([data-aa-adunit])
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##div[data-aa-adunit]
 grazia.nl,panorama.nl,wielerrevue.nl##div[id$="VIDEO_PLAYER_TARGET"]:upward(.showheroes-unit)
-hbvl.be##div[id^="ad_inline"]
-hbvl.be##section[data-theme-sponsored-content]:has-text(/onze partners/i)
 marktnet.nl##div[id^="banner"]:upward(div[class^="box"])
 marktplaats.nl,2dehands.be###adsense-container
 marktplaats.nl,2dehands.be##.BannerButton-root
@@ -1395,6 +1395,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
