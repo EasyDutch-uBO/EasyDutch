@@ -38,6 +38,7 @@ puna.nl,showblad.nl##div[class^="r89-desktop"]:upward(.raw-html-component)
 showblad.nl##.r89-video-outstream
 tostrams.nl##[class*="banner"]
 tostrams.nl##[id*="banner"]
+viraal.nl##.raw-html-component
 welingelichtekringen.nl##.raw-html-component:has(.ms-container)
 wordfeudhelp.nl##.advertentie
 wos.nl##.widget:has(img[src*="b-cdn.net"][src$=".gif"]):has-text(/Advertentie/i)
@@ -91,7 +92,6 @@ rd.nl##div[class*="ad-container"]
 standaard.be##div[id^="ad"]
 telegraaf.nl##div[id^="ad_divider"]
 topkleurplaat.nl##a[href^="https://partner.bol.com/click/"] > img
-viraal.nl##.large-screen-ad:upward(.raw-html-component)
 voetbalzone.nl##.fco-abs-iframe
 voetbalzone.nl##.fco-betting-offer
 ! 2026-01-17
@@ -1394,6 +1394,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
