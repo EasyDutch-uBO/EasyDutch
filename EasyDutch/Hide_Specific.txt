@@ -67,6 +67,11 @@ rallylovers.be##.advertentierechts
 rkvvo.nl##.divFooterBanner
 schuttevaer.nl##.partners
 schuttevaer.nl##.widget_minisites
+!#if env_mobile
+scientias.nl##.ndm-mobile-header-only
+!#else
+scientias.nl##.ndm-desktop-only
+!#endif
 showblad.nl,upinthesky.nl##.r89-video-outstream
 spellingoefenen.nl##div[class^="r89-desktop"]:upward(1)
 techzine.nl##.chimney
@@ -496,8 +501,6 @@ webstick.nl##p > a[href][rel$="sponsored"]:upward(aside > section)
 appletips.nl##.ph_appelhoes
 ! 2023-06-16
 insideflyer.nl##.adsbymanatee
-! 2023-06-09
-scientias.nl##.r89-desktop-takeover
 ! 2023-05-27
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
 ! 2023-05-26
@@ -1405,6 +1408,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
