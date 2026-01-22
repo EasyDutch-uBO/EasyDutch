@@ -7,6 +7,7 @@
 ||*.b-cdn.net/*-390x280.gif$domain=wos.nl
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 ||cdn.nieuwdezeweek.nl/ads/
+||rallylovers.be/img/betalend/*.gif
 ! 2026-01-18
 ||biernet.nl/site/plugins/bja_new/redirect.php
 ||cdn.aa.onstuimig.nl/mega-publishers/nieuwspaal.nl.js
@@ -518,5 +519,3 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
-
-
