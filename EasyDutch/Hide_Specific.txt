@@ -924,8 +924,6 @@ voetbalnieuws.be##.banner
 ! 2022-04-22
 anoniem-surfen.nl##.footer-widget-1
 anoniem-surfen.nl##.header-widget-region
-! 2022-04-19
-skoften.net##.promoted-entry-in-content
 ! 2022-04-15
 kieskeurig.nl##div[id*="gpt-ad"]
 ! 2022-04-14
@@ -948,7 +946,6 @@ schuttevaer.nl##.widget_minisites
 vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 ! 2022-03-29
 nu.nl##.banner
-skoften.net##.promoted
 ! 2022-03-26
 hardnieuws.nl##[id*="ros-300x600"]:upward(1)
 ! 2022-03-22
@@ -1395,24 +1392,3 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
