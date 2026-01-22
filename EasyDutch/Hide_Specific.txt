@@ -38,6 +38,7 @@ onderwijsnieuwsdienst.nl###topAdvertisement
 onderwijsnieuwsdienst.nl##.bottomSpace
 onderwijsnieuwsdienst.nl##.extraInfo > span[style]:has-text(/Advertentie/i)
 showblad.nl##.r89-video-outstream
+techzine.nl##.chimney
 tostrams.nl##[class*="banner"]
 tostrams.nl##[id*="banner"]
 viraal.nl,wielrennenuptodate.nl##.raw-html-component
@@ -1055,7 +1056,6 @@ nu.nl###header > .zone
 unitednews.sr###image-vertical-reel-scroll-slideshow
 funnygames.be,funnygames.nl###katon-slot
 tellows.nl###lb_header
-techzine.nl###lead
 eindexamens.nu###leaderboard
 greenkeeper.nl###lijst_logos
 autowereld.nl###mainbanner
@@ -1393,6 +1393,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
