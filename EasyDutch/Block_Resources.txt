@@ -2,6 +2,8 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2026-01-22
+||cdn.nieuwdezeweek.nl/ads/
 ! 2026-01-18
 ||biernet.nl/site/plugins/bja_new/redirect.php
 ||cdn.aa.onstuimig.nl/mega-publishers/nieuwspaal.nl.js
