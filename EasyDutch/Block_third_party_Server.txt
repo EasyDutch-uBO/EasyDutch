@@ -6,6 +6,7 @@
 ||adswag.nl^$3p
 ||banner-online.nl^$3p
 ||jobfish.nl/widget/$3p
+||publize.net^$script,domain=filmvandaag.nl
 ||resources.planetnine.com/scripts/topgear.nl.js$domain=topgear.nl
 ! 2023-10-17
 ! bitcoinmagazine.nl,cryptobenelux.com
