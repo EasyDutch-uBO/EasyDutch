@@ -17,6 +17,7 @@ at5.nl##div[class^="article_adWrapper"]
 automotive-online.nl##.advertistement
 autovisie.nl,culy.nl,jmouders.nl,manners.nl,metronieuws.nl,nsmbl.nl,want.nl##.mha_container
 beurs.nl,beursduivel.be,beursgorilla.nl,buienalaram.nl,iex.nl,iexprofs.nl,propertynl.com,vnci.nl##.banner
+beursgorilla.nl,iex.nl,tostrams.nl##.publisher-sh-spot
 bitcoinmagazine.nl##.clickout-relative
 boerderij.nl###top_desktop_wrapper
 boerderij.nl##div[class*="max-ad_"]
@@ -50,7 +51,6 @@ hoekschnieuws.nl##body > center:has(img)
 hoimedia.com##.advert
 ibestuur.nl##.c-ad-slot
 id.nl##div[id^="artikel/"]:upward(.lazyload-wrapper)
-iex.nl,tostrams.nl##.publisher-sh-spot
 iex.nl##.js-banner
 iex.nl##.network:has-text(Gesponsorde links)
 iex.nl##.sidebar > .block:has(p.text-promo)
@@ -873,7 +873,6 @@ belegger.nl##.Textads:upward(.ContentRightBlock)
 participaties.nl##[id^="div-gpt-ad"]:upward(.taggrid__item)
 beleggersbelangen.nl##.promo
 belegger.nl##.plusbtn
-beursgorilla.nl##.plus500
 autoreview.nl##.autowereld_ros_bravo_leaderboard-billboard
 autozine.nl##.ad300x1050
 aavisie.nl##[id^="loaBlock"]:has-text(Advertentie)
@@ -1340,8 +1339,6 @@ computable.be##.true-logo
 fok.nl##.trueTop
 buzzbie.nl##.TS_Banner_Spot
 buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
-beursgorilla.nl##.ut--billboard
-beursgorilla.nl##.ut--rectangle
 intikkertje.nl##.vc_cta3-container
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
 mo.be##.view-id-banners_top
@@ -1442,6 +1439,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
