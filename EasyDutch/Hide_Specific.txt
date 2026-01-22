@@ -10,6 +10,7 @@ boerderij.nl###top_desktop_wrapper
 boerderij.nl##div[class*="max-ad_"]
 bol.com##[data-bltgi*="ProductList_"]:has-text(Gesponsord)
 bol.com##div[data-bltgg$="considerationDisplay"]
+cryptobenelux.com,welingelichtekringen.nl##.raw-html-component:has(.ms-container)
 dartfreakz.nl,puna.nl,showblad.nl##div[class^="r89-desktop"]:upward(.raw-html-component)
 dartfreakz.nl##.r89-outstream-video:upward(.raw-html-component)
 dartfreakz.nl,vechtsportinfo.nl##.sda
@@ -54,7 +55,6 @@ tostrams.nl##[class*="banner"]
 tostrams.nl##[id*="banner"]
 viraal.nl,wielrennenuptodate.nl##.raw-html-component
 voetbalkrant.com###ad-intro-text
-welingelichtekringen.nl##.raw-html-component:has(.ms-container)
 whiskymonkeys.com##div[class^="r89-mobile"]:upward(.raw-html-component)
 wordfeudhelp.nl##.advertentie
 wos.nl##.widget:has(img[src*="b-cdn.net"][src$=".gif"]):has-text(/Advertentie/i)
@@ -382,8 +382,6 @@ serietotaal.nl##div[id^="ad"]
 serietotaal.nl##.rect-in-headlines
 ! 2023-10-17
 cryptobenelux.com##.clickout-banner-regular_native_box
-cryptobenelux.com##a[href*="banner"] > img:upward(.elementor-widget-image)
-cryptobenelux.com##iframe[src*="Bitcoin_Kopen"]:upward(.elementor-widget[data-element_type="widget"])
 moppen.nl##.banner
 ! 2023-10-16
 omroepalmere.nl##aside.widget_block[id^="block"]:not(:has([href*="omroepalmere.nl"])):not(:has-text(/Informatie/i))
@@ -1395,6 +1393,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
