@@ -78,6 +78,7 @@ scientias.nl##.ndm-desktop-only
 !#endif
 scientias.nl##div.widget:has(* > div[id^="scientias.nl_ros"])
 showblad.nl,upinthesky.nl##.r89-video-outstream
+soccernews.nl###r89-takeover
 spellingoefenen.nl##div[class^="r89-desktop"]:upward(1)
 techzine.nl##.chimney
 topgear.nl##.Pnvp__ad
@@ -1092,7 +1093,6 @@ autoreview.nl###parentgpt
 eredivisie.nl###partner-bar
 elfvoetbal.nl###partners
 forum.scholieren.com###posts .thead:has-text(Advert)
-soccernews.nl###r89-takeover
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl###right-sidebar > :has(.mb-3:has-text(Advert))
 112achterhoek-nieuws.nl###sidebar
@@ -1415,6 +1415,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
