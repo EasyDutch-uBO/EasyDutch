@@ -82,6 +82,7 @@ revive.nl##div[id^="reviv-"]:not(:has(a[href*="revive.nl"])):not(:has(iframe[src
 revive.nl##.textwidget:has(iframe[src*="jobfish.nl/widget"])
 rkvvo.nl##.divFooterBanner
 rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-posts)):not(:has-text(/Meest gelezen artikel/i))
+rtvmiddenholland.nl##.morenews-widget:has(div[id^="rtvmi-"])
 rtvmiddenholland.nl##.unslider-horizontal
 schuttevaer.nl##.partners
 schuttevaer.nl##.widget_minisites
@@ -1431,6 +1432,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
