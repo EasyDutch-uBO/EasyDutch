@@ -54,6 +54,9 @@ monitor.iex.nl##.leaderboard-down
 moviemeter.nl##.footer-artikelen:has-text(/Partners/i)
 moviemeter.nl##.leaderboard-bar
 moviemeter.nl##div[id^="moviemeter_ros_"][id$="rectangle-halfpage"]
+nbs-bouwmaterialen.nl##div[data-testid="mesh-container-content"]:not(:has(a[href*="linkedin.com"])) a[data-testid="linkElement"][target="_blank"]:has(img)
+nbs-bouwmaterialen.nl##div[data-testid="mesh-container-content"]:not(:has(a[href*="linkedin.com"])) a[data-testid="linkElement"][target="_blank"]:has(svg)
+nbs-bouwmaterialen.nl##div[id^="comp"][class$="SPY_vo"]:has-text(/premium deelnemers/i)
 nd.nl##.banner__head
 nd.nl##.page-header__ad
 newsbit.nl##.acf-block-cta-conversion-rating
@@ -1418,6 +1421,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
