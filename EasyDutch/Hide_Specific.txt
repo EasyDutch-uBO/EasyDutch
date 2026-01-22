@@ -94,6 +94,7 @@ weer.nl##div[data-advert-placeholder-collapses]:upward(div[class*="my-"])
 whiskymonkeys.com##div[class^="r89-mobile"]:upward(.raw-html-component)
 wordfeudhelp.nl##.advertentie
 wos.nl##.widget:has(img[src*="b-cdn.net"][src$=".gif"]):has-text(/Advertentie/i)
+zelfmaak-ideetjes.nl##section[id^="sticky_ad_widget"]
 ! 2026-01-18
 9292.nl##[data-testid="ad-root"]
 afkortingen.nu##.banner_container
@@ -1414,6 +1415,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
