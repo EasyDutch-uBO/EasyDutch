@@ -4,7 +4,7 @@
 !
 ! 2026-01-22
 /img/banners/*.gif$image,1p,domain=fcutrecht.net
-/wp-content/*banner$image,domain=ajaxinside.nl
+/wp-content/*banner$image,domain=ajaxinside.nl|hoimedia.com
 /wp-content/uploads/*.gif$image,domain=crimesite.nl|sliedrecht24.nl
 ||*.b-cdn.net/*-390x280.gif$domain=wos.nl
 ||24cars.nl/api/advertise-deliver/
@@ -526,3 +526,4 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
+
