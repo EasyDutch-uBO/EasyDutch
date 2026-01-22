@@ -12,6 +12,7 @@ flair.nl,libelle.nl##[class$="advertisement"]
 flair.nl,libelle.nl##div[class$="adblock"]:has( > div[class$="advertisement"])
 nd.nl##.banner__head
 nd.nl##.page-header__ad
+welingelichtekringen.nl##.raw-html-component:has(.ms-container)
 wordfeudhelp.nl##.advertentie
 ! 2026-01-18
 9292.nl##[data-testid="ad-root"]
@@ -1383,6 +1384,7 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
 iex.nl##section:has-text(advertentie)
+
 
 
 
