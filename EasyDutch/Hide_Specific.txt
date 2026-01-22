@@ -4,6 +4,7 @@
 !
 ! 2026-01-22
 ajaxshowtime.com,axed.nl,gpinfo.com,headliner.nl,klusidee.nl,lovereality.nl,meemetoranje.nl,nieuws365.be,showblad.nl,twenteinside.nl,viraal.nl,voetbal14.nl,wielernieuws.be,whiskymonkeys.com##div[class^="r89-desktop"]
+autovisie.nl,culy.nl,jmouders.nl,manners.nl,metronieuws.nl,nsmbl.nl,want.nl##.mha_container
 bitcoinmagazine.nl##.clickout-relative
 boerderij.nl###top_desktop_wrapper
 boerderij.nl##div[class*="max-ad_"]
@@ -143,7 +144,6 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite:upward(.raw-html-component)
 meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"])):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
-metronieuws.nl##.mha_container
 mobiliteit.nl##.widget_nlpartners
 motorblog.nl##.sale
 motorrijder.be##div[id^="bannerhome"]:not(:has(a[href*="motorrijder.be/"]))
@@ -166,7 +166,6 @@ techpulse.be##.magazine-sidebar-block
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
 voetbal4u.com##.widget_text:has(h2):has-text(/crypto/i)
 voetbalverslaafd.nl##div[class*="r89-mobile"]:upward(1)
-want.nl##.mha_container
 wfm.be##.wpb_wrapper:has(.slick-slider .qt-sponsor)
 wijchensnieuws.nl##.js-banner-slider
 wijchensnieuws.nl##.text-left:has-text(/advert/i)
@@ -1397,6 +1396,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
