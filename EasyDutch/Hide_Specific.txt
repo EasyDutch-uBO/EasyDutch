@@ -409,7 +409,6 @@ bright.nl,voetbalprimeur.nl##[class^="Ad_"]
 bright.nl,voetbalprimeur.nl##.ad
 ! 2023-10-31
 beurs.nl##.addslot
-beurs.nl##.wrapper--topbanner
 cvandaag.nl##a[href^="https://cvandaag.nl/api/advertise-deliver/click/"]:upward(app-article-presentation)
 cvandaag.nl##div.sponsored:has-text(Gerelateerd)
 footballtransfers.com##div[id*="leaderboard-billboard"]
@@ -1443,6 +1442,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
