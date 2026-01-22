@@ -9,6 +9,7 @@ ajaxfanzone.nl##.widget_text:has-text(/Advertenties/i) + .widget_text:has(iframe
 ajaxinside.nl###bettingpartners
 ajaxshowtime.com,axed.nl,gpinfo.com,headliner.nl,klusidee.nl,lovereality.nl,meemetoranje.nl,nieuws365.be,showblad.nl,twenteinside.nl,viraal.nl,voetbal14.nl,wielernieuws.be,whiskymonkeys.com##div[class^="r89-desktop"]
 autovisie.nl,culy.nl,jmouders.nl,manners.nl,metronieuws.nl,nsmbl.nl,want.nl##.mha_container
+beursduivel.be,buienalaram.nl,iex.nl,iexprofs.nl,propertynl.com##.banner
 bitcoinmagazine.nl##.clickout-relative
 boerderij.nl###top_desktop_wrapper
 boerderij.nl##div[class*="max-ad_"]
@@ -39,7 +40,6 @@ hoekschnieuws.nl##body > center:has(img)
 ibestuur.nl##.c-ad-slot
 id.nl##div[id^="artikel/"]:upward(.lazyload-wrapper)
 iex.nl,tostrams.nl##.publisher-sh-spot
-iex.nl##.banner
 iex.nl##.js-banner
 iex.nl##.network:has-text(Gesponsorde links)
 iex.nl##.sidebar > .block:has(p.text-promo)
@@ -142,7 +142,6 @@ autoweek.nl##div[class^="adslot"]
 babybytes.nl##.ad-container
 banden.autoweek.nl###leaderboard
 banden.autoweek.nl,pepper.com,vi.nl##.ad
-beursduivel.be,buienalaram.nl,iexprofs.nl##.banner
 bnr.nl##.bnr-message
 boek9.nl##div[id*="block-advertisements"]
 ciaotutti.nl##div[class$="widget_advert"]:not(:has(a[href*="ciaotutti.nl"])):not(:has(a[href*="eepurl"])):not(:has(a[href*="facebook.com"])):not(:has(a[href*="instagram.com"])):not(:has(a[href*=".app/share/ciaotutti"]))
