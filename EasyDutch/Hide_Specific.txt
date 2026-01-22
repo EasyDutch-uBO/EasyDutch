@@ -34,6 +34,8 @@ guruwatch.nl##.LargeRectangle
 guruwatch.nl##.publisher-sh-spot1
 gva.be,hbvl.be,nieuwsblad.be,standaard.be##div[id^="ad_inline"]
 gva.be,hbvl.be,nieuwsblad.be,standaard.be##section[data-theme-sponsored-content]:has-text(/onze partners/i)
+hoekschnieuws.nl##.rb-section.widget:has-text(/Advertentie/i)
+hoekschnieuws.nl##body > center:has(img)
 ibestuur.nl##.c-ad-slot
 id.nl##div[id^="artikel/"]:upward(.lazyload-wrapper)
 iex.nl,tostrams.nl##.publisher-sh-spot
@@ -323,10 +325,7 @@ goudengids.be##.banner-boxes-holder
 abcsuriname.com##.banner_wrapper
 dwtonline.com##[id^="div-gpt-ad"]:upward(.elementor-column):not(:has(article))
 fwd.nl##[class^="advertisement"]
-hoekschnieuws.nl##body > center:has(img)
 hoekschnieuws.nl##body > center:has(img) + br
-hoekschnieuws.nl##.widget-heading:has-text(Advert)
-hoekschnieuws.nl##.widget-heading:has-text(Advert) + .textwidget
 hoekschnieuws.nl##.g
 ! 2023-11-08
 mannenzaken.nl##.axd-container.axd-widget
@@ -1403,6 +1402,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
