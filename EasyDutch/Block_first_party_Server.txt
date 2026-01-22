@@ -2,8 +2,9 @@
 ! Description: Filters for blocking first-party servers on Dutch websites
 ! Last updated: %timestamp%
 !
-! 2026-01-18
+! 2026-01-22
 ||creatives-promo.telegraaf.nl^
+||preroll.omroepvenlo.nl^
 ! 2026-01-18 https://github.com/AdguardTeam/AdguardFilters/commit/d7690d1e07746b72e9d414ac245de762f5dcb4f1
 ||kjdsfjisdfjr23.azurewebsites.net^
 ! 2026-01-17
