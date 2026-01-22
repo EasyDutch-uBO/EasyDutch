@@ -12,6 +12,7 @@
 ||cdn.nieuwdezeweek.nl/ads/
 ||flexwebhosting.nl/banners/$third-party
 ||rallylovers.be/img/betalend/*.gif
+||static.wixstatic.com/media/*banner$domain=nbs-bouwmaterialen.nl
 ||tvvisie.be/textads/textads.js
 ||viralize.tv/display/$domain=albrandswaardsdagblad.nl|barendrechtsdagblad.nl|dagblad010.nl|dagblad070.nl|goudsdagblad.nl|ridderkerksdagblad.nl|rijswijksdagblad.nl|sgxl.nl|startpagina.nl|voorburgsdagblad.nl|zoetermeersdagblad.nl
 ||voetbalassist.nl/*/Banner/*/Sponsors/$image,domain=rkvvo.nl
