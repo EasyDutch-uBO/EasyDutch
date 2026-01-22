@@ -7,6 +7,7 @@
 /wp-content/*banner$image,domain=ajaxinside.nl
 /wp-content/uploads/*.gif$image,domain=crimesite.nl|sliedrecht24.nl
 ||*.b-cdn.net/*-390x280.gif$domain=wos.nl
+||24cars.nl/api/advertise-deliver/
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 ||cdn.nieuwdezeweek.nl/ads/
 ||rallylovers.be/img/betalend/*.gif
