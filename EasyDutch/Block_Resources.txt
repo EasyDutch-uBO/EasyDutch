@@ -4,6 +4,7 @@
 !
 ! 2026-01-22
 /img/banners/*.gif$image,1p,domain=fcutrecht.net
+/wp-content/*banner$image,domain=ajaxinside.nl
 ||*.b-cdn.net/*-390x280.gif$domain=wos.nl
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 ||cdn.nieuwdezeweek.nl/ads/
