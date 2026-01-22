@@ -10,6 +10,7 @@
 ||24cars.nl/api/advertise-deliver/
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 ||cdn.nieuwdezeweek.nl/ads/
+||flexwebhosting.nl/banners/$third-party
 ||rallylovers.be/img/betalend/*.gif
 ||tvvisie.be/textads/textads.js
 ||viralize.tv/display/$domain=albrandswaardsdagblad.nl|barendrechtsdagblad.nl|dagblad010.nl|dagblad070.nl|goudsdagblad.nl|ridderkerksdagblad.nl|rijswijksdagblad.nl|sgxl.nl|startpagina.nl|voorburgsdagblad.nl|zoetermeersdagblad.nl
