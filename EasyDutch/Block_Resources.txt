@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2026-01-22
+/img/banners/*.gif$image,1p,domain=fcutrecht.net
 ||*.b-cdn.net/*-390x280.gif$domain=wos.nl
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 ||cdn.nieuwdezeweek.nl/ads/
@@ -517,4 +518,5 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
+
 
