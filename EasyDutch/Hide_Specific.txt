@@ -74,6 +74,7 @@ nieuwnieuws.nl##.uk-text-center[style]:has(div[id*="billboardskin"]):has(div[id*
 onderwijsnieuwsdienst.nl###topAdvertisement
 onderwijsnieuwsdienst.nl##.bottomSpace
 onderwijsnieuwsdienst.nl##.extraInfo > span[style]:has-text(/Advertentie/i)
+omroeptholen.nl,rtvalbrandswaard.com##.widget_media_image:has-text(/Advertentie/i)
 psvinside.nl##.raw-html-component:has(img[src*="banner"]):has(div[class*="ad"])
 psvinside.nl##.raw-html-component:has(script[src*="/adserver"])
 propertynl.com##.box_header:has-text(Advertenties)
@@ -81,6 +82,8 @@ rallylovers.be##.advertentierechts
 revive.nl##div[id^="reviv-"]:not(:has(a[href*="revive.nl"])):not(:has(iframe[src*="revive.nl"]))
 revive.nl##.textwidget:has(iframe[src*="jobfish.nl/widget"])
 rkvvo.nl##.divFooterBanner
+rtvalbrandswaard.com##.widget_media_video:has-text(/commerical/i)
+rtvalbrandswaard.com##section:has-text(/steun ons/i)
 rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-posts)):not(:has-text(/Meest gelezen artikel/i))
 rtvmiddenholland.nl##.morenews-widget:has(div[id^="rtvmi-"])
 rtvmiddenholland.nl##.unslider-horizontal
@@ -1432,6 +1435,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
