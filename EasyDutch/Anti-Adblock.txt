@@ -62,15 +62,6 @@ aimsolutions.nl##+js(noeval-if, adsBlocked)
 ! https://github.com/uBlockOrigin/uAssets/issues/17627
 ! https://github.com/uBlockOrigin/uAssets/issues/16881
 ! https://github.com/AdguardTeam/AdguardFilters/commit/a36ebed2232a093a07686e27783d695286b368e6
-||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,domain=goplay.be
-goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doubleclick.net/ondemand)
-goplay.be##+js(json-prune, ads time_events_url)
-||goplay.be/js/sourcepoint/msg?v=
-@@||goplay.be^$ghide
-@@||doubleclick.net^$xhr,domain=goplay.be
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=goplay.be
-@@||sdk.privacy-center.org^$script,domain=goplay.be
-goplay.be##.theoplayer div > div > div > div[class][style^="left"][style*="width"][style$="px;"]
 ! 2023-04-27
 routenet.nl,trafficnet.nl##+js(set, canRunAds, true)
 ! 2022-11-14
@@ -118,4 +109,3 @@ nu.nl##+js(set, isAdBlockEnabled, false)
 ! 2021-04-27
 directwonen.nl#@#.adsbox
 girlscene.nl##+js(set, adblock, 0)
-
