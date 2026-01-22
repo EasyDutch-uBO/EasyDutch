@@ -10,6 +10,7 @@
 ||24cars.nl/api/advertise-deliver/
 ||aalsmeervandaag.nl/wp-content/uploads/*/adv
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
+||cdn-tmo.nl^*/banners/$image,domain=schiedam24.nl
 ||cdn.nieuwdezeweek.nl/ads/
 ||cms.mvmm.nl/dynimage/*banner$image,domain=meetingmagazine.nl
 ||flexwebhosting.nl/banners/$third-party
@@ -527,4 +528,3 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
-
