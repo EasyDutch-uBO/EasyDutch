@@ -47,6 +47,8 @@ nieuwdezeweek.nl##div[class$="main"] div[class*="ad"]
 onderwijsnieuwsdienst.nl###topAdvertisement
 onderwijsnieuwsdienst.nl##.bottomSpace
 onderwijsnieuwsdienst.nl##.extraInfo > span[style]:has-text(/Advertentie/i)
+psvinside.nl##.raw-html-component:has(img[src*="banner"]):has(div[class*="ad"])
+psvinside.nl##.raw-html-component:has(script[src*="/adserver"])
 rallylovers.be##.advertentierechts
 schuttevaer.nl##.partners
 schuttevaer.nl##.widget_minisites
@@ -1395,6 +1397,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
