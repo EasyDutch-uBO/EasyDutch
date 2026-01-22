@@ -14,6 +14,7 @@ ajaxinside.nl###bettingpartners
 ajaxshowtime.com,axed.nl,gpinfo.com,headliner.nl,klusidee.nl,lovereality.nl,meemetoranje.nl,nieuws365.be,showblad.nl,twenteinside.nl,viraal.nl,voetbal14.nl,wielernieuws.be,whiskymonkeys.com##div[class^="r89-desktop"]
 at5.nl##[class^="Advertisement_container"]
 at5.nl##div[class^="article_adWrapper"]
+automotive-online.nl##.advertistement
 autovisie.nl,culy.nl,jmouders.nl,manners.nl,metronieuws.nl,nsmbl.nl,want.nl##.mha_container
 beursduivel.be,buienalaram.nl,iex.nl,iexprofs.nl,propertynl.com##.banner
 bitcoinmagazine.nl##.clickout-relative
@@ -1439,6 +1440,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
