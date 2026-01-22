@@ -11,6 +11,7 @@
 ||aalsmeervandaag.nl/wp-content/uploads/*/adv
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 ||cdn.nieuwdezeweek.nl/ads/
+||cms.mvmm.nl/dynimage/*banner$image,domain=meetingmagazine.nl
 ||flexwebhosting.nl/banners/$third-party
 ||rallylovers.be/img/betalend/*.gif
 ||static.wixstatic.com/media/*banner$domain=nbs-bouwmaterialen.nl
@@ -526,4 +527,3 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
-
