@@ -48,6 +48,8 @@ onderwijsnieuwsdienst.nl###topAdvertisement
 onderwijsnieuwsdienst.nl##.bottomSpace
 onderwijsnieuwsdienst.nl##.extraInfo > span[style]:has-text(/Advertentie/i)
 rallylovers.be##.advertentierechts
+schuttevaer.nl##.partners
+schuttevaer.nl##.widget_minisites
 showblad.nl##.r89-video-outstream
 spellingoefenen.nl##div[class^="r89-desktop"]:upward(1)
 techzine.nl##.chimney
@@ -944,7 +946,6 @@ vlootschouw.nl##[id*="miw_widget"]:has(div[class]:has(a[href*="leverancier"]))
 vlootschouw.nl##[id*="miw_widget"] a[target$="blank"][href]:not(a[href*="mailto"])
 ! 2022-03-31
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
-schuttevaer.nl##.widget_minisites
 vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 ! 2022-03-29
 nu.nl##.banner
@@ -1393,6 +1394,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
