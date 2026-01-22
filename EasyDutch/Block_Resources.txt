@@ -3,6 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2026-01-22
+||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 ||cdn.nieuwdezeweek.nl/ads/
 ! 2026-01-18
 ||biernet.nl/site/plugins/bja_new/redirect.php
