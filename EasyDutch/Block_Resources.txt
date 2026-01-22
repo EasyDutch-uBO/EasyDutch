@@ -8,6 +8,7 @@
 /wp-content/uploads/*.gif$image,domain=crimesite.nl|sliedrecht24.nl
 ||*.b-cdn.net/*-390x280.gif$domain=wos.nl
 ||24cars.nl/api/advertise-deliver/
+||aalsmeervandaag.nl/wp-content/uploads/*/adv
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 ||cdn.nieuwdezeweek.nl/ads/
 ||flexwebhosting.nl/banners/$third-party
