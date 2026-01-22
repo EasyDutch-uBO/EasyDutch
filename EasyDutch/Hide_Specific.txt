@@ -64,6 +64,8 @@ psvinside.nl##.raw-html-component:has(img[src*="banner"]):has(div[class*="ad"])
 psvinside.nl##.raw-html-component:has(script[src*="/adserver"])
 propertynl.com##.box_header:has-text(Advertenties)
 rallylovers.be##.advertentierechts
+revive.nl##div[id^="reviv-"]:not(:has(a[href*="revive.nl"])):not(:has(iframe[src*="revive.nl"]))
+revive.nl##.textwidget:has(iframe[src*="jobfish.nl/widget"])
 rkvvo.nl##.divFooterBanner
 schuttevaer.nl##.partners
 schuttevaer.nl##.widget_minisites
@@ -1410,6 +1412,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 leerzaam.com##p:has(.adsbygoogle)
 radio182.nl##section.elementor-element:has(h3:has-text(MOGELIJK GEMAAKT DOOR))
+
 
 
 
